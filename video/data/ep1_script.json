@@ -1,0 +1,329 @@
+[
+  {
+    "id": "intro",
+    "title": "Intro",
+    "globalStart": 0,
+    "duration": 1421,
+    "subSlides": [
+      {
+        "type": "intro",
+        "start": 0,
+        "duration": 1421,
+        "audioSrc": "audio/intro_narration.wav"
+      }
+    ],
+    "episode": 1,
+    "episodeMeta": {
+      "title": "The Great Depression",
+      "subtitle": "1929–1939"
+    }
+  },
+  {
+    "id": "ep1_event",
+    "title": "Episode 1 · Event",
+    "globalStart": 1421,
+    "duration": 1912,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Episode 1 · Event"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep1_event_0",
+        "audio_exists": true,
+        "text": "On the morning of October 29, 1929, Charles Mitchell, chairman of National City Bank, watched the ticker tape fall two hours behind. The numbers scrolling past represented the accumulated savings of millions of Americans being destroyed in real time.",
+        "duration": 480,
+        "bgImage": "bg_abstract.jpg",
+        "wordTimings": null,
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep1_event_1",
+        "audio_exists": true,
+        "text": "The crash was not the cause of the Great Depression. It was the signal flare that revealed what had already gone wrong. Credit had expanded beyond any productive use. Speculators were buying stocks on ninety percent margin.",
+        "duration": 387,
+        "bgImage": "bg_demographics.jpg",
+        "wordTimings": null,
+        "start": 570
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep1_event_2",
+        "audio_exists": true,
+        "text": "When prices fell, margin calls forced selling, which forced more margin calls. The spiral had no floor. What followed was not a recession. It was a structural collapse. Over the next three years, nine thousand banks failed.",
+        "duration": 397,
+        "bgImage": "bg_demographics.jpg",
+        "wordTimings": null,
+        "start": 957
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep1_event_3",
+        "audio_exists": true,
+        "text": "Twenty-seven percent of all prices fell. Industrial production dropped by half. By 1933, one in four Americans who wanted work could not find it.",
+        "duration": 296,
+        "bgImage": "bg_toxicology.jpg",
+        "wordTimings": null,
+        "start": 1354
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep1_event_4",
+        "audio_exists": true,
+        "text": "The unemployment rate peaked at twenty-five percent — a number so extreme that no economic model of the era had a mechanism to explain it.",
+        "duration": 262,
+        "bgImage": "bg_abstract.jpg",
+        "wordTimings": null,
+        "start": 1650
+      }
+    ]
+  },
+  {
+    "id": "ep1_problems",
+    "title": "Episode 1 · Problems",
+    "globalStart": 3333,
+    "duration": 2377,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Episode 1 · Problems"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep1_problems_0",
+        "audio_exists": true,
+        "text": "The Great Depression revealed four interlocking failures that no single policy lever could address simultaneously. First, the banking system collapsed. Nine thousand bank failures between 1930 and 1933 destroyed seven billion dollars in deposits.",
+        "duration": 468,
+        "bgImage": "bg_toxicology.jpg",
+        "wordTimings": null,
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep1_problems_1",
+        "audio_exists": true,
+        "text": "Bank failures were contagious — when one bank failed, depositors at other banks panicked and withdrew their savings, forcing more closures. Second, deflation created a debt trap.",
+        "duration": 321,
+        "bgImage": "bg_lab.jpg",
+        "wordTimings": null,
+        "start": 558
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep1_problems_2",
+        "audio_exists": true,
+        "text": "With prices falling twenty-seven percent cumulatively, the real value of debts rose even as incomes fell. Farmers, businesses, and households could not service loans denominated in dollars that were becoming more valuable every month.",
+        "duration": 426,
+        "bgImage": "bg_lifestyle.jpg",
+        "wordTimings": null,
+        "start": 879
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep1_problems_3",
+        "audio_exists": true,
+        "text": "Third, the gold standard transmitted the crisis globally. Countries on gold could not expand their money supplies to fight deflation without risking a run on their reserves.",
+        "duration": 309,
+        "bgImage": "bg_lab.jpg",
+        "wordTimings": null,
+        "start": 1305
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep1_problems_4",
+        "audio_exists": true,
+        "text": "The mechanism designed to ensure monetary stability became the mechanism of monetary destruction. Hoover tried voluntarism — asking businesses not to cut wages. He then raised taxes in 1932 to balance the budget, contracting demand further.",
+        "duration": 489,
+        "bgImage": "bg_abstract.jpg",
+        "wordTimings": null,
+        "start": 1614
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep1_problems_5",
+        "audio_exists": true,
+        "text": "Britain left the gold standard in 1931 and began recovering almost immediately. The evidence was available. The lesson was not acted on.",
+        "duration": 274,
+        "bgImage": "bg_lifestyle.jpg",
+        "wordTimings": null,
+        "start": 2103
+      }
+    ]
+  },
+  {
+    "id": "ep1_solutions",
+    "title": "Episode 1 · Solutions",
+    "globalStart": 5710,
+    "duration": 3147,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Episode 1 · Solutions"
+      },
+      {
+        "type": "chart",
+        "start": 90,
+        "duration": 732,
+        "chartSrc": "complexity_index.png",
+        "title": "Economic Complexity Index vs Long-Run Growth",
+        "audioSrc": "audio/charts/chart_complexity_index.wav"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep1_solutions_0",
+        "audio_exists": true,
+        "text": "On March 4, 1933, Franklin Roosevelt declared a national bank holiday. Every bank in the United States closed. The Emergency Banking Act passed Congress in a single day — the House voted on a bill no member had yet read.",
+        "duration": 423,
+        "bgImage": "bg_lab.jpg",
+        "wordTimings": null,
+        "start": 822
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep1_solutions_1",
+        "audio_exists": true,
+        "text": "Within seventy-two hours, the Federal Reserve began certifying healthy banks for reopening. The interventions that followed were comprehensive. The Glass-Steagall Act separated commercial from investment banking.",
+        "duration": 384,
+        "bgImage": "bg_lab.jpg",
+        "wordTimings": null,
+        "start": 1245
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep1_solutions_2",
+        "audio_exists": true,
+        "text": "The Federal Deposit Insurance Corporation guaranteed deposits up to twenty-five hundred dollars, ending the logic of bank runs. The Securities and Exchange Commission introduced mandatory disclosure requirements.",
+        "duration": 386,
+        "bgImage": "bg_abstract.jpg",
+        "wordTimings": null,
+        "start": 1629
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep1_solutions_3",
+        "audio_exists": true,
+        "text": "And in January 1934, Roosevelt devalued the dollar by forty-one percent against gold — ending the deflationary constraint in a single executive order.",
+        "duration": 316,
+        "bgImage": "bg_lifestyle.jpg",
+        "wordTimings": null,
+        "start": 2015
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep1_solutions_4",
+        "audio_exists": true,
+        "text": "What made these solutions work was not any single measure but the combination: restoring confidence in the banking system, removing the gold constraint, providing direct relief to unemployed workers, and creating institutional frameworks that made future crises less likely.",
+        "duration": 483,
+        "bgImage": "bg_abstract.jpg",
+        "wordTimings": null,
+        "start": 2331
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep1_solutions_5",
+        "audio_exists": true,
+        "text": "The New Deal did not end the Depression — that required the spending of World War Two — but it prevented total collapse and built the architecture that stabilised the economy for decades.",
+        "duration": 333,
+        "bgImage": "bg_toxicology.jpg",
+        "wordTimings": null,
+        "start": 2814
+      }
+    ]
+  },
+  {
+    "id": "ep1_results",
+    "title": "Episode 1 · Results",
+    "globalStart": 8857,
+    "duration": 2416,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Episode 1 · Results"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep1_results_0",
+        "audio_exists": true,
+        "text": "The results of the Great Depression response were deeply contradictory — as they would be for every crisis in this series. On the positive side: the Federal Deposit Insurance Corporation ended bank runs as a feature of American economic life.",
+        "duration": 435,
+        "bgImage": "bg_abstract.jpg",
+        "wordTimings": null,
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep1_results_1",
+        "audio_exists": true,
+        "text": "The Securities and Exchange Commission created a regulated capital market. Social Security introduced an automatic stabiliser that would cushion every subsequent recession.",
+        "duration": 321,
+        "bgImage": "bg_abstract.jpg",
+        "wordTimings": null,
+        "start": 525
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep1_results_2",
+        "audio_exists": true,
+        "text": "And the Keynesian framework — the idea that governments could and should spend to offset private sector collapse — became the dominant policy paradigm for the next forty years. On the negative side: the human cost was catastrophic and permanent.",
+        "duration": 424,
+        "bgImage": "bg_lifestyle.jpg",
+        "wordTimings": null,
+        "start": 846
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep1_results_3",
+        "audio_exists": true,
+        "text": "Historians estimate between five hundred thousand and one million excess deaths during the Depression decade. The Dust Bowl displaced two and a half million people.",
+        "duration": 301,
+        "bgImage": "bg_lifestyle.jpg",
+        "wordTimings": null,
+        "start": 1270
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep1_results_4",
+        "audio_exists": true,
+        "text": "The psychological scarring of the Depression generation shaped American savings behaviour and political preferences for the rest of the century. The lesson that was absorbed: banking systems need deposit insurance and regulatory oversight.",
+        "duration": 434,
+        "bgImage": "bg_lifestyle.jpg",
+        "wordTimings": null,
+        "start": 1571
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep1_results_5",
+        "audio_exists": true,
+        "text": "The lesson that was forgotten: the speed of the policy response matters as much as its eventual size. The two years of inaction between 1930 and 1932 turned a financial crisis into a civilisational trauma.",
+        "duration": 411,
+        "bgImage": "bg_demographics.jpg",
+        "wordTimings": null,
+        "start": 2005
+      }
+    ]
+  },
+  {
+    "id": "credits",
+    "title": "Credits",
+    "globalStart": 11273,
+    "duration": 1375,
+    "subSlides": [
+      {
+        "type": "credits",
+        "start": 0,
+        "duration": 1375,
+        "audioSrc": "audio/outro_narration.wav"
+      }
+    ]
+  }
+]

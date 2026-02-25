@@ -4,8 +4,12 @@
     "description": "Documentary video series for Economic Crises Explained",
     "scripts": {
         "start": "npx remotion preview src/index.ts",
-        "build": "npx remotion render src/index.ts EconomicsVideo out/EconomicCrises.mp4",
-        "render": "npx remotion render src/index.ts EconomicsVideo out/EconomicCrises.mp4"
+        "render:ep1": "node node_modules/@remotion/cli/remotion-cli.js render src/index.ts Episode1 out/Episode1-GreatDepression.mp4 --concurrency=4",
+        "render:ep2": "node node_modules/@remotion/cli/remotion-cli.js render src/index.ts Episode2 out/Episode2-Stagflation.mp4 --concurrency=4",
+        "render:ep3": "node node_modules/@remotion/cli/remotion-cli.js render src/index.ts Episode3 out/Episode3-AsianCrisis.mp4 --concurrency=4",
+        "render:ep4": "node node_modules/@remotion/cli/remotion-cli.js render src/index.ts Episode4 out/Episode4-GFC.mp4 --concurrency=4",
+        "render:ep5": "node node_modules/@remotion/cli/remotion-cli.js render src/index.ts Episode5 out/Episode5-COVID.mp4 --concurrency=4",
+        "render:ep6": "node node_modules/@remotion/cli/remotion-cli.js render src/index.ts Episode6 out/Episode6-GreatInflation.mp4 --concurrency=4"
     },
     "dependencies": {
         "@remotion/cli": "4.0.427",

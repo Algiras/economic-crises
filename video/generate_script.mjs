@@ -211,6 +211,45 @@ function main() {
 
     fs.writeFileSync(OUT_FILE, JSON.stringify(fullScript, null, 2));
     console.log(`Generated script.json (${(globalStartFrame / FPS / 60).toFixed(1)} mins total).`);
+
+    // ── Per-episode scripts ────────────────────────────────────────────────
+    const EPISODE_META = {
+        1: { title: 'The Great Depression', subtitle: '1929–1939' },
+        2: { title: 'The 1970s Stagflation', subtitle: '1973–1982' },
+        3: { title: 'The Asian Financial Crisis', subtitle: '1997–1998' },
+        4: { title: 'The Global Financial Crisis', subtitle: '2008–2012' },
+        5: { title: 'The COVID-19 Economic Shock', subtitle: '2020' },
+        6: { title: 'The Great Inflation', subtitle: '2021–2023' },
+    };
+
+    const introChunk = fullScript.find(s => s.id === 'intro');
+    const creditsChunk = fullScript.find(s => s.id === 'credits');
+
+    for (let ep = 1; ep <= 6; ep++) {
+        const epChapters = fullScript.filter(s => s.id.startsWith(`ep${ep}_`));
+        const epScript = [];
+        let epFrame = 0;
+
+        // Brief per-episode intro (reuse global intro audio)
+        const epIntroDuration = introChunk ? introChunk.duration : 5 * FPS;
+        epScript.push({ ...introChunk, globalStart: epFrame, duration: epIntroDuration, episode: ep, episodeMeta: EPISODE_META[ep] });
+        epFrame += epIntroDuration;
+
+        for (const chapter of epChapters) {
+            epScript.push({ ...chapter, globalStart: epFrame });
+            epFrame += chapter.duration;
+        }
+
+        epScript.push({ ...creditsChunk, globalStart: epFrame });
+        epFrame += creditsChunk.duration;
+
+        const epOutFile = path.join(process.cwd(), 'data', `ep${ep}_script.json`);
+        fs.writeFileSync(epOutFile, JSON.stringify(epScript, null, 2));
+
+        const mins = (epFrame / FPS / 60).toFixed(1);
+        console.log(`  ep${ep}_script.json — ${mins} min (${epFrame} frames)`);
+    }
+    console.log('Done.');
 }
 
 main();

@@ -1,0 +1,439 @@
+[
+  {
+    "id": "intro",
+    "title": "Intro",
+    "globalStart": 0,
+    "duration": 1421,
+    "subSlides": [
+      {
+        "type": "intro",
+        "start": 0,
+        "duration": 1421,
+        "audioSrc": "audio/intro_narration.wav"
+      }
+    ],
+    "episode": 6,
+    "episodeMeta": {
+      "title": "The Great Inflation",
+      "subtitle": "2021–2023"
+    }
+  },
+  {
+    "id": "ep6_event",
+    "title": "Episode 6 · Event",
+    "globalStart": 1421,
+    "duration": 3801,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Episode 6 · Event"
+      },
+      {
+        "type": "chart",
+        "start": 90,
+        "duration": 720,
+        "chartSrc": "inflation_target.png",
+        "title": "Inflation vs Central Bank Target (US, 2018–2023)",
+        "audioSrc": "audio/charts/chart_inflation_target.wav"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep6_event_0",
+        "audio_exists": true,
+        "text": "In January 2022, Sharon Kowalski, a retired Pittsburgh school administrator living on a fixed pension of twenty-eight hundred dollars a month, watched her weekly grocery bill rise from eighty-seven to one-hundred-and-twenty-four dollars.",
+        "duration": 420,
+        "bgImage": "bg_abstract.jpg",
+        "wordTimings": null,
+        "start": 810
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep6_event_1",
+        "audio_exists": true,
+        "text": "Eggs had gone from a dollar thirty-nine to three dollars and eighty-nine cents. She had not had a pay rise in three years. She would not get one. The Great Inflation of 2021 to 2023 returned after thirty years of near-absence.",
+        "duration": 430,
+        "bgImage": "bg_demographics.jpg",
+        "wordTimings": null,
+        "start": 1230
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep6_event_2",
+        "audio_exists": true,
+        "text": "American CPI reached nine-point-one percent in June 2022 — the highest reading since November 1981. Inflation in the United Kingdom hit eleven-point-one percent. The Eurozone reached ten-point-six percent. Four factors converged simultaneously.",
+        "duration": 503,
+        "bgImage": "bg_abstract.jpg",
+        "wordTimings": null,
+        "start": 1660
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep6_event_3",
+        "audio_exists": true,
+        "text": "First, excess savings accumulated during lockdowns — two-point-five trillion dollars across US households — were deployed into a reopening economy. Second, global supply chains, stressed by the pandemic, could not respond to this surge in demand.",
+        "duration": 464,
+        "bgImage": "bg_abstract.jpg",
+        "wordTimings": null,
+        "start": 2163
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep6_event_4",
+        "audio_exists": true,
+        "text": "Container shipping costs rose nine hundred percent. Semiconductor shortages rippled through automotive and electronics manufacturing. Third, Russia's invasion of Ukraine in February 2022 sent energy prices surging.",
+        "duration": 435,
+        "bgImage": "bg_demographics.jpg",
+        "wordTimings": null,
+        "start": 2627
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep6_event_5",
+        "audio_exists": true,
+        "text": "Brent crude rose from seventy-eight to one-hundred-and-twenty-eight dollars per barrel. Russian gas, which supplied forty percent of European heating, was weaponised.",
+        "duration": 297,
+        "bgImage": "bg_toxicology.jpg",
+        "wordTimings": null,
+        "start": 3062
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep6_event_6",
+        "audio_exists": true,
+        "text": "Fourth — and most consequentially for the policy response that followed — the Federal Reserve held interest rates at zero through the end of 2021. In May of that year, Chair Powell had used a single word to describe the inflation: transitory.",
+        "duration": 442,
+        "bgImage": "bg_demographics.jpg",
+        "wordTimings": null,
+        "start": 3359
+      }
+    ]
+  },
+  {
+    "id": "ep6_problems",
+    "title": "Episode 6 · Problems",
+    "globalStart": 5222,
+    "duration": 3469,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Episode 6 · Problems"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep6_problems_0",
+        "audio_exists": true,
+        "text": "The Great Inflation of 2021 to 2023 was not a single phenomenon. It was three or four overlapping inflation processes operating simultaneously — making it extraordinarily difficult to diagnose correctly and correspondingly difficult to treat.",
+        "duration": 479,
+        "bgImage": "bg_demographics.jpg",
+        "wordTimings": null,
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep6_problems_1",
+        "audio_exists": true,
+        "text": "Demand inflation from excess savings collided with supply inflation from disrupted production chains. Energy inflation from Russia's war compounded both.",
+        "duration": 306,
+        "bgImage": "bg_lab.jpg",
+        "wordTimings": null,
+        "start": 569
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep6_problems_2",
+        "audio_exists": true,
+        "text": "And monetary inflation — the consequence of holding rates at zero while injecting trillions in fiscal stimulus — was the medium in which all of it propagated. The Federal Reserve's two-year trajectory was striking.",
+        "duration": 383,
+        "bgImage": "bg_lifestyle.jpg",
+        "wordTimings": null,
+        "start": 875
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep6_problems_3",
+        "audio_exists": true,
+        "text": "In 2021, it maintained the position that inflation was transitory — a temporary consequence of supply chain disruptions that would resolve without requiring a monetary response. This assessment was wrong.",
+        "duration": 408,
+        "bgImage": "bg_lab.jpg",
+        "wordTimings": null,
+        "start": 1258
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep6_problems_4",
+        "audio_exists": true,
+        "text": "Its internal forecasting models, built during the low-inflation era, had no mechanism to capture the combined supply and demand dynamics of the post-pandemic environment.",
+        "duration": 321,
+        "bgImage": "bg_lifestyle.jpg",
+        "wordTimings": null,
+        "start": 1666
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep6_problems_5",
+        "audio_exists": true,
+        "text": "When the error became undeniable — inflation at nine-point-one percent, wages rising but not keeping pace, real incomes falling for twenty-four consecutive months — the Fed pivoted with equivalent force in the opposite direction.",
+        "duration": 430,
+        "bgImage": "bg_lab.jpg",
+        "wordTimings": null,
+        "start": 1987
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep6_problems_6",
+        "audio_exists": true,
+        "text": "Eleven rate hikes from March 2022 to July 2023. Four consecutive seventy-five basis point increases — the most aggressive tightening since the Volcker era.",
+        "duration": 345,
+        "bgImage": "bg_demographics.jpg",
+        "wordTimings": null,
+        "start": 2417
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep6_problems_7",
+        "audio_exists": true,
+        "text": "The instrument that had been held at zero to support the recovery became the source of the acute pain required to restore stability. For households like Sharon Kowalski's, the error and the correction were equally damaging.",
+        "duration": 384,
+        "bgImage": "bg_lab.jpg",
+        "wordTimings": null,
+        "start": 2762
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep6_problems_8",
+        "audio_exists": true,
+        "text": "The inflation eroded savings. The rate hikes increased mortgage costs and triggered the collapse of banks that had loaded up on long-duration bonds purchased when rates were zero.",
+        "duration": 323,
+        "bgImage": "bg_lifestyle.jpg",
+        "wordTimings": null,
+        "start": 3146
+      }
+    ]
+  },
+  {
+    "id": "ep6_solutions",
+    "title": "Episode 6 · Solutions",
+    "globalStart": 8691,
+    "duration": 3343,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Episode 6 · Solutions"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep6_solutions_0",
+        "audio_exists": true,
+        "text": "On August 26, 2022, Jerome Powell delivered a thirteen-hundred-word speech at the Federal Reserve's annual Jackson Hole symposium. The S&P 500 lost one-point-three trillion dollars in value that afternoon.",
+        "duration": 433,
+        "bgImage": "bg_toxicology.jpg",
+        "wordTimings": null,
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep6_solutions_1",
+        "audio_exists": true,
+        "text": "The key sentence read: 'Higher interest rates, slower growth, and softer labor market conditions will bring down inflation, they will also bring some pain to households and businesses.",
+        "duration": 328,
+        "bgImage": "bg_abstract.jpg",
+        "wordTimings": null,
+        "start": 523
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep6_solutions_2",
+        "audio_exists": true,
+        "text": "These are the unfortunate costs of reducing inflation.'\n\nPowrell explicitly invoked Volcker. The speech was a signal that the Fed understood the error of the previous eighteen months and intended to correct it, whatever the economic cost.",
+        "duration": 415,
+        "bgImage": "bg_lab.jpg",
+        "wordTimings": null,
+        "start": 851
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep6_solutions_3",
+        "audio_exists": true,
+        "text": "The rate cycle was the most aggressive in four decades. From twenty-five basis points in March 2022 to five-point-five percent in July 2023 — five-hundred-and-twenty-five basis points in sixteen months.",
+        "duration": 411,
+        "bgImage": "bg_demographics.jpg",
+        "wordTimings": null,
+        "start": 1266
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep6_solutions_4",
+        "audio_exists": true,
+        "text": "The Fed then held rates at that level through 2023 and into 2024, maintaining the pressure until inflation fell clearly and sustainably toward target. The European Central Bank raised rates from negative fifty basis points to four percent.",
+        "duration": 464,
+        "bgImage": "bg_lifestyle.jpg",
+        "wordTimings": null,
+        "start": 1677
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep6_solutions_5",
+        "audio_exists": true,
+        "text": "The Bank of England from ten basis points to five-point-two-five.",
+        "duration": 138,
+        "bgImage": "bg_abstract.jpg",
+        "wordTimings": null,
+        "start": 2141
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep6_solutions_6",
+        "audio_exists": true,
+        "text": "Central banks globally coordinated the most synchronised tightening cycle in history — with consequences for emerging market economies and highly indebted nations that played out over subsequent years.",
+        "duration": 365,
+        "bgImage": "bg_abstract.jpg",
+        "wordTimings": null,
+        "start": 2279
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep6_solutions_7",
+        "audio_exists": true,
+        "text": "In the United States, the outcome was exceptional by historical standards. Inflation fell from nine-point-one to two-point-four percent.",
+        "duration": 262,
+        "bgImage": "bg_demographics.jpg",
+        "wordTimings": null,
+        "start": 2644
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep6_solutions_8",
+        "audio_exists": true,
+        "text": "Unemployment peaked at four-point-three percent — well below the levels seen in any previous serious tightening cycle — and then fell again. GDP remained positive throughout. The soft landing that Volcker had never achieved appeared to have occurred.",
+        "duration": 437,
+        "bgImage": "bg_toxicology.jpg",
+        "wordTimings": null,
+        "start": 2906
+      }
+    ]
+  },
+  {
+    "id": "ep6_results",
+    "title": "Episode 6 · Results",
+    "globalStart": 12034,
+    "duration": 3333,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Episode 6 · Results"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep6_results_0",
+        "audio_exists": true,
+        "text": "Of the fourteen Federal Reserve tightening cycles since 1965, eleven produced recessions. The 2022 to 2024 cycle, the most aggressive in forty years, did not — or at least had not produced one by the time this series was completed.",
+        "duration": 477,
+        "bgImage": "bg_lab.jpg",
+        "wordTimings": null,
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep6_results_1",
+        "audio_exists": true,
+        "text": "The positive results were significant. US inflation fell from nine-point-one to two-point-four percent without the unemployment cost that previous tightening episodes had imposed.",
+        "duration": 333,
+        "bgImage": "bg_lifestyle.jpg",
+        "wordTimings": null,
+        "start": 567
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep6_results_2",
+        "audio_exists": true,
+        "text": "Inflation expectations remained anchored throughout — the critical difference from the 1970s, when expectations became self-fulfilling.",
+        "duration": 268,
+        "bgImage": "bg_abstract.jpg",
+        "wordTimings": null,
+        "start": 900
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep6_results_3",
+        "audio_exists": true,
+        "text": "The Inflation Reduction Act, passed in the middle of the inflation surge, accelerated the transition to domestic energy production and clean energy — a structural response to the energy vulnerability that the Ukraine shock had exposed.",
+        "duration": 416,
+        "bgImage": "bg_toxicology.jpg",
+        "wordTimings": null,
+        "start": 1168
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep6_results_4",
+        "audio_exists": true,
+        "text": "The negative results were distributed with characteristic unevenness. In the United Kingdom, real wages fell three-point-five percent in 2022 — the largest decline since the 1970s. Food bank parcels distributed in Britain rose thirty-seven percent.",
+        "duration": 485,
+        "bgImage": "bg_lifestyle.jpg",
+        "wordTimings": null,
+        "start": 1584
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep6_results_5",
+        "audio_exists": true,
+        "text": "Germany entered technical recession in 2023, its dependency on cheap Russian gas having proved to be a structural vulnerability that forty years of policy had failed to address.",
+        "duration": 342,
+        "bgImage": "bg_toxicology.jpg",
+        "wordTimings": null,
+        "start": 2069
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep6_results_6",
+        "audio_exists": true,
+        "text": "Globally, the tightening cycle pushed seventy million additional people toward acute food insecurity as dollar-denominated commodity prices rose and emerging market currencies fell against the rising dollar.",
+        "duration": 375,
+        "bgImage": "bg_lab.jpg",
+        "wordTimings": null,
+        "start": 2411
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep6_results_7",
+        "audio_exists": true,
+        "text": "The Silicon Valley Bank collapse in March 2023 — caused by exactly the interest rate risk that the stress tests were supposed to catch — was a reminder that crises do not wait for the previous one to be fully resolved.",
+        "duration": 405,
+        "bgImage": "bg_lifestyle.jpg",
+        "wordTimings": null,
+        "start": 2786
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep6_results_8",
+        "audio_exists": true,
+        "text": "They find the vulnerability that the last set of reforms did not address.",
+        "duration": 142,
+        "bgImage": "bg_lab.jpg",
+        "wordTimings": null,
+        "start": 3191
+      }
+    ]
+  },
+  {
+    "id": "credits",
+    "title": "Credits",
+    "globalStart": 15367,
+    "duration": 1375,
+    "subSlides": [
+      {
+        "type": "credits",
+        "start": 0,
+        "duration": 1375,
+        "audioSrc": "audio/outro_narration.wav"
+      }
+    ]
+  }
+]

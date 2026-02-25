@@ -1,0 +1,381 @@
+[
+  {
+    "id": "intro",
+    "title": "Intro",
+    "globalStart": 0,
+    "duration": 1421,
+    "subSlides": [
+      {
+        "type": "intro",
+        "start": 0,
+        "duration": 1421,
+        "audioSrc": "audio/intro_narration.wav"
+      }
+    ],
+    "episode": 3,
+    "episodeMeta": {
+      "title": "The Asian Financial Crisis",
+      "subtitle": "1997–1998"
+    }
+  },
+  {
+    "id": "ep3_event",
+    "title": "Episode 3 · Event",
+    "globalStart": 1421,
+    "duration": 2672,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Episode 3 · Event"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep3_event_0",
+        "audio_exists": true,
+        "text": "On July 2, 1997, Thailand abandoned its currency peg to the US dollar. The baht fell fifteen percent in a single day and would eventually lose forty percent of its value.",
+        "duration": 345,
+        "bgImage": "bg_abstract.jpg",
+        "wordTimings": null,
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep3_event_1",
+        "audio_exists": true,
+        "text": "What happened next was not predicted by any major financial institution, economic model, or government — including the governments of the countries about to be devastated.",
+        "duration": 316,
+        "bgImage": "bg_demographics.jpg",
+        "wordTimings": null,
+        "start": 435
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep3_event_2",
+        "audio_exists": true,
+        "text": "For more than a decade, Southeast Asia had been the economic success story of the era. Thailand averaged nine percent growth from 1985 to 1995. Malaysia, Indonesia, the Philippines — all posting similar numbers. Foreign capital poured in.",
+        "duration": 488,
+        "bgImage": "bg_abstract.jpg",
+        "wordTimings": null,
+        "start": 751
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep3_event_3",
+        "audio_exists": true,
+        "text": "Ninety-three billion dollars in private capital flows reached Asia in 1996 alone. The vulnerabilities were hidden beneath the growth figures.",
+        "duration": 282,
+        "bgImage": "bg_toxicology.jpg",
+        "wordTimings": null,
+        "start": 1239
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep3_event_4",
+        "audio_exists": true,
+        "text": "Banks were borrowing short-term in dollars and lending long-term in local currencies — a double mismatch of maturity and denomination. Property markets were overextended. Corporate debt-to-equity ratios were unsustainable.",
+        "duration": 417,
+        "bgImage": "bg_abstract.jpg",
+        "wordTimings": null,
+        "start": 1521
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep3_event_5",
+        "audio_exists": true,
+        "text": "And all of it was held together by currency pegs that, once speculators identified them as unsustainable, could not be defended. The crisis spread with the speed of financial markets. Thailand to the Philippines. The Philippines to Malaysia.",
+        "duration": 418,
+        "bgImage": "bg_lifestyle.jpg",
+        "wordTimings": null,
+        "start": 1938
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep3_event_6",
+        "audio_exists": true,
+        "text": "Malaysia to Indonesia. Indonesia to South Korea. Within six months, economies that had been models of development were negotiating emergency rescue packages.",
+        "duration": 316,
+        "bgImage": "bg_toxicology.jpg",
+        "wordTimings": null,
+        "start": 2356
+      }
+    ]
+  },
+  {
+    "id": "ep3_problems",
+    "title": "Episode 3 · Problems",
+    "globalStart": 4093,
+    "duration": 2828,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Episode 3 · Problems"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep3_problems_0",
+        "audio_exists": true,
+        "text": "The Asian Financial Crisis exposed structural vulnerabilities that capital account liberalisation had concealed rather than resolved. The fundamental problem was a currency mismatch.",
+        "duration": 350,
+        "bgImage": "bg_abstract.jpg",
+        "wordTimings": null,
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep3_problems_1",
+        "audio_exists": true,
+        "text": "Banks and corporations throughout the region had borrowed in dollars at low international interest rates and invested in local-currency assets at higher returns. This was profitable while currency pegs held.",
+        "duration": 375,
+        "bgImage": "bg_abstract.jpg",
+        "wordTimings": null,
+        "start": 440
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep3_problems_2",
+        "audio_exists": true,
+        "text": "When the pegs broke, dollar debts denominated in now-depreciated local currencies became immediately unserviceable. A fifty-percent currency depreciation doubled the local-currency cost of dollar debts overnight.",
+        "duration": 404,
+        "bgImage": "bg_abstract.jpg",
+        "wordTimings": null,
+        "start": 815
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep3_problems_3",
+        "audio_exists": true,
+        "text": "The IMF's initial response — fiscal tightening, high interest rates, rapid bank closures — proved to be the wrong prescription for this type of crisis. Raising interest rates to defend currencies worsened the corporate debt burden.",
+        "duration": 408,
+        "bgImage": "bg_lab.jpg",
+        "wordTimings": null,
+        "start": 1219
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep3_problems_4",
+        "audio_exists": true,
+        "text": "Closing banks created panic rather than restoring confidence. Cutting government spending in the middle of a demand collapse deepened recessions that the Fund had not predicted. Malaysia took a different path.",
+        "duration": 362,
+        "bgImage": "bg_demographics.jpg",
+        "wordTimings": null,
+        "start": 1627
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep3_problems_5",
+        "audio_exists": true,
+        "text": "Prime Minister Mahathir imposed capital controls in September 1998 — restricting the convertibility of the ringgit and preventing foreigners from repatriating capital for twelve months. The IMF condemned the decision.",
+        "duration": 410,
+        "bgImage": "bg_lifestyle.jpg",
+        "wordTimings": null,
+        "start": 1989
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep3_problems_6",
+        "audio_exists": true,
+        "text": "The markets punished Malaysia initially. But Malaysia avoided the deepest phase of recession that hit Thailand, Indonesia, and South Korea under IMF programs. The evidence was ambiguous, but the alternative had been demonstrated.",
+        "duration": 429,
+        "bgImage": "bg_lab.jpg",
+        "wordTimings": null,
+        "start": 2399
+      }
+    ]
+  },
+  {
+    "id": "ep3_solutions",
+    "title": "Episode 3 · Solutions",
+    "globalStart": 6921,
+    "duration": 2693,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Episode 3 · Solutions"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep3_solutions_0",
+        "audio_exists": true,
+        "text": "On December 3, 1997, South Korea signed its letter of intent with the IMF. Usable foreign reserves stood at seven-point-three billion dollars against sixty billion in short-term foreign debt coming due within weeks.",
+        "duration": 421,
+        "bgImage": "bg_abstract.jpg",
+        "wordTimings": null,
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep3_solutions_1",
+        "audio_exists": true,
+        "text": "Without the fifty-seven billion dollar rescue package — the largest in IMF history to that point — the country faced sovereign default. The rescue bought time. What South Korea did with that time was exceptional.",
+        "duration": 386,
+        "bgImage": "bg_demographics.jpg",
+        "wordTimings": null,
+        "start": 511
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep3_solutions_2",
+        "audio_exists": true,
+        "text": "The government negotiated a maturity extension with foreign creditors — converting short-term debt to longer-term obligations. It recapitalised the banking system at a public cost of approximately thirty percent of GDP.",
+        "duration": 408,
+        "bgImage": "bg_lifestyle.jpg",
+        "wordTimings": null,
+        "start": 897
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep3_solutions_3",
+        "audio_exists": true,
+        "text": "It forced through structural reform of the chaebol conglomerates — the giant family-owned industrial groups whose debt-to-equity ratios had reached five hundred percent. The Daewoo Corporation, one of the largest, was liquidated.",
+        "duration": 413,
+        "bgImage": "bg_abstract.jpg",
+        "wordTimings": null,
+        "start": 1305
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep3_solutions_4",
+        "audio_exists": true,
+        "text": "Sixty-five billion dollars in debts written off. The turnaround was faster than anyone had predicted. South Korea returned to growth in 1999. Its current account deficit, which had been eight percent of GDP at the crisis peak, swung to a surplus.",
+        "duration": 453,
+        "bgImage": "bg_lab.jpg",
+        "wordTimings": null,
+        "start": 1718
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep3_solutions_5",
+        "audio_exists": true,
+        "text": "The foreign reserves that had nearly run to zero reached three hundred billion dollars by 2010.",
+        "duration": 189,
+        "bgImage": "bg_demographics.jpg",
+        "wordTimings": null,
+        "start": 2171
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep3_solutions_6",
+        "audio_exists": true,
+        "text": "The lesson was absorbed regionally, if not globally: self-insurance through reserve accumulation was the only reliable protection against the volatility of open capital markets.",
+        "duration": 333,
+        "bgImage": "bg_abstract.jpg",
+        "wordTimings": null,
+        "start": 2360
+      }
+    ]
+  },
+  {
+    "id": "ep3_results",
+    "title": "Episode 3 · Results",
+    "globalStart": 9614,
+    "duration": 2980,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Episode 3 · Results"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep3_results_0",
+        "audio_exists": true,
+        "text": "The Asian Financial Crisis produced consequences that were simultaneously more damaging than most observers acknowledged and more instructive than most policymakers admitted. The damage was severe.",
+        "duration": 368,
+        "bgImage": "bg_demographics.jpg",
+        "wordTimings": null,
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep3_results_1",
+        "audio_exists": true,
+        "text": "Indonesia's economy contracted thirteen-point-six percent in 1998. Twenty-four million Indonesians were pushed into poverty. The suicide rate in South Korea rose forty-five percent during the crisis years.",
+        "duration": 403,
+        "bgImage": "bg_lab.jpg",
+        "wordTimings": null,
+        "start": 458
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep3_results_2",
+        "audio_exists": true,
+        "text": "Decades of poverty reduction were reversed in months. The political consequences were equally severe. Indonesia's President Suharto resigned in May 1998 after thirty-two years in power — the crisis delegitimised governments across the region.",
+        "duration": 462,
+        "bgImage": "bg_lab.jpg",
+        "wordTimings": null,
+        "start": 861
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep3_results_3",
+        "audio_exists": true,
+        "text": "The democratic transitions that followed were genuine, but they came at enormous social cost. The institutional lessons, however, were learned.",
+        "duration": 260,
+        "bgImage": "bg_abstract.jpg",
+        "wordTimings": null,
+        "start": 1323
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep3_results_4",
+        "audio_exists": true,
+        "text": "Asian central banks collectively accumulated seven trillion dollars in foreign reserves by 2010 — self-insurance against ever needing an IMF programme again. The Chiang Mai Initiative created a two-hundred-forty-billion-dollar regional swap network.",
+        "duration": 469,
+        "bgImage": "bg_demographics.jpg",
+        "wordTimings": null,
+        "start": 1583
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep3_results_5",
+        "audio_exists": true,
+        "text": "And in 2012, the IMF formally revised its institutional view on capital controls, acknowledging that selective restrictions could be a legitimate policy tool under specific conditions.",
+        "duration": 352,
+        "bgImage": "bg_abstract.jpg",
+        "wordTimings": null,
+        "start": 2052
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep3_results_6",
+        "audio_exists": true,
+        "text": "The lesson that required twenty years to be officially acknowledged: capital flow liberalisation is not uniformly beneficial. Speed of liberalisation matters. Financial sector regulation must precede capital account opening.",
+        "duration": 417,
+        "bgImage": "bg_toxicology.jpg",
+        "wordTimings": null,
+        "start": 2404
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep3_results_7",
+        "audio_exists": true,
+        "text": "The Washington Consensus prescription had been applied without its preconditions.",
+        "duration": 159,
+        "bgImage": "bg_lifestyle.jpg",
+        "wordTimings": null,
+        "start": 2821
+      }
+    ]
+  },
+  {
+    "id": "credits",
+    "title": "Credits",
+    "globalStart": 12594,
+    "duration": 1375,
+    "subSlides": [
+      {
+        "type": "credits",
+        "start": 0,
+        "duration": 1375,
+        "audioSrc": "audio/outro_narration.wav"
+      }
+    ]
+  }
+]

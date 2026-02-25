@@ -1,0 +1,369 @@
+[
+  {
+    "id": "intro",
+    "title": "Intro",
+    "globalStart": 0,
+    "duration": 1421,
+    "subSlides": [
+      {
+        "type": "intro",
+        "start": 0,
+        "duration": 1421,
+        "audioSrc": "audio/intro_narration.wav"
+      }
+    ],
+    "episode": 2,
+    "episodeMeta": {
+      "title": "The 1970s Stagflation",
+      "subtitle": "1973–1982"
+    }
+  },
+  {
+    "id": "ep2_event",
+    "title": "Episode 2 · Event",
+    "globalStart": 1421,
+    "duration": 2367,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Episode 2 · Event"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep2_event_0",
+        "audio_exists": true,
+        "text": "In October 1973, the Organisation of Arab Petroleum Exporting Countries announced an oil embargo against the United States and its allies. The price of oil rose from three dollars per barrel to twelve dollars.",
+        "duration": 415,
+        "bgImage": "bg_toxicology.jpg",
+        "wordTimings": null,
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep2_event_1",
+        "audio_exists": true,
+        "text": "Within a year, inflation in the United States reached twelve percent — while unemployment simultaneously rose above nine percent. Economists had a word for this combination: stagflation.",
+        "duration": 339,
+        "bgImage": "bg_toxicology.jpg",
+        "wordTimings": null,
+        "start": 505
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep2_event_2",
+        "audio_exists": true,
+        "text": "And the word was borrowed because no existing economic model could explain it. The Phillips Curve — the central framework of macroeconomic management since the 1950s — held that inflation and unemployment moved in opposite directions.",
+        "duration": 439,
+        "bgImage": "bg_demographics.jpg",
+        "wordTimings": null,
+        "start": 844
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep2_event_3",
+        "audio_exists": true,
+        "text": "You could have high unemployment or high inflation, but not both at once. The 1970s proved the curve wrong. The oil shock was the trigger, but it was not the only cause.",
+        "duration": 313,
+        "bgImage": "bg_abstract.jpg",
+        "wordTimings": null,
+        "start": 1283
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep2_event_4",
+        "audio_exists": true,
+        "text": "Vietnam War spending and the Great Society programs had already inflated the money supply before the embargo. Richard Nixon had abandoned the Bretton Woods gold-exchange system in 1971, removing the external discipline on dollar creation.",
+        "duration": 459,
+        "bgImage": "bg_lab.jpg",
+        "wordTimings": null,
+        "start": 1596
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep2_event_5",
+        "audio_exists": true,
+        "text": "When the oil shock arrived, the system was already primed. What followed was a decade of wage-price spirals, supply shocks, and policy responses that made things worse.",
+        "duration": 312,
+        "bgImage": "bg_demographics.jpg",
+        "wordTimings": null,
+        "start": 2055
+      }
+    ]
+  },
+  {
+    "id": "ep2_problems",
+    "title": "Episode 2 · Problems",
+    "globalStart": 3788,
+    "duration": 3469,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Episode 2 · Problems"
+      },
+      {
+        "type": "chart",
+        "start": 90,
+        "duration": 720,
+        "chartSrc": "behavioral_biases.png",
+        "title": "Cognitive Biases in Economic Decision-Making",
+        "audioSrc": "audio/charts/chart_behavioral_biases.wav"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep2_problems_0",
+        "audio_exists": true,
+        "text": "The 1970s stagflation crisis involved four simultaneous structural failures — and each attempted solution made at least one of the others worse. The supply shock was real and severe.",
+        "duration": 360,
+        "bgImage": "bg_lab.jpg",
+        "wordTimings": null,
+        "start": 810
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep2_problems_1",
+        "audio_exists": true,
+        "text": "A three-hundred-percent oil price rise transmitted into every sector of an economy built on cheap energy. Manufacturing costs rose. Transportation costs rose. Agricultural costs rose.",
+        "duration": 369,
+        "bgImage": "bg_demographics.jpg",
+        "wordTimings": null,
+        "start": 1170
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep2_problems_2",
+        "audio_exists": true,
+        "text": "But the supply shock hit an economy already experiencing demand inflation from Vietnam War spending, amplified by the breakdown of the Bretton Woods system and the loss of dollar discipline.",
+        "duration": 348,
+        "bgImage": "bg_abstract.jpg",
+        "wordTimings": null,
+        "start": 1539
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep2_problems_3",
+        "audio_exists": true,
+        "text": "Nixon's wage and price controls, imposed in August 1971, appeared to work initially. Inflation fell. But controls only defer price increases — they cannot eliminate them. When the controls were lifted, suppressed inflation erupted.",
+        "duration": 451,
+        "bgImage": "bg_demographics.jpg",
+        "wordTimings": null,
+        "start": 1887
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep2_problems_4",
+        "audio_exists": true,
+        "text": "Arthur Burns at the Federal Reserve accommodated rising prices rather than fighting them, fearing that tight money would cause recession. This accommodation embedded inflationary expectations into wage negotiations and pricing decisions.",
+        "duration": 437,
+        "bgImage": "bg_lab.jpg",
+        "wordTimings": null,
+        "start": 2338
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep2_problems_5",
+        "audio_exists": true,
+        "text": "Once workers and businesses expected prices to rise, their behaviour caused prices to rise. The expectation became self-fulfilling.",
+        "duration": 268,
+        "bgImage": "bg_demographics.jpg",
+        "wordTimings": null,
+        "start": 2775
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep2_problems_6",
+        "audio_exists": true,
+        "text": "By 1975, the United States had simultaneous unemployment of eight-and-a-half percent and inflation of nine-and-a-half percent. The frameworks that guided economic management had no prescription for this outcome.",
+        "duration": 426,
+        "bgImage": "bg_abstract.jpg",
+        "wordTimings": null,
+        "start": 3043
+      }
+    ]
+  },
+  {
+    "id": "ep2_solutions",
+    "title": "Episode 2 · Solutions",
+    "globalStart": 7257,
+    "duration": 2662,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Episode 2 · Solutions"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep2_solutions_0",
+        "audio_exists": true,
+        "text": "On Saturday October 6, 1979, Paul Volcker called an emergency meeting of the Federal Open Market Committee. He timed it between the US market close and the Asian market open — a deliberate signal of urgency.",
+        "duration": 412,
+        "bgImage": "bg_abstract.jpg",
+        "wordTimings": null,
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep2_solutions_1",
+        "audio_exists": true,
+        "text": "The announcement that followed became known as the Saturday Night Special: the Federal Reserve would stop targeting the federal funds rate and instead target the growth of money supply directly. This was not a technocratic adjustment.",
+        "duration": 408,
+        "bgImage": "bg_toxicology.jpg",
+        "wordTimings": null,
+        "start": 502
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep2_solutions_2",
+        "audio_exists": true,
+        "text": "It was a declaration of intent to cause a recession if that was what breaking inflation required. Over the following two years, the federal funds rate rose from eleven to nineteen percent. The prime lending rate hit twenty-one and a half.",
+        "duration": 404,
+        "bgImage": "bg_lab.jpg",
+        "wordTimings": null,
+        "start": 910
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep2_solutions_3",
+        "audio_exists": true,
+        "text": "Thirty-year mortgage rates exceeded eighteen percent. Two recessions followed — January 1980 and July 1981. Unemployment peaked at ten-point-eight percent in December 1982. Farmers blockaded the Federal Reserve building with tractors.",
+        "duration": 469,
+        "bgImage": "bg_lab.jpg",
+        "wordTimings": null,
+        "start": 1314
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep2_solutions_4",
+        "audio_exists": true,
+        "text": "Congress threatened to pass legislation removing the Fed's independence. Volcker held. Reagan, to his political credit, supported Volcker publicly through the elections. That political backing was as important as the monetary policy itself.",
+        "duration": 432,
+        "bgImage": "bg_abstract.jpg",
+        "wordTimings": null,
+        "start": 1783
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep2_solutions_5",
+        "audio_exists": true,
+        "text": "Inflation fell from thirteen percent in 1979 to three percent in 1983. The credibility of the commitment was what broke inflationary expectations — and credibility required the willingness to impose, and accept, genuine pain.",
+        "duration": 447,
+        "bgImage": "bg_lifestyle.jpg",
+        "wordTimings": null,
+        "start": 2215
+      }
+    ]
+  },
+  {
+    "id": "ep2_results",
+    "title": "Episode 2 · Results",
+    "globalStart": 9919,
+    "duration": 2837,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Episode 2 · Results"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep2_results_0",
+        "audio_exists": true,
+        "text": "The defeat of the 1970s inflation produced two sets of consequences — one set absorbed deeply into subsequent policy, one set largely ignored.",
+        "duration": 305,
+        "bgImage": "bg_lab.jpg",
+        "wordTimings": null,
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep2_results_1",
+        "audio_exists": true,
+        "text": "What policymakers took from the episode: inflation targeting works when central banks are independent and willing to defend the target. New Zealand formally adopted the first inflation target in 1989. Canada followed in 1991.",
+        "duration": 453,
+        "bgImage": "bg_abstract.jpg",
+        "wordTimings": null,
+        "start": 395
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep2_results_2",
+        "audio_exists": true,
+        "text": "The United Kingdom in 1997. The European Central Bank in 1999. The Federal Reserve in 2012. Central bank independence was encoded into law across the developed world.",
+        "duration": 371,
+        "bgImage": "bg_toxicology.jpg",
+        "wordTimings": null,
+        "start": 848
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep2_results_3",
+        "audio_exists": true,
+        "text": "The insight that inflation is fundamentally about credibility and expectations — rather than just money supply growth — became the foundation of modern monetary policy.",
+        "duration": 324,
+        "bgImage": "bg_demographics.jpg",
+        "wordTimings": null,
+        "start": 1219
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep2_results_4",
+        "audio_exists": true,
+        "text": "What policymakers did not take from the episode: the distributional consequences of tight money fall almost entirely on workers and debtors, not on the policymakers who make the decision.",
+        "duration": 341,
+        "bgImage": "bg_lab.jpg",
+        "wordTimings": null,
+        "start": 1543
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep2_results_5",
+        "audio_exists": true,
+        "text": "The Volcker recession permanently destroyed two-point-two million manufacturing jobs in the Rust Belt. The real wages of workers without college degrees never recovered to their 1970s levels.",
+        "duration": 372,
+        "bgImage": "bg_lab.jpg",
+        "wordTimings": null,
+        "start": 1884
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep2_results_6",
+        "audio_exists": true,
+        "text": "The regions that bore the brunt of the recession — Ohio, Michigan, Pennsylvania, Indiana — experienced structural decline that continued for decades. The social costs of the cure were as real as the social costs of the disease.",
+        "duration": 417,
+        "bgImage": "bg_lab.jpg",
+        "wordTimings": null,
+        "start": 2256
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep2_results_7",
+        "audio_exists": true,
+        "text": "The question of who pays for macroeconomic stabilisation remained unasked.",
+        "duration": 164,
+        "bgImage": "bg_abstract.jpg",
+        "wordTimings": null,
+        "start": 2673
+      }
+    ]
+  },
+  {
+    "id": "credits",
+    "title": "Credits",
+    "globalStart": 12756,
+    "duration": 1375,
+    "subSlides": [
+      {
+        "type": "credits",
+        "start": 0,
+        "duration": 1375,
+        "audioSrc": "audio/outro_narration.wav"
+      }
+    ]
+  }
+]

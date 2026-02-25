@@ -1,7 +1,13 @@
 import React from 'react';
 import { Img, interpolate, useCurrentFrame, useVideoConfig, spring, staticFile } from 'remotion';
 
-export const TitleCard: React.FC = () => {
+interface TitleCardProps {
+    episodeNumber?: number;
+    episodeTitle?: string;
+    episodeSubtitle?: string;
+}
+
+export const TitleCard: React.FC<TitleCardProps> = ({ episodeNumber, episodeTitle, episodeSubtitle }) => {
     const frame = useCurrentFrame();
     const { fps, durationInFrames } = useVideoConfig();
 
@@ -53,30 +59,25 @@ export const TitleCard: React.FC = () => {
             </div>
 
             <div style={{ opacity: titleOpacity, transform: `translateY(${titleY}px)`, textAlign: 'center', zIndex: 1 }}>
-                <h1 style={{
-                    color: '#ffffff',
-                    fontSize: 82,
-                    fontWeight: 900,
-                    margin: 0,
-                    letterSpacing: '-3px',
-                    lineHeight: 1.05,
-                    textTransform: 'uppercase',
-                    textShadow: '0 20px 40px rgba(0,0,0,0.9)',
-                }}>
-                    Economic<br /><span style={{ color: '#4e9ff0' }}>Crises</span><br />Explained
-                </h1>
+                {episodeNumber ? (
+                    <>
+                        <p style={{ color: '#4e9ff0', fontSize: 18, fontWeight: 700, letterSpacing: 6, textTransform: 'uppercase', margin: '0 0 16px' }}>
+                            Episode {episodeNumber}
+                        </p>
+                        <h1 style={{ color: '#ffffff', fontSize: 72, fontWeight: 900, margin: 0, letterSpacing: '-2px', lineHeight: 1.05, textTransform: 'uppercase', textShadow: '0 20px 40px rgba(0,0,0,0.9)' }}>
+                            {episodeTitle}
+                        </h1>
+                    </>
+                ) : (
+                    <h1 style={{ color: '#ffffff', fontSize: 82, fontWeight: 900, margin: 0, letterSpacing: '-3px', lineHeight: 1.05, textTransform: 'uppercase', textShadow: '0 20px 40px rgba(0,0,0,0.9)' }}>
+                        Economic<br /><span style={{ color: '#4e9ff0' }}>Crises</span><br />Explained
+                    </h1>
+                )}
             </div>
 
             <div style={{ opacity: subtitleOpacity, marginTop: 30, zIndex: 1 }}>
-                <p style={{
-                    color: '#a0b0c0',
-                    fontSize: 26,
-                    margin: 0,
-                    fontWeight: 300,
-                    letterSpacing: 2,
-                    textShadow: '0 10px 20px rgba(0,0,0,0.6)',
-                }}>
-                    A Documentary Series · Six Crises · A Century of Economic Management
+                <p style={{ color: '#a0b0c0', fontSize: 26, margin: 0, fontWeight: 300, letterSpacing: 2, textShadow: '0 10px 20px rgba(0,0,0,0.6)' }}>
+                    {episodeSubtitle ?? 'A Documentary Series · Six Crises · A Century of Economic Management'}
                 </p>
             </div>
 

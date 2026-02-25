@@ -1,0 +1,419 @@
+[
+  {
+    "id": "intro",
+    "title": "Intro",
+    "globalStart": 0,
+    "duration": 1421,
+    "subSlides": [
+      {
+        "type": "intro",
+        "start": 0,
+        "duration": 1421,
+        "audioSrc": "audio/intro_narration.wav"
+      }
+    ],
+    "episode": 4,
+    "episodeMeta": {
+      "title": "The Global Financial Crisis",
+      "subtitle": "2008–2012"
+    }
+  },
+  {
+    "id": "ep4_event",
+    "title": "Episode 4 · Event",
+    "globalStart": 1421,
+    "duration": 3308,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Episode 4 · Event"
+      },
+      {
+        "type": "chart",
+        "start": 90,
+        "duration": 745,
+        "chartSrc": "forecast_errors.png",
+        "title": "IMF Forecast Errors vs Actual Growth",
+        "audioSrc": "audio/charts/chart_forecast_errors.wav"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep4_event_0",
+        "audio_exists": true,
+        "text": "On September 15, 2008, at one forty-five in the morning, Lehman Brothers filed for bankruptcy protection. The firm had six hundred and thirty-nine billion dollars in assets and six hundred and thirteen billion in liabilities.",
+        "duration": 429,
+        "bgImage": "bg_demographics.jpg",
+        "wordTimings": null,
+        "start": 835
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep4_event_1",
+        "audio_exists": true,
+        "text": "Twenty-five thousand employees. One hundred and fifty-eight years of institutional history.",
+        "duration": 181,
+        "bgImage": "bg_abstract.jpg",
+        "wordTimings": null,
+        "start": 1264
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep4_event_2",
+        "audio_exists": true,
+        "text": "Within hours, the Reserve Primary Fund — one of the oldest money market funds in the United States — announced that its net asset value had fallen below one dollar per share. It had broken the buck.",
+        "duration": 360,
+        "bgImage": "bg_lifestyle.jpg",
+        "wordTimings": null,
+        "start": 1445
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep4_event_3",
+        "audio_exists": true,
+        "text": "The fund held seven hundred and eighty-five million dollars of Lehman commercial paper, now worthless. Money market funds were supposed to be as safe as cash. Investors had placed their savings there specifically to avoid risk.",
+        "duration": 403,
+        "bgImage": "bg_demographics.jpg",
+        "wordTimings": null,
+        "start": 1805
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep4_event_4",
+        "audio_exists": true,
+        "text": "The news triggered immediate runs on money market funds across the system. In the days that followed, the commercial paper market seized. Interbank lending froze. The federal funds rate spiked as banks refused to lend to each other overnight.",
+        "duration": 424,
+        "bgImage": "bg_lifestyle.jpg",
+        "wordTimings": null,
+        "start": 2208
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep4_event_5",
+        "audio_exists": true,
+        "text": "The crisis that had been visible in slow motion for eighteen months — rising subprime defaults, collapsing structured credit products, Bear Stearns's failure in March — had become systemic in a single morning.",
+        "duration": 375,
+        "bgImage": "bg_abstract.jpg",
+        "wordTimings": null,
+        "start": 2632
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep4_event_6",
+        "audio_exists": true,
+        "text": "The question that would be debated for years was whether Lehman could have been saved, or whether its failure was the consequence of a system that had grown too complex to manage.",
+        "duration": 301,
+        "bgImage": "bg_lab.jpg",
+        "wordTimings": null,
+        "start": 3007
+      }
+    ]
+  },
+  {
+    "id": "ep4_problems",
+    "title": "Episode 4 · Problems",
+    "globalStart": 4729,
+    "duration": 2934,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Episode 4 · Problems"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep4_problems_0",
+        "audio_exists": true,
+        "text": "The 2008 Global Financial Crisis was not primarily a crisis of household mortgages.",
+        "duration": 210,
+        "bgImage": "bg_abstract.jpg",
+        "wordTimings": null,
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep4_problems_1",
+        "audio_exists": true,
+        "text": "It was a crisis of the financial architecture built on top of those mortgages — a shadow banking system of twelve trillion dollars operating with almost no regulatory oversight and no lender of last resort.",
+        "duration": 381,
+        "bgImage": "bg_toxicology.jpg",
+        "wordTimings": null,
+        "start": 300
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep4_problems_2",
+        "audio_exists": true,
+        "text": "The originate-to-distribute model had separated mortgage lending from mortgage risk. Banks originated loans and immediately sold them into securitisation vehicles.",
+        "duration": 310,
+        "bgImage": "bg_abstract.jpg",
+        "wordTimings": null,
+        "start": 681
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep4_problems_3",
+        "audio_exists": true,
+        "text": "The securities were then sold to money market funds, pension funds, and insurance companies globally. At each stage, the instruments became more complex and the underlying risk more opaque.",
+        "duration": 351,
+        "bgImage": "bg_demographics.jpg",
+        "wordTimings": null,
+        "start": 991
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep4_problems_4",
+        "audio_exists": true,
+        "text": "When house prices stopped rising in 2006, the assumptions embedded in every level of this structure broke simultaneously. Mortgage default rates exceeded model predictions. Structured products that had never been stress-tested failed.",
+        "duration": 433,
+        "bgImage": "bg_lifestyle.jpg",
+        "wordTimings": null,
+        "start": 1342
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep4_problems_5",
+        "audio_exists": true,
+        "text": "Rating agencies that had given triple-A ratings to instruments that deserved none faced questions about their independence.",
+        "duration": 226,
+        "bgImage": "bg_toxicology.jpg",
+        "wordTimings": null,
+        "start": 1775
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep4_problems_6",
+        "audio_exists": true,
+        "text": "And insurance products — credit default swaps — that were supposed to redistribute risk had instead concentrated it in a handful of institutions, most notably AIG.",
+        "duration": 326,
+        "bgImage": "bg_toxicology.jpg",
+        "wordTimings": null,
+        "start": 2001
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep4_problems_7",
+        "audio_exists": true,
+        "text": "The tools available to the Federal Reserve and Treasury had been designed for a banking system of regulated commercial banks with transparent balance sheets.",
+        "duration": 277,
+        "bgImage": "bg_abstract.jpg",
+        "wordTimings": null,
+        "start": 2327
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep4_problems_8",
+        "audio_exists": true,
+        "text": "The system they were dealing with in 2008 operated in the dark — repo markets, asset-backed commercial paper, money market funds — and had no legal framework for resolution.",
+        "duration": 330,
+        "bgImage": "bg_demographics.jpg",
+        "wordTimings": null,
+        "start": 2604
+      }
+    ]
+  },
+  {
+    "id": "ep4_solutions",
+    "title": "Episode 4 · Solutions",
+    "globalStart": 7663,
+    "duration": 2838,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Episode 4 · Solutions"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep4_solutions_0",
+        "audio_exists": true,
+        "text": "On October 13, 2008, nine bank chief executives were summoned to the Treasury Department. Hank Paulson presented them with a one-page term sheet: the government would purchase preferred equity in each of their institutions.",
+        "duration": 407,
+        "bgImage": "bg_lab.jpg",
+        "wordTimings": null,
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep4_solutions_1",
+        "audio_exists": true,
+        "text": "The amounts were not negotiable. The terms were not up for discussion. The meeting lasted less than an hour. All nine signed. The Federal Reserve deployed facilities that had never been used in the history of American central banking.",
+        "duration": 401,
+        "bgImage": "bg_toxicology.jpg",
+        "wordTimings": null,
+        "start": 497
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep4_solutions_2",
+        "audio_exists": true,
+        "text": "The Commercial Paper Funding Facility. The Term Securities Lending Facility. The Primary Dealer Credit Facility. At their peak in December 2008, these emergency facilities had approximately one-and-a-half trillion dollars outstanding.",
+        "duration": 435,
+        "bgImage": "bg_toxicology.jpg",
+        "wordTimings": null,
+        "start": 898
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep4_solutions_3",
+        "audio_exists": true,
+        "text": "The Fed's balance sheet rose from nine hundred billion to two-point-three trillion in four months.",
+        "duration": 185,
+        "bgImage": "bg_lifestyle.jpg",
+        "wordTimings": null,
+        "start": 1333
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep4_solutions_4",
+        "audio_exists": true,
+        "text": "Congress passed the seven-hundred-billion-dollar Troubled Asset Relief Program — which then, in a pivot that surprised everyone, was used primarily to purchase equity stakes rather than troubled assets.",
+        "duration": 362,
+        "bgImage": "bg_lifestyle.jpg",
+        "wordTimings": null,
+        "start": 1518
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep4_solutions_5",
+        "audio_exists": true,
+        "text": "The American Recovery and Reinvestment Act added seven-hundred-and-eighty-seven billion in fiscal stimulus in February 2009. Three rounds of quantitative easing eventually brought the Fed's balance sheet to four-and-a-half trillion dollars.",
+        "duration": 449,
+        "bgImage": "bg_toxicology.jpg",
+        "wordTimings": null,
+        "start": 1880
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep4_solutions_6",
+        "audio_exists": true,
+        "text": "Interest rates were held at the zero lower bound for seven years. The response was unprecedented in scale and speed.",
+        "duration": 221,
+        "bgImage": "bg_toxicology.jpg",
+        "wordTimings": null,
+        "start": 2329
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep4_solutions_7",
+        "audio_exists": true,
+        "text": "It was also incomplete — the fiscal stimulus was smaller than most economists believed necessary, and the recovery was the slowest since the Great Depression.",
+        "duration": 288,
+        "bgImage": "bg_lifestyle.jpg",
+        "wordTimings": null,
+        "start": 2550
+      }
+    ]
+  },
+  {
+    "id": "ep4_results",
+    "title": "Episode 4 · Results",
+    "globalStart": 10501,
+    "duration": 2994,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Episode 4 · Results"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep4_results_0",
+        "audio_exists": true,
+        "text": "The 2008 crisis response prevented the second Great Depression. That is the baseline, and it matters.",
+        "duration": 213,
+        "bgImage": "bg_abstract.jpg",
+        "wordTimings": null,
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep4_results_1",
+        "audio_exists": true,
+        "text": "The bank run cascade that Bernanke, Paulson, and Geithner feared — banks failing, depositors losing everything, credit markets permanently frozen — did not happen. The financial system was stabilised.",
+        "duration": 364,
+        "bgImage": "bg_lifestyle.jpg",
+        "wordTimings": null,
+        "start": 303
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep4_results_2",
+        "audio_exists": true,
+        "text": "GDP bottomed out and began recovering in mid-2009. But the recovery was deeply unequal. The top one percent of American households captured ninety-one percent of income gains between 2009 and 2012. Seven million households were foreclosed.",
+        "duration": 496,
+        "bgImage": "bg_demographics.jpg",
+        "wordTimings": null,
+        "start": 667
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep4_results_3",
+        "audio_exists": true,
+        "text": "The scarring effects on young workers who graduated into the crisis — studies showed persistent wage penalties of eight to twelve percent extending a decade into their careers. The institutional response was genuine.",
+        "duration": 386,
+        "bgImage": "bg_demographics.jpg",
+        "wordTimings": null,
+        "start": 1163
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep4_results_4",
+        "audio_exists": true,
+        "text": "Basel Three increased required capital ratios and introduced liquidity requirements. The Dodd-Frank Act created the Financial Stability Oversight Council and the Consumer Financial Protection Bureau. Annual stress tests became standard.",
+        "duration": 444,
+        "bgImage": "bg_lab.jpg",
+        "wordTimings": null,
+        "start": 1549
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep4_results_5",
+        "audio_exists": true,
+        "text": "The systemically important financial institutions were identified and subjected to enhanced supervision. But the distributional reckoning did not occur.",
+        "duration": 287,
+        "bgImage": "bg_toxicology.jpg",
+        "wordTimings": null,
+        "start": 1993
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep4_results_6",
+        "audio_exists": true,
+        "text": "Zero senior bankers were prosecuted for conduct related to the crisis — compared to over eight hundred prosecutions following the Savings and Loan crisis of the 1980s.",
+        "duration": 324,
+        "bgImage": "bg_lifestyle.jpg",
+        "wordTimings": null,
+        "start": 2280
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep4_results_7",
+        "audio_exists": true,
+        "text": "Foreclosure relief for struggling homeowners was underfunded and poorly administered. The political consequence was a decade of populist anger directed at institutions that had been bailed out while households were not.",
+        "duration": 390,
+        "bgImage": "bg_lifestyle.jpg",
+        "wordTimings": null,
+        "start": 2604
+      }
+    ]
+  },
+  {
+    "id": "credits",
+    "title": "Credits",
+    "globalStart": 13495,
+    "duration": 1375,
+    "subSlides": [
+      {
+        "type": "credits",
+        "start": 0,
+        "duration": 1375,
+        "audioSrc": "audio/outro_narration.wav"
+      }
+    ]
+  }
+]

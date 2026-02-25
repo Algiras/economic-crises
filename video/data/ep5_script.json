@@ -1,0 +1,429 @@
+[
+  {
+    "id": "intro",
+    "title": "Intro",
+    "globalStart": 0,
+    "duration": 1421,
+    "subSlides": [
+      {
+        "type": "intro",
+        "start": 0,
+        "duration": 1421,
+        "audioSrc": "audio/intro_narration.wav"
+      }
+    ],
+    "episode": 5,
+    "episodeMeta": {
+      "title": "The COVID-19 Economic Shock",
+      "subtitle": "2020"
+    }
+  },
+  {
+    "id": "ep5_event",
+    "title": "Episode 5 · Event",
+    "globalStart": 1421,
+    "duration": 2823,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Episode 5 · Event"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep5_event_0",
+        "audio_exists": true,
+        "text": "On Thursday March 12, 2020, Nick Lore, a Philadelphia restaurateur, filled garbage bags with salmon fillets and called his eleven staff members one by one to tell them they were laid off.",
+        "duration": 362,
+        "bgImage": "bg_lab.jpg",
+        "wordTimings": null,
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep5_event_1",
+        "audio_exists": true,
+        "text": "The same conversation was happening in restaurants, hotels, theatres, airports, and shopping centres across every developed economy simultaneously. The COVID-19 economic shock was unlike any crisis in this series.",
+        "duration": 417,
+        "bgImage": "bg_lab.jpg",
+        "wordTimings": null,
+        "start": 452
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep5_event_2",
+        "audio_exists": true,
+        "text": "Previous crises had been caused by financial imbalances, policy failures, or supply disruptions that accumulated over months or years.",
+        "duration": 267,
+        "bgImage": "bg_lab.jpg",
+        "wordTimings": null,
+        "start": 869
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep5_event_3",
+        "audio_exists": true,
+        "text": "This one was caused by a deliberate decision: governments shut their economies to prevent the spread of a lethal virus. The speed of the contraction was without precedent. The United States lost twenty-two million jobs in eight weeks.",
+        "duration": 393,
+        "bgImage": "bg_demographics.jpg",
+        "wordTimings": null,
+        "start": 1136
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep5_event_4",
+        "audio_exists": true,
+        "text": "The Great Financial Crisis had taken twenty-five months to produce nine million job losses. Twenty weeks into COVID, output had fallen more than it had in any full year of the Great Depression.",
+        "duration": 345,
+        "bgImage": "bg_toxicology.jpg",
+        "wordTimings": null,
+        "start": 1529
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep5_event_5",
+        "audio_exists": true,
+        "text": "The speed of the policy response was also without precedent. The CARES Act — two-point-two trillion dollars — was signed seventeen days after the World Health Organisation declared a pandemic.",
+        "duration": 344,
+        "bgImage": "bg_lab.jpg",
+        "wordTimings": null,
+        "start": 1874
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep5_event_6",
+        "audio_exists": true,
+        "text": "Direct payments to households, enhanced unemployment benefits, forgivable loans to small businesses, emergency backstops for financial markets.",
+        "duration": 288,
+        "bgImage": "bg_lifestyle.jpg",
+        "wordTimings": null,
+        "start": 2218
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep5_event_7",
+        "audio_exists": true,
+        "text": "The Federal Reserve expanded its balance sheet from four trillion to seven trillion dollars in ninety days. The playbook of 2008 was deployed at five times the speed.",
+        "duration": 317,
+        "bgImage": "bg_lifestyle.jpg",
+        "wordTimings": null,
+        "start": 2506
+      }
+    ]
+  },
+  {
+    "id": "ep5_problems",
+    "title": "Episode 5 · Problems",
+    "globalStart": 4244,
+    "duration": 2928,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Episode 5 · Problems"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep5_problems_0",
+        "audio_exists": true,
+        "text": "The COVID economic shock posed a problem that no existing policy framework had been designed to address: a simultaneous supply and demand collapse, deliberately induced, of unknown duration.",
+        "duration": 375,
+        "bgImage": "bg_lab.jpg",
+        "wordTimings": null,
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep5_problems_1",
+        "audio_exists": true,
+        "text": "The fourteen-point-seven percent unemployment rate in April 2020 masked a more complex reality. Most of the job losses were in in-person services — hospitality, retail, entertainment, travel. These workers could not work from home.",
+        "duration": 435,
+        "bgImage": "bg_lifestyle.jpg",
+        "wordTimings": null,
+        "start": 465
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep5_problems_2",
+        "audio_exists": true,
+        "text": "The professional services sector, which could, continued working with relatively minor disruption. A crisis that appeared uniform in the aggregate was profoundly unequal in its distribution.",
+        "duration": 348,
+        "bgImage": "bg_abstract.jpg",
+        "wordTimings": null,
+        "start": 900
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep5_problems_3",
+        "audio_exists": true,
+        "text": "The design of the response exposed sharp differences in economic philosophy.",
+        "duration": 162,
+        "bgImage": "bg_lifestyle.jpg",
+        "wordTimings": null,
+        "start": 1248
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep5_problems_4",
+        "audio_exists": true,
+        "text": "The United States paid unemployed workers six-hundred dollars per week above their existing unemployment benefits — a replacement rate that exceeded one-hundred percent for many service workers.",
+        "duration": 344,
+        "bgImage": "bg_lifestyle.jpg",
+        "wordTimings": null,
+        "start": 1410
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep5_problems_5",
+        "audio_exists": true,
+        "text": "This was effective at preventing immediate poverty but created friction around reopening. Germany, by contrast, used Kurzarbeit — short-time work — covering six million workers at its April 2020 peak.",
+        "duration": 377,
+        "bgImage": "bg_lab.jpg",
+        "wordTimings": null,
+        "start": 1754
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep5_problems_6",
+        "audio_exists": true,
+        "text": "Rather than severing the employment relationship and paying unemployment, the government subsidised reduced hours, preserving the connection between worker and employer. When the economy reopened, German workers returned to existing jobs.",
+        "duration": 434,
+        "bgImage": "bg_lab.jpg",
+        "wordTimings": null,
+        "start": 2131
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep5_problems_7",
+        "audio_exists": true,
+        "text": "American workers had to find new ones. Both approaches prevented catastrophe. The difference was in the speed of recovery and the scarring effects on labour markets that would play out over subsequent years.",
+        "duration": 363,
+        "bgImage": "bg_abstract.jpg",
+        "wordTimings": null,
+        "start": 2565
+      }
+    ]
+  },
+  {
+    "id": "ep5_solutions",
+    "title": "Episode 5 · Solutions",
+    "globalStart": 7172,
+    "duration": 3169,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Episode 5 · Solutions"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep5_solutions_0",
+        "audio_exists": true,
+        "text": "On March 25, 2020, Mitch McConnell announced that the CARES Act had cleared the Senate by ninety-six votes to zero. The House passed it by voice vote the following day. The President signed it that evening.",
+        "duration": 384,
+        "bgImage": "bg_toxicology.jpg",
+        "wordTimings": null,
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep5_solutions_1",
+        "audio_exists": true,
+        "text": "Seventeen days from pandemic declaration to the largest emergency spending bill in American history. The architecture was comprehensive.",
+        "duration": 276,
+        "bgImage": "bg_abstract.jpg",
+        "wordTimings": null,
+        "start": 474
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep5_solutions_2",
+        "audio_exists": true,
+        "text": "Two-hundred-and-ninety-two billion dollars in direct household payments — twelve-hundred dollars per adult, five-hundred per child.",
+        "duration": 249,
+        "bgImage": "bg_abstract.jpg",
+        "wordTimings": null,
+        "start": 750
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep5_solutions_3",
+        "audio_exists": true,
+        "text": "Two-hundred-and-sixty-eight billion in enhanced unemployment benefits, including the six-hundred-dollar weekly supplement and new coverage for gig workers who had never qualified for unemployment before.",
+        "duration": 360,
+        "bgImage": "bg_abstract.jpg",
+        "wordTimings": null,
+        "start": 999
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep5_solutions_4",
+        "audio_exists": true,
+        "text": "Eight-hundred-and-thirteen billion in total Paycheck Protection Program loans for small businesses, forgivable if companies retained their employees. The Federal Reserve activated nine separate emergency lending facilities in twenty-five days.",
+        "duration": 437,
+        "bgImage": "bg_lifestyle.jpg",
+        "wordTimings": null,
+        "start": 1359
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep5_solutions_5",
+        "audio_exists": true,
+        "text": "Some were adapted from 2008. Some were new — including, for the first time, a facility to purchase corporate bonds directly. The Fed moved faster and further than it had in the entire first year following Lehman Brothers.",
+        "duration": 404,
+        "bgImage": "bg_toxicology.jpg",
+        "wordTimings": null,
+        "start": 1796
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep5_solutions_6",
+        "audio_exists": true,
+        "text": "The American Rescue Plan, signed in March 2021, added one-point-nine trillion in additional support.",
+        "duration": 222,
+        "bgImage": "bg_lab.jpg",
+        "wordTimings": null,
+        "start": 2200
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep5_solutions_7",
+        "audio_exists": true,
+        "text": "The expanded Child Tax Credit, providing monthly payments to families with children, reduced child poverty to its lowest recorded level in American history — one of the most rapid anti-poverty interventions ever implemented.",
+        "duration": 418,
+        "bgImage": "bg_demographics.jpg",
+        "wordTimings": null,
+        "start": 2422
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep5_solutions_8",
+        "audio_exists": true,
+        "text": "The scale of the response worked. Twenty-two million jobs were recovered in twenty-eight months. After 2008, the same number of jobs had taken seventy-eight months to recover.",
+        "duration": 329,
+        "bgImage": "bg_abstract.jpg",
+        "wordTimings": null,
+        "start": 2840
+      }
+    ]
+  },
+  {
+    "id": "ep5_results",
+    "title": "Episode 5 · Results",
+    "globalStart": 10341,
+    "duration": 3718,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Episode 5 · Results"
+      },
+      {
+        "type": "chart",
+        "start": 90,
+        "duration": 699,
+        "chartSrc": "debt_gdp.png",
+        "title": "Government Debt-to-GDP Ratio (G7, 1980–2024)",
+        "audioSrc": "audio/charts/chart_debt_gdp.wav"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep5_results_0",
+        "audio_exists": true,
+        "text": "The COVID-19 economic response produced contradictions so sharp that they read as almost deliberately constructed.",
+        "duration": 240,
+        "bgImage": "bg_demographics.jpg",
+        "wordTimings": null,
+        "start": 789
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep5_results_1",
+        "audio_exists": true,
+        "text": "The same policy decisions that pushed child poverty to generational lows also contributed to an inflation surge that would consume real wages for two years.",
+        "duration": 300,
+        "bgImage": "bg_lab.jpg",
+        "wordTimings": null,
+        "start": 1029
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep5_results_2",
+        "audio_exists": true,
+        "text": "The same emergency transfers that prevented economic collapse also seeded the fiscal and monetary conditions for the next crisis. The positive results were genuine. Twenty-two million jobs recovered in twenty-eight months.",
+        "duration": 414,
+        "bgImage": "bg_lifestyle.jpg",
+        "wordTimings": null,
+        "start": 1329
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep5_results_3",
+        "audio_exists": true,
+        "text": "Child poverty rates fell from eighteen to twelve percent in a single year. Operation Warp Speed produced two authorised vaccines in under twelve months — a scientific achievement that had required eight to ten years on any previous timeline.",
+        "duration": 423,
+        "bgImage": "bg_toxicology.jpg",
+        "wordTimings": null,
+        "start": 1743
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep5_results_4",
+        "audio_exists": true,
+        "text": "Remote work, forced on reluctant employers by necessity, turned out to preserve eighty-seven percent of in-office productivity, permanently reshaping the geography of employment. The negative results were also genuine.",
+        "duration": 396,
+        "bgImage": "bg_demographics.jpg",
+        "wordTimings": null,
+        "start": 2166
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep5_results_5",
+        "audio_exists": true,
+        "text": "One-point-two million excess deaths in the United States, concentrated among elderly and minority populations, representing the largest demographic shock since World War Two. Third-grade reading proficiency fell to its lowest level in thirty years.",
+        "duration": 449,
+        "bgImage": "bg_lifestyle.jpg",
+        "wordTimings": null,
+        "start": 2562
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep5_results_6",
+        "audio_exists": true,
+        "text": "Emergency visits for adolescent suicide attempts rose fifty-one percent. The K-shaped recovery visible by late 2021 showed professional services fully recovered; leisure and hospitality still eight percent below pre-pandemic levels.",
+        "duration": 464,
+        "bgImage": "bg_lab.jpg",
+        "wordTimings": null,
+        "start": 3011
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep5_results_7",
+        "audio_exists": true,
+        "text": "The crisis that appeared to threaten everyone had, in the end, distributed its costs with the same precision as every crisis before it.",
+        "duration": 243,
+        "bgImage": "bg_lab.jpg",
+        "wordTimings": null,
+        "start": 3475
+      }
+    ]
+  },
+  {
+    "id": "credits",
+    "title": "Credits",
+    "globalStart": 14059,
+    "duration": 1375,
+    "subSlides": [
+      {
+        "type": "credits",
+        "start": 0,
+        "duration": 1375,
+        "audioSrc": "audio/outro_narration.wav"
+      }
+    ]
+  }
+]
