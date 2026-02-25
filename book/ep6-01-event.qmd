@@ -1,0 +1,39 @@
+# The Great Inflation: When "Transitory" Became a Reckoning
+
+## A Grocery Receipt in January 2022
+
+Sharon Kowalski had been keeping her grocery receipts for thirty years. It was a habit inherited from her mother, who had lived through the 1970s and never fully trusted that prices would stay reasonable. In January 2022, Sharon — a retired school administrator in Pittsburgh, living on a fixed pension of $2,800 per month — noticed that the total on her weekly Kroger receipt had risen from its pre-pandemic average of $87 to $124. Eggs were $3.89 per dozen, up from $1.39. Ground beef was $6.49 per pound. Butter was $4.29. The heating bill for her three-bedroom house had risen from $95 to $162 per month.
+
+Sharon had not received a pay rise, because she had not been employed for six years. Her pension did not adjust automatically for inflation. She began doing what millions of retired and low-income Americans did in 2022: working backwards through her monthly expenditures to find what could be cut.
+
+The Great Inflation of 2021–2023 was not the largest peacetime inflation in American history. The 1970s holds that distinction. It was, however, the fastest unanticipated inflation surge in forty years — one that arrived when central banks had explicitly told markets and governments it would not, and one that fell with particular harshness on fixed-income households, renters, and anyone whose wages did not keep pace with rising prices. For those people, the economic disruption was not theoretical. It was a restructuring of daily life, conducted without their consent.
+
+## How Inflation Returned
+
+In retrospect — which is where economic causation always looks clearest — the post-pandemic inflation had identifiable inputs that interacted in a combustible sequence.
+
+The first input was demand. American households had accumulated approximately $2.5 trillion in excess savings by mid-2021, the product of stimulus payments received while spending opportunities were curtailed. This money did not sit idle. As reopening accelerated through spring and summer 2021, consumer spending surged in categories that had been suppressed — travel, dining, entertainment, and physical goods — simultaneously and at a pace that supply chains could not accommodate.
+
+The second input was supply. Two years of pandemic-era disruption had stretched global supply chains beyond their design tolerances. Container shipping costs rose 900% between early 2020 and September 2021. Semiconductor shortages cascaded through electronics, automotive, and appliance manufacturing. Port congestion at Los Angeles and Long Beach — the entry point for approximately 40% of US container imports — created backlogs measured in weeks. The labour shortages that emerged when workers delayed their return to employment compounded every node of the supply chain simultaneously.
+
+The third input was energy. Russia's invasion of Ukraine on February 24, 2022, triggered the largest disruption to European energy markets since the 1973 oil embargo. Russia had supplied approximately 40% of the European Union's natural gas and 27% of its crude oil imports. As Europe scrambled to replace Russian energy through liquefied natural gas imports and accelerated renewable deployment, global energy prices spiked. Brent crude oil rose from $78 per barrel in December 2021 to $128 in March 2022. European natural gas prices rose to levels equivalent to $500 per barrel of oil in equivalent energy terms.
+
+Energy costs flow through every sector of a modern economy. They are embedded in food production through fertiliser (largely natural gas-derived), in transport through fuel costs, in manufacturing through process heat, and in households through heating and electricity. When energy prices spike, general price levels follow.
+
+The fourth input, which the Federal Reserve would later acknowledge with considerable discomfort, was monetary policy. Interest rates of 0–0.25% and $120 billion per month in asset purchases had been calibrated for an economy in demand collapse. They remained in place through the end of 2021, adding monetary stimulus to an economy that was already running hot.
+
+## The "Transitory" Miscalculation
+
+In May 2021, with US CPI running at 4.2% — already double the Fed's 2% target — Jerome Powell used the word "transitory" to describe what the Federal Reserve expected inflation to do. The Fed's June 2021 Summary of Economic Projections forecast PCE inflation of 3.4% for 2021 and 2.2% for 2022. The Fed's December 2021 forecast projected 2022 inflation at 2.6%.
+
+The actual 2022 US CPI was 8%.
+
+This was not a rounding error or a matter of nuance. It was a forecasting failure of the first order, comparable in its consequences to the Federal Reserve's policy failures of 1929–1933, though in the opposite direction. The Fed had been burned by forty years of chronically below-target inflation and was, in the assessment of several former Fed officials speaking after the fact, psychologically anchored to the expectation that inflation would not return with force.
+
+The "transitory" designation proved self-undermining in a specific way. Because the Fed anticipated that inflation would resolve itself, it delayed tightening monetary policy until March 2022. By then, US CPI had been running above 5% for nine consecutive months and above 7% for three months. The delay compressed the subsequent tightening into a more rapid, more disruptive trajectory than would have been required had tightening begun in mid-2021.
+
+## The Rate Rise Begins
+
+On March 16, 2022, the Federal Open Market Committee raised the federal funds rate by 25 basis points — the first increase since December 2018. CPI was 7.9% on the day of the decision. The committee projected the funds rate would reach 1.9% by year end. It would in fact reach 4.25–4.5% by December 2022 and 5.25–5.5% by July 2023.
+
+For the millions of households — and the central banks, finance ministries, and mortgage lenders across the developed world — who had structured their financial decisions around the assumption that near-zero interest rates were a permanent feature of the economic landscape, the reckoning that followed was seismic. The numbers say how large. The next chapter shows what they mean.

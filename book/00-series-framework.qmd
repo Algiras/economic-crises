@@ -1,0 +1,50 @@
+# The Series Framework {.unnumbered}
+
+Every episode in this series is structured around five questions. Understanding the framework before the first episode makes the analysis more tractable and the comparisons across episodes more illuminating.
+
+## The Five Questions
+
+**1. What happened?**
+
+The narrative account of the crisis: the trigger events, the key actors, the sequence of escalation, and the moment at which a local disruption became a systemic event. History without data is anecdote; but data without narrative is incomprehensible. Each episode begins with the story.
+
+**2. What do the numbers show?**
+
+The quantitative record: GDP growth rates, unemployment, inflation, asset price movements, current account deficits, debt levels, trade flows, and capital movements. Where possible, these are presented at the distributional level — not just aggregate GDP but median household income, not just unemployment rates but labour market participation across demographic groups. The numbers are the non-negotiable core of economic history. Without them, the story of a crisis is a matter of opinion.
+
+**3. What did it do to people?**
+
+The sociological dimension: how economic crises translate into changes in health outcomes, family structure, political behaviour, crime, educational attainment, social mobility, mental health, and demographic trends. Economic crises are not abstractions. They are events that change the conditions of human life — sometimes temporarily, sometimes permanently. The sociological evidence tracks these changes.
+
+**4. How was it resolved?**
+
+The policy response: what governments and central banks did, when they did it, and with what effect. The resolution analysis is honest about both the successes and the failures of the policy response, and about the counterfactuals — what the evidence suggests would have happened under alternative approaches.
+
+**5. What did we learn?**
+
+The honest accounting of lessons: which insights were absorbed into subsequent policy frameworks, which were acknowledged but ignored, and which appear to have been forgotten by the time the next crisis arrived. The pattern of lesson-learning (and lesson-forgetting) is one of the most important — and most sobering — threads running through this series.
+
+## The Sociological Impact Framework
+
+Because each episode emphasises quantifiable sociological impacts, the following indicators are tracked consistently across episodes where data is available:
+
+| Indicator | Why It Matters |
+|---|---|
+| **Unemployment rate** | Primary driver of household income loss and social dislocation |
+| **Long-term unemployment share** | Measures scarring effects beyond the crisis period |
+| **Poverty rate** | Direct measure of material deprivation |
+| **Gini coefficient** | Distributional impact — who bears the cost |
+| **Suicide rate** | Most extreme measure of psychological harm; well-documented crisis correlation |
+| **Life expectancy** | Integrates health, stress, and economic security effects |
+| **Crime rate** | Economic stress → property crime relationship is well-established |
+| **Political polarisation index** | Economic crises consistently produce political realignment |
+| **Social trust** | Long-run measure of societal cohesion |
+| **Educational attainment** | Crisis effects on human capital investment, particularly in children |
+
+Not all indicators are available for all episodes — the Great Depression predates modern survey methodology. Where the data exists, it is presented. Where it does not, the best available historical evidence is used.
+
+## A Note on Causality
+
+Economic history is not a controlled experiment. When unemployment rises during a crisis, multiple causal factors are operating simultaneously. When populism surges after a crisis, the political consequences of economic disruption interact with pre-existing institutional, cultural, and demographic factors. The analysis in this series is careful to present the correlational evidence, to note where causal mechanisms are well-established, and to acknowledge where attribution is uncertain.
+
+The goal is not to prove a thesis. It is to present the evidence honestly — and to let the patterns speak for themselves.

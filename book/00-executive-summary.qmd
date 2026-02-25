@@ -1,0 +1,39 @@
+# Executive Summary {.unnumbered}
+
+Economies are the largest, most complex adaptive systems that human beings have ever attempted to manage. They consist of billions of interdependent actors making simultaneous decisions, each responding to incomplete information, each subject to psychological biases, each operating within and modifying the institutional environment that shapes their choices. The aggregate behaviour that emerges from this process is not reducible to the sum of its parts — it exhibits properties, dynamics, and vulnerabilities that cannot be anticipated from analysis of individual components.
+
+This presents economic management with a structural problem.
+
+The tools available to policymakers — interest rates, government spending, taxation, regulation, exchange rate intervention — are blunt instruments applied to a precision mechanism. The information required to deploy them optimally is dispersed across millions of minds and cannot be aggregated without distortion. The time lags between policy action and economic effect are long, variable, and poorly understood. And the system responds to being managed: economic actors anticipate policy, adjust their behaviour accordingly, and in doing so change the very relationships that policy was designed to exploit.
+
+## Core Findings
+
+**The complexity problem is not a technical problem.** It cannot be solved by building better models or gathering more data. Economies exhibit genuine emergence — properties that arise from interaction and cannot be predicted from the behaviour of individual components. The IMF's forecast error for global GDP growth averages 1.5 percentage points one year ahead, and grows rapidly over longer horizons. This is not a failure of effort. It is a property of the system.
+
+**The knowledge problem is structural.** As Friedrich Hayek argued in 1945, the information required to allocate economic resources efficiently is inherently dispersed, largely tacit, and resistant to centralisation. No planning authority — however sophisticated its algorithms, however comprehensive its data — can replicate the information-processing function of decentralised price signals. This remains the most important unsolved problem in economics.
+
+**Policies produce unintended consequences at scale.** This is not an accident. Complex systems with feedback loops, adaptive agents, and emergent properties will almost always respond to intervention in ways that differ from predictions. Rent control reliably reduces housing supply. Tariffs reliably harm domestic consumers. Bank capital requirements designed to increase safety create incentives for off-balance-sheet risk accumulation. The history of economic policy is substantially a history of unintended consequences.
+
+**Economic measurement shapes what gets managed — and distorts it.** GDP measures transactions, not welfare. Inflation indices embed assumptions about substitution and hedonic adjustment that are contested. Unemployment statistics exclude discouraged workers. When policy is optimised to hit measurable targets, resources flow toward the measured variables and away from unmeasured ones — a manifestation of Goodhart's Law at civilisational scale.
+
+**Monetary policy is more limited than its practitioners acknowledge.** Central banks can influence the price and availability of credit, but the relationship between credit conditions and economic outcomes is neither stable nor well-understood. The transmission mechanism changes as financial systems evolve. Zero lower bound constraints limit conventional tools. Quantitative easing produces asset price inflation, exacerbates inequality, and generates financial stability risks while delivering uncertain macroeconomic benefits.
+
+**Fiscal policy faces a fundamental political economy problem.** Spending is popular; taxation is unpopular; fiscal consolidation is electorally costly. The result is a secular bias toward deficit spending and debt accumulation that operates independently of the merits of individual decisions. Debt-to-GDP ratios in advanced economies have risen from an average of 40% in 1980 to over 100% today. The long-term consequences of this trajectory are genuinely uncertain — which is itself part of the problem.
+
+**Economies are not managed by rational actors.** They are managed by human beings subject to overconfidence, loss aversion, in-group bias, short-term thinking, and institutional incentives that frequently diverge from social welfare. The agents being managed — consumers, firms, investors — exhibit the same biases. Models that assume rational expectations describe an economy that does not exist.
+
+**Global interconnectedness amplifies fragility.** The integration of financial markets, supply chains, and capital flows since 1980 has produced large efficiency gains and equally large increases in systemic risk. Shocks propagate faster and further than models predict. The 2008 financial crisis, the 2020 pandemic shock, and the 2022 inflation surge all demonstrated that economic management frameworks designed for a less interconnected world are inadequate to the one we now inhabit.
+
+## What This Means for Policy
+
+None of this implies that economic management is futile. Institutions matter. Monetary frameworks matter. Fiscal rules matter. The difference between competent and incompetent policy can be enormous.
+
+But competent policy in a complex system looks different from competent policy in a simple one. It is characterised by:
+
+- **Epistemic humility**: acknowledging what cannot be known, and designing policy that is robust to being wrong rather than optimal under a single scenario
+- **Reversibility**: preferring policies that can be adjusted as information arrives over those that lock in long-term commitments based on current forecasts
+- **Systemic awareness**: attending to second-order effects, feedback loops, and the behaviour of the system as a whole — not just the immediate target variable
+- **Institutional resilience**: building frameworks that function reasonably well across a range of conditions, rather than ones optimised for normal conditions and brittle under stress
+- **Transparency about uncertainty**: communicating the limits of knowledge honestly, rather than manufacturing false confidence to maintain credibility
+
+The central argument of this book is that the most important reform in economic governance is not technical. It is epistemic. Before we can manage economies better, we need to understand more clearly why managing them is hard.

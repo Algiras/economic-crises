@@ -1,0 +1,79 @@
+# The Asian Financial Crisis: The Solutions
+
+## December 3, 1997
+
+On December 3, 1997, South Korean Finance Minister Lim Chang-yuel signed the Letter of Intent that formalized South Korea's agreement with the International Monetary Fund. The country had been negotiating intensively since November 21, when the government had first formally approached the Fund. Its foreign currency reserves — the funds needed to meet imminent dollar-denominated debt obligations — had fallen to $7.3 billion of usable reserves, against short-term external debt of approximately $60 billion coming due within twelve months.
+
+The South Korean program was the largest IMF rescue to that date: $57 billion in committed funds from the IMF ($21 billion), World Bank ($10 billion), Asian Development Bank ($4 billion), and bilateral contributions from the United States, Japan, and European nations ($22 billion). The conditions attached to the funds would restructure the South Korean economy more profoundly than any external intervention since the Korean War.
+
+The crisis had begun five months earlier, in Thailand.
+
+## The IMF Programs: Architecture and Conditions
+
+The IMF response to the Asian crisis followed a standard template applied with variations across the three largest program countries — Thailand, Indonesia, and South Korea — plus Malaysia and the Philippines.
+
+Thailand's program, signed August 20, 1997, committed $17.2 billion (IMF: $4 billion; bilateral partners: $13.2 billion). Indonesia's initial program, signed November 5, 1997, committed $43 billion and was subsequently revised twice as conditions deteriorated. South Korea's $57 billion commitment made it the Fund's largest program to that date.
+
+The conditions were broadly consistent across programs: fiscal tightening to reduce current account deficits; monetary tightening to defend exchange rates and control inflation; financial sector restructuring including bank closures and recapitalization; corporate governance reforms; and trade and investment liberalization.
+
+The fiscal targets were subsequently loosened as the depth of the demand collapse became apparent — the initial projections had assumed 5 to 7 percent growth would continue, while the actual outcome was GDP contractions of 7 to 13 percent. The IMF's 1999 internal review acknowledged that fiscal adjustment targets had been excessive given the simultaneous collapse of private demand, investment, and trade.
+
+## South Korea's Chaebol Restructuring
+
+The South Korean program went significantly beyond financial stabilization. The chaebol — the family-controlled industrial conglomerates that had dominated the Korean economy since the 1960s, including Samsung, Hyundai, LG, Daewoo, and SK — had expanded through debt accumulation far beyond their capacity to service. The average debt-to-equity ratio among the top five chaebol was 518 percent at the crisis onset.
+
+The IMF conditions and the subsequent Korean government program imposed a comprehensive restructuring framework. The "Big Deal" policy, announced in 1998, required the top five chaebol to swap business units to eliminate duplicative capacity — a government-directed rationalization of industrial structure. Hyundai and Samsung Electronics exchanged semiconductor operations. Samsung and Daewoo exchanged cars and construction equipment. The swaps reduced the number of business lines per chaebol and forced focus on core competencies.
+
+Daewoo — the second-largest chaebol, with total debt of approximately 80 trillion won ($65 billion at the time) — could not be restructured and was liquidated beginning in 1999. Its automobile operations were eventually sold to General Motors in 2002. The Daewoo liquidation was the largest corporate bankruptcy in Korean history.
+
+The Korean government simultaneously recapitalized the banking system through the Korea Asset Management Corporation, which purchased non-performing loans from banks at discounted prices, and through the Korea Deposit Insurance Corporation, which recapitalized insolvent banks with public funds. Total public expenditure on financial sector restructuring reached approximately 157 trillion won — roughly 30 percent of GDP.
+
+Banking sector reform required extensive consolidation. The number of commercial banks fell from 33 to 17 through mergers, closures, and government-directed consolidation. Approximately 30 percent of financial institution workers lost their jobs.
+
+The speed of South Korea's recovery was exceptional. GDP contracted 5.8 percent in 1998 and then grew 10.7 percent in 1999. By 2001, South Korea had repaid the IMF ahead of schedule. The external adjustment had been achieved through a combination of import compression (as domestic demand collapsed), export expansion (as the won depreciated approximately 50 percent against the dollar at the trough), and the systematic removal of the debt overhangs that had made the corporate sector vulnerable.
+
+## Malaysia's Capital Controls: September 1, 1998
+
+Malaysia's response diverged sharply from the IMF framework. Prime Minister Mahathir Mohamad, who had spent months publicly blaming currency speculators — particularly George Soros and his Quantum Fund — for the crisis, rejected an IMF program and instead imposed capital controls on September 1, 1998.
+
+The mechanism was specific and comprehensive. The ringgit was fixed at 3.80 to the US dollar. Ringgit held in external accounts — Nostro accounts held by foreign institutions — were required to be repatriated within one month. Foreign investors who had purchased Malaysian securities were prohibited from repatriating the proceeds for twelve months (subsequently reduced to exit levies that declined over time). The Kuala Lumpur Stock Exchange was delisted from the MSCI Emerging Market Index as a consequence, cutting off index-tracking foreign capital flows.
+
+Simultaneously, Malaysia implemented a fiscal expansion program. Unlike the IMF program countries that were tightening fiscal policy into the recession, Malaysia cut interest rates and increased government spending. The central bank's overnight policy rate fell from 9.5 percent to 6.7 percent.
+
+The stated mechanism of the capital controls was to insulate Malaysian monetary policy from currency speculation: by preventing capital outflows, Malaysia could lower interest rates without triggering further ringgit depreciation. The fixed exchange rate eliminated currency uncertainty for domestic businesses.
+
+The outcome generated significant controversy among economists — the capital controls worked in the specific sense that Malaysia recovered without the severe recession experienced by Thailand, South Korea, and especially Indonesia, but disentangling the effect of capital controls from the simultaneous fiscal expansion and the general regional recovery is methodologically complex. Malaysia's GDP contracted 7.4 percent in 1998 and grew 6.1 percent in 1999 — a recovery trajectory comparable to South Korea's.
+
+The IMF acknowledged in subsequent reviews that the Malaysian approach had not produced the catastrophic consequences it had predicted. The episode significantly influenced the theoretical debate about capital account liberalization and the circumstances under which capital controls might be appropriate crisis tools.
+
+## Currency Peg Reforms
+
+The currency crisis exposed the instability of managed exchange rate pegs in the presence of open capital accounts and under-reserved central banks. The regional response, over the following years, moved toward greater exchange rate flexibility.
+
+Thailand, Indonesia, South Korea, and the Philippines all moved to managed floating regimes rather than returning to pegs. The Indonesian rupiah, which had been 2,400 per dollar before the crisis and depreciated to approximately 17,000 at the trough, stabilized through 1999 to 2000 in the 7,000 to 9,000 range — a permanent devaluation that made Indonesian exports significantly more competitive.
+
+Hong Kong, whose dollar peg to the US dollar at 7.80 had been under intense speculative pressure, maintained its peg through a combination of very high short-term interest rates (peaking above 20 percent on overnight rates during the August 1998 attack) and the government's unprecedented direct intervention in the Hong Kong equity market, purchasing approximately HK$118 billion (USD $15 billion) of Hang Seng constituent stocks in August 1998 to squeeze short sellers.
+
+China maintained its renminbi peg to the dollar throughout the crisis — a policy that attracted significant international credit for preventing a further round of competitive devaluation that might have deepened regional contagion.
+
+## The Chiang Mai Initiative: Regional Safety Net
+
+The crisis demonstrated that the existing international financial architecture — relying on IMF programs that could take months to negotiate and arrived with extensive conditionality — could not respond quickly enough to prevent contagion. Regional leaders drew the lesson that Asia needed its own financial safety net.
+
+The Chiang Mai Initiative, agreed in May 2000 at the annual meeting of the Asian Development Bank in Chiang Mai, Thailand, was the institutional response. Finance ministers of the ASEAN+3 nations (the ten ASEAN members plus China, Japan, and South Korea) agreed to establish a network of bilateral currency swap arrangements — agreements under which central banks would lend foreign currency to each other in emergencies.
+
+The initial swap network provided modest amounts: the bilateral agreements totaled approximately $50 billion in aggregate capacity. The framework was subsequently multilateralized and expanded. By 2012, the Chiang Mai Initiative Multilateralization had grown to $240 billion in committed capacity, with a governing framework and surveillance mechanism modeled partly on the IMF's Article IV process.
+
+The CMI represented Asia's first significant step toward regional monetary cooperation — a recognition that the region's economies were too interdependent to address financial crises in isolation and too large to rely exclusively on IMF programs that came with politically unacceptable conditionality.
+
+## The Reserve Accumulation Policy Shift
+
+The most consequential long-term consequence of the 1997–1998 crisis was the shift in Asian reserve management philosophy.
+
+Before the crisis, the conventional wisdom was that developing countries needed to hold foreign exchange reserves equivalent to roughly three months of imports — sufficient to manage ordinary balance of payments fluctuations. The crisis demonstrated that this buffer was catastrophically inadequate when capital account reversals were possible: South Korea had used most of its reserves defending the won in just weeks before approaching the IMF.
+
+The post-crisis response, across all affected Asian economies, was systematic reserve accumulation far beyond any previous benchmark. South Korea's foreign exchange reserves grew from $8.9 billion at the crisis trough in late 1997 to $96 billion by 2002 and $300 billion by 2007. China's reserves grew from $140 billion in 1997 to $1 trillion by 2006 and $4 trillion by 2014. Japan maintained reserves above $1 trillion. Total Asian central bank foreign exchange holdings exceeded $5 trillion by the mid-2000s.
+
+This accumulation served as insurance against future crises but had significant macroeconomic side effects. Central banks accumulating reserves were, by definition, purchasing dollar assets — particularly US Treasury securities — on a massive scale. This recycling of Asian trade surpluses into American debt markets contributed to the low long-term interest rate environment of the early 2000s that, in turn, contributed to the conditions for the 2008 crisis.
+
+The policy that Asia adopted to protect itself from a repeat of 1997 inadvertently became one of the structural inputs to the next global financial catastrophe.

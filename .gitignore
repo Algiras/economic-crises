@@ -1,0 +1,28 @@
+# Node
+video/node_modules/
+video/.cache/
+video/.remotion/
+
+# Build outputs
+video/out/
+
+# Quarto cache
+book/.quarto/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large audio — excluded from git, stored in GitHub Release
+video/public/audio/chunks/
+video/public/audio/bgm.wav
+
+# Logs
+*.log
+nohup.out

@@ -1,0 +1,67 @@
+# The 2008 Crisis: Problems and Approaches Tried
+
+## The Architecture of Catastrophe
+
+The 2008 financial crisis did not begin in the headlines. It began in the plumbing — in the overnight lending markets, the commercial paper programs, and the repo agreements that allowed the $12 trillion shadow banking system to function. Shadow banking, a term coined by economist Paul McCulley in 2007, described the constellation of money market funds, structured investment vehicles, asset-backed commercial paper conduits, and broker-dealer funding networks that had grown, largely outside regulatory oversight, to roughly equal the size of the traditional insured banking system. Unlike traditional banks, these institutions had no access to Federal Reserve emergency lending, no deposit insurance, and no meaningful capital buffers. They were, in the language of crisis economists, susceptible to runs — not by individual depositors lined up at teller windows, but by institutional investors withdrawing overnight funding.
+
+When housing prices began falling in 2006 and mortgage delinquencies rose, the securities built from those mortgages — collateralised debt obligations, mortgage-backed securities, and the derivatives layered upon them — began losing value in ways that their ratings, overwhelmingly triple-A, had declared impossible. The losses were not, initially, catastrophic in absolute terms. But because these securities were embedded throughout the shadow banking system as collateral for short-term borrowing, their impairment triggered margin calls, asset liquidations, and funding withdrawals that had the character of a bank run without the visible queue.
+
+The core problems that policymakers faced in 2008 were distinct but mutually reinforcing: a shadow banking system without a lender of last resort; bank capital destroyed by mortgage security losses; interbank lending frozen by mutual uncertainty about which institutions were insolvent; and, from September 15, 2008, a global panic triggered by Lehman Brothers' bankruptcy that threatened to convert a credit crisis into an economic collapse.
+
+## The US Response: Comprehensive Intervention
+
+The American approach to the crisis was the most expansive intervention in peacetime financial history, assembled under acute time pressure by institutions that were improvising the tools as they deployed them.
+
+The Federal Reserve's first and most consequential decision was to extend its traditional lender-of-last-resort function — designed for insured commercial banks — to the shadow banking institutions that the crisis was actually destroying. The Primary Dealer Credit Facility, established in March 2008 following the near-collapse of Bear Stearns, allowed investment banks to borrow from the Fed against a wide range of collateral. The Commercial Paper Funding Facility, the Money Market Investor Funding Facility, and the Asset-Backed Commercial Paper Money Market Mutual Fund Liquidity Facility each addressed specific nodes of the freezing system. These were not gradual policy adjustments. They were novel institutions created over weekends.
+
+The Troubled Asset Relief Program, authorised by Congress at $700 billion in October 2008, became the centrepiece of the fiscal response. Secretary Paulson's original design — purchasing toxic mortgage assets from bank balance sheets — was abandoned within weeks when it proved too slow and complex. Instead, TARP capital was injected directly into banks, effectively recapitalising the system by government fiat.
+
+Three rounds of quantitative easing between 2008 and 2014 expanded the Federal Reserve's balance sheet from approximately $900 billion to $4.5 trillion. The American Recovery and Reinvestment Act of February 2009 authorised $787 billion in fiscal stimulus. At the time, ARRA was the largest single peacetime fiscal expansion in US history. The controversy surrounding it was also considerable: the Obama administration's internal estimates, later disclosed by Christina Romer and Jared Bernstein, suggested that an effective stimulus would require between $1.2 and $1.8 trillion. The final figure was constrained by the arithmetic of Senate moderation. The gap between what economists believed necessary and what politics made possible was estimated at $500 billion to $1 trillion — a shortfall that contributed to the slowest post-recession recovery since World War II.
+
+## The UK Approach: Nationalisation as Triage
+
+The United Kingdom's experience offered a parallel experiment in intervention logic, with notable distinctions at the margin.
+
+Northern Rock, a British mortgage lender heavily dependent on wholesale funding markets rather than retail deposits, became the first British bank run since 1866 when television images of queuing depositors in September 2007 preceded its nationalisation in February 2008 — the first UK bank nationalisation since 1975. The episode demonstrated that bank runs were not merely a feature of the pre-deposit-insurance era; they could be triggered by publicly visible stress signals even when underlying solvency was uncertain.
+
+The British recapitalisation of Royal Bank of Scotland and Lloyds TSB in October 2008 — executed simultaneously with the US TARP deployments and amounting to approximately £65 billion in combined public equity investment — was in some respects ahead of the American model. The UK government took larger equity stakes, which proved more costly in the short term but gave taxpayers greater upside from eventual recovery. The Bank of England launched its own quantitative easing program, ultimately purchasing £375 billion in gilts, though at a scale proportionally smaller than the Fed's.
+
+## Iceland: The Contrarian Experiment
+
+Iceland offers the most radical natural experiment of the crisis — and the most politically inconvenient data for advocates of bailout orthodoxy.
+
+When Iceland's three largest banks — Kaupthing, Landsbanki, and Glitnir — collapsed in October 2008 with combined liabilities approximately ten times Icelandic GDP, the government declined to honour their debts. The banks were placed into receivership. Foreign creditors, including approximately 340,000 British and Dutch retail depositors who had placed savings in Icesave accounts, were ultimately only partially compensated. The Icelandic krona was allowed to depreciate sharply — it fell approximately 50% against the euro — and capital controls were imposed to prevent further outflows.
+
+The immediate consequences were severe: GDP contracted 6.6% in 2009, unemployment rose from 1% to 9%, and the IMF was called in for emergency support. But by 2012, Iceland had achieved one of the fastest recoveries of any crisis country, with unemployment falling below 5% and GDP growth returning to positive territory. The decision to let banks fail meant that the banking system's debts did not become sovereign debts — a distinction with enormous fiscal consequences. Iceland also prosecuted 26 bankers, resulting in prison sentences, including for the former chief executives of Kaupthing and Glitnir.
+
+Whether the Icelandic outcome was replicable is contested. Iceland's small size, its own currency, its existing welfare state, and its specific economic structure — significant fishing industry, natural resources — made its situation distinct from that of major economies whose banking systems were integrated into global payment infrastructure. A Lehman-style failure at JPMorgan would have had consequences of a categorically different order than the Kaupthing collapse.
+
+## Ireland: The Cost of Universal Guarantee
+
+Ireland's policy choice sits at the opposite pole from Iceland's and produced opposite consequences.
+
+On September 30, 2008 — two weeks after Lehman's bankruptcy — the Irish government announced a blanket guarantee covering all deposits, bonds, and other liabilities of the six major Irish financial institutions. The guarantee extended to approximately €400 billion in liabilities, representing twice Irish GDP. It was, as economist Morgan Kelly described it, "the most expensive government decision in history."
+
+The guarantee transformed a banking crisis into a sovereign crisis. When Irish banks' losses materialised — driven by a domestic property bubble that had been more extreme even than the American one — the state absorbed losses that would otherwise have fallen on bondholders. Irish GDP fell 14% between 2007 and 2010. The subsequent bailout from the EU and IMF in November 2010 came with austerity conditions that compressed public services and wages for the following five years. Irish unemployment reached 15.1% in 2012.
+
+The Irish case became the defining cautionary example of blanket guarantee policy: by socialising all bank losses without condition, the government eliminated the market discipline that might have imposed losses on creditors who had extended credit carelessly, and transferred those losses to citizens who had no role in creating them.
+
+## The Eurozone: Institutional Fragility and the Draghi Moment
+
+The Eurozone crisis was, at its core, a crisis of institutional design — a currency union without fiscal union, attempting to manage divergent economic conditions with a single monetary policy.
+
+The European Central Bank's initial response to the 2008 shock was hampered by a mandate interpreted narrowly as inflation control and by German institutional resistance to policies that resembled fiscal transfers between member states. Where the Fed cut rates aggressively and expanded its balance sheet with new facilities, the ECB moved more cautiously — and famously raised rates twice in 2011, into a sovereign debt crisis, to control inflation. Germany's opposition to any form of Eurobond or fiscal mutualization meant that periphery countries facing banking crises had no access to federal fiscal backstop. They could neither devalue nor borrow at acceptable rates nor rely on transfers. The result was a prolonged secondary crisis that the US, with its unified institutions, largely avoided.
+
+The resolution came from an unexpected quarter. In July 2012, ECB President Mario Draghi told an investment conference in London that the ECB would do "whatever it takes" to preserve the euro — "and believe me, it will be enough." The announcement of Outright Monetary Transactions, which would allow the ECB to purchase sovereign bonds in unlimited quantities from distressed member states subject to conditions, ended the speculative attack on peripheral sovereign debt within weeks. No OMT purchases were ever made. The credible commitment was sufficient.
+
+## Lehman vs Bear Stearns: The Moral Hazard Calculation
+
+The asymmetry between the March 2008 rescue of Bear Stearns and the September 2008 decision to allow Lehman Brothers to fail remains among the most debated policy choices of the crisis.
+
+Bear Stearns, with $400 billion in assets and a dense web of counterparty obligations, was absorbed by JPMorgan Chase in a Fed-facilitated transaction in which the Federal Reserve provided a $29 billion non-recourse loan against Bear's most problematic assets. The intervention was justified on systemic grounds: Bear's failure, regulators argued, would trigger a cascade of counterparty defaults that the system was not prepared to absorb.
+
+When Lehman Brothers faced similar pressure six months later, Treasury Secretary Paulson and Fed Chairman Bernanke declined to provide equivalent support. The moral hazard argument — that rescuing every failing institution would eliminate market discipline — was partly genuine and partly rhetorical cover for a legal judgment that the Fed lacked the statutory authority to lend to an institution it judged insolvent rather than merely illiquid. The consequences were not ambiguous. Lehman's September 15 bankruptcy triggered the Reserve Primary Fund's "breaking the buck," set off a $300 billion withdrawal from money market funds in 48 hours, caused the commercial paper market to seize, and produced the most acute phase of the global financial panic.
+
+Ben Bernanke later acknowledged, in congressional testimony and in his memoir, that the failure to save Lehman was not a principled decision about moral hazard but a reflection of genuine legal constraints. Whether better legal architecture would have changed the outcome — or whether a Lehman rescue would have simply delayed the panic — remains disputed in the crisis literature.
+
+The approaches tried across these different jurisdictions shared a family resemblance — government intervention, expanded central bank activity, capital injections — but differed substantially in speed, scale, and distribution of losses. Those differences produced strikingly different outcomes for the populations who lived through them.

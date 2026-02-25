@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Economic Crises Explained — A Documentary Series</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --bg: #0d1b2a;
+      --surface: #112233;
+      --accent: #4e9ff0;
+      --accent2: #f0ad4e;
+      --text: #e8e8e8;
+      --muted: #8899aa;
+      --red: #e05c5c;
+    }
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Segoe UI', system-ui, sans-serif;
+      line-height: 1.6;
+    }
+    header {
+      background: linear-gradient(135deg, #0d1b2a 0%, #112233 60%, #1a3050 100%);
+      padding: 60px 24px 48px;
+      text-align: center;
+      border-bottom: 2px solid var(--accent);
+    }
+    header .label {
+      display: inline-block;
+      background: var(--accent);
+      color: #0d1b2a;
+      font-size: 0.75rem;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      padding: 4px 12px;
+      border-radius: 3px;
+      margin-bottom: 18px;
+    }
+    h1 {
+      font-size: clamp(1.8rem, 5vw, 3rem);
+      font-weight: 700;
+      margin-bottom: 10px;
+      color: #fff;
+    }
+    h1 span { color: var(--accent); }
+    .subtitle {
+      font-size: 1.1rem;
+      color: var(--muted);
+      max-width: 600px;
+      margin: 0 auto 28px;
+    }
+    .cta-group {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      justify-content: center;
+    }
+    .btn {
+      display: inline-block;
+      padding: 12px 28px;
+      border-radius: 6px;
+      font-weight: 600;
+      text-decoration: none;
+      font-size: 0.95rem;
+      transition: opacity 0.2s;
+    }
+    .btn:hover { opacity: 0.85; }
+    .btn-primary { background: var(--accent); color: #0d1b2a; }
+    .btn-outline { border: 2px solid var(--accent); color: var(--accent); }
+    .btn-amber { border: 2px solid var(--accent2); color: var(--accent2); }
+
+    .video-section {
+      max-width: 960px;
+      margin: 48px auto;
+      padding: 0 24px;
+    }
+    .video-section h2 {
+      color: var(--accent);
+      margin-bottom: 16px;
+      font-size: 1.2rem;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+    }
+    .video-wrapper {
+      background: #000;
+      border: 1px solid #1e3040;
+      border-radius: 8px;
+      overflow: hidden;
+      aspect-ratio: 16/9;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .video-wrapper video {
+      width: 100%;
+      height: 100%;
+    }
+    .video-placeholder {
+      color: var(--muted);
+      text-align: center;
+      padding: 40px;
+    }
+    .video-placeholder p { margin-top: 8px; font-size: 0.9rem; }
+
+    .episodes {
+      max-width: 960px;
+      margin: 0 auto 56px;
+      padding: 0 24px;
+    }
+    .episodes h2 {
+      color: var(--accent);
+      margin-bottom: 24px;
+      font-size: 1.2rem;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+    }
+    .episode-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 20px;
+    }
+    .episode-card {
+      background: var(--surface);
+      border: 1px solid #1e3040;
+      border-radius: 8px;
+      padding: 20px;
+      border-left: 4px solid var(--accent);
+    }
+    .episode-card .ep-num {
+      font-size: 0.75rem;
+      color: var(--accent);
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+    .episode-card h3 {
+      font-size: 1rem;
+      margin: 6px 0 8px;
+      color: #fff;
+    }
+    .episode-card p {
+      font-size: 0.85rem;
+      color: var(--muted);
+      line-height: 1.5;
+    }
+    .episode-card .acts {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-top: 12px;
+    }
+    .act-tag {
+      font-size: 0.7rem;
+      padding: 2px 8px;
+      border-radius: 3px;
+      background: #1e3040;
+      color: var(--muted);
+    }
+
+    .book-section {
+      background: var(--surface);
+      border-top: 1px solid #1e3040;
+      border-bottom: 1px solid #1e3040;
+      padding: 48px 24px;
+    }
+    .book-inner {
+      max-width: 760px;
+      margin: 0 auto;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 36px;
+      align-items: flex-start;
+    }
+    .book-text { flex: 1; min-width: 260px; }
+    .book-text h2 {
+      color: var(--accent);
+      margin-bottom: 12px;
+      font-size: 1.2rem;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+    }
+    .book-text p { color: var(--muted); margin-bottom: 20px; font-size: 0.95rem; }
+    .book-links { display: flex; flex-wrap: wrap; gap: 10px; }
+
+    footer {
+      text-align: center;
+      padding: 32px 24px;
+      color: var(--muted);
+      font-size: 0.85rem;
+    }
+    footer a { color: var(--accent); text-decoration: none; }
+    footer a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="label">Documentary Series</div>
+  <h1><span>Economic Crises</span> Explained</h1>
+  <p class="subtitle">Six episodes. Six crises. A century of economic management — its successes, its failures, and the human cost of both.</p>
+  <div class="cta-group">
+    <a href="book/index.html" class="btn btn-primary">Read the Book</a>
+    <a href="book/Economic-Crises-Explained.pdf" class="btn btn-outline">Download PDF</a>
+    <a href="book/Economic-Crises-Explained.epub" class="btn btn-amber">Download EPUB</a>
+  </div>
+</header>
+
+<section class="video-section">
+  <h2>Full Documentary</h2>
+  <div class="video-wrapper">
+    <div class="video-placeholder">
+      <strong style="color: var(--text); font-size: 1.1rem;">Video Coming Soon</strong>
+      <p>The full documentary will be available here once rendered.<br>Read the companion book while you wait.</p>
+    </div>
+  </div>
+</section>
+
+<section class="episodes">
+  <h2>Episodes</h2>
+  <div class="episode-grid">
+    <div class="episode-card">
+      <div class="ep-num">Episode 1 &mdash; 1929–1939</div>
+      <h3>The Great Depression</h3>
+      <p>The foundational catastrophe that redefined the relationship between governments and economies.</p>
+      <div class="acts">
+        <span class="act-tag">Event</span>
+        <span class="act-tag">Problems</span>
+        <span class="act-tag">Solutions</span>
+        <span class="act-tag">Results</span>
+      </div>
+    </div>
+    <div class="episode-card">
+      <div class="ep-num">Episode 2 &mdash; 1970s</div>
+      <h3>The Stagflation Crisis</h3>
+      <p>The decade that destroyed the Keynesian consensus and gave birth to inflation targeting.</p>
+      <div class="acts">
+        <span class="act-tag">Event</span>
+        <span class="act-tag">Problems</span>
+        <span class="act-tag">Solutions</span>
+        <span class="act-tag">Results</span>
+      </div>
+    </div>
+    <div class="episode-card">
+      <div class="ep-num">Episode 3 &mdash; 1997–1998</div>
+      <h3>The Asian Financial Crisis</h3>
+      <p>A warning about capital flow liberalisation that was only partially heard.</p>
+      <div class="acts">
+        <span class="act-tag">Event</span>
+        <span class="act-tag">Problems</span>
+        <span class="act-tag">Solutions</span>
+        <span class="act-tag">Results</span>
+      </div>
+    </div>
+    <div class="episode-card">
+      <div class="ep-num">Episode 4 &mdash; 2008</div>
+      <h3>The Global Financial Crisis</h3>
+      <p>The near-collapse of the world financial system and the decade of slow recovery that followed.</p>
+      <div class="acts">
+        <span class="act-tag">Event</span>
+        <span class="act-tag">Problems</span>
+        <span class="act-tag">Solutions</span>
+        <span class="act-tag">Results</span>
+      </div>
+    </div>
+    <div class="episode-card">
+      <div class="ep-num">Episode 5 &mdash; 2020</div>
+      <h3>The COVID-19 Economic Shock</h3>
+      <p>The fastest economic contraction in modern history and the most rapid policy response ever deployed.</p>
+      <div class="acts">
+        <span class="act-tag">Event</span>
+        <span class="act-tag">Problems</span>
+        <span class="act-tag">Solutions</span>
+        <span class="act-tag">Results</span>
+      </div>
+    </div>
+    <div class="episode-card">
+      <div class="ep-num">Episode 6 &mdash; 2021–2023</div>
+      <h3>The Great Inflation</h3>
+      <p>The return of inflation after 30 years of quiescence, and the tightening cycle that followed.</p>
+      <div class="acts">
+        <span class="act-tag">Event</span>
+        <span class="act-tag">Problems</span>
+        <span class="act-tag">Solutions</span>
+        <span class="act-tag">Results</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="book-section">
+  <div class="book-inner">
+    <div class="book-text">
+      <h2>Companion Book</h2>
+      <p>Each episode is accompanied by a fully referenced chapter covering the quantitative record — GDP collapses, unemployment surges, inequality shifts, and the sociological transformations that economic crises leave in their wake.</p>
+      <p>The book is available as a web edition, PDF, and EPUB.</p>
+      <div class="book-links">
+        <a href="book/index.html" class="btn btn-primary">Web Edition</a>
+        <a href="book/Economic-Crises-Explained.pdf" class="btn btn-outline">PDF</a>
+        <a href="book/Economic-Crises-Explained.epub" class="btn btn-amber">EPUB</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <p>
+    <strong>Economic Crises Explained</strong> &mdash; Algimantas K., 2026 &nbsp;|&nbsp;
+    <a href="https://github.com/Algiras/economic-crises">GitHub</a>
+  </p>
+  <p style="margin-top:8px;">Code: MIT License &nbsp;&bull;&nbsp; Content: CC BY-NC-ND 4.0</p>
+</footer>
+
+</body>
+</html>

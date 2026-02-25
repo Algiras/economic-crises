@@ -1,0 +1,77 @@
+# The 2008 Global Financial Crisis: The Solutions
+
+## October 13, 2008
+
+At 3:00 PM on Monday, October 13, 2008, nine men who between them ran the largest financial institutions in the United States filed into the Treasury Department's ornate conference room in Washington. They included the CEOs of JPMorgan Chase, Bank of America, Citigroup, Wells Fargo, Goldman Sachs, Morgan Stanley, Merrill Lynch, Bank of New York Mellon, and State Street. Treasury Secretary Henry Paulson stood at the end of the table.
+
+Paulson had prepared a one-page term sheet. He walked the nine men through it. The federal government would purchase preferred equity stakes in their banks — $25 billion each for the four largest, smaller amounts for the others, $125 billion in total. The terms were non-negotiable. The capital was coming whether the banks agreed or not. The meeting lasted less than an hour. All nine signed before leaving.
+
+This was the Troubled Asset Relief Program's pivot from its original concept — purchasing toxic mortgage securities from banks to relieve their balance sheets — to direct equity investment. The original TARP structure, authorized by Congress on October 3 at $700 billion, had proven impractical: valuing and purchasing the mortgage securities was too slow and too complex for a crisis moving in real time. Direct capital injection was faster, simpler, and more powerful.
+
+The October 13 meeting did not end the crisis. The Dow Jones Industrial Average, which had fallen 22 percent in the preceding week, rose 11.1 percent the following day — then continued to fall. The actual bottom would not come until March 2009. But the meeting established that the federal government would not allow the core banking system to collapse.
+
+## The Fed's Emergency Facilities
+
+The Federal Reserve's response to the 2008 crisis was the most expansive use of its emergency authority since the Great Depression. The central bank deployed a series of novel lending facilities under Section 13(3) of the Federal Reserve Act, which authorizes emergency lending to non-bank entities in "unusual and exigent circumstances."
+
+The Term Auction Facility (TAF), launched December 12, 2007, auctioned fixed amounts of 28- and 84-day credit to depository institutions against a wide range of collateral. At its peak in March 2009, TAF had $493 billion outstanding. It was designed to address the stigma attached to borrowing from the Fed's existing discount window: because all eligible banks participated in auctions simultaneously, no individual bank was identified as weak by borrowing.
+
+The Term Securities Lending Facility (TSLF), launched March 11, 2008, allowed primary dealers — the investment banks that participate directly in Treasury auctions — to swap mortgage-backed securities and other collateral for Treasury securities for 28-day periods. Peak outstanding balance: $236 billion. This directly addressed the liquidity problem at investment banks, which held large portfolios of mortgage securities that had become unmarketable.
+
+The Primary Dealer Credit Facility (PDCF), launched March 17, 2008 — two days after Bear Stearns' collapse forced its emergency sale to JPMorgan — provided overnight lending directly to primary dealers against a broad range of collateral. Peak outstanding: $156 billion. This was the first time since the Great Depression that the Fed had lent directly to investment banks.
+
+The Commercial Paper Funding Facility (CPFF), launched October 7, 2008, purchased commercial paper directly from issuers — short-term corporate debt that companies use to fund operating expenses. The money market fund sector, which had been the primary purchaser of commercial paper, had frozen after the Reserve Primary Fund "broke the buck" on September 16. At peak, the CPFF held $351 billion in commercial paper.
+
+Combined across all facilities, the Fed's peak lending outstanding reached approximately $1.5 trillion in December 2008. The Federal Reserve's balance sheet, which had stood at approximately $900 billion before the crisis, reached $2.3 trillion by the end of 2008.
+
+## Quantitative Easing: Three Rounds
+
+When conventional monetary policy reached its effective limit — the federal funds rate was cut to a target range of 0 to 0.25 percent in December 2008 — the Fed moved to unconventional asset purchases, expanding the money supply by purchasing long-term securities.
+
+QE1, announced November 25, 2008, committed the Fed to purchasing $600 billion in agency mortgage-backed securities and agency debt. The program was expanded to $1.25 trillion in MBS and $300 billion in Treasury securities in March 2009. The stated mechanism was to reduce long-term interest rates by removing duration risk from private investors' balance sheets and to signal the Fed's commitment to easy monetary conditions. Total QE1 purchases: approximately $1.75 trillion. The program concluded in June 2010.
+
+QE2, announced November 3, 2010, committed $600 billion in additional Treasury purchases at a rate of $75 billion per month through June 2011. The program was announced at a point when economic recovery was proceeding but unemployment remained elevated at 9.7 percent. QE2 was more controversial than QE1: critics argued that further asset purchases risked inflation and distorted financial markets without providing meaningful real economy stimulus.
+
+QE3, announced September 13, 2012, was the first open-ended QE program — $40 billion per month in MBS purchases, expanded in December 2012 to $85 billion per month (adding $45 billion in Treasury purchases). The program explicitly linked asset purchases to unemployment, with purchases continuing until unemployment fell "substantially." The Fed's unemployment threshold was set at 6.5 percent. QE3 began tapering in December 2013 and concluded in October 2014. Total QE3 purchases: approximately $1.6 trillion.
+
+Combined across all three rounds, the Fed's balance sheet expanded from $900 billion to approximately $4.5 trillion — a five-fold increase that remained in place for years and formed the starting point for the pandemic-era expansion.
+
+## The Fiscal Response: ARRA
+
+The American Recovery and Reinvestment Act, signed by President Obama on February 17, 2009, provided $787 billion in fiscal stimulus — subsequently revised to $831 billion in the Congressional Budget Office's final accounting. The composition reflected the political compromise required to pass the bill through a Senate that needed three Republican votes.
+
+Tax relief accounted for $288 billion: primarily the Making Work Pay credit ($116 billion, providing up to $400 per individual and $800 per couple), Alternative Minimum Tax relief, business tax incentives, and first-time homebuyer credits.
+
+Aid to state and local governments totaled $144 billion: Medicaid funding ($87 billion) that prevented state benefit cuts, education stabilization funds ($54 billion), and other grants. This component was identified by economists including Moody's Analytics chief economist Mark Zandi as among the most stimulative per dollar of any ARRA category, because state and local governments are constitutionally prohibited from deficit spending and were otherwise forced to cut spending in the recession.
+
+Infrastructure spending totaled $105 billion: transportation ($48 billion), energy efficiency and renewable energy ($61 billion, including the smart grid program and weatherization assistance), science research ($16 billion), and health information technology ($20 billion).
+
+Social program extensions — extended unemployment benefits, COBRA health insurance subsidies, increased food stamp benefits — totaled approximately $100 billion.
+
+The Congressional Budget Office estimated ARRA's peak employment effect at 3.3 million jobs saved or created in the third quarter of 2010. The counterfactual — what unemployment would have been without ARRA — was naturally contested, but CBO estimates suggested the unemployment rate would have peaked 1.5 to 2 percentage points higher without the program.
+
+## Dodd-Frank: Restructuring the System
+
+The Dodd-Frank Wall Street Reform and Consumer Protection Act, signed July 21, 2010, was the most comprehensive financial regulatory legislation since the Banking Act of 1933. Its 848 pages, 16 titles, and 398 required regulatory rulemakings addressed virtually every dimension of the crisis.
+
+The Volcker Rule, named after Paul Volcker who had proposed it, prohibited banks from engaging in proprietary trading — using their own capital to speculate in financial markets — and restricted their investments in hedge funds and private equity. The rule's premise was Glass-Steagall's underlying logic: institutions backstopped by federal deposit insurance should not take on speculative risk with insured deposits. Final implementation rules, after years of industry negotiation, took effect July 21, 2015.
+
+The systemic risk framework created new institutional infrastructure. The Financial Stability Oversight Council, chaired by the Treasury Secretary with all major financial regulators as members, was charged with identifying emerging systemic risks. The Office of Financial Research provided the FSOC with data collection and analytical capacity. Specific non-bank financial institutions could be designated as "systemically important" and subjected to enhanced Fed supervision.
+
+Resolution authority — Title II of Dodd-Frank — provided a legal mechanism for the FDIC to wind down systemically important failing financial institutions without the chaos of bankruptcy proceedings or the moral hazard of bailout. The "living will" requirement obligated large institutions to submit annually updated plans for their own orderly resolution.
+
+Annual stress tests, required for all institutions with assets over $10 billion and conducted by the Federal Reserve, subjected banks to hypothetical severely adverse economic scenarios to assess whether they held adequate capital. Banks that failed stress tests were required to submit capital improvement plans and restricted from returning capital to shareholders.
+
+The Consumer Financial Protection Bureau, created within the Federal Reserve system with independent funding, assumed regulatory authority over mortgage origination, credit cards, student loans, and other consumer financial products.
+
+## "Whatever It Takes": July 26, 2012
+
+The European sovereign debt crisis — which had threatened to dissolve the Eurozone through 2011 and into 2012, driving Greek, Italian, Spanish, and Portuguese government borrowing costs to unsustainable levels — was addressed by an act of central bank communication that became among the most studied in modern monetary history.
+
+Mario Draghi, president of the European Central Bank, was speaking at a Global Investment Conference in London on July 26, 2012. He was asked about the ECB's capacity to address the crisis. His prepared remarks included the sentence: "Within our mandate, the ECB is ready to do whatever it takes to preserve the euro." He then added, departing from prepared text: "And believe me, it will be enough."
+
+The phrase "whatever it takes" — six words in the English translation — was sufficient. Italian ten-year yields, which had reached 6.6 percent the day before, fell immediately. Spanish yields fell from 7.6 percent toward 5 percent over the following weeks. The crisis that had required serial emergency summits, repeated bailout package expansions for Greece, Portugal, and Ireland, and constant speculation about Eurozone dissolution essentially ended with those three words.
+
+The mechanism was the announcement of Outright Monetary Transactions — a program under which the ECB would purchase potentially unlimited quantities of sovereign bonds in secondary markets for countries that had entered an ESM/EFSF adjustment program. The crucial feature was the removal of any stated limit: unlike previous ECB programs (the Securities Markets Programme had capped purchases at levels markets could test), OMT was theoretically unbounded. Markets chose not to test the ECB's commitment. OMT was announced in September 2012. It has never been used.
+
+The lesson of Draghi's July 2012 speech is that credible central bank commitment — when markets believe the central bank has both the intent and the capacity to act — can resolve crises without deploying the committed resources. The communication itself was the instrument.

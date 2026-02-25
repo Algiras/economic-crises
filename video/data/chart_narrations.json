@@ -1,0 +1,22 @@
+[
+  {
+    "id": "chart_forecast_errors",
+    "text": "This chart reveals the systematic overconfidence of economic forecasting. The International Monetary Fund's growth predictions, measured against actual outcomes across 63 countries, show average errors of over 1.5 percentage points just one year ahead. In recession years, the IMF correctly predicted the direction of growth barely more than chance. The range of outcomes consistently exceeded the stated confidence intervals. This is not a failure of effort — it is the irreducible property of forecasting complex adaptive systems."
+  },
+  {
+    "id": "chart_debt_gdp",
+    "text": "Government debt as a share of GDP across G7 economies has risen from roughly 40 percent in 1980 to over 120 percent today. This increase was not driven by any single catastrophic event. It accumulated gradually through hundreds of individual policy decisions, each making sense in isolation, each responding to the structural political incentive to spend today and service the costs tomorrow. The ratchet moves in one direction. The long-run consequences are genuinely uncertain — which is itself a significant part of the problem."
+  },
+  {
+    "id": "chart_inflation_target",
+    "text": "Central banks in major economies adopted explicit inflation targets in the 1990s, and inflation did fall. But the 2021 to 2023 surge demonstrated the limits of this framework. Inflation rose faster and lasted longer than central bank models predicted. The 'transitory' assessment, communicated with confidence, proved wrong. When the error became undeniable, rates were raised at the fastest pace in four decades. The instrument that was supposed to provide stability had to become the source of acute short-term pain."
+  },
+  {
+    "id": "chart_complexity_index",
+    "text": "The Economic Complexity Index measures the diversity and sophistication of a country's productive capabilities. More complex economies produce a wider range of products requiring specialised knowledge. The striking finding is that economic complexity predicts long-run growth better than conventional inputs like capital and education alone — suggesting that what matters most about an economy is not its measurable resources but the configuration of knowledge embedded in its institutions and workforce. Exactly the kind of knowledge that cannot be centrally managed."
+  },
+  {
+    "id": "chart_behavioral_biases",
+    "text": "Laboratory and field experiments have now documented the same cognitive biases across dozens of cultures and economic contexts. Loss aversion, present bias, overconfidence, and herding behaviour are not quirks of specific populations — they are features of human cognition that shape economic behaviour globally. The economic models used to manage economies assume these biases away. The economies being managed are full of them. The gap between the model and the reality it is trying to describe is the source of some of the most persistent failures in economic management."
+  }
+]

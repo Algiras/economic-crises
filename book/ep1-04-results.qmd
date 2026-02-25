@@ -1,0 +1,55 @@
+---
+title: "The Great Depression: What Came of It"
+episode: 1
+chapter: 4
+---
+
+## What the Ledger Shows
+
+In 1963, Milton Friedman and Anna Schwartz published "A Monetary History of the United States" — a book largely about the 1930s written by two economists who had lived through the Depression as children. Their central finding was precise and damning: the Federal Reserve had allowed the money supply to contract by 33% between 1929 and 1933, and this contraction, which was not inevitable, had turned a severe recession into a catastrophe. The book was reviewed, argued over, and eventually absorbed into the standard economic toolkit. Ben Bernanke cited it explicitly when he authorized the Federal Reserve's extraordinary interventions in 2008.
+
+That is what the Depression produced: data that outlasted the suffering it encoded, and institutions that reshaped the relationship between governments and economies for the rest of the century. Some of those changes were clearly beneficial. Some were clearly catastrophic. Many remain contested.
+
+## Positive Results
+
+**The FDIC ended bank runs.** The Federal Deposit Insurance Corporation, created in 1933, is perhaps the single most consequential institutional innovation of the New Deal. By insuring individual deposits — initially up to $2,500, now up to $250,000 — it eliminated the mechanism of bank runs at their root. Depositors with no rational reason to panic do not panic. Between 1934 and the savings-and-loan crisis of the 1980s, bank failures became rare, orderly, and non-contagious. The 9,000 bank failures of 1930-1933 were not repeated. A structural vulnerability that had amplified every financial crisis for a century was simply removed.
+
+**Financial regulation provided durable protection.** The Securities Exchange Act of 1934 created the SEC and mandated disclosure of material information to investors — ending the fraudulent securities markets of the 1920s. The Glass-Steagall Act of 1933 separated commercial banking from investment banking for 66 years, preventing institutions holding insured deposits from gambling those deposits in securities markets. Together, these two reforms produced the most stable period in American banking history. No major financial crisis struck the US banking system between 1934 and 1980. The correlation with the presence of Glass-Steagall is not coincidental.
+
+**Social Security created an automatic stabiliser.** The Social Security Act of 1935 established federal old-age pensions and unemployment insurance. The unemployment insurance component was specifically designed to function counter-cyclically: when unemployment rose, benefits automatically flowed to workers, maintaining purchasing power and cushioning demand contraction. This automatic stabiliser mechanism was exactly what had been absent in 1929-1933. In every subsequent American recession, it prevented the demand collapse from becoming as self-reinforcing as the Depression's.
+
+**The Keynesian framework was adopted globally.** The Depression forced a revolution in macroeconomic theory. Counter-cyclical fiscal policy — government spending more during downturns and less during booms — became the standard toolkit of economic management for the postwar world. The Bretton Woods conference of 1944, convened to design the postwar international economic order, created the IMF and World Bank explicitly to prevent the 1930s from recurring. The architects — including Keynes himself — had spent the decade watching economies destroy themselves with orthodoxy and were determined not to repeat the experience.
+
+**GDP recovered and the gold standard constraint was eliminated.** Real GDP recovered to its 1929 level by 1936 (before the 1937 relapse), and definitively surpassed it by 1940. The devaluation of the dollar against gold in 1934 — setting a new gold price of $35 per ounce, a 69% increase from $20.67 — freed monetary policy from the constraint that had amplified the collapse. The eventual Bretton Woods system replaced the rigid gold standard with a more flexible managed system that permitted exchange rate adjustment without deflationary crisis.
+
+## Negative Results
+
+**Human cost was catastrophic, and mortality was measurable.** Estimates of excess mortality attributable to the Depression — deaths above what would have occurred under normal economic conditions — range from 500,000 to 1 million Americans between 1929 and 1933. Suicide rates rose 22% between 1928 and 1932. Infant mortality, which had been declining, reversed. Malnutrition became widespread in regions where relief did not reach. These are not abstractions. They are the human denominator of the statistical tables.
+
+**The Dust Bowl compounded displacement.** Poor agricultural practices combined with severe drought to create the Dust Bowl across the Great Plains, displacing an estimated 2.5 million people from their homes during the 1930s. Approximately 200,000 migrated to California alone. The intersection of economic depression and environmental catastrophe produced the largest internal migration in American history to that point — documented by John Steinbeck in "The Grapes of Wrath" and by Dorothea Lange in photographs that remain among the most powerful social documents of the 20th century.
+
+**The Depression accelerated fascism and caused WWII.** Germany's unemployment at 30% in 1932, produced partly by Brüning's austerity and partly by the broader collapse of world trade, created the political conditions for Hitler's rise. The Nazi party received 37% of the vote in July 1932, when the Depression was at its worst, and 33% in November 1932. The causal chain from global financial crisis to global war, while involving many intervening steps, is not in serious historical dispute. The Second World War, which killed 70-85 million people, was the downstream consequence of the Depression's unresolved political instabilities.
+
+**Black Americans were systematically excluded from relief.** The New Deal's benefits were distributed through a deeply racially stratified system. Agricultural labor and domestic service — occupations in which Black workers were concentrated — were explicitly excluded from Social Security and the minimum wage provisions of the Fair Labor Standards Act. These exclusions reflected the political bargain Roosevelt made with Southern Democratic legislators whose votes he needed. Black unemployment during the Depression reached estimated rates of 50% or higher in some urban areas, nearly twice the white rate, and New Deal programs did not close this gap.
+
+**The 1937 premature tightening triggered a second recession.** In 1937, with the economy appearing to recover, Roosevelt responded to political pressure by cutting federal spending and allowing the new Social Security payroll tax to remove purchasing power from the economy, while the Federal Reserve simultaneously tightened. The result was a recession that sent unemployment from 14.3% back up to 19% in 1938 — proving that the recovery had been fragile and dependent on continued stimulus. The episode was a preview of policy mistakes that would be repeated in subsequent crises.
+
+## Neutral and Mixed Results
+
+**The New Deal did not end the Depression.** Unemployment in 1940, after seven years of New Deal programs, was still 14.6%. The American economy returned to full employment only when defense mobilisation for the Second World War generated federal spending at a scale that peacetime political constraints had made impossible. This fact is central to the ongoing debate about what actually worked. The New Deal mitigated and managed the Depression. It did not end it. Whether this reflects insufficient scale, wrong design, or the inherent limits of peacetime political economy is contested.
+
+**What ended the Depression was war spending.** Federal spending rose from approximately 10% of GDP in 1939 to 43% in 1943. Unemployment fell from 14.6% in 1940 to 1.2% in 1944. The arithmetic is unambiguous: the spending that ended the Depression was defence spending, at a scale and with a political legitimacy that ordinary counter-cyclical fiscal policy could not attain. Whether this means Keynesian fiscal policy works but requires more than policymakers were willing to provide, or whether it means something structurally different about war mobilisation, remains debated among economic historians.
+
+**The Glass-Steagall repeal question.** Glass-Steagall was repealed in 1999 by the Gramm-Leach-Bliley Act, in a deregulatory environment that judged its separation of commercial and investment banking as outdated. The 2008 financial crisis — involving many of the same institutional pathologies the 1930s reforms were designed to prevent — reignited the debate. Whether Glass-Steagall's presence would have prevented 2008 is contested. What is not contested is that the institutions designed in the 1930s were gradually dismantled in the decades before the next major crisis.
+
+## Sociological Impact
+
+The Depression's sociological effects were as profound as its economic ones, and in many cases more permanent.
+
+**Poverty.** Official poverty rates were not systematically measured in the 1930s, but contemporary surveys estimated that 40-50% of American families had incomes below subsistence levels at the Depression's nadir. The New Deal's relief programs reached perhaps 20 million people directly, but could not close the gap between need and capacity.
+
+**Inequality.** Inequality, as measured by top income shares, actually fell during the Depression years — partly because asset values (which accrue disproportionately to the wealthy) collapsed, and partly because the New Deal's labor protections strengthened workers' bargaining power. Top-1% income share fell from 23.9% in 1928 to 16.9% in 1938. The Depression paradoxically initiated the most egalitarian period in 20th-century American economic history, which persisted through the 1970s.
+
+**Political consequences.** The Depression permanently shifted the American electorate's expectations of government. The New Deal Democratic coalition — labor, urban immigrants, Southern whites, and eventually Black voters (partially) — dominated American politics for 40 years. The expectation that the federal government bore responsibility for economic welfare, which had been politically contested before 1929, became so thoroughly embedded that Ronald Reagan's 1980 campaign against it was understood as radical. The Depression created the framework within which all subsequent American economic politics took place.
+
+**Health and life expectancy.** Despite the acute mortality spike of 1929-1933, some researchers have found paradoxical long-run health effects: reduced industrial accident rates (because fewer people were working in dangerous conditions), lower alcohol consumption, and reduced vehicle accident deaths. These aggregate effects mask severe distributional suffering. The poor, the unemployed, and minorities experienced sharply worse health outcomes; the aggregate statistics reflect survivorship and changing behavior patterns, not the absence of suffering.

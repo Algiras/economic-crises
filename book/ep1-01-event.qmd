@@ -1,0 +1,49 @@
+# The Great Depression: How a Tuesday in October Ended an Era
+
+## The Last Ordinary Morning
+
+On October 28, 1929, a Monday that newspapers would later call Black Monday, Charles Mitchell — chairman of National City Bank, the largest bank in the United States — arrived at his Manhattan office to find the ticker tape already running an hour behind. By noon it was two hours behind. By the end of the day, $14 billion in market value had evaporated. The following day, Black Tuesday, another $11 billion vanished. Mitchell, who had spent the previous months publicly assuring Americans that stocks were sound and prosperity permanent, would be indicted for tax evasion within four years. The bank he had built into a colossus would survive only through government intervention.
+
+The Crash of 1929 did not cause the Great Depression by itself. But it was the signal flare that illuminated how much had already gone wrong — and it triggered a cascade of failures that would consume a decade, reshape democratic governance, and kill people by the hundreds of thousands.
+
+## The Architecture of Catastrophe
+
+The Depression was not a single event. It was a system failure, and like all system failures, it required the simultaneous collapse of multiple load-bearing structures.
+
+The first structure was credit. Through the 1920s, American banks had extended credit with minimal oversight. Margin buying — purchasing stocks with borrowed money, sometimes covering only 10% of the purchase price — had inflated equity markets to valuations disconnected from any plausible earnings. When prices fell, brokers issued margin calls. Investors sold whatever they could. Prices fell further. The feedback loop was self-reinforcing and merciless.
+
+The second structure was the banking system itself. American banking in 1929 was fragmented into more than 25,000 independent institutions, many of them small, undiversified, and operating in single agricultural counties already stressed by falling crop prices through the mid-1920s. When deposits fled, banks called in loans. Farmers who could not repay lost their land. Banks that could not collect closed. Between 1930 and 1933, approximately 9,000 banks failed — roughly one in three of all banks in the country. Deposits worth $7 billion were destroyed.
+
+The third structure was the Federal Reserve, created in 1913 specifically to prevent such panics. It did the opposite. Under the intellectual influence of what economists later called the "real bills doctrine" — the belief that credit should only finance productive commerce, not speculation — the Fed watched the banking system collapse and, in 1931, raised interest rates. The logic was to defend the gold standard. The consequence was to strangle whatever credit remained.
+
+Benjamin Strong, the governor of the New York Federal Reserve Bank who had managed monetary policy with relative sophistication through the 1920s, had died in 1928. His successors did not share his pragmatism. Monetary policy, at the moment it was needed most, became contractionary.
+
+## The International Dimension
+
+The Depression was not American in origin or consequence. It was global, and the mechanism of transmission was the gold standard.
+
+Under the interwar gold standard, currencies were pegged to gold at fixed rates. Countries running trade deficits lost gold, which contracted their money supplies, which forced deflation, which contracted their economies. Countries running surpluses — primarily the United States and France — were accumulating gold but not expanding their money supplies to match. The global monetary system was structurally deflationary.
+
+When the American economy contracted, it imported less, removing demand from Europe. European nations, already fragile from the First World War's debt burdens, began to crack. Germany — constrained by reparations obligations, dependent on American loans that now ceased — collapsed fastest. Between 1929 and 1932, German industrial production fell 42%. Unemployment reached 30% by 1932. Six million unemployed German workers provided the electoral fuel for a political movement that promised restoration of national greatness.
+
+World trade fell 66% between 1929 and 1934, accelerated by the Smoot-Hawley Tariff Act of 1930, which raised American import duties to historically high levels and triggered retaliatory tariffs from trading partners. The Smoot-Hawley Act did not cause the Depression, but it helped ensure that international commerce could not serve as a cushion against it.
+
+## Hoover's Response and Its Limits
+
+Herbert Hoover has been written into popular history as the man who did nothing while America starved. This is inaccurate but not entirely unfair.
+
+Hoover was not passive. He convened conferences of business leaders and urged them not to cut wages. He created the Reconstruction Finance Corporation to lend to struggling banks and railroads. He approved the Federal Home Loan Bank Act to support mortgage lending. He was, by the standards of his Republican predecessors, an interventionist.
+
+But Hoover was constrained by ideology and by the intellectual consensus of his era. He believed the federal government should not provide direct relief to individuals — that was the province of charity and local government. He believed the federal budget should be balanced even during economic contraction. In 1932, with unemployment above 20% and the economy still falling, he signed the Revenue Act of 1932, raising the top marginal income tax rate from 25% to 63% and increasing excise taxes. It was, by any measure of macroeconomic logic, exactly the wrong policy at the worst moment.
+
+When the Bonus Army — 43,000 veterans and their families, camping in Washington to demand early payment of promised military bonuses — was forcibly dispersed by General Douglas MacArthur's troops in July 1932, the images of soldiers routing impoverished veterans from a shantytown on the banks of the Potomac became a defining symbol of an administration that had lost moral authority.
+
+## The Election of 1932
+
+Franklin Delano Roosevelt won 472 electoral votes to Hoover's 59. He carried 42 of 48 states. It was not simply an election. It was a verdict.
+
+Roosevelt's campaign had been short on specifics but long on tone. He promised a "new deal for the American people." He radiated confidence in an era of despair. He was, by temperament and circumstance, exactly what the moment required: a man who could project optimism without being delusional, who could experiment without being reckless, and who understood that political legitimacy required visible action.
+
+The action that followed — the New Deal — would transform the relationship between the American state and the American economy in ways that persisted for half a century. But before any policy could work, the economic decline had to stop. Between 1929 and 1933, it had not stopped. It had accelerated into something that most living Americans had no framework to understand.
+
+What those four years looked like in numbers is the subject of the next chapter. The numbers are not comfortable.

@@ -1,0 +1,35 @@
+# The Asian Financial Crisis: The Event
+
+In late June 1997, Chalee Srisawat ran a small import business in Bangkok. He had borrowed in US dollars — as most Thai businesses did — because dollar interest rates were low and the baht had been pegged to the dollar for over a decade. The peg made dollar borrowing feel safe. Then, on July 2, 1997, the Bank of Thailand abandoned the peg. By afternoon, the baht had fallen 15 percent. Within weeks, it would fall 40 percent. Chalee's dollar debt had not changed in dollar terms. In baht terms, it had grown by 40 percent overnight. He had not made a bad business decision. He had made the same decision as virtually every other business in Thailand. And they were all simultaneously insolvent.
+
+This was the mechanism of the Asian Financial Crisis — a crisis not of individual profligacy, but of systemic vulnerability that accumulated invisibly during years of success and exploded in months of catastrophic feedback.
+
+## The Preconditions: A Decade of the Asian Miracle
+
+The crisis is incomprehensible without understanding what preceded it. From the mid-1980s to 1997, the economies of East and Southeast Asia — Thailand, Indonesia, South Korea, Malaysia, and the Philippines among them — grew at rates the world had rarely seen. Thailand averaged 9 percent annual GDP growth between 1985 and 1995. South Korea, Indonesia, and Malaysia posted similar figures. This was not mere statistical noise. It represented the fastest sustained convergence of poor countries toward rich-world income levels in recorded economic history.
+
+The growth attracted foreign capital. International banks and investors, facing low returns in developed markets, channelled enormous sums into Asian economies. Net private capital flows into five major Asian economies — Thailand, Indonesia, South Korea, Malaysia, and the Philippines — totalled $93 billion in 1996 alone. The IMF and World Bank celebrated these economies as models of development. Harvard economists wrote admiringly about the "Asian miracle."
+
+## The Structural Vulnerabilities Accumulating Beneath the Surface
+
+The capital flowing into Asia was predominantly short-term — money that could exit as quickly as it had entered. It was predominantly denominated in US dollars — creating a currency mismatch when it was invested in local-currency assets. And it was flowing into economies with currency pegs that had been maintained artificially, building up a fundamental misalignment between official exchange rates and what the market would otherwise have determined.
+
+The pegs created a moral hazard. If the exchange rate would not move, there was no cost to borrowing in dollars. Thai banks and corporations borrowed dollars, converted them to baht, and lent or invested locally. As long as the peg held, the strategy worked. If the peg broke, the entire architecture of dollar-denominated liability sat on a foundation that had been removed.
+
+Meanwhile, the capital inflows fuelled asset price inflation — particularly in real estate and equity markets — that had little connection to underlying economic productivity. Thai property prices had roughly tripled between 1988 and 1995. Bangkok had more unoccupied office space under construction in 1996 than the entirety of Australia's existing office stock. The signs of excess were visible. They were not acted upon.
+
+Thailand's current account deficit reached 8 percent of GDP by 1996. Currency speculators, led by hedge funds including George Soros's Quantum Fund, identified the baht as overvalued and began shorting it in early 1997. The Bank of Thailand spent approximately $33 billion in foreign reserves — the bulk of its holdings — defending the peg through the first half of 1997. By July 2, it had run out of ammunition.
+
+## The Fall of the Baht and the Cascade of Contagion
+
+The baht's devaluation of July 2, 1997 was not contained to Thailand. Within weeks, it had triggered a cascade across the region that economists later described as contagion — a process in which rational investor behaviour in each individual case aggregated into a collectively destructive panic.
+
+The mechanism was partly rational updating. If Thailand's peg could fail, perhaps Indonesia's, Malaysia's, and South Korea's were similarly fragile. Investors who had lent to these economies on the assumption of exchange-rate stability revised their assessments simultaneously. The capital that had flowed in now flowed out — and the reversal was of similar magnitude to the original inflow. The $93 billion net private capital inflow of 1996 became a net outflow by 1998, a swing of approximately $93 billion — equivalent to 10 percent of the combined GDP of the affected economies.
+
+The Philippine peso fell in July 1997. The Malaysian ringgit, Indonesian rupiah, and South Korean won followed in subsequent months. Each devaluation validated fears about the next. South Korean conglomerates — the chaebols — which had borrowed heavily in dollars, found themselves simultaneously facing devalued won revenues and dollar debts that had grown enormously in domestic currency terms.
+
+## The Scale of the Collapse
+
+By late 1997 and into 1998, what had begun as a currency crisis had become a full economic depression in the most affected countries. Indonesia's GDP fell 13.6 percent in 1998 — a contraction comparable in severity to the worst years of the Great Depression. South Korea's GDP fell 5.1 percent, and its unemployment rate tripled. Thailand's economy contracted 10.5 percent. The Asian miracle had, in the space of eighteen months, become the Asian catastrophe.
+
+The crisis revealed that the miracle had been partly real — genuine productivity growth and industrialisation — and partly a leveraged bet on a currency arrangement that could not hold indefinitely. When the bet unwound, it took both the genuine and the illusory elements of the boom down together.

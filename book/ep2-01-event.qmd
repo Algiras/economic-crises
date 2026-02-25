@@ -1,0 +1,35 @@
+# The 1970s Stagflation: The Event
+
+In the autumn of 1973, Faye Anderson was raising three children in suburban Detroit on her husband's autoworker salary. By 1975, that salary bought 12 percent less than it had two years earlier. By 1979, it bought 20 percent less. Her husband hadn't been demoted. He hadn't lost shifts. The money simply stopped meaning what it used to mean. That slow, grinding erosion — invisible in any single paycheck, devastating across a decade — was the lived texture of the stagflation crisis, the most disorienting economic breakdown the postwar West had yet experienced.
+
+## The Word That Described the Impossible
+
+Before the 1970s, the word "stagflation" barely existed in economic vocabulary. It described a contradiction. Standard macroeconomic theory, built on the empirical relationship known as the Phillips Curve, held that inflation and unemployment moved in opposite directions: when unemployment fell, inflation rose, and vice versa. Policymakers believed they could choose a point on this curve — trade a little more inflation for a little less unemployment, or accept higher unemployment to cool prices. The 1970s destroyed that belief.
+
+Between 1973 and 1982, the United States experienced high inflation and high unemployment simultaneously, for sustained periods, repeatedly. The old tools didn't work. The old map was wrong.
+
+## The Trigger: OPEC and the Oil Shock
+
+The immediate catalyst arrived on October 17, 1973, when the Organisation of Arab Petroleum Exporting Countries announced an oil embargo against nations that had supported Israel in the Yom Kippur War. The United States was the primary target. Within weeks, the price of a barrel of crude oil had risen from roughly $3 to nearly $12 — a fourfold increase. By the end of the decade, a second oil shock following the Iranian Revolution of 1979 would push prices to $35 per barrel.
+
+Energy was not simply one commodity among many. It was embedded in the cost structure of virtually every sector of the American economy — manufacturing, transportation, agriculture, heating, plastics. When energy prices quadrupled, so did the cost pressures on everything downstream. Firms faced a choice between absorbing losses and raising prices. Most raised prices.
+
+## The Pre-existing Conditions
+
+The oil shock was the trigger, but the patient had been weakened before the shot was fired. The Nixon administration had abandoned the Bretton Woods gold standard in August 1971, allowing the dollar to float freely. This removed the external anchor that had constrained monetary expansion since 1944. The Federal Reserve, under political pressure to sustain growth and support the Vietnam War effort, had allowed the money supply to expand rapidly through the late 1960s. Inflation had already been creeping upward before OPEC acted: the Consumer Price Index rose 5.9 percent in 1970 and 4.3 percent in 1971. The oil shock ignited a fire in an already-dry economy.
+
+Nixon compounded the problem. In August 1971 he imposed wage and price controls — a blunt administrative intervention that temporarily suppressed measured inflation while distorting markets and delaying adjustment. When the controls were lifted in 1973, suppressed price pressures erupted. The inflation the controls had hidden came due all at once.
+
+## Stagflation Takes Hold
+
+The numbers over the following years were bewildering by postwar standards. Consumer price inflation reached 11 percent in 1974. Unemployment climbed to 9 percent in 1975. By 1980, inflation had peaked at 14.8 percent. These were not brief spikes. They persisted, year after year, through Ford's administration and Carter's, through two recessions and two oil shocks, through repeated policy responses that either failed to suppress inflation or triggered sharp downturns without curing the underlying disease.
+
+The Federal Reserve, under successive chairmen Arthur Burns and G. William Miller, repeatedly flinched. When tightening credit caused unemployment to rise, political pressure pushed toward loosening again. The result was a series of half-measures that validated inflationary expectations rather than breaking them. Each time inflation seemed to ease and the Fed relaxed, it came back worse. Market participants, businesses, and workers began building future inflation expectations into their current decisions — wage demands, price-setting, contract negotiations. Inflation became self-fulfilling.
+
+## The Political Atmosphere
+
+By the late 1970s, the economic dysfunction had corroded public confidence in government itself. President Carter delivered what became known as the "malaise speech" in July 1979, warning of a "crisis of confidence" gripping the nation. He was not wrong about the mood. Gallup polls showed that economic dissatisfaction had reached levels not seen since the Great Depression. The combination of unemployment, inflation, and energy shortages — long lines at gas stations became a defining image of the era — produced a sense that the United States had lost its footing.
+
+That political damage would be as consequential as the economic damage. The stagflation crisis did not end with a policy resolution alone. It ended with a political revolution, a fundamental shift in how Americans thought about government's role in managing the economy — and in what they were willing to tolerate to restore stability.
+
+The decade from 1973 to 1982 was not a single crisis with a clean arc. It was a sustained unravelling of the postwar economic consensus, conducted in real time, in millions of households like Faye Anderson's, where the erosion showed up not in headlines but in grocery receipts.

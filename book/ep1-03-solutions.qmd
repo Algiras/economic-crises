@@ -1,0 +1,65 @@
+# The Great Depression: The Solutions
+
+## March 4, 1933
+
+Franklin Roosevelt had been president for exactly one day when he signed Proclamation 2039, invoking the Trading with the Enemy Act of 1917 to declare a national bank holiday. Every bank in the United States would close, effective immediately, until further notice. The action required the legal fiction of treating American depositors as wartime enemies — but it stopped the hemorrhage. In the four months since the previous November's election, roughly $1.5 billion in gold and cash had fled the banking system. The drain stopped the moment the doors closed.
+
+The holiday lasted four business days. Federal inspectors, working through the weekend, classified each bank as solvent, salvageable, or hopeless. On March 13, the solvent banks — about 1,000 of them — reopened. By March 15, roughly 75 percent of Federal Reserve member banks were operating. Roosevelt addressed the nation by radio the evening before the reopening. He explained, in plain language, exactly what had been done and why. Deposits began to flow back in. The bank run that had been the immediate mechanism of the monetary contraction was over.
+
+What followed, in the next 99 days, was the most concentrated burst of legislation in American peacetime history.
+
+## The Hundred Days: Banking and Finance
+
+The Emergency Banking Act passed Congress on March 9, 1933 — the day it was introduced — after the House voted by voice without even having printed copies of the bill. It authorized the Treasury to issue new Federal Reserve notes backed by bank assets rather than gold, providing liquidity to reopened banks. It authorized the Reconstruction Finance Corporation to purchase preferred stock in banks, recapitalizing them with federal funds.
+
+The Glass-Steagall Act of June 1933 did two things that would define American banking for the next six decades. It separated commercial banking from investment banking: institutions that held federally insured deposits could no longer underwrite or deal in securities. And it created the Federal Deposit Insurance Corporation, which insured individual deposits up to $2,500 — a threshold later raised repeatedly, reaching $250,000 after 2008.
+
+The FDIC was the single most consequential institutional innovation of the Depression era. By guaranteeing that depositors would be made whole if a bank failed, it eliminated the mechanism of bank runs at their logical root. A depositor who knows their savings are insured by the federal government has no reason to race to the bank at the first rumor of trouble. Self-fulfilling bank panics, which had destroyed thousands of institutions between 1930 and 1933, became structurally impossible.
+
+The Securities Exchange Act of 1934 created the Securities and Exchange Commission, requiring corporate disclosure of financial information to investors and prohibiting specific market manipulation practices that had been common in the 1920s.
+
+## The Gold Standard's End
+
+On April 5, 1933, Roosevelt issued Executive Order 6102, requiring Americans to surrender gold coins, gold bullion, and gold certificates to Federal Reserve banks at $20.67 per troy ounce. Private gold hoarding became a federal offense. The dollar's convertibility into gold for domestic transactions was suspended.
+
+The Thomas Amendment, attached to the Agricultural Adjustment Act in May 1933, authorized the president to devalue the dollar against gold by up to 50 percent. Roosevelt proceeded experimentally through the autumn of 1933, with Treasury purchasing gold on the open market to push the dollar's value down and commodity prices up. The approach — later mocked as "goldbug" economics — was intellectually improvised but directionally correct. A lower dollar meant higher commodity prices, which meant relief for farmers, which meant more purchasing power in rural America.
+
+The Gold Reserve Act of January 1934 codified the new regime. The official gold price was set at $35 per troy ounce, up from $20.67 — a 69 percent increase in the gold price, or equivalently a 41 percent devaluation of the dollar. Gold reserves were transferred from the Federal Reserve to the Treasury. The dollar remained pegged to gold for international transactions but was fully inconvertible domestically.
+
+The economic effect was substantial and immediate. Barry Eichengreen's retrospective analysis established that the single strongest predictor of when a country's Depression-era recovery began was the date it abandoned the gold standard. For the United States, monetary expansion became possible from mid-1933 onward. The money supply, which had contracted by roughly a third between 1929 and 1933, began to expand.
+
+## Relief: Putting People to Work
+
+The Federal Emergency Relief Administration, established in May 1933 with Harry Hopkins as administrator, provided $500 million in direct grants to states for unemployment assistance — replacing the patchwork of state and local charity that had been overwhelmed since 1930. Hopkins famously distributed $5 million of his initial allocation in his first two hours in office.
+
+The Civilian Conservation Corps, created in March 1933, enrolled unemployed young men aged 17 to 28 in conservation work: planting trees, building fire roads, constructing park facilities, and preventing soil erosion in the Dust Bowl states. By 1935, the CCC had enrolled approximately 500,000 men at any given time; over its nine-year existence it employed roughly 3 million workers. Participants received room, board, and $30 per month, of which $25 was sent directly home to their families.
+
+The Civil Works Administration, also under Hopkins, operated through the winter of 1933–1934. It employed 4 million people within 30 days of its creation — the fastest labor mobilization in American peacetime history. CWA workers built 255,000 miles of roads, 30,000 schools, 3,700 playgrounds, and 1,000 airports. It was terminated in March 1934 when its costs alarmed fiscal conservatives in Congress.
+
+The Works Progress Administration, created in April 1935 with an initial appropriation of $4.9 billion — the largest single appropriation in American history to that point — was Hopkins' most ambitious effort. At its peak in 1938, the WPA employed 3.35 million workers. Over its eight-year lifespan it employed a total of 8.5 million Americans and built 651,000 miles of roads, 124,000 bridges, 125,000 public buildings, and 8,000 parks. It also employed writers, artists, musicians, and actors through subsidiary programs that documented American culture during the Depression decade.
+
+The Public Works Administration, under Interior Secretary Harold Ickes, operated with larger projects and stricter oversight. Its $3.3 billion initial allocation funded major infrastructure: the Hoover Dam (begun under Hoover, completed 1936), the Triborough Bridge, the Lincoln Tunnel, and the aircraft carriers USS Yorktown and USS Enterprise. Ickes' methodical approach meant the PWA spent money more slowly than Hopkins but with less waste and greater permanence.
+
+## The Social Contract: Social Security Act, 1935
+
+The Social Security Act of August 1935 created two programs that defined the American welfare state for the rest of the century.
+
+Old-Age Insurance — what most Americans now simply call Social Security — provided federal pensions to workers who had contributed through payroll deductions. The program was deliberately structured as social insurance rather than welfare: participants had "earned" their benefits through contributions, making it politically durable in a way that means-tested assistance was not. Initial monthly benefits averaged $22.60.
+
+Federal Unemployment Insurance created a joint federal-state system requiring employers to pay a payroll tax — initially 1 percent, rising to 3 percent — into state unemployment funds. Workers who lost their jobs received temporary income replacement. The program's macroeconomic significance was structural: it functioned as an automatic stabilizer, injecting purchasing power into the economy precisely when unemployment rose and demand fell, without requiring new legislative action.
+
+Both programs explicitly excluded agricultural workers and domestic servants — occupations in which African American workers were heavily concentrated — as the price of Southern Democratic votes in Congress.
+
+## Marriner Eccles and the Federal Reserve
+
+Roosevelt appointed Marriner Eccles, a Utah banker who had independently arrived at Keynesian conclusions before Keynes published them, as Chairman of the Federal Reserve Board in 1934. The Banking Act of 1935 restructured the Fed's governance, consolidating power in the Washington-based Board of Governors at the expense of the regional Federal Reserve banks — particularly the New York Fed, which had dominated monetary policy in the 1920s.
+
+Eccles pushed for coordinated monetary and fiscal expansion. He spent the late 1930s arguing, largely unsuccessfully, against the premature deficit reduction that caused the recession of 1937–1938. When Roosevelt cut federal spending and the Social Security payroll tax began withdrawing purchasing power from the economy, unemployment rose from 14.3 percent in 1937 to 19 percent in 1938. The episode proved Eccles correct. It also demonstrated the limits of the New Deal's political coalition when it came to sustained fiscal expansion.
+
+## The Resolution That Came From War
+
+The New Deal's programs stabilized the Depression. They did not end it. In 1940, with every program running and the institutional architecture fully constructed, unemployment stood at 14.6 percent.
+
+The resolution came from federal spending of a scale that peacetime political consensus could not authorize. Defense appropriations beginning in 1940 and accelerating through 1941–1945 drove federal spending from roughly 10 percent of GDP to a peak of 43 percent of GDP in 1944. The unemployment rate fell to 1.2 percent by 1944. The economy that had contracted by 30 percent between 1929 and 1933 was, a decade later, producing at nearly double its 1929 level.
+
+The war demonstrated conclusively that the Depression had not been caused by any structural limitation on the economy's capacity to produce. It had been caused, and sustained, by a catastrophic and self-reinforcing collapse in demand. The institutional reforms of the 1930s — deposit insurance, securities regulation, the welfare state's automatic stabilizers — were designed to prevent that collapse from recurring. For roughly 75 years, they worked.

@@ -1,0 +1,41 @@
+# The COVID-19 Economic Shock: When the World Stopped Buying Time
+
+## Thursday, March 12, 2020
+
+Nick Lore had worked the floor of his Philadelphia restaurant for eleven years. On Thursday, March 12, 2020, his dining room held forty-two covers. By Friday morning, the governor of Pennsylvania had recommended that all restaurants close. By Sunday, the recommendation became an order. Nick had $18,000 in outstanding invoices to pay, a walk-in refrigerator full of perishable food, and eleven employees whose rent was due on the first of April. He spent that Sunday afternoon filling garbage bags with salmon fillets he could not use and calling his staff one by one to say he did not know when they would come back.
+
+What happened to Nick Lore happened, in some variant, to hundreds of millions of people across every economy on earth within the same fortnight. The COVID-19 economic shock was unlike any preceding crisis in this series because it was not primarily a financial failure, a policy error, or a structural imbalance. It was a deliberate, government-mandated cessation of economic activity imposed in response to a public health emergency — a choice to destroy economic output in order to slow the spread of a novel pathogen that had, by March 2020, killed more than 4,000 people and infected hundreds of thousands more in a hundred countries.
+
+The choice was agonising. It was also, in retrospect, underestimated by nearly everyone in authority.
+
+## The Anatomy of an Engineered Shutdown
+
+Pandemics had been modelled. The 2009 H1N1 outbreak, the SARS epidemic of 2003, and the Ebola crisis of 2014 had all generated preparedness plans, scenario documents, and academic literature. The United States had a Global Health Security Index ranking, a National Security Council Directorate for Global Health Security (dissolved in 2018), and a comprehensive 2019 pandemic preparedness exercise called Crimson Contagion that had identified precisely the kind of coordination failures that would emerge one year later.
+
+None of it prevented what followed.
+
+By March 2020, most of the world's major economies had entered or were entering lockdown. The United Kingdom closed pubs, restaurants, gyms, and nonessential retail on March 20. France had entered confinement on March 17. India — with a population of 1.4 billion — issued a nationwide lockdown affecting 90% of the workforce on March 24, giving residents four hours' notice. Italy, by then the most severely affected European nation, had been in national lockdown since March 9.
+
+The economic mechanism was brutally simple. People stopped moving. When people stop moving, they stop spending on transportation, hospitality, leisure, personal services, and retail. Those industries stop generating revenue. Their employees stop receiving wages. Their employees stop spending on other industries. The multiplier runs in reverse.
+
+In the United States, 22 million jobs disappeared in March and April 2020 — an eight-week period. This is a figure that requires a moment of stillness to absorb. The financial crisis of 2008 had destroyed 8.7 million jobs over 25 months. The COVID shock destroyed 2.5 times as many in one-eighth of the time.
+
+## The Policy Response: Unprecedented Speed
+
+The fiscal response was also unlike anything previously attempted. The CARES Act — the Coronavirus Aid, Relief, and Economic Security Act — was signed into law on March 27, 2020, exactly seventeen days after the World Health Organisation declared a pandemic. At $2.2 trillion, it was the largest emergency spending bill in American history, larger than the entire GDP of Italy.
+
+The law's provisions were deliberately blunt and fast. Checks of $1,200 were sent directly to most American adults, with $500 per child. The Federal Pandemic Unemployment Assistance programme extended benefits to gig workers and the self-employed — categories previously excluded from unemployment insurance — and added a $600 weekly supplement on top of existing state benefits. The Paycheck Protection Programme allocated $800 billion in forgivable loans to small businesses, eventually reaching approximately five million firms.
+
+The Federal Reserve moved simultaneously and at a scale that redefined what central bank intervention meant. Between March and June 2020, the Fed's balance sheet expanded from roughly $4 trillion to $7 trillion. By mid-2022, it would reach $9 trillion. The Fed purchased Treasuries, mortgage-backed securities, and, for the first time in its history, corporate bonds and exchange-traded funds.
+
+Jerome Powell, the Fed chair, would later describe the weeks of March 2020 as the moment the central bank discovered it needed to move faster than it had ever moved before. "We crossed a lot of red lines that had not been crossed before," he told a journalist in 2021. The red lines were crossed because the alternative — a financial system seizing up while millions lost their incomes simultaneously — was too catastrophic to permit.
+
+## Velocity and Its Limits
+
+The speed of the response was genuine and consequential. The child poverty rate in the United States, which had stood at 18% in 2019, fell to 12% in 2020 — a remarkable outcome in the midst of the worst economic contraction since the Great Depression. The income floor provided by stimulus payments and enhanced unemployment benefits meant that aggregate personal income in the United States actually rose in April 2020 even as GDP collapsed.
+
+But velocity and scale could not substitute for structure. The PPP programme, designed to be deployed quickly through existing banking relationships, disproportionately reached businesses that already had established credit lines. The $600 unemployment supplement expired in July 2020, replaced by a $300 supplement, then ended altogether in September 2021 when Republican-governed states opted out of the federal programme. The child poverty rate, which had fallen so dramatically, rose again to 17% in 2022 when the expanded Child Tax Credit provisions were not renewed.
+
+The pattern was familiar from prior episodes in this series: emergency generosity, followed by premature fiscal withdrawal, followed by a disproportionate cost borne by those who had been most vulnerable to begin with.
+
+Nick Lore's restaurant reopened for outdoor dining in June 2020. He received a PPP loan that covered two months of payroll. Four of his eleven staff did not return. The restaurant survived. Many did not. What the numbers say about the scale of what happened next is the subject of the following chapter.

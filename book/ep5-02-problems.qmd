@@ -1,0 +1,53 @@
+# The COVID-19 Shock: Problems and Approaches Tried
+
+## A Crisis Without a Playbook
+
+Every major economic crisis before 2020 had, in retrospect, a recognisable predecessor from which to extrapolate a response. The Great Depression informed 2008. The oil shocks informed the stagflation debates of the 1970s. Policymakers facing the COVID-19 economic shock in March 2020 had no such template. A pandemic-induced simultaneous collapse of supply and demand — not caused by financial excess, not triggered by a policy error, not the product of any imbalance that could have been corrected in advance — had not occurred in the era of modern economic management.
+
+The problems were therefore novel in their combination even if their individual components were familiar. A supply shock closed factories, disrupted shipping, and removed workers from production. A demand shock simultaneously eliminated consumer spending across entire sectors — hospitality, travel, entertainment, retail — not because consumers lacked money but because governments had closed the venues or individuals feared infection. The standard macroeconomic toolkit was not designed for a shock where higher demand could not be met because the mechanisms of supply were deliberately suspended.
+
+In eight weeks between late February and late April 2020, the United States lost 22.4 million jobs — a destruction of employment larger than the entire job losses of the 2008 financial crisis, accomplished in a fraction of the time. Unemployment reached 14.7% in April 2020, the highest rate since monthly tracking began in 1948. Global trade contracted 12% in the second quarter of 2020. The International Monetary Fund, which does not routinely reach for superlatives, described the shock as the worst economic disruption since the Great Depression.
+
+## The American Approach: Helicopter Money at Scale
+
+The United States chose the path of maximum fiscal intervention, deploying stimulus at a speed and scale that had no peacetime precedent.
+
+The Coronavirus Aid, Relief, and Economic Security Act, signed on March 27, 2020, authorised $2.2 trillion — at the time, the largest emergency economic relief bill in American history. Within this package, the most distinctive element was the direct payment mechanism: $1,200 checks to most American adults, delivered without application or means-testing at a speed the transfer system had never previously achieved. The Paycheck Protection Program offered forgivable loans to small businesses that maintained their payroll — an attempt to preserve the employer-employee relationships that unemployment insurance alone could not protect.
+
+The $600 weekly supplement to standard unemployment benefits — which, combined with state benefits, produced replacement rates exceeding 100% of pre-pandemic wages for a significant portion of workers — was unlike anything in the US welfare state's history. It was also deeply controversial: economists debated whether generous unemployment supplements discouraged rehiring, while advocates for low-wage workers argued that any incentive effects were dwarfed by the consumption maintenance they provided.
+
+The American Rescue Plan of March 2021, at $1.9 trillion, extended the intervention into the recovery phase and included the expanded Child Tax Credit that temporarily transformed the American anti-poverty landscape. Combined, US fiscal spending on COVID relief reached approximately $5.8 trillion — roughly 27% of pre-pandemic GDP. The Federal Reserve cut rates to zero within days, launched unlimited quantitative easing, and expanded its balance sheet from $4.2 trillion to $9.0 trillion within two years.
+
+The result was the fastest labour market recovery in recorded US history. The 22.4 million jobs lost were recovered in 28 months. After the 2008 crisis, recovering 8.8 million lost jobs took 78 months.
+
+## Europe: The Short-Time Work Alternative
+
+Continental Europe's dominant policy instrument was the short-time work scheme — a mechanism with deeper roots in European labour market tradition than in the American model.
+
+Germany's Kurzarbeit program, the archetypal version, allowed firms facing temporary demand reduction to reduce employee hours rather than lay workers off, with the state compensating employees for the lost hours at 60–67% of net wages. At its April 2020 peak, Kurzarbeit covered approximately 6 million German workers — roughly 14% of the employed workforce. The Netherlands, France, Austria, and most other continental European economies deployed analogous schemes.
+
+The economic logic was distinct from the US approach in an important respect: rather than allowing mass unemployment and then subsidising the unemployed, European short-time work preserved the employment relationship itself. Workers retained their contacts with employers, their benefits, their institutional knowledge, and their workplace social structures. Firms retained their trained workforce. When demand returned, rehiring was instantaneous because no one had been separated.
+
+German unemployment peaked at 6.3% in September 2020 — substantially below the US peak of 14.7%. The divergence was not explained by different infection rates or lockdown severity; Germany's economic contraction in 2020 was comparable to the US contraction. The difference was entirely the policy architecture governing the labour market adjustment.
+
+## The UK Furlough Scheme: A Hybrid Model
+
+The United Kingdom's Coronavirus Job Retention Scheme occupied a conceptual position between the European short-time work model and the American layoff-and-supplement approach. Under the furlough scheme, the government paid 80% of wages — up to £2,500 per month — for employees who were formally retained but not working. Unlike Kurzarbeit, furloughed workers could not work at all for their employer while receiving support; unlike US unemployed workers, they retained their employment relationship and expected to return.
+
+At its June 2020 peak, 9.6 million workers — nearly a third of the UK private sector workforce — were on furlough. The scheme cost approximately £70 billion. UK unemployment peaked at 5.2% in late 2020, far below the US peak despite the UK experiencing a more severe GDP contraction (−9.9% in 2020 versus −3.4% for the US).
+
+The furlough and the US approach arrived at similar employment outcomes by different mechanisms. The furlough preserved relationships; the US system severed them and then reattached them. The UK path proved more efficient where businesses and workers were stable; the US path allowed more labour market reallocation toward sectors that were growing.
+
+## Sweden and New Zealand: The Extremes of Non-Pharmaceutical Policy
+
+Sweden's decision to forgo a mandatory lockdown — schools remained open, restaurants stayed open, mask mandates were not issued — produced a natural experiment in the economic effects of pandemic strategy. The hypothesis was that a less restricted economy would contract less severely than locked-down neighbours. The outcome was more complicated: Sweden's GDP contracted 2.8% in 2020, compared to Denmark's 2.1% and Norway's 0.8%, despite Sweden's minimal restrictions. Swedish excess deaths in 2020 were 7.7 per 1,000 population — significantly higher than Denmark's 1.7 — while the economic advantage was modest or absent. The Swedish Public Health Agency later acknowledged that Sweden's approach had not protected the elderly in care homes as intended.
+
+New Zealand chose the opposite strategy: complete border closure, aggressive contact tracing, and an elimination objective that proved achievable for the original virus strains. The economic logic was that a country which eliminated community transmission could resume nearly normal economic activity while others remained restricted. New Zealand's GDP contracted only 2.1% in 2020 and recovered quickly. The strategy worked until the Delta variant arrived in mid-2021 with transmission characteristics that made elimination unsustainable, forcing a policy reversal within months.
+
+## Fiscal Capacity as Destiny
+
+Japan's response combined very targeted direct payments — a single ¥100,000 payment per resident in 2020 — with traditional automatic stabilisers and business support loans, without the equivalent of American-scale direct transfers. Japan's economy contracted 4.1% in 2020, broadly in line with peers, and recovered more slowly through 2021.
+
+Brazil and India illustrate the hardest constraint: when fiscal capacity is limited, the range of feasible responses narrows dramatically. Brazil's government transferred approximately $50 per month to informal workers — meaningful support in domestic purchasing power terms but a fraction of what Americans, Germans, or British workers received. India's fiscal response was similarly constrained. Both countries experienced larger and more persistent economic scarring in lower-income populations, with poverty headcounts that took far longer to recover than in high-income economies.
+
+The comparative evidence from 2020 points in a consistent direction: countries with greater fiscal space, more extensive pre-existing social safety nets, and labour market institutions designed to maintain employment relationships during temporary shocks recovered their employment and output levels faster and with less permanent damage to the most vulnerable workers. This was not inevitable. It was the result of structural decisions made over decades — or, in the case of the American emergency supplements, invented under pressure in a matter of weeks.

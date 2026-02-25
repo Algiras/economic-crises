@@ -1,0 +1,59 @@
+# The Great Inflation: Problems and Approaches Tried
+
+## An Inflation Without a Single Cause
+
+The inflation that emerged in 2021 and peaked across most major economies in 2022 was unusual in the history of postwar price crises because it was caused by the simultaneous activation of multiple independent inflation mechanisms, each of which would have been manageable alone. The supply chain disruptions from the pandemic constrained the production of goods. The fiscal stimulus — $5.8 trillion in the United States alone — had maintained and expanded household purchasing power through the pandemic and generated $2.5 trillion in accumulated consumer savings. The invasion of Ukraine by Russia in February 2022 produced a commodity shock that pushed energy prices to levels not seen in a generation and sent global food prices to forty-year highs. Corporate profit margins expanded as firms, finding they could raise prices without losing customers, took advantage of reduced competitive pressure in concentrated industries.
+
+US inflation reached 9.1% in June 2022 — the highest reading since November 1981. UK inflation reached 11.1% in October 2022, the highest since 1981. Eurozone inflation peaked at 10.6% in the same month, a figure without precedent since the euro's creation. Real wages in the United States fell for 24 consecutive months between April 2021 and March 2023 — the longest sustained decline since the stagflation era — despite nominal wage growth running at historically elevated 5-7% per year. Workers were receiving the largest pay increases of their working lives and still falling behind. The political salience of this gap was immediate and global: cost-of-living concerns became the first or second ranked political issue in every major democracy by late 2022.
+
+Central bank credibility was additionally at stake in a way that compounded the economic problem. Every major forecasting institution — the Federal Reserve, the IMF, the ECB, the Bank of England — had predicted 2022 inflation at 2.6-3.5%. The actual outcomes were 8-9%. The systematic underestimation, based on models built for the low-inflation world of 1995-2020, meant that central banks had been too slow to tighten, and that when they did tighten, they had to move fast enough to visibly re-establish credibility as inflation fighters.
+
+## The US Federal Reserve: Delayed Then Aggressive
+
+The Federal Reserve's response to the Great Inflation followed a distinctive two-phase trajectory that became both its most criticized feature and, arguably, its ultimate vindication.
+
+In 2021, as inflation rose from 2.6% in January to 7.0% in December, the Fed maintained its assessment that the inflation was "transitory" — a temporary consequence of supply chain disruptions and pandemic reopening dynamics that would resolve without requiring monetary tightening. Jerome Powell later acknowledged publicly that the "transitory" characterisation was a mistake. The December 2021 pivot — dropping the transitory language and signalling imminent tightening — came later than many economists believed appropriate.
+
+When tightening began in March 2022, it was aggressive by any modern standard. The Fed raised its benchmark rate eleven times between March 2022 and July 2023, moving from 0.25% to 5.5% — a cumulative 525 basis points in seventeen months. Four consecutive 75-basis-point increases from June through November 2022 were unprecedented in the modern Federal Reserve's history; no previous FOMC had moved by 75 basis points at a single meeting since 1994. The speed reflected both the urgency of the inflation and Powell's awareness that visible action was necessary to anchor inflation expectations before they became self-fulfilling.
+
+The US ultimately achieved what economists call a "soft landing" — inflation falling from 9.1% to 2.4% without the unemployment rate exceeding 4%. Historically, this combination is extremely rare. Of fourteen Fed tightening cycles since 1965, eleven were followed by recession. That the US avoided recession in this cycle remains one of the more debated outcomes in recent macroeconomic history.
+
+## The European Central Bank: Tightening Into Fragility
+
+The ECB faced the same inflation problem as the Fed but with a structural constraint that the Fed did not share: the Transmission Protection Instrument.
+
+The Eurozone is a currency union without fiscal union, meaning that a single monetary policy must serve economies at very different stages of their business cycles and with very different debt loads. When the ECB raises rates, it raises them for Germany and for Italy simultaneously, despite the fact that Italy's debt-to-GDP ratio of 144% makes it far more sensitive to interest rate increases than Germany's 66%. Aggressive rate increases that are appropriate for the most resilient Eurozone economies can trigger sovereign debt stress in the most fragile ones — a dynamic that had nearly destroyed the euro in 2011-2012.
+
+The Transmission Protection Instrument, announced in July 2022, was the ECB's mechanism for addressing this constraint: a commitment to purchase sovereign bonds of member states facing "unwarranted" increases in borrowing costs, provided those countries were complying with EU fiscal rules. It was, in structural terms, a version of the Draghi "whatever it takes" commitment of 2012, operationalised as a formal instrument rather than a president's promise.
+
+The ECB tightened rates from -0.5% in July 2022 to 4.0% by September 2023 — substantial tightening, though starting from a more negative baseline than the Fed. The outcome was a Eurozone that brought inflation down to target but at the cost of a recession in Germany — the EU's largest economy — which contracted 0.3% in 2023. European industrial production, particularly in energy-intensive manufacturing and chemicals, faced a structural challenge that rate policy could not address.
+
+## The Bank of England: Tightening With Inherited Weakness
+
+The United Kingdom combined the standard inflation problem with three complicating factors that made its situation distinctive among major economies.
+
+First, the post-Brexit trade frictions had raised effective import prices and reduced labour supply in sectors that had relied on EU workers, creating a supply-side weakness that pre-dated the inflation and made it harder to contain. Second, the UK mortgage market is structured around 2- and 5-year fixed terms rather than the 30-year fixed mortgages standard in the US, meaning that rate increases transmitted directly and rapidly to household budgets as mortgages came up for renewal. An estimated 1.5 million UK households faced remortgaging in 2023 at rates 4-5 percentage points above their expiring fixed terms.
+
+Third, and most dramatically, the September 2022 "mini-budget" designed by Chancellor Kwasi Kwarteng and Prime Minister Liz Truss — £45 billion in unfunded tax cuts announced alongside projected energy support spending — triggered a gilt market crisis that sent UK government borrowing costs sharply higher and pushed mortgage rates above 6% within days. The Bank of England was forced to intervene in the gilt market to prevent pension fund insolvencies. Kwarteng was dismissed after 38 days. Truss resigned after 45 days — the shortest Prime Ministerial tenure in modern British history. The episode demonstrated, more vividly than academic literature could, what happens when fiscal policy moves in the opposite direction from monetary policy during an inflation.
+
+## Hungary, Turkey, and the Heterodox Alternative
+
+Against the orthodoxy of rate increases, two countries offered deliberate experiments in the opposite direction.
+
+Hungarian Prime Minister Viktor Orbán's government maintained artificially capped interest rates for longer than neighbouring central banks and combined this with price controls on fuel and basic food items. The approach delayed the domestic transmission of inflation in the short term but did not prevent it: Hungarian inflation reached 25.7% in January 2023, among the highest in the EU, before rate normalization was undertaken.
+
+Turkey's approach, under the intellectual direction of President Recep Tayyip Erdogan, was more radical and more consequential. Erdogan had publicly argued that high interest rates cause inflation rather than reduce it — an inversion of conventional monetary theory with little empirical support. Through 2021 and into 2022, the Central Bank of the Republic of Turkey cut rates despite rising inflation, repeatedly dismissing central bank governors who disagreed. The lira collapsed 44% against the dollar in 2021 alone. Turkish inflation reached 85.5% in October 2022. The experiment in heterodox monetary policy produced the most severe inflation in modern Turkish history and a currency crisis that destroyed household purchasing power for millions of ordinary Turks who had no ability to hold foreign assets.
+
+## Argentina's Chronic Crisis and Milei's Shock Therapy
+
+Argentina's inflation problem predated the global episode and reflected chronic fiscal imbalances and institutional dysfunction that had resisted reform for decades. By December 2023, Argentine inflation had reached 211% annually.
+
+The response came in the form of Javier Milei's election in November 2023 on a radical libertarian platform that included the proposed elimination of the central bank and dollarisation of the Argentine economy. The immediate post-election package included a 50% devaluation of the peso and drastic cuts to public spending. The shock therapy approach — deliberately painful in the short term in order to break inflationary expectations — represented an extreme version of the orthodox tightening strategy deployed by the Fed and ECB, executed under conditions of far greater existing distress.
+
+## Energy Subsidies Versus Rate Hikes
+
+Germany and France both deployed large-scale energy price caps in 2022 — Germany committing approximately €200 billion in energy support, France maintaining regulated electricity tariffs that substantially dampened headline inflation relative to market prices. The UK's Energy Price Guarantee provided equivalent protection.
+
+These supply-side interventions accomplished their immediate objective of reducing reported headline inflation and preventing the worst household hardship. They also added substantially to sovereign debt at a time when rising interest rates were already increasing debt service costs. Whether they represented a more efficient approach to reducing economic pain than the same fiscal resources deployed as direct transfers — allowing households to choose how to absorb higher energy costs — remains debated. What is not debated is that they kept measured inflation lower than the underlying market price dynamics would have produced, and that this made the task of central banks, which target measured inflation, somewhat easier.
+
+The Great Inflation confronted every major economy with a core dilemma: how much economic pain was appropriate to purchase price stability, and who should bear it? The answers differed by country, by political system, and by institutional capacity. The divergence in outcomes that followed reflected those differences with unusual clarity.

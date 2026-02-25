@@ -1,0 +1,71 @@
+# The Great Inflation: The Solutions
+
+## August 26, 2022
+
+Jerome Powell's prepared remarks for the Jackson Hole Economic Symposium ran to 1,300 words. He could have said them in five minutes. He took eight. When he finished, the S&P 500 had lost $1.3 trillion in market value in a single afternoon, and Federal Reserve officials who had worried about communicating a policy shift clearly felt they had achieved their objective.
+
+The speech's core was a single sentence: "While higher interest rates, slower growth, and softer labor market conditions will bring down inflation, they will also bring some pain to households and businesses." Powell had spent six months being asked whether the Fed could achieve a soft landing — reduce inflation without causing a recession. At Jackson Hole, he stopped answering that question and replaced it with a different one: price stability would be restored, and the restoration would have costs. He then quoted Paul Volcker at length.
+
+The "pivot" that financial markets had been expecting — a signal that rate hikes were slowing or ending — did not come. What came instead was explicit warning that the Fed was prepared to accept the economic damage that a sustained fight against inflation would require. "Restoring price stability will likely require maintaining a restrictive policy stance for some time," Powell said. "The historical record cautions strongly against prematurely loosening policy."
+
+The speech was a commitment device. Its function was to make reversal politically costly. And it worked.
+
+## The Fed Tightening Cycle: Eleven Hikes
+
+The Federal Reserve's tightening cycle began on March 16, 2022, with a 25 basis point rate increase — the first rate hike since December 2018. The target range moved from 0 to 0.25 percent to 0.25 to 0.5 percent. It was a modest start to what would become the most aggressive tightening cycle since Volcker.
+
+The pace accelerated rapidly. The May 2022 meeting delivered 50 basis points — the largest single increase in twenty-two years. June 2022 delivered 75 basis points — the largest since 1994. Four consecutive 75 basis point increases followed, in June, July, September, and November 2022. By December 2022, the target range stood at 4.25 to 4.5 percent — a cumulative increase of more than 4 percentage points in nine months.
+
+The pace then slowed. A 50 basis point increase in December 2022, a 25 basis point increase in February 2023, another in March, another in May, another in July 2023. The final hike, on July 26, 2023, brought the target range to 5.25 to 5.5 percent — the highest level since January 2001.
+
+In total: eleven rate increases between March 2022 and July 2023, moving the federal funds rate from near zero to 5.25 to 5.5 percent — a cumulative increase of 525 basis points in sixteen months. This was the fastest sustained tightening cycle since the Volcker era.
+
+The Fed then held rates at 5.25 to 5.5 percent through the remainder of 2023 and into 2024, maintaining a restrictive policy stance even as inflation declined — accepting the risk of over-tightening rather than under-tightening, as Powell had signaled at Jackson Hole.
+
+## Balance Sheet Reduction
+
+The Fed's balance sheet, which had expanded to approximately $9 trillion during the pandemic — more than double its pre-pandemic level — began shrinking in June 2022 through a process the Fed called Quantitative Tightening.
+
+The mechanism was passive: the Fed stopped reinvesting the proceeds of maturing securities rather than actively selling assets into the market. The initial caps were $47.5 billion per month ($30 billion in Treasuries, $17.5 billion in MBS), doubling to $95 billion per month ($60 billion and $35 billion) from September 2022.
+
+Progress was gradual. By the end of 2023, the balance sheet had declined from $9 trillion to approximately $7.7 trillion — a reduction of $1.3 trillion in eighteen months. The $1.5 trillion reduction target implied several additional years of runoff at the prevailing pace before the balance sheet returned to anything close to pre-pandemic norms, and the practical lower bound — the level of reserves needed to maintain smooth money market functioning — remained uncertain.
+
+Quantitative Tightening had less certain effects on financial conditions than rate increases. Academic research on QT's transmission mechanism was less developed than for rate policy, and the experience of 2019 — when a previous QT episode had produced money market disruptions that forced the Fed to abruptly halt balance sheet reduction — had made Fed officials cautious about the pace.
+
+## Fiscal Consolidation: The Pay-Fors
+
+The fiscal policy response to the inflation episode was constrained by the political composition of Congress and by the economic theory that fiscal expansion had contributed to the inflation. The two major pieces of legislation passed in 2022 incorporated fiscal offsets — "pay-fors" — that were designed to be deficit-neutral or deficit-reducing over ten years, limiting their inflationary impact.
+
+The CHIPS and Science Act, signed August 9, 2022, provided $52.7 billion in direct subsidies for domestic semiconductor manufacturing and $200 billion in authorized science research spending. The semiconductor subsidies were direct grants to manufacturers — Intel, TSMC, Samsung, and Micron among the recipients — contingent on domestic production commitments. The act's purpose was partly strategic (reducing dependence on Taiwan Semiconductor Manufacturing Company for advanced chips) and partly supply-side (increasing domestic productive capacity to reduce inflationary bottlenecks). The manufacturing subsidies were funded through discretionary appropriations rather than tax revenues.
+
+The Inflation Reduction Act, signed August 16, 2022, was the largest climate investment in American history — $369 billion in clean energy and climate provisions over ten years — combined with health care provisions that capped Medicare prescription drug costs and allowed the government to negotiate drug prices. The IRA was funded through a 15 percent corporate minimum tax on book income (estimated to raise $222 billion over a decade), a 1 percent excise tax on stock buybacks ($74 billion), and enhanced IRS enforcement ($124 billion). The Congressional Budget Office scored the IRA as deficit-reducing by approximately $305 billion over ten years. Whether the IRA reduced inflation in the near term was disputed — the climate investments deployed demand while the tax provisions removed it — but its fiscal impact was contractionary compared to deficit-financed alternatives.
+
+## Energy Policy: Strategic Petroleum Reserve and LNG
+
+The most immediate policy response to the energy price surge — driven by Russia's February 24, 2022 invasion of Ukraine and the subsequent embargo of Russian energy exports by Western nations — was the largest release from the Strategic Petroleum Reserve in its fifty-year history.
+
+Beginning March 31, 2022, the Biden administration authorized the release of 180 million barrels from the SPR over six months — roughly one million barrels per day, equivalent to about 1 percent of global daily consumption. Other International Energy Agency members coordinated additional releases of approximately 60 million barrels. The combined release partially offset the loss of Russian exports (approximately 3 million barrels per day had been redirected from European markets).
+
+The SPR release contributed to Brent crude oil prices falling from a peak of $128 per barrel in March 2022 to $83 per barrel by November 2022. The causal attribution is contested — global demand reduction as China maintained COVID restrictions and fears of recession mounted also contributed — but the timing correlated with the release. By late 2023, the SPR stock stood at approximately 350 million barrels, down from 592 million at the start of 2021, and refilling at below-market contracted prices was underway.
+
+Liquefied natural gas exports to Europe became a strategic priority as European nations sought to replace Russian pipeline gas. US LNG export capacity, which had been approximately 10 billion cubic feet per day before the Ukraine invasion, was running at near-maximum utilization through 2022 and 2023. New LNG export terminal approvals and construction accelerated. The resulting increase in US gas exports contributed to higher domestic natural gas prices but provided European buyers with an alternative to Russian supply that had geopolitical significance beyond its economic cost.
+
+## European Energy Price Interventions
+
+European governments faced a more acute energy price crisis than the United States because of their higher dependence on Russian gas and because European wholesale electricity markets are structured so that the marginal price of electricity across the system is set by the most expensive generator — which in a crisis is almost always gas. Wholesale electricity prices in some European markets reached ten times their pre-crisis levels in late 2022.
+
+Germany committed €200 billion in its "defensive shield" — the largest single national energy support program in European history. The funds were used to cap wholesale gas prices for industrial users, subsidize household energy costs, and backstop gas importers and utilities that faced margin calls on energy hedges as prices moved against them. The German government nationalized Uniper, the country's largest gas importer, in December 2022 after it became insolvent.
+
+The UK's Energy Price Guarantee, announced September 8, 2022 — the last act of Liz Truss's government before she resigned — capped household energy bills at £2,500 per year for the average household. The guarantee was subsequently modified by the Sunak government to allow bills to rise toward market levels as wholesale prices fell, but the support program remained in place through 2023 at reduced levels. Total UK energy support spending through 2023 was estimated at approximately £70 billion.
+
+## Supply Chain Normalisation
+
+The inflationary pressures from goods markets — which had been more intense and more novel than the energy and housing components — unwound through 2022 and 2023 as supply chains normalised and goods demand rotated back toward services.
+
+Container shipping costs, which had peaked at approximately $11,000 per forty-foot equivalent unit on the major trans-Pacific routes in September 2021, fell to approximately $1,000 by the end of 2023 — a decline of roughly 90 percent from peak. The driver was a combination of new vessel capacity coming online (ordered during the high-price period), demand normalisation as consumer spending shifted from goods back to services, and the resolution of the specific port congestion that had been amplifying spot rates.
+
+Semiconductor lead times, which had extended to 52 weeks or more at the 2021 peak, normalised to historical averages of 12 to 16 weeks by late 2023 as production expanded and the auto industry's inventory rebuild slowed. Used car prices, which had risen 45 percent from pre-pandemic levels at their peak, fell approximately 20 percent from that peak by late 2023 as new car inventories rebuilt.
+
+The Federal Reserve Bank of New York's Global Supply Chain Pressure Index, which measures supply chain stress across multiple dimensions, fell from a peak of 4.3 standard deviations above its historical mean in December 2021 to below zero — below-average stress — by June 2023. The supply-side inflationary pressures that had been most distinctive about the post-pandemic inflation episode had substantially resolved within roughly two years of the supply chain's peak dysfunction.
+
+The disinflation that resulted from this combination — restrictive monetary policy, modest fiscal consolidation, energy price stabilisation, and supply chain normalisation — moved headline CPI from its 9.1 percent peak in June 2022 to 3.4 percent by December 2023. Whether that represented a complete return to the 2 percent target — and at what cost in lost output and employment — was the subject of the next chapter's accounting.
