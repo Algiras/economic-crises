@@ -72,17 +72,36 @@
     .btn-outline { border: 2px solid var(--accent); color: var(--accent); }
     .btn-amber { border: 2px solid var(--accent2); color: var(--accent2); }
 
-    .video-section {
+    .video-list {
       max-width: 960px;
       margin: 48px auto;
       padding: 0 24px;
+      display: flex;
+      flex-direction: column;
+      gap: 40px;
     }
-    .video-section h2 {
+    .video-list h2 {
       color: var(--accent);
-      margin-bottom: 16px;
+      margin-bottom: 0;
       font-size: 1.2rem;
       text-transform: uppercase;
       letter-spacing: 0.06em;
+    }
+    .video-item {}
+    .video-item-header {
+      margin-bottom: 10px;
+    }
+    .video-item-header .ep-label {
+      font-size: 0.75rem;
+      color: var(--accent);
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+    .video-item-header h3 {
+      font-size: 1.1rem;
+      color: #fff;
+      margin: 4px 0 0;
     }
     .video-wrapper {
       background: #000;
@@ -90,20 +109,18 @@
       border-radius: 8px;
       overflow: hidden;
       aspect-ratio: 16/9;
-      display: flex;
-      align-items: center;
-      justify-content: center;
     }
     .video-wrapper video {
       width: 100%;
       height: 100%;
     }
-    .video-placeholder {
+    .video-meta {
+      margin-top: 8px;
+      font-size: 0.82rem;
       color: var(--muted);
-      text-align: center;
-      padding: 40px;
     }
-    .video-placeholder p { margin-top: 8px; font-size: 0.9rem; }
+    .video-meta a { color: var(--accent); text-decoration: none; }
+    .video-meta a:hover { text-decoration: underline; }
 
     .episodes {
       max-width: 960px;
@@ -208,91 +225,87 @@
   </div>
 </header>
 
-<section class="video-section">
-  <h2>Full Documentary</h2>
-  <div class="video-wrapper">
-    <video controls preload="none" poster="book/cover.png" style="width:100%;height:100%;">
-      <source src="https://github.com/Algiras/economic-crises/releases/download/v1.0.0/EconomicCrises.mp4" type="video/mp4" />
-      Your browser does not support the video element.
-    </video>
-  </div>
-  <p style="margin-top:12px; color:var(--muted); font-size:0.85rem;">
-    Full 40-minute documentary · 1080p · or
-    <a href="https://github.com/Algiras/economic-crises/releases/download/v1.0.0/EconomicCrises.mp4"
-       style="color:var(--accent);">download MP4</a>
-  </p>
-</section>
-
-<section class="episodes">
+<section class="video-list">
   <h2>Episodes</h2>
-  <div class="episode-grid">
-    <div class="episode-card">
-      <div class="ep-num">Episode 1 &mdash; 1929–1939</div>
+
+  <div class="video-item">
+    <div class="video-item-header">
+      <div class="ep-label">Episode 1 &mdash; 1929–1939</div>
       <h3>The Great Depression</h3>
-      <p>The foundational catastrophe that redefined the relationship between governments and economies.</p>
-      <div class="acts">
-        <span class="act-tag">Event</span>
-        <span class="act-tag">Problems</span>
-        <span class="act-tag">Solutions</span>
-        <span class="act-tag">Results</span>
-      </div>
     </div>
-    <div class="episode-card">
-      <div class="ep-num">Episode 2 &mdash; 1970s</div>
-      <h3>The Stagflation Crisis</h3>
-      <p>The decade that destroyed the Keynesian consensus and gave birth to inflation targeting.</p>
-      <div class="acts">
-        <span class="act-tag">Event</span>
-        <span class="act-tag">Problems</span>
-        <span class="act-tag">Solutions</span>
-        <span class="act-tag">Results</span>
-      </div>
+    <div class="video-wrapper">
+      <video controls preload="none">
+        <source src="https://github.com/Algiras/economic-crises/releases/download/v1.0.0/Episode1-GreatDepression.mp4" type="video/mp4" />
+      </video>
     </div>
-    <div class="episode-card">
-      <div class="ep-num">Episode 3 &mdash; 1997–1998</div>
-      <h3>The Asian Financial Crisis</h3>
-      <p>A warning about capital flow liberalisation that was only partially heard.</p>
-      <div class="acts">
-        <span class="act-tag">Event</span>
-        <span class="act-tag">Problems</span>
-        <span class="act-tag">Solutions</span>
-        <span class="act-tag">Results</span>
-      </div>
-    </div>
-    <div class="episode-card">
-      <div class="ep-num">Episode 4 &mdash; 2008</div>
-      <h3>The Global Financial Crisis</h3>
-      <p>The near-collapse of the world financial system and the decade of slow recovery that followed.</p>
-      <div class="acts">
-        <span class="act-tag">Event</span>
-        <span class="act-tag">Problems</span>
-        <span class="act-tag">Solutions</span>
-        <span class="act-tag">Results</span>
-      </div>
-    </div>
-    <div class="episode-card">
-      <div class="ep-num">Episode 5 &mdash; 2020</div>
-      <h3>The COVID-19 Economic Shock</h3>
-      <p>The fastest economic contraction in modern history and the most rapid policy response ever deployed.</p>
-      <div class="acts">
-        <span class="act-tag">Event</span>
-        <span class="act-tag">Problems</span>
-        <span class="act-tag">Solutions</span>
-        <span class="act-tag">Results</span>
-      </div>
-    </div>
-    <div class="episode-card">
-      <div class="ep-num">Episode 6 &mdash; 2021–2023</div>
-      <h3>The Great Inflation</h3>
-      <p>The return of inflation after 30 years of quiescence, and the tightening cycle that followed.</p>
-      <div class="acts">
-        <span class="act-tag">Event</span>
-        <span class="act-tag">Problems</span>
-        <span class="act-tag">Solutions</span>
-        <span class="act-tag">Results</span>
-      </div>
-    </div>
+    <p class="video-meta">The foundational catastrophe that redefined the relationship between governments and economies. &nbsp;·&nbsp; <a href="https://github.com/Algiras/economic-crises/releases/download/v1.0.0/Episode1-GreatDepression.mp4" download>Download MP4</a></p>
   </div>
+
+  <div class="video-item">
+    <div class="video-item-header">
+      <div class="ep-label">Episode 2 &mdash; 1970s</div>
+      <h3>The Stagflation Crisis</h3>
+    </div>
+    <div class="video-wrapper">
+      <video controls preload="none">
+        <source src="https://github.com/Algiras/economic-crises/releases/download/v1.0.0/Episode2-Stagflation.mp4" type="video/mp4" />
+      </video>
+    </div>
+    <p class="video-meta">The decade that destroyed the Keynesian consensus and gave birth to inflation targeting. &nbsp;·&nbsp; <a href="https://github.com/Algiras/economic-crises/releases/download/v1.0.0/Episode2-Stagflation.mp4" download>Download MP4</a></p>
+  </div>
+
+  <div class="video-item">
+    <div class="video-item-header">
+      <div class="ep-label">Episode 3 &mdash; 1997–1998</div>
+      <h3>The Asian Financial Crisis</h3>
+    </div>
+    <div class="video-wrapper">
+      <video controls preload="none">
+        <source src="https://github.com/Algiras/economic-crises/releases/download/v1.0.0/Episode3-AsianCrisis.mp4" type="video/mp4" />
+      </video>
+    </div>
+    <p class="video-meta">A warning about capital flow liberalisation that was only partially heard. &nbsp;·&nbsp; <a href="https://github.com/Algiras/economic-crises/releases/download/v1.0.0/Episode3-AsianCrisis.mp4" download>Download MP4</a></p>
+  </div>
+
+  <div class="video-item">
+    <div class="video-item-header">
+      <div class="ep-label">Episode 4 &mdash; 2008</div>
+      <h3>The Global Financial Crisis</h3>
+    </div>
+    <div class="video-wrapper">
+      <video controls preload="none">
+        <source src="https://github.com/Algiras/economic-crises/releases/download/v1.0.0/Episode4-GFC.mp4" type="video/mp4" />
+      </video>
+    </div>
+    <p class="video-meta">The near-collapse of the world financial system and the decade of slow recovery that followed. &nbsp;·&nbsp; <a href="https://github.com/Algiras/economic-crises/releases/download/v1.0.0/Episode4-GFC.mp4" download>Download MP4</a></p>
+  </div>
+
+  <div class="video-item">
+    <div class="video-item-header">
+      <div class="ep-label">Episode 5 &mdash; 2020</div>
+      <h3>The COVID-19 Economic Shock</h3>
+    </div>
+    <div class="video-wrapper">
+      <video controls preload="none">
+        <source src="https://github.com/Algiras/economic-crises/releases/download/v1.0.0/Episode5-COVID.mp4" type="video/mp4" />
+      </video>
+    </div>
+    <p class="video-meta">The fastest economic contraction in modern history and the most rapid policy response ever deployed. &nbsp;·&nbsp; <a href="https://github.com/Algiras/economic-crises/releases/download/v1.0.0/Episode5-COVID.mp4" download>Download MP4</a></p>
+  </div>
+
+  <div class="video-item">
+    <div class="video-item-header">
+      <div class="ep-label">Episode 6 &mdash; 2021–2023</div>
+      <h3>The Great Inflation</h3>
+    </div>
+    <div class="video-wrapper">
+      <video controls preload="none">
+        <source src="https://github.com/Algiras/economic-crises/releases/download/v1.0.0/Episode6-GreatInflation.mp4" type="video/mp4" />
+      </video>
+    </div>
+    <p class="video-meta">The return of inflation after 30 years of quiescence, and the tightening cycle that followed. &nbsp;·&nbsp; <a href="https://github.com/Algiras/economic-crises/releases/download/v1.0.0/Episode6-GreatInflation.mp4" download>Download MP4</a></p>
+  </div>
+
 </section>
 
 <section class="book-section">
