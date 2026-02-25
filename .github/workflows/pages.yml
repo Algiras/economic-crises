@@ -31,23 +31,26 @@ jobs:
         with:
           tinytex: true
 
-      - name: Render book
+      - name: Generate charts
+        run: |
+          pip install matplotlib numpy
+          python3 generate_charts.py
+
+      - name: Render book (all formats)
         run: |
           cd book
-          quarto render --to html
-          quarto render --to pdf
-          quarto render --to epub
+          quarto render
+          echo "=== _book contents ==="
+          ls -lh _book/
 
       - name: Assemble docs/
         run: |
           mkdir -p docs/book
           cp -r book/_book/. docs/book/
-
-      - name: Generate charts
-        run: |
-          pip install matplotlib numpy
-          python3 generate_charts.py
+          # Copy charts into book dir for standalone access
           cp video/public/*.png docs/book/ 2>/dev/null || true
+          echo "=== docs/book contents ==="
+          ls -lh docs/book/ | grep -E "\.pdf|\.epub|\.html" | head -10
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
