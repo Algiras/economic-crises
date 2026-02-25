@@ -1,0 +1,892 @@
+[
+  {
+    "chapter_id": "ep1_event",
+    "chunk_id": "ep1_event_0",
+    "text": "On the morning of October 29, 1929, Charles Mitchell, chairman of National City Bank, watched the ticker tape fall two hours behind. The numbers scrolling past represented the accumulated savings of millions of Americans being destroyed in real time."
+  },
+  {
+    "chapter_id": "ep1_event",
+    "chunk_id": "ep1_event_1",
+    "text": "The crash was not the cause of the Great Depression. It was the signal flare that revealed what had already gone wrong. Credit had expanded beyond any productive use. Speculators were buying stocks on ninety percent margin."
+  },
+  {
+    "chapter_id": "ep1_event",
+    "chunk_id": "ep1_event_2",
+    "text": "When prices fell, margin calls forced selling, which forced more margin calls. The spiral had no floor. What followed was not a recession. It was a structural collapse. Over the next three years, nine thousand banks failed."
+  },
+  {
+    "chapter_id": "ep1_event",
+    "chunk_id": "ep1_event_3",
+    "text": "Twenty-seven percent of all prices fell. Industrial production dropped by half. By 1933, one in four Americans who wanted work could not find it."
+  },
+  {
+    "chapter_id": "ep1_event",
+    "chunk_id": "ep1_event_4",
+    "text": "The unemployment rate peaked at twenty-five percent — a number so extreme that no economic model of the era had a mechanism to explain it."
+  },
+  {
+    "chapter_id": "ep1_problems",
+    "chunk_id": "ep1_problems_0",
+    "text": "The Great Depression revealed four interlocking failures that no single policy lever could address simultaneously. First, the banking system collapsed. Nine thousand bank failures between 1930 and 1933 destroyed seven billion dollars in deposits."
+  },
+  {
+    "chapter_id": "ep1_problems",
+    "chunk_id": "ep1_problems_1",
+    "text": "Bank failures were contagious — when one bank failed, depositors at other banks panicked and withdrew their savings, forcing more closures. Second, deflation created a debt trap."
+  },
+  {
+    "chapter_id": "ep1_problems",
+    "chunk_id": "ep1_problems_2",
+    "text": "With prices falling twenty-seven percent cumulatively, the real value of debts rose even as incomes fell. Farmers, businesses, and households could not service loans denominated in dollars that were becoming more valuable every month."
+  },
+  {
+    "chapter_id": "ep1_problems",
+    "chunk_id": "ep1_problems_3",
+    "text": "Third, the gold standard transmitted the crisis globally. Countries on gold could not expand their money supplies to fight deflation without risking a run on their reserves."
+  },
+  {
+    "chapter_id": "ep1_problems",
+    "chunk_id": "ep1_problems_4",
+    "text": "The mechanism designed to ensure monetary stability became the mechanism of monetary destruction. Hoover tried voluntarism — asking businesses not to cut wages. He then raised taxes in 1932 to balance the budget, contracting demand further."
+  },
+  {
+    "chapter_id": "ep1_problems",
+    "chunk_id": "ep1_problems_5",
+    "text": "Britain left the gold standard in 1931 and began recovering almost immediately. The evidence was available. The lesson was not acted on."
+  },
+  {
+    "chapter_id": "ep1_solutions",
+    "chunk_id": "ep1_solutions_0",
+    "text": "On March 4, 1933, Franklin Roosevelt declared a national bank holiday. Every bank in the United States closed. The Emergency Banking Act passed Congress in a single day — the House voted on a bill no member had yet read."
+  },
+  {
+    "chapter_id": "ep1_solutions",
+    "chunk_id": "ep1_solutions_1",
+    "text": "Within seventy-two hours, the Federal Reserve began certifying healthy banks for reopening. The interventions that followed were comprehensive. The Glass-Steagall Act separated commercial from investment banking."
+  },
+  {
+    "chapter_id": "ep1_solutions",
+    "chunk_id": "ep1_solutions_2",
+    "text": "The Federal Deposit Insurance Corporation guaranteed deposits up to twenty-five hundred dollars, ending the logic of bank runs. The Securities and Exchange Commission introduced mandatory disclosure requirements."
+  },
+  {
+    "chapter_id": "ep1_solutions",
+    "chunk_id": "ep1_solutions_3",
+    "text": "And in January 1934, Roosevelt devalued the dollar by forty-one percent against gold — ending the deflationary constraint in a single executive order."
+  },
+  {
+    "chapter_id": "ep1_solutions",
+    "chunk_id": "ep1_solutions_4",
+    "text": "What made these solutions work was not any single measure but the combination: restoring confidence in the banking system, removing the gold constraint, providing direct relief to unemployed workers, and creating institutional frameworks that made future crises less likely."
+  },
+  {
+    "chapter_id": "ep1_solutions",
+    "chunk_id": "ep1_solutions_5",
+    "text": "The New Deal did not end the Depression — that required the spending of World War Two — but it prevented total collapse and built the architecture that stabilised the economy for decades."
+  },
+  {
+    "chapter_id": "ep1_results",
+    "chunk_id": "ep1_results_0",
+    "text": "The results of the Great Depression response were deeply contradictory — as they would be for every crisis in this series. On the positive side: the Federal Deposit Insurance Corporation ended bank runs as a feature of American economic life."
+  },
+  {
+    "chapter_id": "ep1_results",
+    "chunk_id": "ep1_results_1",
+    "text": "The Securities and Exchange Commission created a regulated capital market. Social Security introduced an automatic stabiliser that would cushion every subsequent recession."
+  },
+  {
+    "chapter_id": "ep1_results",
+    "chunk_id": "ep1_results_2",
+    "text": "And the Keynesian framework — the idea that governments could and should spend to offset private sector collapse — became the dominant policy paradigm for the next forty years. On the negative side: the human cost was catastrophic and permanent."
+  },
+  {
+    "chapter_id": "ep1_results",
+    "chunk_id": "ep1_results_3",
+    "text": "Historians estimate between five hundred thousand and one million excess deaths during the Depression decade. The Dust Bowl displaced two and a half million people."
+  },
+  {
+    "chapter_id": "ep1_results",
+    "chunk_id": "ep1_results_4",
+    "text": "The psychological scarring of the Depression generation shaped American savings behaviour and political preferences for the rest of the century. The lesson that was absorbed: banking systems need deposit insurance and regulatory oversight."
+  },
+  {
+    "chapter_id": "ep1_results",
+    "chunk_id": "ep1_results_5",
+    "text": "The lesson that was forgotten: the speed of the policy response matters as much as its eventual size. The two years of inaction between 1930 and 1932 turned a financial crisis into a civilisational trauma."
+  },
+  {
+    "chapter_id": "ep2_event",
+    "chunk_id": "ep2_event_0",
+    "text": "In October 1973, the Organisation of Arab Petroleum Exporting Countries announced an oil embargo against the United States and its allies. The price of oil rose from three dollars per barrel to twelve dollars."
+  },
+  {
+    "chapter_id": "ep2_event",
+    "chunk_id": "ep2_event_1",
+    "text": "Within a year, inflation in the United States reached twelve percent — while unemployment simultaneously rose above nine percent. Economists had a word for this combination: stagflation."
+  },
+  {
+    "chapter_id": "ep2_event",
+    "chunk_id": "ep2_event_2",
+    "text": "And the word was borrowed because no existing economic model could explain it. The Phillips Curve — the central framework of macroeconomic management since the 1950s — held that inflation and unemployment moved in opposite directions."
+  },
+  {
+    "chapter_id": "ep2_event",
+    "chunk_id": "ep2_event_3",
+    "text": "You could have high unemployment or high inflation, but not both at once. The 1970s proved the curve wrong. The oil shock was the trigger, but it was not the only cause."
+  },
+  {
+    "chapter_id": "ep2_event",
+    "chunk_id": "ep2_event_4",
+    "text": "Vietnam War spending and the Great Society programs had already inflated the money supply before the embargo. Richard Nixon had abandoned the Bretton Woods gold-exchange system in 1971, removing the external discipline on dollar creation."
+  },
+  {
+    "chapter_id": "ep2_event",
+    "chunk_id": "ep2_event_5",
+    "text": "When the oil shock arrived, the system was already primed. What followed was a decade of wage-price spirals, supply shocks, and policy responses that made things worse."
+  },
+  {
+    "chapter_id": "ep2_problems",
+    "chunk_id": "ep2_problems_0",
+    "text": "The 1970s stagflation crisis involved four simultaneous structural failures — and each attempted solution made at least one of the others worse. The supply shock was real and severe."
+  },
+  {
+    "chapter_id": "ep2_problems",
+    "chunk_id": "ep2_problems_1",
+    "text": "A three-hundred-percent oil price rise transmitted into every sector of an economy built on cheap energy. Manufacturing costs rose. Transportation costs rose. Agricultural costs rose."
+  },
+  {
+    "chapter_id": "ep2_problems",
+    "chunk_id": "ep2_problems_2",
+    "text": "But the supply shock hit an economy already experiencing demand inflation from Vietnam War spending, amplified by the breakdown of the Bretton Woods system and the loss of dollar discipline."
+  },
+  {
+    "chapter_id": "ep2_problems",
+    "chunk_id": "ep2_problems_3",
+    "text": "Nixon's wage and price controls, imposed in August 1971, appeared to work initially. Inflation fell. But controls only defer price increases — they cannot eliminate them. When the controls were lifted, suppressed inflation erupted."
+  },
+  {
+    "chapter_id": "ep2_problems",
+    "chunk_id": "ep2_problems_4",
+    "text": "Arthur Burns at the Federal Reserve accommodated rising prices rather than fighting them, fearing that tight money would cause recession. This accommodation embedded inflationary expectations into wage negotiations and pricing decisions."
+  },
+  {
+    "chapter_id": "ep2_problems",
+    "chunk_id": "ep2_problems_5",
+    "text": "Once workers and businesses expected prices to rise, their behaviour caused prices to rise. The expectation became self-fulfilling."
+  },
+  {
+    "chapter_id": "ep2_problems",
+    "chunk_id": "ep2_problems_6",
+    "text": "By 1975, the United States had simultaneous unemployment of eight-and-a-half percent and inflation of nine-and-a-half percent. The frameworks that guided economic management had no prescription for this outcome."
+  },
+  {
+    "chapter_id": "ep2_solutions",
+    "chunk_id": "ep2_solutions_0",
+    "text": "On Saturday October 6, 1979, Paul Volcker called an emergency meeting of the Federal Open Market Committee. He timed it between the US market close and the Asian market open — a deliberate signal of urgency."
+  },
+  {
+    "chapter_id": "ep2_solutions",
+    "chunk_id": "ep2_solutions_1",
+    "text": "The announcement that followed became known as the Saturday Night Special: the Federal Reserve would stop targeting the federal funds rate and instead target the growth of money supply directly. This was not a technocratic adjustment."
+  },
+  {
+    "chapter_id": "ep2_solutions",
+    "chunk_id": "ep2_solutions_2",
+    "text": "It was a declaration of intent to cause a recession if that was what breaking inflation required. Over the following two years, the federal funds rate rose from eleven to nineteen percent. The prime lending rate hit twenty-one and a half."
+  },
+  {
+    "chapter_id": "ep2_solutions",
+    "chunk_id": "ep2_solutions_3",
+    "text": "Thirty-year mortgage rates exceeded eighteen percent. Two recessions followed — January 1980 and July 1981. Unemployment peaked at ten-point-eight percent in December 1982. Farmers blockaded the Federal Reserve building with tractors."
+  },
+  {
+    "chapter_id": "ep2_solutions",
+    "chunk_id": "ep2_solutions_4",
+    "text": "Congress threatened to pass legislation removing the Fed's independence. Volcker held. Reagan, to his political credit, supported Volcker publicly through the elections. That political backing was as important as the monetary policy itself."
+  },
+  {
+    "chapter_id": "ep2_solutions",
+    "chunk_id": "ep2_solutions_5",
+    "text": "Inflation fell from thirteen percent in 1979 to three percent in 1983. The credibility of the commitment was what broke inflationary expectations — and credibility required the willingness to impose, and accept, genuine pain."
+  },
+  {
+    "chapter_id": "ep2_results",
+    "chunk_id": "ep2_results_0",
+    "text": "The defeat of the 1970s inflation produced two sets of consequences — one set absorbed deeply into subsequent policy, one set largely ignored."
+  },
+  {
+    "chapter_id": "ep2_results",
+    "chunk_id": "ep2_results_1",
+    "text": "What policymakers took from the episode: inflation targeting works when central banks are independent and willing to defend the target. New Zealand formally adopted the first inflation target in 1989. Canada followed in 1991."
+  },
+  {
+    "chapter_id": "ep2_results",
+    "chunk_id": "ep2_results_2",
+    "text": "The United Kingdom in 1997. The European Central Bank in 1999. The Federal Reserve in 2012. Central bank independence was encoded into law across the developed world."
+  },
+  {
+    "chapter_id": "ep2_results",
+    "chunk_id": "ep2_results_3",
+    "text": "The insight that inflation is fundamentally about credibility and expectations — rather than just money supply growth — became the foundation of modern monetary policy."
+  },
+  {
+    "chapter_id": "ep2_results",
+    "chunk_id": "ep2_results_4",
+    "text": "What policymakers did not take from the episode: the distributional consequences of tight money fall almost entirely on workers and debtors, not on the policymakers who make the decision."
+  },
+  {
+    "chapter_id": "ep2_results",
+    "chunk_id": "ep2_results_5",
+    "text": "The Volcker recession permanently destroyed two-point-two million manufacturing jobs in the Rust Belt. The real wages of workers without college degrees never recovered to their 1970s levels."
+  },
+  {
+    "chapter_id": "ep2_results",
+    "chunk_id": "ep2_results_6",
+    "text": "The regions that bore the brunt of the recession — Ohio, Michigan, Pennsylvania, Indiana — experienced structural decline that continued for decades. The social costs of the cure were as real as the social costs of the disease."
+  },
+  {
+    "chapter_id": "ep2_results",
+    "chunk_id": "ep2_results_7",
+    "text": "The question of who pays for macroeconomic stabilisation remained unasked."
+  },
+  {
+    "chapter_id": "ep3_event",
+    "chunk_id": "ep3_event_0",
+    "text": "On July 2, 1997, Thailand abandoned its currency peg to the US dollar. The baht fell fifteen percent in a single day and would eventually lose forty percent of its value."
+  },
+  {
+    "chapter_id": "ep3_event",
+    "chunk_id": "ep3_event_1",
+    "text": "What happened next was not predicted by any major financial institution, economic model, or government — including the governments of the countries about to be devastated."
+  },
+  {
+    "chapter_id": "ep3_event",
+    "chunk_id": "ep3_event_2",
+    "text": "For more than a decade, Southeast Asia had been the economic success story of the era. Thailand averaged nine percent growth from 1985 to 1995. Malaysia, Indonesia, the Philippines — all posting similar numbers. Foreign capital poured in."
+  },
+  {
+    "chapter_id": "ep3_event",
+    "chunk_id": "ep3_event_3",
+    "text": "Ninety-three billion dollars in private capital flows reached Asia in 1996 alone. The vulnerabilities were hidden beneath the growth figures."
+  },
+  {
+    "chapter_id": "ep3_event",
+    "chunk_id": "ep3_event_4",
+    "text": "Banks were borrowing short-term in dollars and lending long-term in local currencies — a double mismatch of maturity and denomination. Property markets were overextended. Corporate debt-to-equity ratios were unsustainable."
+  },
+  {
+    "chapter_id": "ep3_event",
+    "chunk_id": "ep3_event_5",
+    "text": "And all of it was held together by currency pegs that, once speculators identified them as unsustainable, could not be defended. The crisis spread with the speed of financial markets. Thailand to the Philippines. The Philippines to Malaysia."
+  },
+  {
+    "chapter_id": "ep3_event",
+    "chunk_id": "ep3_event_6",
+    "text": "Malaysia to Indonesia. Indonesia to South Korea. Within six months, economies that had been models of development were negotiating emergency rescue packages."
+  },
+  {
+    "chapter_id": "ep3_problems",
+    "chunk_id": "ep3_problems_0",
+    "text": "The Asian Financial Crisis exposed structural vulnerabilities that capital account liberalisation had concealed rather than resolved. The fundamental problem was a currency mismatch."
+  },
+  {
+    "chapter_id": "ep3_problems",
+    "chunk_id": "ep3_problems_1",
+    "text": "Banks and corporations throughout the region had borrowed in dollars at low international interest rates and invested in local-currency assets at higher returns. This was profitable while currency pegs held."
+  },
+  {
+    "chapter_id": "ep3_problems",
+    "chunk_id": "ep3_problems_2",
+    "text": "When the pegs broke, dollar debts denominated in now-depreciated local currencies became immediately unserviceable. A fifty-percent currency depreciation doubled the local-currency cost of dollar debts overnight."
+  },
+  {
+    "chapter_id": "ep3_problems",
+    "chunk_id": "ep3_problems_3",
+    "text": "The IMF's initial response — fiscal tightening, high interest rates, rapid bank closures — proved to be the wrong prescription for this type of crisis. Raising interest rates to defend currencies worsened the corporate debt burden."
+  },
+  {
+    "chapter_id": "ep3_problems",
+    "chunk_id": "ep3_problems_4",
+    "text": "Closing banks created panic rather than restoring confidence. Cutting government spending in the middle of a demand collapse deepened recessions that the Fund had not predicted. Malaysia took a different path."
+  },
+  {
+    "chapter_id": "ep3_problems",
+    "chunk_id": "ep3_problems_5",
+    "text": "Prime Minister Mahathir imposed capital controls in September 1998 — restricting the convertibility of the ringgit and preventing foreigners from repatriating capital for twelve months. The IMF condemned the decision."
+  },
+  {
+    "chapter_id": "ep3_problems",
+    "chunk_id": "ep3_problems_6",
+    "text": "The markets punished Malaysia initially. But Malaysia avoided the deepest phase of recession that hit Thailand, Indonesia, and South Korea under IMF programs. The evidence was ambiguous, but the alternative had been demonstrated."
+  },
+  {
+    "chapter_id": "ep3_solutions",
+    "chunk_id": "ep3_solutions_0",
+    "text": "On December 3, 1997, South Korea signed its letter of intent with the IMF. Usable foreign reserves stood at seven-point-three billion dollars against sixty billion in short-term foreign debt coming due within weeks."
+  },
+  {
+    "chapter_id": "ep3_solutions",
+    "chunk_id": "ep3_solutions_1",
+    "text": "Without the fifty-seven billion dollar rescue package — the largest in IMF history to that point — the country faced sovereign default. The rescue bought time. What South Korea did with that time was exceptional."
+  },
+  {
+    "chapter_id": "ep3_solutions",
+    "chunk_id": "ep3_solutions_2",
+    "text": "The government negotiated a maturity extension with foreign creditors — converting short-term debt to longer-term obligations. It recapitalised the banking system at a public cost of approximately thirty percent of GDP."
+  },
+  {
+    "chapter_id": "ep3_solutions",
+    "chunk_id": "ep3_solutions_3",
+    "text": "It forced through structural reform of the chaebol conglomerates — the giant family-owned industrial groups whose debt-to-equity ratios had reached five hundred percent. The Daewoo Corporation, one of the largest, was liquidated."
+  },
+  {
+    "chapter_id": "ep3_solutions",
+    "chunk_id": "ep3_solutions_4",
+    "text": "Sixty-five billion dollars in debts written off. The turnaround was faster than anyone had predicted. South Korea returned to growth in 1999. Its current account deficit, which had been eight percent of GDP at the crisis peak, swung to a surplus."
+  },
+  {
+    "chapter_id": "ep3_solutions",
+    "chunk_id": "ep3_solutions_5",
+    "text": "The foreign reserves that had nearly run to zero reached three hundred billion dollars by 2010."
+  },
+  {
+    "chapter_id": "ep3_solutions",
+    "chunk_id": "ep3_solutions_6",
+    "text": "The lesson was absorbed regionally, if not globally: self-insurance through reserve accumulation was the only reliable protection against the volatility of open capital markets."
+  },
+  {
+    "chapter_id": "ep3_results",
+    "chunk_id": "ep3_results_0",
+    "text": "The Asian Financial Crisis produced consequences that were simultaneously more damaging than most observers acknowledged and more instructive than most policymakers admitted. The damage was severe."
+  },
+  {
+    "chapter_id": "ep3_results",
+    "chunk_id": "ep3_results_1",
+    "text": "Indonesia's economy contracted thirteen-point-six percent in 1998. Twenty-four million Indonesians were pushed into poverty. The suicide rate in South Korea rose forty-five percent during the crisis years."
+  },
+  {
+    "chapter_id": "ep3_results",
+    "chunk_id": "ep3_results_2",
+    "text": "Decades of poverty reduction were reversed in months. The political consequences were equally severe. Indonesia's President Suharto resigned in May 1998 after thirty-two years in power — the crisis delegitimised governments across the region."
+  },
+  {
+    "chapter_id": "ep3_results",
+    "chunk_id": "ep3_results_3",
+    "text": "The democratic transitions that followed were genuine, but they came at enormous social cost. The institutional lessons, however, were learned."
+  },
+  {
+    "chapter_id": "ep3_results",
+    "chunk_id": "ep3_results_4",
+    "text": "Asian central banks collectively accumulated seven trillion dollars in foreign reserves by 2010 — self-insurance against ever needing an IMF programme again. The Chiang Mai Initiative created a two-hundred-forty-billion-dollar regional swap network."
+  },
+  {
+    "chapter_id": "ep3_results",
+    "chunk_id": "ep3_results_5",
+    "text": "And in 2012, the IMF formally revised its institutional view on capital controls, acknowledging that selective restrictions could be a legitimate policy tool under specific conditions."
+  },
+  {
+    "chapter_id": "ep3_results",
+    "chunk_id": "ep3_results_6",
+    "text": "The lesson that required twenty years to be officially acknowledged: capital flow liberalisation is not uniformly beneficial. Speed of liberalisation matters. Financial sector regulation must precede capital account opening."
+  },
+  {
+    "chapter_id": "ep3_results",
+    "chunk_id": "ep3_results_7",
+    "text": "The Washington Consensus prescription had been applied without its preconditions."
+  },
+  {
+    "chapter_id": "ep4_event",
+    "chunk_id": "ep4_event_0",
+    "text": "On September 15, 2008, at one forty-five in the morning, Lehman Brothers filed for bankruptcy protection. The firm had six hundred and thirty-nine billion dollars in assets and six hundred and thirteen billion in liabilities."
+  },
+  {
+    "chapter_id": "ep4_event",
+    "chunk_id": "ep4_event_1",
+    "text": "Twenty-five thousand employees. One hundred and fifty-eight years of institutional history."
+  },
+  {
+    "chapter_id": "ep4_event",
+    "chunk_id": "ep4_event_2",
+    "text": "Within hours, the Reserve Primary Fund — one of the oldest money market funds in the United States — announced that its net asset value had fallen below one dollar per share. It had broken the buck."
+  },
+  {
+    "chapter_id": "ep4_event",
+    "chunk_id": "ep4_event_3",
+    "text": "The fund held seven hundred and eighty-five million dollars of Lehman commercial paper, now worthless. Money market funds were supposed to be as safe as cash. Investors had placed their savings there specifically to avoid risk."
+  },
+  {
+    "chapter_id": "ep4_event",
+    "chunk_id": "ep4_event_4",
+    "text": "The news triggered immediate runs on money market funds across the system. In the days that followed, the commercial paper market seized. Interbank lending froze. The federal funds rate spiked as banks refused to lend to each other overnight."
+  },
+  {
+    "chapter_id": "ep4_event",
+    "chunk_id": "ep4_event_5",
+    "text": "The crisis that had been visible in slow motion for eighteen months — rising subprime defaults, collapsing structured credit products, Bear Stearns's failure in March — had become systemic in a single morning."
+  },
+  {
+    "chapter_id": "ep4_event",
+    "chunk_id": "ep4_event_6",
+    "text": "The question that would be debated for years was whether Lehman could have been saved, or whether its failure was the consequence of a system that had grown too complex to manage."
+  },
+  {
+    "chapter_id": "ep4_problems",
+    "chunk_id": "ep4_problems_0",
+    "text": "The 2008 Global Financial Crisis was not primarily a crisis of household mortgages."
+  },
+  {
+    "chapter_id": "ep4_problems",
+    "chunk_id": "ep4_problems_1",
+    "text": "It was a crisis of the financial architecture built on top of those mortgages — a shadow banking system of twelve trillion dollars operating with almost no regulatory oversight and no lender of last resort."
+  },
+  {
+    "chapter_id": "ep4_problems",
+    "chunk_id": "ep4_problems_2",
+    "text": "The originate-to-distribute model had separated mortgage lending from mortgage risk. Banks originated loans and immediately sold them into securitisation vehicles."
+  },
+  {
+    "chapter_id": "ep4_problems",
+    "chunk_id": "ep4_problems_3",
+    "text": "The securities were then sold to money market funds, pension funds, and insurance companies globally. At each stage, the instruments became more complex and the underlying risk more opaque."
+  },
+  {
+    "chapter_id": "ep4_problems",
+    "chunk_id": "ep4_problems_4",
+    "text": "When house prices stopped rising in 2006, the assumptions embedded in every level of this structure broke simultaneously. Mortgage default rates exceeded model predictions. Structured products that had never been stress-tested failed."
+  },
+  {
+    "chapter_id": "ep4_problems",
+    "chunk_id": "ep4_problems_5",
+    "text": "Rating agencies that had given triple-A ratings to instruments that deserved none faced questions about their independence."
+  },
+  {
+    "chapter_id": "ep4_problems",
+    "chunk_id": "ep4_problems_6",
+    "text": "And insurance products — credit default swaps — that were supposed to redistribute risk had instead concentrated it in a handful of institutions, most notably AIG."
+  },
+  {
+    "chapter_id": "ep4_problems",
+    "chunk_id": "ep4_problems_7",
+    "text": "The tools available to the Federal Reserve and Treasury had been designed for a banking system of regulated commercial banks with transparent balance sheets."
+  },
+  {
+    "chapter_id": "ep4_problems",
+    "chunk_id": "ep4_problems_8",
+    "text": "The system they were dealing with in 2008 operated in the dark — repo markets, asset-backed commercial paper, money market funds — and had no legal framework for resolution."
+  },
+  {
+    "chapter_id": "ep4_solutions",
+    "chunk_id": "ep4_solutions_0",
+    "text": "On October 13, 2008, nine bank chief executives were summoned to the Treasury Department. Hank Paulson presented them with a one-page term sheet: the government would purchase preferred equity in each of their institutions."
+  },
+  {
+    "chapter_id": "ep4_solutions",
+    "chunk_id": "ep4_solutions_1",
+    "text": "The amounts were not negotiable. The terms were not up for discussion. The meeting lasted less than an hour. All nine signed. The Federal Reserve deployed facilities that had never been used in the history of American central banking."
+  },
+  {
+    "chapter_id": "ep4_solutions",
+    "chunk_id": "ep4_solutions_2",
+    "text": "The Commercial Paper Funding Facility. The Term Securities Lending Facility. The Primary Dealer Credit Facility. At their peak in December 2008, these emergency facilities had approximately one-and-a-half trillion dollars outstanding."
+  },
+  {
+    "chapter_id": "ep4_solutions",
+    "chunk_id": "ep4_solutions_3",
+    "text": "The Fed's balance sheet rose from nine hundred billion to two-point-three trillion in four months."
+  },
+  {
+    "chapter_id": "ep4_solutions",
+    "chunk_id": "ep4_solutions_4",
+    "text": "Congress passed the seven-hundred-billion-dollar Troubled Asset Relief Program — which then, in a pivot that surprised everyone, was used primarily to purchase equity stakes rather than troubled assets."
+  },
+  {
+    "chapter_id": "ep4_solutions",
+    "chunk_id": "ep4_solutions_5",
+    "text": "The American Recovery and Reinvestment Act added seven-hundred-and-eighty-seven billion in fiscal stimulus in February 2009. Three rounds of quantitative easing eventually brought the Fed's balance sheet to four-and-a-half trillion dollars."
+  },
+  {
+    "chapter_id": "ep4_solutions",
+    "chunk_id": "ep4_solutions_6",
+    "text": "Interest rates were held at the zero lower bound for seven years. The response was unprecedented in scale and speed."
+  },
+  {
+    "chapter_id": "ep4_solutions",
+    "chunk_id": "ep4_solutions_7",
+    "text": "It was also incomplete — the fiscal stimulus was smaller than most economists believed necessary, and the recovery was the slowest since the Great Depression."
+  },
+  {
+    "chapter_id": "ep4_results",
+    "chunk_id": "ep4_results_0",
+    "text": "The 2008 crisis response prevented the second Great Depression. That is the baseline, and it matters."
+  },
+  {
+    "chapter_id": "ep4_results",
+    "chunk_id": "ep4_results_1",
+    "text": "The bank run cascade that Bernanke, Paulson, and Geithner feared — banks failing, depositors losing everything, credit markets permanently frozen — did not happen. The financial system was stabilised."
+  },
+  {
+    "chapter_id": "ep4_results",
+    "chunk_id": "ep4_results_2",
+    "text": "GDP bottomed out and began recovering in mid-2009. But the recovery was deeply unequal. The top one percent of American households captured ninety-one percent of income gains between 2009 and 2012. Seven million households were foreclosed."
+  },
+  {
+    "chapter_id": "ep4_results",
+    "chunk_id": "ep4_results_3",
+    "text": "The scarring effects on young workers who graduated into the crisis — studies showed persistent wage penalties of eight to twelve percent extending a decade into their careers. The institutional response was genuine."
+  },
+  {
+    "chapter_id": "ep4_results",
+    "chunk_id": "ep4_results_4",
+    "text": "Basel Three increased required capital ratios and introduced liquidity requirements. The Dodd-Frank Act created the Financial Stability Oversight Council and the Consumer Financial Protection Bureau. Annual stress tests became standard."
+  },
+  {
+    "chapter_id": "ep4_results",
+    "chunk_id": "ep4_results_5",
+    "text": "The systemically important financial institutions were identified and subjected to enhanced supervision. But the distributional reckoning did not occur."
+  },
+  {
+    "chapter_id": "ep4_results",
+    "chunk_id": "ep4_results_6",
+    "text": "Zero senior bankers were prosecuted for conduct related to the crisis — compared to over eight hundred prosecutions following the Savings and Loan crisis of the 1980s."
+  },
+  {
+    "chapter_id": "ep4_results",
+    "chunk_id": "ep4_results_7",
+    "text": "Foreclosure relief for struggling homeowners was underfunded and poorly administered. The political consequence was a decade of populist anger directed at institutions that had been bailed out while households were not."
+  },
+  {
+    "chapter_id": "ep5_event",
+    "chunk_id": "ep5_event_0",
+    "text": "On Thursday March 12, 2020, Nick Lore, a Philadelphia restaurateur, filled garbage bags with salmon fillets and called his eleven staff members one by one to tell them they were laid off."
+  },
+  {
+    "chapter_id": "ep5_event",
+    "chunk_id": "ep5_event_1",
+    "text": "The same conversation was happening in restaurants, hotels, theatres, airports, and shopping centres across every developed economy simultaneously. The COVID-19 economic shock was unlike any crisis in this series."
+  },
+  {
+    "chapter_id": "ep5_event",
+    "chunk_id": "ep5_event_2",
+    "text": "Previous crises had been caused by financial imbalances, policy failures, or supply disruptions that accumulated over months or years."
+  },
+  {
+    "chapter_id": "ep5_event",
+    "chunk_id": "ep5_event_3",
+    "text": "This one was caused by a deliberate decision: governments shut their economies to prevent the spread of a lethal virus. The speed of the contraction was without precedent. The United States lost twenty-two million jobs in eight weeks."
+  },
+  {
+    "chapter_id": "ep5_event",
+    "chunk_id": "ep5_event_4",
+    "text": "The Great Financial Crisis had taken twenty-five months to produce nine million job losses. Twenty weeks into COVID, output had fallen more than it had in any full year of the Great Depression."
+  },
+  {
+    "chapter_id": "ep5_event",
+    "chunk_id": "ep5_event_5",
+    "text": "The speed of the policy response was also without precedent. The CARES Act — two-point-two trillion dollars — was signed seventeen days after the World Health Organisation declared a pandemic."
+  },
+  {
+    "chapter_id": "ep5_event",
+    "chunk_id": "ep5_event_6",
+    "text": "Direct payments to households, enhanced unemployment benefits, forgivable loans to small businesses, emergency backstops for financial markets."
+  },
+  {
+    "chapter_id": "ep5_event",
+    "chunk_id": "ep5_event_7",
+    "text": "The Federal Reserve expanded its balance sheet from four trillion to seven trillion dollars in ninety days. The playbook of 2008 was deployed at five times the speed."
+  },
+  {
+    "chapter_id": "ep5_problems",
+    "chunk_id": "ep5_problems_0",
+    "text": "The COVID economic shock posed a problem that no existing policy framework had been designed to address: a simultaneous supply and demand collapse, deliberately induced, of unknown duration."
+  },
+  {
+    "chapter_id": "ep5_problems",
+    "chunk_id": "ep5_problems_1",
+    "text": "The fourteen-point-seven percent unemployment rate in April 2020 masked a more complex reality. Most of the job losses were in in-person services — hospitality, retail, entertainment, travel. These workers could not work from home."
+  },
+  {
+    "chapter_id": "ep5_problems",
+    "chunk_id": "ep5_problems_2",
+    "text": "The professional services sector, which could, continued working with relatively minor disruption. A crisis that appeared uniform in the aggregate was profoundly unequal in its distribution."
+  },
+  {
+    "chapter_id": "ep5_problems",
+    "chunk_id": "ep5_problems_3",
+    "text": "The design of the response exposed sharp differences in economic philosophy."
+  },
+  {
+    "chapter_id": "ep5_problems",
+    "chunk_id": "ep5_problems_4",
+    "text": "The United States paid unemployed workers six-hundred dollars per week above their existing unemployment benefits — a replacement rate that exceeded one-hundred percent for many service workers."
+  },
+  {
+    "chapter_id": "ep5_problems",
+    "chunk_id": "ep5_problems_5",
+    "text": "This was effective at preventing immediate poverty but created friction around reopening. Germany, by contrast, used Kurzarbeit — short-time work — covering six million workers at its April 2020 peak."
+  },
+  {
+    "chapter_id": "ep5_problems",
+    "chunk_id": "ep5_problems_6",
+    "text": "Rather than severing the employment relationship and paying unemployment, the government subsidised reduced hours, preserving the connection between worker and employer. When the economy reopened, German workers returned to existing jobs."
+  },
+  {
+    "chapter_id": "ep5_problems",
+    "chunk_id": "ep5_problems_7",
+    "text": "American workers had to find new ones. Both approaches prevented catastrophe. The difference was in the speed of recovery and the scarring effects on labour markets that would play out over subsequent years."
+  },
+  {
+    "chapter_id": "ep5_solutions",
+    "chunk_id": "ep5_solutions_0",
+    "text": "On March 25, 2020, Mitch McConnell announced that the CARES Act had cleared the Senate by ninety-six votes to zero. The House passed it by voice vote the following day. The President signed it that evening."
+  },
+  {
+    "chapter_id": "ep5_solutions",
+    "chunk_id": "ep5_solutions_1",
+    "text": "Seventeen days from pandemic declaration to the largest emergency spending bill in American history. The architecture was comprehensive."
+  },
+  {
+    "chapter_id": "ep5_solutions",
+    "chunk_id": "ep5_solutions_2",
+    "text": "Two-hundred-and-ninety-two billion dollars in direct household payments — twelve-hundred dollars per adult, five-hundred per child."
+  },
+  {
+    "chapter_id": "ep5_solutions",
+    "chunk_id": "ep5_solutions_3",
+    "text": "Two-hundred-and-sixty-eight billion in enhanced unemployment benefits, including the six-hundred-dollar weekly supplement and new coverage for gig workers who had never qualified for unemployment before."
+  },
+  {
+    "chapter_id": "ep5_solutions",
+    "chunk_id": "ep5_solutions_4",
+    "text": "Eight-hundred-and-thirteen billion in total Paycheck Protection Program loans for small businesses, forgivable if companies retained their employees. The Federal Reserve activated nine separate emergency lending facilities in twenty-five days."
+  },
+  {
+    "chapter_id": "ep5_solutions",
+    "chunk_id": "ep5_solutions_5",
+    "text": "Some were adapted from 2008. Some were new — including, for the first time, a facility to purchase corporate bonds directly. The Fed moved faster and further than it had in the entire first year following Lehman Brothers."
+  },
+  {
+    "chapter_id": "ep5_solutions",
+    "chunk_id": "ep5_solutions_6",
+    "text": "The American Rescue Plan, signed in March 2021, added one-point-nine trillion in additional support."
+  },
+  {
+    "chapter_id": "ep5_solutions",
+    "chunk_id": "ep5_solutions_7",
+    "text": "The expanded Child Tax Credit, providing monthly payments to families with children, reduced child poverty to its lowest recorded level in American history — one of the most rapid anti-poverty interventions ever implemented."
+  },
+  {
+    "chapter_id": "ep5_solutions",
+    "chunk_id": "ep5_solutions_8",
+    "text": "The scale of the response worked. Twenty-two million jobs were recovered in twenty-eight months. After 2008, the same number of jobs had taken seventy-eight months to recover."
+  },
+  {
+    "chapter_id": "ep5_results",
+    "chunk_id": "ep5_results_0",
+    "text": "The COVID-19 economic response produced contradictions so sharp that they read as almost deliberately constructed."
+  },
+  {
+    "chapter_id": "ep5_results",
+    "chunk_id": "ep5_results_1",
+    "text": "The same policy decisions that pushed child poverty to generational lows also contributed to an inflation surge that would consume real wages for two years."
+  },
+  {
+    "chapter_id": "ep5_results",
+    "chunk_id": "ep5_results_2",
+    "text": "The same emergency transfers that prevented economic collapse also seeded the fiscal and monetary conditions for the next crisis. The positive results were genuine. Twenty-two million jobs recovered in twenty-eight months."
+  },
+  {
+    "chapter_id": "ep5_results",
+    "chunk_id": "ep5_results_3",
+    "text": "Child poverty rates fell from eighteen to twelve percent in a single year. Operation Warp Speed produced two authorised vaccines in under twelve months — a scientific achievement that had required eight to ten years on any previous timeline."
+  },
+  {
+    "chapter_id": "ep5_results",
+    "chunk_id": "ep5_results_4",
+    "text": "Remote work, forced on reluctant employers by necessity, turned out to preserve eighty-seven percent of in-office productivity, permanently reshaping the geography of employment. The negative results were also genuine."
+  },
+  {
+    "chapter_id": "ep5_results",
+    "chunk_id": "ep5_results_5",
+    "text": "One-point-two million excess deaths in the United States, concentrated among elderly and minority populations, representing the largest demographic shock since World War Two. Third-grade reading proficiency fell to its lowest level in thirty years."
+  },
+  {
+    "chapter_id": "ep5_results",
+    "chunk_id": "ep5_results_6",
+    "text": "Emergency visits for adolescent suicide attempts rose fifty-one percent. The K-shaped recovery visible by late 2021 showed professional services fully recovered; leisure and hospitality still eight percent below pre-pandemic levels."
+  },
+  {
+    "chapter_id": "ep5_results",
+    "chunk_id": "ep5_results_7",
+    "text": "The crisis that appeared to threaten everyone had, in the end, distributed its costs with the same precision as every crisis before it."
+  },
+  {
+    "chapter_id": "ep6_event",
+    "chunk_id": "ep6_event_0",
+    "text": "In January 2022, Sharon Kowalski, a retired Pittsburgh school administrator living on a fixed pension of twenty-eight hundred dollars a month, watched her weekly grocery bill rise from eighty-seven to one-hundred-and-twenty-four dollars."
+  },
+  {
+    "chapter_id": "ep6_event",
+    "chunk_id": "ep6_event_1",
+    "text": "Eggs had gone from a dollar thirty-nine to three dollars and eighty-nine cents. She had not had a pay rise in three years. She would not get one. The Great Inflation of 2021 to 2023 returned after thirty years of near-absence."
+  },
+  {
+    "chapter_id": "ep6_event",
+    "chunk_id": "ep6_event_2",
+    "text": "American CPI reached nine-point-one percent in June 2022 — the highest reading since November 1981. Inflation in the United Kingdom hit eleven-point-one percent. The Eurozone reached ten-point-six percent. Four factors converged simultaneously."
+  },
+  {
+    "chapter_id": "ep6_event",
+    "chunk_id": "ep6_event_3",
+    "text": "First, excess savings accumulated during lockdowns — two-point-five trillion dollars across US households — were deployed into a reopening economy. Second, global supply chains, stressed by the pandemic, could not respond to this surge in demand."
+  },
+  {
+    "chapter_id": "ep6_event",
+    "chunk_id": "ep6_event_4",
+    "text": "Container shipping costs rose nine hundred percent. Semiconductor shortages rippled through automotive and electronics manufacturing. Third, Russia's invasion of Ukraine in February 2022 sent energy prices surging."
+  },
+  {
+    "chapter_id": "ep6_event",
+    "chunk_id": "ep6_event_5",
+    "text": "Brent crude rose from seventy-eight to one-hundred-and-twenty-eight dollars per barrel. Russian gas, which supplied forty percent of European heating, was weaponised."
+  },
+  {
+    "chapter_id": "ep6_event",
+    "chunk_id": "ep6_event_6",
+    "text": "Fourth — and most consequentially for the policy response that followed — the Federal Reserve held interest rates at zero through the end of 2021. In May of that year, Chair Powell had used a single word to describe the inflation: transitory."
+  },
+  {
+    "chapter_id": "ep6_problems",
+    "chunk_id": "ep6_problems_0",
+    "text": "The Great Inflation of 2021 to 2023 was not a single phenomenon. It was three or four overlapping inflation processes operating simultaneously — making it extraordinarily difficult to diagnose correctly and correspondingly difficult to treat."
+  },
+  {
+    "chapter_id": "ep6_problems",
+    "chunk_id": "ep6_problems_1",
+    "text": "Demand inflation from excess savings collided with supply inflation from disrupted production chains. Energy inflation from Russia's war compounded both."
+  },
+  {
+    "chapter_id": "ep6_problems",
+    "chunk_id": "ep6_problems_2",
+    "text": "And monetary inflation — the consequence of holding rates at zero while injecting trillions in fiscal stimulus — was the medium in which all of it propagated. The Federal Reserve's two-year trajectory was striking."
+  },
+  {
+    "chapter_id": "ep6_problems",
+    "chunk_id": "ep6_problems_3",
+    "text": "In 2021, it maintained the position that inflation was transitory — a temporary consequence of supply chain disruptions that would resolve without requiring a monetary response. This assessment was wrong."
+  },
+  {
+    "chapter_id": "ep6_problems",
+    "chunk_id": "ep6_problems_4",
+    "text": "Its internal forecasting models, built during the low-inflation era, had no mechanism to capture the combined supply and demand dynamics of the post-pandemic environment."
+  },
+  {
+    "chapter_id": "ep6_problems",
+    "chunk_id": "ep6_problems_5",
+    "text": "When the error became undeniable — inflation at nine-point-one percent, wages rising but not keeping pace, real incomes falling for twenty-four consecutive months — the Fed pivoted with equivalent force in the opposite direction."
+  },
+  {
+    "chapter_id": "ep6_problems",
+    "chunk_id": "ep6_problems_6",
+    "text": "Eleven rate hikes from March 2022 to July 2023. Four consecutive seventy-five basis point increases — the most aggressive tightening since the Volcker era."
+  },
+  {
+    "chapter_id": "ep6_problems",
+    "chunk_id": "ep6_problems_7",
+    "text": "The instrument that had been held at zero to support the recovery became the source of the acute pain required to restore stability. For households like Sharon Kowalski's, the error and the correction were equally damaging."
+  },
+  {
+    "chapter_id": "ep6_problems",
+    "chunk_id": "ep6_problems_8",
+    "text": "The inflation eroded savings. The rate hikes increased mortgage costs and triggered the collapse of banks that had loaded up on long-duration bonds purchased when rates were zero."
+  },
+  {
+    "chapter_id": "ep6_solutions",
+    "chunk_id": "ep6_solutions_0",
+    "text": "On August 26, 2022, Jerome Powell delivered a thirteen-hundred-word speech at the Federal Reserve's annual Jackson Hole symposium. The S&P 500 lost one-point-three trillion dollars in value that afternoon."
+  },
+  {
+    "chapter_id": "ep6_solutions",
+    "chunk_id": "ep6_solutions_1",
+    "text": "The key sentence read: 'Higher interest rates, slower growth, and softer labor market conditions will bring down inflation, they will also bring some pain to households and businesses."
+  },
+  {
+    "chapter_id": "ep6_solutions",
+    "chunk_id": "ep6_solutions_2",
+    "text": "These are the unfortunate costs of reducing inflation.'\n\nPowrell explicitly invoked Volcker. The speech was a signal that the Fed understood the error of the previous eighteen months and intended to correct it, whatever the economic cost."
+  },
+  {
+    "chapter_id": "ep6_solutions",
+    "chunk_id": "ep6_solutions_3",
+    "text": "The rate cycle was the most aggressive in four decades. From twenty-five basis points in March 2022 to five-point-five percent in July 2023 — five-hundred-and-twenty-five basis points in sixteen months."
+  },
+  {
+    "chapter_id": "ep6_solutions",
+    "chunk_id": "ep6_solutions_4",
+    "text": "The Fed then held rates at that level through 2023 and into 2024, maintaining the pressure until inflation fell clearly and sustainably toward target. The European Central Bank raised rates from negative fifty basis points to four percent."
+  },
+  {
+    "chapter_id": "ep6_solutions",
+    "chunk_id": "ep6_solutions_5",
+    "text": "The Bank of England from ten basis points to five-point-two-five."
+  },
+  {
+    "chapter_id": "ep6_solutions",
+    "chunk_id": "ep6_solutions_6",
+    "text": "Central banks globally coordinated the most synchronised tightening cycle in history — with consequences for emerging market economies and highly indebted nations that played out over subsequent years."
+  },
+  {
+    "chapter_id": "ep6_solutions",
+    "chunk_id": "ep6_solutions_7",
+    "text": "In the United States, the outcome was exceptional by historical standards. Inflation fell from nine-point-one to two-point-four percent."
+  },
+  {
+    "chapter_id": "ep6_solutions",
+    "chunk_id": "ep6_solutions_8",
+    "text": "Unemployment peaked at four-point-three percent — well below the levels seen in any previous serious tightening cycle — and then fell again. GDP remained positive throughout. The soft landing that Volcker had never achieved appeared to have occurred."
+  },
+  {
+    "chapter_id": "ep6_results",
+    "chunk_id": "ep6_results_0",
+    "text": "Of the fourteen Federal Reserve tightening cycles since 1965, eleven produced recessions. The 2022 to 2024 cycle, the most aggressive in forty years, did not — or at least had not produced one by the time this series was completed."
+  },
+  {
+    "chapter_id": "ep6_results",
+    "chunk_id": "ep6_results_1",
+    "text": "The positive results were significant. US inflation fell from nine-point-one to two-point-four percent without the unemployment cost that previous tightening episodes had imposed."
+  },
+  {
+    "chapter_id": "ep6_results",
+    "chunk_id": "ep6_results_2",
+    "text": "Inflation expectations remained anchored throughout — the critical difference from the 1970s, when expectations became self-fulfilling."
+  },
+  {
+    "chapter_id": "ep6_results",
+    "chunk_id": "ep6_results_3",
+    "text": "The Inflation Reduction Act, passed in the middle of the inflation surge, accelerated the transition to domestic energy production and clean energy — a structural response to the energy vulnerability that the Ukraine shock had exposed."
+  },
+  {
+    "chapter_id": "ep6_results",
+    "chunk_id": "ep6_results_4",
+    "text": "The negative results were distributed with characteristic unevenness. In the United Kingdom, real wages fell three-point-five percent in 2022 — the largest decline since the 1970s. Food bank parcels distributed in Britain rose thirty-seven percent."
+  },
+  {
+    "chapter_id": "ep6_results",
+    "chunk_id": "ep6_results_5",
+    "text": "Germany entered technical recession in 2023, its dependency on cheap Russian gas having proved to be a structural vulnerability that forty years of policy had failed to address."
+  },
+  {
+    "chapter_id": "ep6_results",
+    "chunk_id": "ep6_results_6",
+    "text": "Globally, the tightening cycle pushed seventy million additional people toward acute food insecurity as dollar-denominated commodity prices rose and emerging market currencies fell against the rising dollar."
+  },
+  {
+    "chapter_id": "ep6_results",
+    "chunk_id": "ep6_results_7",
+    "text": "The Silicon Valley Bank collapse in March 2023 — caused by exactly the interest rate risk that the stress tests were supposed to catch — was a reminder that crises do not wait for the previous one to be fully resolved."
+  },
+  {
+    "chapter_id": "ep6_results",
+    "chunk_id": "ep6_results_8",
+    "text": "They find the vulnerability that the last set of reforms did not address."
+  }
+]

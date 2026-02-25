@@ -2,11 +2,12 @@ import React from 'react';
 import { interpolate, useCurrentFrame, useVideoConfig, AbsoluteFill } from 'remotion';
 
 const references = [
-    'Levine H. et al. (2022). Temporal trends in sperm count: a systematic review. Human Reproduction Update.',
-    'Swan S.H. & Colino S. (2021). Count Down. Scribner.',
-    'Agarwal A. et al. (2019). Male Oxidative Stress Infertility (MOSI). The World Journal of Men\'s Health.',
-    'Travison T.G. et al. (2007). A population-level decline in serum testosterone. J. Clinical Endocrinology.',
-    'Chen Y., Persson P., Polyakova M. (2023). The Economics of IVF. SIEPR, Stanford University.',
+    'Friedman M. & Schwartz A.J. (1963). A Monetary History of the United States. Princeton University Press.',
+    'Bernanke B. (2015). The Courage to Act. W.W. Norton. · Geithner T. (2014). Stress Test. Crown.',
+    'IMF World Economic Outlook Database (2024). GDP growth, unemployment, inflation series.',
+    'Reinhart C.M. & Rogoff K.S. (2009). This Time Is Different: Eight Centuries of Financial Folly.',
+    'Caballero R.J. & Krishnamurthy A. (2009). Global imbalances and financial fragility. NBER.',
+    'Acemoglu D. & Robinson J.A. (2012). Why Nations Fail. Crown Publishers.',
 ];
 
 export const CreditsSlide: React.FC = () => {
@@ -90,7 +91,7 @@ export const CreditsSlide: React.FC = () => {
                         letterSpacing: 4,
                         textTransform: 'uppercase',
                     }}>
-                        The Male Fertility Crisis · 2026
+                        Economic Crises Explained · 2026
                     </p>
                 </div>
             </div>

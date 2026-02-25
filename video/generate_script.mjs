@@ -17,12 +17,44 @@ const BACKGROUNDS = [
     'bg_toxicology.jpg'
 ];
 
+const CHAPTER_TITLES = {
+    'ep1_event':     'Episode 1 · Event',
+    'ep1_problems':  'Episode 1 · Problems',
+    'ep1_solutions': 'Episode 1 · Solutions',
+    'ep1_results':   'Episode 1 · Results',
+    'ep2_event':     'Episode 2 · Event',
+    'ep2_problems':  'Episode 2 · Problems',
+    'ep2_solutions': 'Episode 2 · Solutions',
+    'ep2_results':   'Episode 2 · Results',
+    'ep3_event':     'Episode 3 · Event',
+    'ep3_problems':  'Episode 3 · Problems',
+    'ep3_solutions': 'Episode 3 · Solutions',
+    'ep3_results':   'Episode 3 · Results',
+    'ep4_event':     'Episode 4 · Event',
+    'ep4_problems':  'Episode 4 · Problems',
+    'ep4_solutions': 'Episode 4 · Solutions',
+    'ep4_results':   'Episode 4 · Results',
+    'ep5_event':     'Episode 5 · Event',
+    'ep5_problems':  'Episode 5 · Problems',
+    'ep5_solutions': 'Episode 5 · Solutions',
+    'ep5_results':   'Episode 5 · Results',
+    'ep6_event':     'Episode 6 · Event',
+    'ep6_problems':  'Episode 6 · Problems',
+    'ep6_solutions': 'Episode 6 · Solutions',
+    'ep6_results':   'Episode 6 · Results',
+};
+
 const CHAPTER_CHARTS = {
-    'complexity':    { src: 'forecast_errors.png',    title: 'IMF Forecast Errors vs Actual Growth',          audioId: 'chart_forecast_errors' },
-    'fiscal':        { src: 'debt_gdp.png',            title: 'Government Debt-to-GDP Ratio (G7, 1980–2024)', audioId: 'chart_debt_gdp' },
-    'monetary':      { src: 'inflation_target.png',    title: 'Inflation vs Central Bank Targets (2018–2024)', audioId: 'chart_inflation_target' },
-    'knowledge':     { src: 'complexity_index.png',    title: 'Economic Complexity Index vs Long-Run Growth',  audioId: 'chart_complexity_index' },
-    'behavioral':    { src: 'behavioral_biases.png',   title: 'Cognitive Biases in Economic Decision-Making',  audioId: 'chart_behavioral_biases' },
+    // Episode 1: Great Depression — complexity index shows structural economic sophistication
+    'ep1_solutions':   { src: 'complexity_index.png',   title: 'Economic Complexity Index vs Long-Run Growth',   audioId: 'chart_complexity_index' },
+    // Episode 2: Stagflation — behavioral biases behind the transitory miscalculation pattern
+    'ep2_problems':    { src: 'behavioral_biases.png',  title: 'Cognitive Biases in Economic Decision-Making',   audioId: 'chart_behavioral_biases' },
+    // Episode 4: GFC — IMF forecast errors show systemic overconfidence before 2008
+    'ep4_event':       { src: 'forecast_errors.png',    title: 'IMF Forecast Errors vs Actual Growth',           audioId: 'chart_forecast_errors' },
+    // Episode 5: COVID — debt-to-GDP shows fiscal consequence of pandemic spending
+    'ep5_results':     { src: 'debt_gdp.png',           title: 'Government Debt-to-GDP Ratio (G7, 1980–2024)',   audioId: 'chart_debt_gdp' },
+    // Episode 6: Great Inflation — inflation vs target shows the breach and recovery
+    'ep6_event':       { src: 'inflation_target.png',   title: 'Inflation vs Central Bank Target (US, 2018–2023)', audioId: 'chart_inflation_target' },
 };
 
 function getChartAudioDuration(audioId) {
@@ -112,9 +144,10 @@ function main() {
         const chapter = chapters[chapterId];
 
         const bumperFrames = 3 * FPS;
+        const chapterTitle = CHAPTER_TITLES[chapter.id] || chapter.id.toUpperCase();
         const chapterObj = {
             id: chapter.id,
-            title: chapter.id.toUpperCase(),
+            title: chapterTitle,
             globalStart: globalStartFrame,
             duration: chapter.durationFrames + bumperFrames,
             subSlides: []
@@ -126,7 +159,7 @@ function main() {
             type: 'bumper',
             start: localStart,
             duration: bumperFrames,
-            title: chapter.id.toUpperCase()
+            title: chapterTitle
         });
         localStart += bumperFrames;
 

@@ -55,7 +55,7 @@ export const TitleCard: React.FC = () => {
             <div style={{ opacity: titleOpacity, transform: `translateY(${titleY}px)`, textAlign: 'center', zIndex: 1 }}>
                 <h1 style={{
                     color: '#ffffff',
-                    fontSize: 88,
+                    fontSize: 82,
                     fontWeight: 900,
                     margin: 0,
                     letterSpacing: '-3px',
@@ -63,7 +63,7 @@ export const TitleCard: React.FC = () => {
                     textTransform: 'uppercase',
                     textShadow: '0 20px 40px rgba(0,0,0,0.9)',
                 }}>
-                    The Male<br />Fertility Crisis
+                    Economic<br /><span style={{ color: '#4e9ff0' }}>Crises</span><br />Explained
                 </h1>
             </div>
 
@@ -76,7 +76,7 @@ export const TitleCard: React.FC = () => {
                     letterSpacing: 2,
                     textShadow: '0 10px 20px rgba(0,0,0,0.6)',
                 }}>
-                    Epidemiological Trends · Etiological Mechanisms · The Silent Trauma
+                    A Documentary Series · Six Crises · A Century of Economic Management
                 </p>
             </div>
 
