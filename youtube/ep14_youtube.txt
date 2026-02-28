@@ -1,20 +1,20 @@
-On September 18, 1873, Jay Cooke and Company — the most prestigious banking house in the United States, financier of the Union during the Civil War — declared bankruptcy. Within hours the New York Stock Exchange closed for ten days. Eighteen thousand businesses failed over the next two years. The Long Depression had begun.
+On September 15, 2008, at one forty-five in the morning, Lehman Brothers filed for bankruptcy. Within hours, the Reserve Primary Fund — one of the oldest money market funds in America — announced it had broken the buck. Money market funds were supposed to be as safe as cash. The crisis that had been visible in slow motion for eighteen months became systemic in a single morning.
 
-What followed was not a sharp crash with a clear recovery but something more insidious: two decades of continuous deflation, falling prices, and stagnating wages that eroded debts for creditors while destroying livelihoods for everyone who owed money. There were no macroeconomic tools to respond — no central bank, no fiscal policy as we understand it, no mechanism to expand demand — and so the gold standard's deflationary logic simply ran its course. The Long Depression ended not through intervention but through structural transformation: industrialisation, monetary reform, and the political pressures that would culminate in the progressive era.
+The 2008 Global Financial Crisis was not primarily a crisis of household mortgages. It was a crisis of the financial architecture built on top of those mortgages — a twelve-trillion-dollar shadow banking system operating with almost no regulatory oversight and no lender of last resort. The originate-to-distribute model had separated mortgage lending from mortgage risk; credit default swaps had concentrated rather than dispersed that risk; and the tools available to the Federal Reserve and Treasury had been designed for a transparent system of regulated banks, not the one that actually existed. On October 13, 2008, nine bank chief executives were summoned to the Treasury, presented with capital injection term sheets, told the amounts were not negotiable, and all nine signed within an hour. Zero senior bankers were subsequently prosecuted. Ninety-one percent of income gains between 2009 and 2012 went to the top one percent. The political consequences lasted a decade.
 
 ── CHAPTERS ──────────────────────────────
 0:00  Introduction
-0:06  Jay Cooke and the Panic
-1:57  The Deflationary Logic of Gold
-3:19  No Tools, No Solutions
-4:42  Deflation, Growth, and Reform
-6:20  Credits
+0:07  Lehman Falls and the Buck Breaks
+1:57  The Shadow Banking System
+3:24  TARP, QE, and the October Rescue
+4:53  Recovery, Inequality, and the Political Reckoning
+6:46  Credits
 
 ── SERIES: ECONOMIC CRISES EXPLAINED ────
 A documentary series covering every major economic crisis from 1720 to today — what happened, why the tools of the time failed, what was done, and what changed permanently.
 
   ○  Ep  1  The South Sea Bubble (1720)
-  ▶  Ep  2  The Long Depression (1873–1896)
+  ○  Ep  2  The Long Depression (1873–1896)
   ○  Ep  3  The Panic of 1907 (1907)
   ○  Ep  4  The Weimar Hyperinflation (1921–1923)
   ▶  Ep  5  The Great Depression (1929–1939)
@@ -39,6 +39,6 @@ Each episode is accompanied by a fully referenced chapter with data, primary sou
   Download PDF:     https://algiras.github.io/economic-crises/book/Economic-Crises-Explained.pdf
 
 ── VIDEO TITLE ──────────────────────────
-Economic Crises Explained — Episode 2: The Long Depression (1873–1896)
+Economic Crises Explained — Episode 14: The Global Financial Crisis (2008–2012)
 
-#LongDepression #GoldStandard #Deflation #1873Panic #JayCooke #EconomicHistory #Economics #EconomicCrises #Documentary #FinancialHistory
+#GlobalFinancialCrisis #LehmanBrothers #2008Crash #ShadowBanking #TARP #EconomicHistory #Economics #EconomicCrises #Documentary #MacroEconomics

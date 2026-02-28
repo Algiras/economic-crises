@@ -1,14 +1,14 @@
-On September 15, 2008, at one forty-five in the morning, Lehman Brothers filed for bankruptcy. Within hours, the Reserve Primary Fund — one of the oldest money market funds in America — announced it had broken the buck. Money market funds were supposed to be as safe as cash. The crisis that had been visible in slow motion for eighteen months became systemic in a single morning.
+In November 1923, a loaf of bread in Berlin cost two hundred billion marks. A month earlier it had cost five billion. A year earlier it had cost one hundred and sixty.
 
-The 2008 Global Financial Crisis was not primarily a crisis of household mortgages. It was a crisis of the financial architecture built on top of those mortgages — a twelve-trillion-dollar shadow banking system operating with almost no regulatory oversight and no lender of last resort. The originate-to-distribute model had separated mortgage lending from mortgage risk; credit default swaps had concentrated rather than dispersed that risk; and the tools available to the Federal Reserve and Treasury had been designed for a transparent system of regulated banks, not the one that actually existed. On October 13, 2008, nine bank chief executives were summoned to the Treasury, presented with capital injection term sheets, told the amounts were not negotiable, and all nine signed within an hour. Zero senior bankers were subsequently prosecuted. Ninety-one percent of income gains between 2009 and 2012 went to the top one percent. The political consequences lasted a decade.
+Weimar Germany's hyperinflation was not an accident of incompetence — it was the terminal consequence of a war financed by debt, a punitive reparations settlement, and a monetary system with no remaining anchor. When France occupied the Ruhr in January 1923 and Germany funded passive resistance by printing money, the mark went from thousands-to-the-dollar to trillions-to-the-dollar in months. The cure — the Rentenmark introduced on November 15, 1923 — worked not because it was backed by gold but because it was backed by a credible commitment to stop printing.
 
 ── CHAPTERS ──────────────────────────────
 0:00  Introduction
-0:07  Lehman Falls and the Buck Breaks
-1:57  The Shadow Banking System
-3:24  TARP, QE, and the October Rescue
-4:53  Recovery, Inequality, and the Political Reckoning
-6:46  Credits
+0:06  The Collapse of the Mark
+2:05  Why the System Failed
+4:08  The Rentenmark Solution
+6:08  Consequences and Legacy
+8:14  Credits
 
 ── SERIES: ECONOMIC CRISES EXPLAINED ────
 A documentary series covering every major economic crisis from 1720 to today — what happened, why the tools of the time failed, what was done, and what changed permanently.
@@ -16,7 +16,7 @@ A documentary series covering every major economic crisis from 1720 to today —
   ○  Ep  1  The South Sea Bubble (1720)
   ○  Ep  2  The Long Depression (1873–1896)
   ○  Ep  3  The Panic of 1907 (1907)
-  ○  Ep  4  The Weimar Hyperinflation (1921–1923)
+  ▶  Ep  4  The Weimar Hyperinflation (1921–1923)
   ▶  Ep  5  The Great Depression (1929–1939)
   ▶  Ep  6  The 1970s Stagflation (1973–1982)
   ○  Ep  7  The Latin American Debt Crisis (1982–1989)
@@ -39,6 +39,6 @@ Each episode is accompanied by a fully referenced chapter with data, primary sou
   Download PDF:     https://algiras.github.io/economic-crises/book/Economic-Crises-Explained.pdf
 
 ── VIDEO TITLE ──────────────────────────
-Economic Crises Explained — Episode 14: The Global Financial Crisis (2008–2012)
+Economic Crises Explained — Episode 4: The Weimar Hyperinflation (1921–1923)
 
-#GlobalFinancialCrisis #LehmanBrothers #2008Crash #ShadowBanking #TARP #EconomicHistory #Economics #EconomicCrises #Documentary #MacroEconomics
+#WeimarHyperinflation #Hyperinflation #Rentenmark #GermanHistory #EconomicHistory #Economics #EconomicCrises #Documentary #MonetaryHistory #MacroEconomics

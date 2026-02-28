@@ -1,14 +1,14 @@
-In November 1923, a loaf of bread in Berlin cost two hundred billion marks. A month earlier it had cost five billion. A year earlier it had cost one hundred and sixty.
+In January 2022, Sharon Kowalski, a retired Pittsburgh school administrator on a fixed pension of twenty-eight hundred dollars a month, watched her weekly grocery bill rise from eighty-seven to one-hundred-and-twenty-four dollars. Eggs had gone from a dollar thirty-nine to three dollars and eighty-nine cents. She had not had a pay rise in three years. She would not get one.
 
-Weimar Germany's hyperinflation was not an accident of incompetence — it was the terminal consequence of a war financed by debt, a punitive reparations settlement, and a monetary system with no remaining anchor. When France occupied the Ruhr in January 1923 and Germany funded passive resistance by printing money, the mark went from thousands-to-the-dollar to trillions-to-the-dollar in months. The cure — the Rentenmark introduced on November 15, 1923 — worked not because it was backed by gold but because it was backed by a credible commitment to stop printing.
+The Great Inflation of 2021–2023 was not a single phenomenon — it was three or four overlapping inflation processes operating simultaneously: excess pandemic savings deployed into a supply-constrained reopening economy, energy prices weaponised by Russia's invasion of Ukraine, and a Federal Reserve that had held rates at zero while dismissing inflation as transitory until CPI reached nine-point-one percent. The correction was equally forceful: eleven rate hikes, four consecutive seventy-five basis point increases — the most aggressive tightening since Volcker. On August 26, 2022, Jerome Powell's thirteen-hundred-word Jackson Hole speech wiped one-point-three trillion dollars from the S&P 500 in an afternoon. Inflation fell from nine-point-one to two-point-four percent without the recession that every previous serious tightening cycle had produced. The soft landing Volcker never achieved appeared to have occurred — at a cost distributed, as always, with characteristic unevenness.
 
 ── CHAPTERS ──────────────────────────────
 0:00  Introduction
-0:06  The Collapse of the Mark
-2:05  Why the System Failed
-4:08  The Rentenmark Solution
-6:08  Consequences and Legacy
-8:14  Credits
+0:06  Supply Shocks and the Return of Inflation
+2:13  Transitory or Structural? The Forecasting Failure
+3:56  The Rate-Tightening Cycle
+5:38  Soft Landing or Unfinished Business?
+7:34  Credits
 
 ── SERIES: ECONOMIC CRISES EXPLAINED ────
 A documentary series covering every major economic crisis from 1720 to today — what happened, why the tools of the time failed, what was done, and what changed permanently.
@@ -16,7 +16,7 @@ A documentary series covering every major economic crisis from 1720 to today —
   ○  Ep  1  The South Sea Bubble (1720)
   ○  Ep  2  The Long Depression (1873–1896)
   ○  Ep  3  The Panic of 1907 (1907)
-  ▶  Ep  4  The Weimar Hyperinflation (1921–1923)
+  ○  Ep  4  The Weimar Hyperinflation (1921–1923)
   ▶  Ep  5  The Great Depression (1929–1939)
   ▶  Ep  6  The 1970s Stagflation (1973–1982)
   ○  Ep  7  The Latin American Debt Crisis (1982–1989)
@@ -39,6 +39,6 @@ Each episode is accompanied by a fully referenced chapter with data, primary sou
   Download PDF:     https://algiras.github.io/economic-crises/book/Economic-Crises-Explained.pdf
 
 ── VIDEO TITLE ──────────────────────────
-Economic Crises Explained — Episode 4: The Weimar Hyperinflation (1921–1923)
+Economic Crises Explained — Episode 17: The Great Inflation (2021–2023)
 
-#WeimarHyperinflation #Hyperinflation #Rentenmark #GermanHistory #EconomicHistory #Economics #EconomicCrises #Documentary #MonetaryHistory #MacroEconomics
+#GreatInflation #Inflation2022 #InterestRates #CentralBanking #JeromePowell #EconomicCrises #EconomicHistory #Economics #Documentary #MacroEconomics

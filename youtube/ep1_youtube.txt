@@ -1,19 +1,19 @@
-On the morning of October 29, 1929, Charles Mitchell, chairman of National City Bank, watched the ticker tape fall two hours behind. The numbers scrolling past represented the accumulated savings of millions of Americans being destroyed in real time. The crash was not the cause of the Great Depression. It was the signal flare that revealed what had already gone wrong.
+In the summer of 1720, shares of the South Sea Company — a British joint-stock corporation holding a monopoly on trade with Spanish South America — rose from one hundred pounds to one thousand pounds in eight months. Then they fell back to one hundred pounds in eight weeks. Thousands of investors, including members of Parliament and the aristocracy, were ruined.
 
-The Great Depression exposed four interlocking failures that no single policy lever could address simultaneously: a banking system collapse that destroyed nine thousand banks and seven billion dollars in deposits, a deflationary debt trap that made every dollar owed worth more as incomes fell, a gold standard that transmitted the crisis globally and prevented monetary expansion, and a policy response that raised taxes and tightened budgets at exactly the wrong moment. The New Deal — deposit insurance, the SEC, dollar devaluation, direct relief — stopped total collapse but did not end the Depression. That required the spending of the Second World War. The lesson that was absorbed: banking systems need oversight. The lesson that was forgotten: two years of inaction turned a financial crisis into a civilisational trauma.
+The South Sea Bubble was not simply a case of irrational exuberance: it was a deliberate scheme built on bribery, insider information, and the conversion of government debt into equity at fraudulent valuations, enabled by the same politicians who were supposed to regulate it. The immediate response — the Bubble Act of 1720, which prohibited unauthorised joint-stock companies — suppressed the instrument that caused the bubble but stunted British corporate finance for over a century. What the episode established permanently was the concept of the speculative mania itself: the archetype against which every subsequent bubble has been measured.
 
 ── CHAPTERS ──────────────────────────────
 0:00  Introduction
-0:05  The Crash and Collapse
-1:10  Four Interlocking Failures
-2:26  The New Deal and Monetary Break
-4:08  Recovery and the Keynesian Legacy
-5:43  Credits
+0:05  The Bubble and Collapse
+1:51  The Design of Fraud
+3:11  The Bubble Act
+4:30  Ruin and the Regulatory Legacy
+5:56  Credits
 
 ── SERIES: ECONOMIC CRISES EXPLAINED ────
 A documentary series covering every major economic crisis from 1720 to today — what happened, why the tools of the time failed, what was done, and what changed permanently.
 
-  ○  Ep  1  The South Sea Bubble (1720)
+  ▶  Ep  1  The South Sea Bubble (1720)
   ○  Ep  2  The Long Depression (1873–1896)
   ○  Ep  3  The Panic of 1907 (1907)
   ○  Ep  4  The Weimar Hyperinflation (1921–1923)
@@ -39,6 +39,6 @@ Each episode is accompanied by a fully referenced chapter with data, primary sou
   Download PDF:     https://algiras.github.io/economic-crises/book/Economic-Crises-Explained.pdf
 
 ── VIDEO TITLE ──────────────────────────
-Economic Crises Explained — Episode 5: The Great Depression (1929–1939)
+Economic Crises Explained — Episode 1: The South Sea Bubble (1720)
 
-#GreatDepression #EconomicHistory #1929Crash #Keynesian #NewDeal #Economics #EconomicCrises #Documentary #FinancialHistory #MacroEconomics
+#SouthSeaBubble #1720 #SpeculativeMania #BubbleAct #EconomicHistory #Economics #EconomicCrises #Documentary #FinancialHistory #MacroEconomics

@@ -1,20 +1,20 @@
-In October 1973, OPEC announced an oil embargo against the United States. The price of oil quadrupled in months. Within a year, inflation hit twelve percent — while unemployment simultaneously rose above nine percent. Economists had a word for this combination. They borrowed it because no existing model could explain it.
+On September 18, 1873, Jay Cooke and Company — the most prestigious banking house in the United States, financier of the Union during the Civil War — declared bankruptcy. Within hours the New York Stock Exchange closed for ten days. Eighteen thousand businesses failed over the next two years. The Long Depression had begun.
 
-The 1970s stagflation crisis involved four simultaneous structural failures, and each attempted solution made at least one of the others worse: Vietnam War spending and the breakdown of Bretton Woods had already inflated the money supply before the oil shock arrived; Nixon's wage and price controls deferred inflation rather than curing it; the Federal Reserve accommodated rising prices for fear of causing recession; and once workers and businesses expected prices to rise, their behaviour made prices rise. The resolution came on Saturday October 6, 1979, when Paul Volcker called an emergency Federal Open Market Committee meeting timed between the US market close and the Asian open — and announced he would cause a recession if that was what breaking inflation required. It was. Unemployment hit ten-point-eight percent. The Volcker recession permanently destroyed two-point-two million manufacturing jobs. The lesson absorbed: inflation targeting works when central banks are willing to impose genuine pain. The lesson not absorbed: the cost of that pain falls almost entirely on workers and debtors.
+What followed was not a sharp crash with a clear recovery but something more insidious: two decades of continuous deflation, falling prices, and stagnating wages that eroded debts for creditors while destroying livelihoods for everyone who owed money. There were no macroeconomic tools to respond — no central bank, no fiscal policy as we understand it, no mechanism to expand demand — and so the gold standard's deflationary logic simply ran its course. The Long Depression ended not through intervention but through structural transformation: industrialisation, monetary reform, and the political pressures that would culminate in the progressive era.
 
 ── CHAPTERS ──────────────────────────────
 0:00  Introduction
-0:06  Oil Shocks and the Phillips Curve Breaks
-1:20  Four Simultaneous Failures
-3:15  The Saturday Night Special
-4:40  Inflation Targeting and the Great Moderation
-6:21  Credits
+0:06  Jay Cooke and the Panic
+1:57  The Deflationary Logic of Gold
+3:19  No Tools, No Solutions
+4:42  Deflation, Growth, and Reform
+6:20  Credits
 
 ── SERIES: ECONOMIC CRISES EXPLAINED ────
 A documentary series covering every major economic crisis from 1720 to today — what happened, why the tools of the time failed, what was done, and what changed permanently.
 
   ○  Ep  1  The South Sea Bubble (1720)
-  ○  Ep  2  The Long Depression (1873–1896)
+  ▶  Ep  2  The Long Depression (1873–1896)
   ○  Ep  3  The Panic of 1907 (1907)
   ○  Ep  4  The Weimar Hyperinflation (1921–1923)
   ▶  Ep  5  The Great Depression (1929–1939)
@@ -39,6 +39,6 @@ Each episode is accompanied by a fully referenced chapter with data, primary sou
   Download PDF:     https://algiras.github.io/economic-crises/book/Economic-Crises-Explained.pdf
 
 ── VIDEO TITLE ──────────────────────────
-Economic Crises Explained — Episode 6: The 1970s Stagflation (1973–1982)
+Economic Crises Explained — Episode 2: The Long Depression (1873–1896)
 
-#Stagflation #1970sEconomy #OilCrisis #Volcker #Inflation #EconomicHistory #Economics #EconomicCrises #Documentary #MacroEconomics
+#LongDepression #GoldStandard #Deflation #1873Panic #JayCooke #EconomicHistory #Economics #EconomicCrises #Documentary #FinancialHistory

@@ -1,14 +1,14 @@
-On Thursday March 12, 2020, Nick Lore, a Philadelphia restaurateur, filled garbage bags with salmon fillets and called his eleven staff members one by one to tell them they were laid off. The same conversation was happening in restaurants, hotels, theatres, and airports across every developed economy simultaneously. The United States lost twenty-two million jobs in eight weeks. The Great Financial Crisis had taken twenty-five months to produce nine million.
+On the morning of October 29, 1929, Charles Mitchell, chairman of National City Bank, watched the ticker tape fall two hours behind. The numbers scrolling past represented the accumulated savings of millions of Americans being destroyed in real time. The crash was not the cause of the Great Depression. It was the signal flare that revealed what had already gone wrong.
 
-The COVID-19 economic shock was unlike any crisis in this series: deliberately induced, simultaneous across all sectors, and met with an unprecedented speed of response — the CARES Act, two-point-two trillion dollars, signed seventeen days after the WHO declared a pandemic. But the same policy decisions that pushed child poverty to generational lows also seeded the conditions for the inflation surge that followed. The same emergency transfers that prevented collapse contributed to the fiscal and monetary environment that would require the most aggressive rate-tightening cycle in four decades to unwind. Twenty-two million jobs were recovered in twenty-eight months. After 2008, the same number had taken seventy-eight months. Speed was the lesson learned from the last crisis. What got crossed in the wiring became the subject of the next.
+The Great Depression exposed four interlocking failures that no single policy lever could address simultaneously: a banking system collapse that destroyed nine thousand banks and seven billion dollars in deposits, a deflationary debt trap that made every dollar owed worth more as incomes fell, a gold standard that transmitted the crisis globally and prevented monetary expansion, and a policy response that raised taxes and tightened budgets at exactly the wrong moment. The New Deal — deposit insurance, the SEC, dollar devaluation, direct relief — stopped total collapse but did not end the Depression. That required the spending of the Second World War. The lesson that was absorbed: banking systems need oversight. The lesson that was forgotten: two years of inaction turned a financial crisis into a civilisational trauma.
 
 ── CHAPTERS ──────────────────────────────
 0:00  Introduction
-0:07  The Deliberate Shutdown
-1:34  Supply, Demand, and the Policy Dilemma
-3:04  CARES, Furlough, and the Fed's Expansion
-4:40  Recovery, Inflation Seeds, and Scarring
-6:59  Credits
+0:05  The Crash and Collapse
+1:10  Four Interlocking Failures
+2:26  The New Deal and Monetary Break
+4:08  Recovery and the Keynesian Legacy
+5:43  Credits
 
 ── SERIES: ECONOMIC CRISES EXPLAINED ────
 A documentary series covering every major economic crisis from 1720 to today — what happened, why the tools of the time failed, what was done, and what changed permanently.
@@ -39,6 +39,6 @@ Each episode is accompanied by a fully referenced chapter with data, primary sou
   Download PDF:     https://algiras.github.io/economic-crises/book/Economic-Crises-Explained.pdf
 
 ── VIDEO TITLE ──────────────────────────
-Economic Crises Explained — Episode 16: The COVID-19 Economic Shock (2020)
+Economic Crises Explained — Episode 5: The Great Depression (1929–1939)
 
-#COVID19Economy #PandemicEconomics #CARES #FederalReserve #EconomicHistory #Economics #EconomicCrises #Documentary #MacroEconomics #Recession
+#GreatDepression #EconomicHistory #1929Crash #Keynesian #NewDeal #Economics #EconomicCrises #Documentary #FinancialHistory #MacroEconomics
