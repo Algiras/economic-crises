@@ -1,5 +1,8 @@
 # The Global Financial Crisis (2008–2009)
 
+{{< video https://www.youtube.com/watch?v=8EBJcquPcy4 >}}
+
+
 ## Lehman Falls and the Buck Breaks
 
 On the morning of September 15, 2008, Richard Fuld, Chief Executive of Lehman Brothers, learned that no buyer had emerged overnight and that the firm's doors would close. Lehman Brothers — 158 years old, a primary dealer in US Treasury securities, the fourth-largest investment bank in the world — filed for bankruptcy at 1:45 a.m. It was the largest bankruptcy filing in American history: $639 billion in assets, $613 billion in liabilities, 25,000 employees. By that afternoon, the commercial paper market — the short-term credit that American corporations relied upon to pay wages and suppliers — had effectively frozen. Reserve Primary Fund, a money market fund that held Lehman paper, "broke the buck," falling below $1 per share. Investors who believed money market funds were as safe as bank deposits learned, in a single afternoon, that this belief was incorrect.

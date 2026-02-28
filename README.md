@@ -1,19 +1,35 @@
 # Economic Crises Explained
 
-A documentary series and companion book covering six major economic crises of the past century — their causes, human cost, policy responses, and lessons learned.
+A documentary series and companion book covering seventeen major economic crises from 1720 to today — their causes, human cost, policy responses, and lessons learned.
+
+**Watch the series:** [YouTube Playlist](https://www.youtube.com/playlist?list=PLZdiqjR6mTJDI3-T2o-ZK6ycQl9AfJ65b)
+**Read the book:** [algiras.github.io/economic-crises](https://algiras.github.io/economic-crises/)
+**Download PDF:** [Economic-Crises-Explained.pdf](https://algiras.github.io/economic-crises/book/Economic-Crises-Explained.pdf)
 
 ## Episodes
 
-| # | Crisis | Period |
-|---|--------|--------|
-| 1 | The Great Depression | 1929–1939 |
-| 2 | The 1970s Stagflation | 1973–1982 |
-| 3 | The Asian Financial Crisis | 1997–1998 |
-| 4 | The 2008 Global Financial Crisis | 2008–2012 |
-| 5 | The COVID-19 Economic Shock | 2020 |
-| 6 | The Great Inflation | 2021–2023 |
+| # | Crisis | Period | Video |
+|---|--------|--------|-------|
+| Intro | Economic Crises (series intro) | — | [▶](https://www.youtube.com/watch?v=zH8JSm9x_tA) |
+| 1 | The South Sea Bubble | 1720 | [▶](https://www.youtube.com/watch?v=ZOD-uVHhqHA) |
+| 2 | The Long Depression | 1873–1896 | [▶](https://www.youtube.com/watch?v=EkXC3367roM) |
+| 3 | The Panic of 1907 | 1907 | [▶](https://www.youtube.com/watch?v=f5wp8Q8g8Eg) |
+| 4 | The Weimar Hyperinflation | 1921–1923 | [▶](https://www.youtube.com/watch?v=Mjnc1c7sTEM) |
+| 5 | The Great Depression | 1929–1939 | [▶](https://www.youtube.com/watch?v=4n8vXthEAPw) |
+| 6 | The 1970s Stagflation | 1973–1982 | [▶](https://www.youtube.com/watch?v=UzD4kmW3eOE) |
+| 7 | The Latin American Debt Crisis | 1982–1989 | [▶](https://www.youtube.com/watch?v=W4wBi1Pw53g) |
+| 8 | Black Monday | 1987 | [▶](https://www.youtube.com/watch?v=f2EuKHBETLg) |
+| 9 | The Japanese Lost Decade | 1990–2000 | [▶](https://www.youtube.com/watch?v=B6wy0taYqHQ) |
+| 10 | The Asian Financial Crisis | 1997–1998 | [▶](https://www.youtube.com/watch?v=Oj2nrI4srQM) |
+| 11 | The LTCM Collapse | 1998 | [▶](https://www.youtube.com/watch?v=eQ55LN3fqIQ) |
+| 12 | The Dot-com Crash | 2000–2001 | [▶](https://www.youtube.com/watch?v=oRlwT_PDYFc) |
+| 13 | The Argentine Crisis | 2001–2002 | [▶](https://www.youtube.com/watch?v=3yp3obZRM70) |
+| 14 | The Global Financial Crisis | 2008–2012 | [▶](https://www.youtube.com/watch?v=8EBJcquPcy4) |
+| 15 | The Eurozone Debt Crisis | 2010–2012 | [▶](https://www.youtube.com/watch?v=IuOSLf5BamM) |
+| 16 | The COVID-19 Economic Shock | 2020 | [▶](https://www.youtube.com/watch?v=svPxpdVVHXM) |
+| 17 | The Great Inflation | 2021–2023 | [▶](https://www.youtube.com/watch?v=JBCMd2Attq4) |
 
-Each episode follows a four-act structure: **Event → Problems → Solutions → Results**.
+Each chapter follows a four-part structure mirroring the video: **event → failures → response → legacy**.
 
 ## Repository Structure
 
@@ -23,9 +39,8 @@ Each episode follows a four-act structure: **Event → Problems → Solutions �
 │   ├── _quarto.yml         # Book configuration
 │   ├── index.qmd           # Preface
 │   ├── 00-series-framework.qmd
-│   ├── ep1-01-event.qmd    # Episode 1, Act 1
-│   ├── ep1-02-problems.qmd # Episode 1, Act 2
-│   ├── ...                 # (24 chapters total)
+│   ├── ch01-south-sea-bubble.qmd
+│   ├── ...                 # ch01–ch17 (one file per crisis)
 │   ├── epilogue.qmd
 │   └── references.qmd
 ├── video/                  # Remotion video project
@@ -33,9 +48,7 @@ Each episode follows a four-act structure: **Event → Problems → Solutions �
 │   ├── data/               # Narration & script data
 │   ├── public/             # Static assets (charts, audio)
 │   └── package.json
-├── docs/                   # GitHub Pages output
-│   ├── index.html          # Landing page
-│   └── book/               # Built Quarto HTML
+├── youtube/                # YouTube description texts (ep0–ep17)
 ├── generate_charts.py      # Matplotlib chart generation
 └── .github/workflows/
     ├── pages.yml           # Auto-deploy book on push

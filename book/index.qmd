@@ -10,7 +10,11 @@ These were not random failures of individual prediction. They were expressions o
 
 Each chapter follows the same structure: what happened, what the numbers show, what it did to people's lives, how it was resolved, and what — if anything — we learned. The emphasis throughout is on the quantifiable: the GDP collapses, the unemployment surges, the inequality shifts, the political consequences, and the sociological transformations that economic crises leave in their wake.
 
-An accompanying YouTube documentary series is coming soon.
+Each chapter has an accompanying documentary episode. Watch the full series on YouTube:
+
+{{< video https://www.youtube.com/watch?v=zH8JSm9x_tA >}}
+
+[**Watch the full playlist →**](https://www.youtube.com/playlist?list=PLZdiqjR6mTJDI3-T2o-ZK6ycQl9AfJ65b)
 
 The series is not partisan. It is not prescriptive about which economic school has the right answers. It is an attempt to look honestly at the record of economic management — the successes, the failures, and the recurring patterns that connect crises separated by decades — and to draw from that record conclusions that are grounded in evidence rather than ideology.
 

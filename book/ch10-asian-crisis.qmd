@@ -1,5 +1,8 @@
 # The Asian Financial Crisis (1997–1998)
 
+{{< video https://www.youtube.com/watch?v=Oj2nrI4srQM >}}
+
+
 ## Currency Pegs and Capital Flight
 
 In late June 1997, Chalee Srisawat ran a small import business in Bangkok. He had borrowed in US dollars — as most Thai businesses did — because dollar interest rates were low and the baht had been pegged to the dollar for over a decade. The peg made dollar borrowing feel safe. Then, on July 2, 1997, the Bank of Thailand abandoned the peg. By afternoon, the baht had fallen 15 percent. Within weeks, it would fall 40 percent. Chalee's dollar debt had not changed in dollar terms. In baht terms, it had grown by 40 percent overnight. He had not made a bad business decision. He had made the same decision as virtually every other business in Thailand. And they were all simultaneously insolvent.
