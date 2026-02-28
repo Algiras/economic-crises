@@ -21,13 +21,25 @@ interface ChartSlideProps {
     episodeTitle?: string;
 }
 
-const CHART_MAP: Record<string, React.FC> = {
-    debt_gdp: DebtGdpChart,
-    inflation_target: InflationTargetChart,
-    forecast_errors: ForecastErrorsChart,
-    complexity_index: ComplexityIndexChart,
+export interface ChartDimensions { width: number; height: number }
+
+type ChartComponent = React.FC<ChartDimensions>;
+
+const CHART_MAP: Record<string, ChartComponent> = {
+    debt_gdp:          DebtGdpChart,
+    inflation_target:  InflationTargetChart,
+    forecast_errors:   ForecastErrorsChart,
+    complexity_index:  ComplexityIndexChart,
     behavioral_biases: BehavioralBiasesChart,
 };
+
+// Fixed vertical sizes (px) for layout arithmetic
+const LETTERBOX     = 56;   // top + bottom bars
+const PAD_H         = 60;   // top 28 + bottom 32
+const EPISODE_LABEL = 52;   // spacer that clears the episode label
+const TITLE_H       = 50;   // title font 34 + breathing room
+const TITLE_MB      = 12;
+const SOURCE_H      = 32;   // source line + margin
 
 export const ChartSlide: React.FC<ChartSlideProps> = ({
     chartSrc,
@@ -40,22 +52,22 @@ export const ChartSlide: React.FC<ChartSlideProps> = ({
     episodeTitle,
 }) => {
     const frame = useCurrentFrame();
-    const { fps } = useVideoConfig();
+    const { fps, width: vw, height: vh } = useVideoConfig();
 
     const { scale: bgScale, panX: bgPanX, panY: bgPanY } = useKenBurns(undefined, slideIndex);
 
-    // Episode label fades in frames 0–20
-    const epLabelOpacity = interpolate(frame, [0, 20], [0, 1], { extrapolateRight: 'clamp' });
-
-    // Chart title slides up frames 15–45
-    const titleOpacity = interpolate(frame, [15, 45], [0, 1], { extrapolateRight: 'clamp' });
-    const titleY = spring({ frame, fps, from: 20, to: 0, durationInFrames: 40, delay: 15 });
-
-    // Chart content entrance frames 10–40 (for static fallback)
-    const chartOpacity = interpolate(frame, [10, 40], [0, 1], { extrapolateRight: 'clamp' });
-    const chartScale = spring({ frame, fps, from: 0.8, to: 1, durationInFrames: 60, delay: 10, config: { damping: 12 } });
-
+    const epLabelOpacity = interpolate(frame, [0, 20],  [0, 1], { extrapolateRight: 'clamp' });
+    const titleOpacity   = interpolate(frame, [15, 45], [0, 1], { extrapolateRight: 'clamp' });
+    const titleY         = spring({ frame, fps, from: 20, to: 0, durationInFrames: 40, delay: 15 });
+    const chartOpacity   = interpolate(frame, [10, 40], [0, 1], { extrapolateRight: 'clamp' });
+    const chartScale     = spring({ frame, fps, from: 0.8, to: 1, durationInFrames: 60, delay: 10, config: { damping: 12 } });
     const fadeOutOpacity = useFadeOut();
+
+    // Exact pixel budget for the chart
+    const sidePad   = 50;
+    const chartW    = vw - sidePad * 2;
+    const nonChartH = LETTERBOX * 2 + PAD_H + EPISODE_LABEL + TITLE_H + TITLE_MB + (source ? SOURCE_H : 0);
+    const chartH    = vh - nonChartH;
 
     const AnimatedChart = chartType ? CHART_MAP[chartType] : undefined;
 
@@ -66,30 +78,28 @@ export const ChartSlide: React.FC<ChartSlideProps> = ({
             opacity: fadeOutOpacity,
             overflow: 'hidden',
         }}>
-            {/* 1. Cinematic Background */}
             <AnimatedBgImage src={bgImage} scale={bgScale} panX={bgPanX} panY={bgPanY} opacity={0.4} vignetteStrength="heavy" />
 
-            {/* 2. Content Layer */}
             <div style={{
                 zIndex: 1,
+                position: 'absolute',
+                top: LETTERBOX,
+                bottom: LETTERBOX,
+                left: sidePad,
+                right: sidePad,
                 display: 'flex',
                 flexDirection: 'column',
                 alignItems: 'center',
-                justifyContent: 'center',
-                width: '100%',
-                height: '100%',
-                padding: '30px 50px 40px',
-                position: 'relative',
             }}>
                 {/* Episode label — top left */}
                 {(episodeNumber != null || episodeTitle) && (
                     <div style={{
                         position: 'absolute',
-                        top: 30,
-                        left: 60,
+                        top: 12,
+                        left: 0,
                         opacity: epLabelOpacity,
                         color: COLORS.textMuted,
-                        fontSize: 16,
+                        fontSize: 15,
                         fontWeight: 600,
                         letterSpacing: 1,
                         textTransform: 'uppercase',
@@ -100,67 +110,76 @@ export const ChartSlide: React.FC<ChartSlideProps> = ({
                     </div>
                 )}
 
-                {/* Chart title */}
+                {/* Spacer below episode label */}
+                <div style={{ height: EPISODE_LABEL, flexShrink: 0 }} />
+
+                {/* Title */}
                 <div style={{
                     opacity: titleOpacity,
                     transform: `translateY(${titleY}px)`,
                     textAlign: 'center',
-                    marginBottom: 16,
+                    marginBottom: TITLE_MB,
+                    flexShrink: 0,
+                    width: '100%',
                 }}>
                     <h2 style={{
                         color: COLORS.gold,
-                        fontSize: 38,
+                        fontSize: 34,
                         fontWeight: 800,
                         margin: 0,
-                        letterSpacing: -1,
+                        letterSpacing: -0.5,
                         textShadow: '0 4px 20px rgba(0,0,0,0.8)',
                     }}>
                         {title}
                     </h2>
                 </div>
 
-                {/* Chart */}
+                {/* Chart — exact pixel size, no CSS scaling surprises */}
                 {AnimatedChart ? (
                     <div style={{
-                        borderRadius: 16,
+                        borderRadius: 12,
                         overflow: 'hidden',
                         boxShadow: SHADOWS.cardDrop,
-                        width: '100%',
-                        backgroundColor: '#0d1b2a',
+                        width: chartW,
+                        height: chartH,
+                        backgroundColor: COLORS.bgEpisode,
                         border: '1px solid rgba(255,255,255,0.08)',
+                        flexShrink: 0,
                     }}>
-                        <AnimatedChart />
+                        <AnimatedChart width={chartW} height={chartH} />
                     </div>
                 ) : (
                     <div style={{
                         opacity: chartOpacity,
                         transform: `scale(${chartScale})`,
-                        borderRadius: 16,
+                        borderRadius: 12,
                         overflow: 'hidden',
                         boxShadow: SHADOWS.cardDrop,
-                        maxWidth: 1000,
-                        width: '100%',
+                        width: chartW,
+                        height: chartH,
                         border: '1px solid rgba(255,255,255,0.1)',
+                        flexShrink: 0,
+                        display: 'flex',
+                        alignItems: 'center',
                     }}>
                         <Img
                             src={staticFile(chartSrc)}
-                            style={{
-                                width: '100%',
-                                display: 'block',
-                                filter: 'brightness(1.1) contrast(1.1)',
-                            }}
+                            style={{ width: '100%', display: 'block', filter: 'brightness(1.1) contrast(1.1)' }}
                         />
                     </div>
                 )}
 
+                {/* Source */}
                 {source && (
                     <p style={{
                         opacity: titleOpacity,
                         color: '#7f8c8d',
-                        fontSize: 18,
-                        marginTop: 30,
+                        fontSize: 14,
+                        marginTop: 8,
+                        marginBottom: 0,
                         fontStyle: 'italic',
                         fontWeight: 500,
+                        flexShrink: 0,
                     }}>
                         Source: {source}
                     </p>
