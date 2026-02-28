@@ -1,14 +1,14 @@
-Inflation hadn't been a serious problem for 30 years. Then, almost everywhere at once, it came back.
+In January 2022, Sharon Kowalski, a retired Pittsburgh school administrator on a fixed pension of twenty-eight hundred dollars a month, watched her weekly grocery bill rise from eighty-seven to one-hundred-and-twenty-four dollars. Eggs had gone from a dollar thirty-nine to three dollars and eighty-nine cents. She had not had a pay rise in three years. She would not get one.
 
-The 2021–2023 inflation surge caught most central banks off guard — dismissed initially as transitory, it proved durable and broad-based. Supply chain disruption, energy price shocks, and the delayed effects of pandemic stimulus combined to produce the most aggressive rate-tightening cycle in a generation.
+The Great Inflation of 2021–2023 was not a single phenomenon — it was three or four overlapping inflation processes operating simultaneously: excess pandemic savings deployed into a supply-constrained reopening economy, energy prices weaponised by Russia's invasion of Ukraine, and a Federal Reserve that had held rates at zero while dismissing inflation as transitory until CPI reached nine-point-one percent. The correction was equally forceful: eleven rate hikes, four consecutive seventy-five basis point increases — the most aggressive tightening since Volcker. On August 26, 2022, Jerome Powell's thirteen-hundred-word Jackson Hole speech wiped one-point-three trillion dollars from the S&P 500 in an afternoon. Inflation fell from nine-point-one to two-point-four percent without the recession that every previous serious tightening cycle had produced. The soft landing Volcker never achieved appeared to have occurred — at a cost distributed, as always, with characteristic unevenness.
 
 ── CHAPTERS ──────────────────────────────
 0:00  Introduction
-0:07  Supply Shocks and the Return of Inflation
-2:14  Transitory or Structural? The Forecasting Failure
-3:57  The Rate-Tightening Cycle
-5:39  Soft Landing, Recession, or Unfinished Business?
-7:35  Credits
+0:06  Supply Shocks and the Return of Inflation
+2:13  Transitory or Structural? The Forecasting Failure
+3:56  The Rate-Tightening Cycle
+5:38  Soft Landing or Unfinished Business?
+7:34  Credits
 
 ── SERIES: ECONOMIC CRISES EXPLAINED ────
 A documentary series covering every major economic crisis from 1720 to today — what happened, why the tools of the time failed, what was done, and what changed permanently.
@@ -41,4 +41,4 @@ Each episode is accompanied by a fully referenced chapter with data, primary sou
 ── VIDEO TITLE ──────────────────────────
 Economic Crises Explained — Episode 17: The Great Inflation (2021–2023)
 
-#GreatInflation #Inflation2022 #InterestRates #CentralBanking #EconomicCrises #EconomicHistory #Economics #Documentary #MacroEconomics
+#GreatInflation #Inflation2022 #InterestRates #CentralBanking #JeromePowell #EconomicCrises #EconomicHistory #Economics #Documentary #MacroEconomics

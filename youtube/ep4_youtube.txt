@@ -1,13 +1,13 @@
-In September 2008, the global financial system came within hours of complete collapse.
+On September 15, 2008, at one forty-five in the morning, Lehman Brothers filed for bankruptcy. Within hours, the Reserve Primary Fund — one of the oldest money market funds in America — announced it had broken the buck. Money market funds were supposed to be as safe as cash. The crisis that had been visible in slow motion for eighteen months became systemic in a single morning.
 
-The 2008 Global Financial Crisis was the most severe economic shock since the Great Depression. Originating in the US mortgage market, it spread through complex financial instruments to bring down major institutions worldwide. The policy response — unprecedented in scale — prevented a depression but left a decade of slow recovery and rising inequality.
+The 2008 Global Financial Crisis was not primarily a crisis of household mortgages. It was a crisis of the financial architecture built on top of those mortgages — a twelve-trillion-dollar shadow banking system operating with almost no regulatory oversight and no lender of last resort. The originate-to-distribute model had separated mortgage lending from mortgage risk; credit default swaps had concentrated rather than dispersed that risk; and the tools available to the Federal Reserve and Treasury had been designed for a transparent system of regulated banks, not the one that actually existed. On October 13, 2008, nine bank chief executives were summoned to the Treasury, presented with capital injection term sheets, told the amounts were not negotiable, and all nine signed within an hour. Zero senior bankers were subsequently prosecuted. Ninety-one percent of income gains between 2009 and 2012 went to the top one percent. The political consequences lasted a decade.
 
 ── CHAPTERS ──────────────────────────────
 0:00  Introduction
-0:07  Mortgage Bubble and Lehman's Fall
-1:57  Systemic Risk and Regulatory Failure
-3:24  Bailouts, QE, and Fiscal Stimulus
-4:53  Recovery, Austerity, and Lasting Inequality
+0:07  Lehman Falls and the Buck Breaks
+1:57  The Shadow Banking System
+3:24  TARP, QE, and the October Rescue
+4:53  Recovery, Inequality, and the Political Reckoning
 6:46  Credits
 
 ── SERIES: ECONOMIC CRISES EXPLAINED ────
@@ -41,4 +41,4 @@ Each episode is accompanied by a fully referenced chapter with data, primary sou
 ── VIDEO TITLE ──────────────────────────
 Economic Crises Explained — Episode 14: The Global Financial Crisis (2008–2012)
 
-#GlobalFinancialCrisis #2008Crash #Lehman #QuantitativeEasing #Bailout #EconomicHistory #Economics #EconomicCrises #Documentary #MacroEconomics
+#GlobalFinancialCrisis #LehmanBrothers #2008Crash #ShadowBanking #TARP #EconomicHistory #Economics #EconomicCrises #Documentary #MacroEconomics

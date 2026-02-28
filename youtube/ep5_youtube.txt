@@ -1,13 +1,13 @@
-The fastest economic contraction in modern history — and the most rapid policy response ever deployed.
+On Thursday March 12, 2020, Nick Lore, a Philadelphia restaurateur, filled garbage bags with salmon fillets and called his eleven staff members one by one to tell them they were laid off. The same conversation was happening in restaurants, hotels, theatres, and airports across every developed economy simultaneously. The United States lost twenty-two million jobs in eight weeks. The Great Financial Crisis had taken twenty-five months to produce nine million.
 
-The COVID-19 economic shock of 2020 was unlike any previous crisis: deliberately induced, simultaneous across all sectors, and met with an unprecedented speed of fiscal and monetary response. The lessons drawn from 2008 meant governments acted in weeks rather than years — but also planted the seeds of the inflation crisis that followed.
+The COVID-19 economic shock was unlike any crisis in this series: deliberately induced, simultaneous across all sectors, and met with an unprecedented speed of response — the CARES Act, two-point-two trillion dollars, signed seventeen days after the WHO declared a pandemic. But the same policy decisions that pushed child poverty to generational lows also seeded the conditions for the inflation surge that followed. The same emergency transfers that prevented collapse contributed to the fiscal and monetary environment that would require the most aggressive rate-tightening cycle in four decades to unwind. Twenty-two million jobs were recovered in twenty-eight months. After 2008, the same number had taken seventy-eight months. Speed was the lesson learned from the last crisis. What got crossed in the wiring became the subject of the next.
 
 ── CHAPTERS ──────────────────────────────
 0:00  Introduction
-0:07  The Pandemic Shutdown
+0:07  The Deliberate Shutdown
 1:34  Supply, Demand, and the Policy Dilemma
-3:04  Furlough, Helicopter Money, and QE
-4:40  The Recovery, Inflation Seeds, and Scarring
+3:04  CARES, Furlough, and the Fed's Expansion
+4:40  Recovery, Inflation Seeds, and Scarring
 6:59  Credits
 
 ── SERIES: ECONOMIC CRISES EXPLAINED ────
@@ -41,4 +41,4 @@ Each episode is accompanied by a fully referenced chapter with data, primary sou
 ── VIDEO TITLE ──────────────────────────
 Economic Crises Explained — Episode 16: The COVID-19 Economic Shock (2020)
 
-#COVID19Economy #PandemicEconomics #FiscalStimulus #EconomicCrises #EconomicHistory #Economics #Inflation #Documentary #MacroEconomics
+#COVID19Economy #PandemicEconomics #CARES #FederalReserve #EconomicHistory #Economics #EconomicCrises #Documentary #MacroEconomics #Recession
