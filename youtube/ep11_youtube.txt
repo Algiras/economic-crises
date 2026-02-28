@@ -1,13 +1,13 @@
-In 1993, John Meriwether assembled the most credentialed team in financial history. Two of his partners would win the Nobel Prize in economics. The fund returned forty percent annually for four years. Then, in five weeks in 1998, it nearly brought down the global financial system.
+In 1993, John Meriwether assembled the most credentialed team in financial history — two future Nobel laureates, a former Federal Reserve vice chairman, and the architects of modern derivatives pricing. Long-Term Capital Management was not merely a hedge fund. It was a test of whether financial theory could generate risk-free profits from mathematical certainty. Between 1994 and 1997, it returned forty percent annually. The fund's models said its probability of losing everything was one in ten to the twenty-fourth power — impossible in any timescale relevant to human civilisation.
 
-LTCM's failure was a category error: its models measured risk as volatility, but real risk is correlated failure — when every position moves against you at once because everyone holds the same positions. When Russia defaulted in August 1998, every correlation LTCM's models said was impossible went to one simultaneously, and a fund with $125 billion in assets and over $1 trillion in notional derivatives faced forced liquidation. The Federal Reserve Bank of New York organised a private bailout of fourteen banks on September 23, 1998 — establishing the too-big-to-fail template that would define the next decade of crisis management.
+In August 1998, Russia defaulted on its domestic debt. LTCM had minimal Russian exposure. It didn't matter. In a panic, assets that normally move independently move together — and LTCM's supposedly uncorrelated positions all moved against it simultaneously because every bank on Wall Street had copied its trades. A fund with $125 billion in assets and over $1 trillion in notional derivatives lost ninety percent of its capital in five weeks. On September 23, 1998, the Federal Reserve Bank of New York gathered fourteen banks in a room and told them: coordinate a bailout or watch each other fail. The crisis passed. The lesson — that mathematical sophistication is not risk management — was not applied. The 2008 crisis would demonstrate the cost.
 
 ── CHAPTERS ──────────────────────────────
 0:00  Introduction
-0:06  The Rise of LTCM
+0:06  The Fund That Couldn't Fail
 2:23  The Category Error in Risk
 4:36  The Fed's Private Bailout
-6:41  Legacy and What Changed
+6:41  The Dress Rehearsal for 2008
 8:51  Credits
 
 ── SERIES: ECONOMIC CRISES EXPLAINED ────
@@ -41,4 +41,4 @@ Each episode is accompanied by a fully referenced chapter with data, primary sou
 ── VIDEO TITLE ──────────────────────────
 Economic Crises Explained — Episode 11: The LTCM Collapse (1998)
 
-#LTCM #LongTermCapitalManagement #HedgeFunds #FinancialCrisis #TooBigToFail #EconomicHistory #Economics #EconomicCrises #Documentary #MacroEconomics
+#LTCM #LongTermCapitalManagement #HedgeFunds #SystemicRisk #TooBigToFail #EconomicHistory #Economics #EconomicCrises #Documentary #MacroEconomics
