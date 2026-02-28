@@ -1,0 +1,131 @@
+# Black Monday (1987)
+
+## What Happened
+
+### Five Hundred and Eight Points
+
+On Monday, October 19, 1987, the Dow Jones Industrial Average opened with a cascade of selling that did not stop. By the closing bell, the index had fallen five hundred and eight points — a decline of twenty-two and a half percent in a single trading session. It remains the largest single-day percentage decline in American stock market history, larger even than the crashes of October 1929. The trading volume was also without precedent: over six hundred million shares changed hands on the New York Stock Exchange, nearly double the previous record.
+
+The crash was not confined to the United States. Markets in Hong Kong had fallen forty-five percent over the preceding week as Asian markets led the global decline. London fell eleven percent on Black Monday, Frankfurt fell ten percent. When Asian markets opened Tuesday morning, the Hong Kong Stock Exchange suspended trading entirely — it remained closed for four days. The crash was the first truly simultaneous global market event, enabled by the international integration of capital markets that had proceeded rapidly through the 1980s.
+
+By the end of Monday's session, approximately one trillion dollars in market value had been erased from American equities alone. The number was difficult to comprehend in absolute terms; it represented roughly a quarter of the US gross domestic product for the entire year 1987.
+
+### The Proximate Causes
+
+No single cause has ever been established for the crash's timing or magnitude, and historians and economists continue to debate the relative importance of various contributing factors. Several were clearly relevant.
+
+The macroeconomic backdrop had been deteriorating through the summer and fall of 1987. The United States trade deficit, which had widened substantially through the mid-1980s as the strong dollar made American exports expensive and imports cheap, remained a source of market anxiety. When the Commerce Department released worse-than-expected trade deficit data in mid-October, it reinforced concerns that the dollar was headed for a sharp devaluation. Treasury Secretary James Baker had publicly threatened currency intervention and indicated willingness to allow the dollar to weaken — comments that unnerved markets already sensitive to international financial stability.
+
+Interest rates had been rising. The Federal Reserve, under its new chairman Alan Greenspan who had taken office in August, had raised the discount rate in early September to cool what appeared to be an overheating economy. Ten-year Treasury yields had risen above nine percent. Rising rates implied lower present values for future earnings — mechanically compressing equity valuations.
+
+The market was also expensive by historical standards. The price-to-earnings ratio of the S&P 500 had reached levels that, in prior historical contexts, had been followed by poor subsequent returns. The level of valuation alone was not a trigger, but it made the market vulnerable to negative catalysts.
+
+### The Portfolio Insurance Mechanism
+
+The mechanism that transformed a market decline into a crash was portfolio insurance — a hedging strategy developed by academics Hayne Leland and Mark Rubinstein at the University of California Berkeley. Portfolio insurance was designed to protect institutional investors against large losses by systematically selling stock index futures as prices fell, dynamically replicating the payoff of a put option.
+
+The strategy was theoretically elegant and individually rational: an institution that owned a large equity portfolio could limit its downside exposure by programmatically selling futures contracts as the market fell, reducing its effective equity exposure as prices declined. The hedge was "self-financing" in the sense that it required no upfront premium — it simply required the capacity to execute the required trades.
+
+By October 1987, approximately sixty billion dollars in institutional portfolios were protected by portfolio insurance strategies. The strategies had been backtested using historical data and validated through a period in which the market had not experienced a significant decline. The backtests assumed that futures markets would remain sufficiently liquid to execute the required sell orders without materially moving prices.
+
+This assumption was wrong in ways that the backtests could not detect, because the liquidity that the backtests measured was pre-portfolio-insurance liquidity. When markets fell on Monday, October 19, the portfolio insurance programs began selling futures automatically. Their selling moved futures prices down. This triggered further portfolio insurance selling from other programs, which moved prices further. The futures market, which was supposed to provide the liquidity for the hedge, was being consumed by the hedge itself.
+
+### Market Structure Failure
+
+The crash exposed a fundamental failure of market structure. The futures market and the underlying stock market disconnected from each other in ways that normally occur only during brief arbitrage opportunities and then quickly close. By Monday afternoon, futures were trading at discounts of fifteen to twenty points below the corresponding value of the underlying stocks. This gap was impossible under normal conditions: any investor who bought the cheaper futures while shorting the more expensive stocks would make a risk-free profit when the gap closed.
+
+But the arbitrage did not close the gap, because the mechanism of arbitrage had broken down. Arbitrageurs who would normally have stepped in to close the gap found that their computers could not execute trades fast enough, that broker-dealers were unwilling to extend the credit needed to maintain positions, and that the sheer volume of selling overwhelmed the normal market-making capacity of the NYSE specialists who were supposed to provide liquidity in their assigned stocks.
+
+The futures market effectively became disconnected from the stock market. This disconnection prevented the normal stabilizing mechanism — index arbitrage — from functioning. Without arbitrage, the futures decline did not translate into a signal to buy underlying stocks at the depressed futures-implied prices. Instead, the futures decline signaled further stock selling, which signaled more portfolio insurance selling, which moved prices further.
+
+## The Failures
+
+### The Illusion of Liquidity
+
+The first structural problem that Black Monday exposed was what might be called the illusion of liquidity: the assumption that financial instruments which are liquid under normal conditions will remain liquid under stress. Portfolio insurance — and many other hedging strategies developed in the 1980s — had been designed and validated using data from normal market conditions. Those conditions included the implicit assumption that a large institution could execute a large trade without materially moving the price of the instrument being traded.
+
+This assumption is reasonable when a single institution is trading. It breaks down catastrophically when every institution with a portfolio insurance strategy is executing the same trade simultaneously. When sixty billion dollars worth of portfolios all require selling futures contracts as the market falls, the supply of buyers for those contracts is overwhelmed. The market's ability to absorb selling without moving prices — its depth, in the terminology of market microstructure — is a function of who is on the other side. If every institution is on the same side of the trade simultaneously, there is no other side, and the assumption of liquidity evaporates.
+
+The academic literature had a name for this problem: endogenous risk. The risk that a strategy was designed to hedge against was partly created by the strategy itself. Portfolio insurance was individually rational and collectively destabilizing. A small number of institutions implementing it would not have created problems. The sixty billion dollars that had accumulated in portfolio insurance strategies by October 1987 was enough to be the market rather than merely a participant in it.
+
+### The Feedback Loop
+
+The second structural problem was the feedback loop between program trading and prices. The electronic trading systems that executed portfolio insurance strategies were designed to sell as prices fell, without discretion or limit. They did not ask whether the fall in futures prices reflected genuine information about the future earning power of American corporations — information that might justify selling the underlying stocks. They simply responded mechanically to price signals.
+
+This mechanical response created a feedback loop. Falling prices triggered selling. Selling caused further price falls. Further price falls triggered more selling. The loop had no natural stabilizer built in — no point at which the selling would stop because prices had fallen to a level that attracted buyers in sufficient volume to overwhelm the selling pressure.
+
+The absence of circuit breakers — mechanisms that would have automatically paused trading when prices fell beyond specified thresholds — meant that the feedback loop ran without interruption for the entire trading day. In markets elsewhere in the world, trading pauses, price limits, and other circuit breakers interrupted the cascade. The American equity markets in 1987 had no such mechanisms. The market was permitted, by design, to fall without limit in a single day.
+
+### The Disconnect Between Markets
+
+The third structural problem was the disconnect between the futures market and the underlying stock market. Modern finance assumes that related markets — stocks and stock index futures — will remain closely linked by arbitrage. This assumption underlies the pricing of derivatives and the design of hedging strategies. When the linkage breaks, positions hedged with derivatives may not behave as expected.
+
+The breakdown occurred because arbitrage requires not just the willingness to trade but the capacity to do so: credit to finance positions, execution speed to enter and exit trades, and counterparties willing to take the other side. When all of these were simultaneously unavailable — as credit lines were being cut, execution systems were overwhelmed, and market-makers were stepping back — the arbitrage mechanism that normally maintained the link between markets failed.
+
+The practical consequence was that investors who thought they were hedged via futures were not hedged. Their stock portfolios were falling while their futures hedges were trading at prices that did not reflect the underlying market. The hedge had become a source of additional risk rather than a protection against it.
+
+### The Fed's Critical Test
+
+The Federal Reserve, under Alan Greenspan who had been in office for only two months, faced a critical test. If banks withdrew credit from securities dealers and broker-dealers — responding to the uncertainty of Monday's crash by reducing exposure to financial intermediaries that might fail — the market might not open on Tuesday. The clearing and settlement infrastructure of the US financial system depended on dealers maintaining credit lines to finance their inventory and their customers' positions overnight.
+
+The decision Greenspan faced was whether to signal the Fed's support for financial market stability before Tuesday's opening — and whether such a signal would be credible enough to prevent banks from withdrawing credit in the interval between Monday's close and Tuesday's opening. The stakes were genuinely existential for the financial system. If the markets could not open on Tuesday, the implications for confidence in American financial institutions were impossible to predict.
+
+## The Response
+
+### Twenty-Seven Words Before the Opening Bell
+
+Before markets opened on Tuesday, October 20th, the Federal Reserve released a statement that has been cited in every subsequent study of the crash. The statement was twenty-seven words long: "The Federal Reserve, consistent with its responsibilities as the nation's central bank, affirmed today its readiness to serve as a source of liquidity to support the economic and financial system."
+
+The statement was deliberately brief. Its brevity was part of its power: it committed the Fed to action without specifying what actions, leaving the institution maximum flexibility to respond as circumstances required. It signaled, unambiguously, that the Federal Reserve would not permit a financial crisis to develop from the stock market crash if it had any capacity to prevent one. For banks deciding whether to maintain credit lines to broker-dealers and securities firms through Tuesday's opening, the statement provided the assurance they needed: if the firms survived, the Fed would have supported the system that kept them alive.
+
+The Fed then backed the words with action. It conducted large open market operations, injecting reserves into the banking system and pushing short-term interest rates down. It made clear to the major money center banks that extending credit to broker-dealers and securities firms was expected and appropriate under the circumstances. The intervention was targeted and rapid.
+
+### Markets Reopened
+
+Markets opened on Tuesday, October 20th. They were volatile — the Dow fell another one hundred points in the morning before stabilizing — but they did not collapse. The panic did not spread to the banking system. Credit continued to flow. By the end of the week, markets had recovered a substantial portion of Monday's losses. Within two years, the Dow was back above its pre-crash level.
+
+The success of the Fed's intervention was remarkable given the speed with which it was designed and executed. Greenspan had been chairman for only two months and had not yet developed the institutional relationships and market credibility that a longer tenure provides. He made the right call, quickly and under extreme pressure. The intervention demonstrated that a central bank with the will to act and the credibility to be believed could prevent a market crash from becoming a credit crisis — could sever the transmission mechanism between financial markets and the real economy that, in other circumstances, had allowed stock market collapses to produce depressions.
+
+### The Brady Commission
+
+The policy response beyond the immediate crisis came from the Brady Commission — the Presidential Task Force on Market Mechanisms chaired by Nicholas Brady, then a New Jersey senator and later Treasury Secretary. The Commission's report, issued in January 1988, was the most thorough analysis of the crash's causes and mechanisms produced in its immediate aftermath.
+
+The Commission identified portfolio insurance and the disconnect between futures and cash markets as the principal technical causes of the crash's severity. It recommended a series of structural reforms: circuit breakers — automatic trading halts — to pause markets during extreme price moves and allow human judgment to intervene; coordination between the NYSE and the Chicago Mercantile Exchange, which operated the major stock index futures market; unified margin requirements between cash and futures markets; and better information systems to identify concentrations of risk in real time.
+
+The recommendations were implemented, though imperfectly and over several years of negotiation between the exchanges and regulators. The New York Stock Exchange adopted circuit breakers that would halt trading if the Dow fell specified percentages within a trading day. The CME adopted complementary rules. Coordination between the exchanges improved. Margin requirements were adjusted to reduce the leverage available in futures markets.
+
+### Structural Reform of Market Infrastructure
+
+The circuit breakers installed after 1987 were tested repeatedly over the following decades, most dramatically during the financial crisis of 2008–2009 and the COVID pandemic market crash of March 2020. Their effectiveness in limiting the severity of cascade selling has been debated — some analyses suggest circuit breakers simply delay selling pressure rather than eliminating it, while others find they provide meaningful time for markets to stabilize.
+
+What the post-1987 reforms did not address was the underlying dynamic that had enabled the crash: the concentration of hedging strategies on the same side of the same trades. Subsequent generations of financial innovation would reproduce this dynamic in different forms — the convergence trades of LTCM in 1998, the correlation of mortgage-backed security positions in 2007–2008, the concentration of risk in short volatility strategies that produced the "Volmageddon" of February 2018. The specific trigger changes; the structural vulnerability to concentrated positioning in self-reinforcing strategies persists.
+
+## The Legacy
+
+### The Dog That Did Not Bark
+
+The most striking result of Black Monday was what did not happen. The feared recession did not materialize. Consumer confidence dipped in October and November 1987 but recovered quickly. Business investment continued growing. Employment held. The American economy grew by three point five percent in 1988. The recession that historical precedent suggested should follow a twenty-two percent single-day market decline — the 1929 crash, after all, had presaged the Great Depression — did not arrive.
+
+The reasons for this non-event illuminate what determines whether a financial market crash becomes a macroeconomic catastrophe. The 1929 crash had spread to the banking system through a sequence of failures: banks had lent against stock collateral, collateral values had fallen, loans had soured, banks had failed, deposits had been destroyed, credit had contracted, and businesses unable to borrow had contracted production and employment. In 1987, the Fed's rapid intervention broke this chain at its second link: by ensuring that the banking system remained liquid and that credit continued to flow to solvent institutions, it prevented the stock market crash from becoming a credit crisis. The stock prices had fallen. The credit system had not.
+
+This outcome was not inevitable. It was the product of a specific decision, made under extreme pressure, by an institution with the capacity and the mandate to act. The performance of the Fed in October 1987 became a benchmark — consciously referenced by subsequent central bankers — for how to manage financial market crises.
+
+### The Greenspan Put
+
+Black Monday established what financial markets would come to call the "Greenspan put" — the expectation that the Federal Reserve would intervene to stabilize financial markets when they faced severe stress. The name derived from options terminology: a "put" is a financial instrument that protects the holder against losses below a specified price. The "Greenspan put" was the market's perception that the Fed provided an implicit insurance policy against catastrophic market declines.
+
+This expectation had consequences that were not immediately visible but would compound over the following two decades. If investors believed that the Fed would cushion downturns, the perceived risk of holding equities and other risky assets was reduced. Reduced perceived risk justified higher valuations. Higher valuations increased the economy's sensitivity to asset price movements. And the implicit Fed backstop reduced the cost of risk-taking, encouraging more of it.
+
+The moral hazard created by the Greenspan put was not immediately apparent in 1988. It became visible, incrementally, in each subsequent episode: the LTCM rescue of 1998, the rate cuts after the dot-com crash of 2000–2001, the extended period of low rates through 2004 that inflated the housing bubble. Each intervention solved the immediate problem while creating the conditions — through moral hazard, through the asset price inflation that loose money produced, through the expectations of future intervention that each rescue reinforced — for the next one.
+
+### Circuit Breakers and Their Limits
+
+The structural reforms implemented after 1987 addressed the specific failure modes of Black Monday with reasonable effectiveness. Circuit breakers have been triggered on multiple occasions since their implementation — most dramatically during the COVID pandemic crash in March 2020, when circuit breakers halted trading several times over several days — and have generally succeeded in providing brief pauses during which selling pressure could be assessed rather than mechanically amplified.
+
+But circuit breakers are a regulatory patch on a structural vulnerability that continues to evolve. Every generation of financial technology creates new potential feedback loops between markets: high-frequency trading algorithms, volatility-targeting strategies, risk parity funds, and ETF arbitrage mechanisms all create potential for rapid, correlated selling during market stress. The specific mechanism of 1987 — portfolio insurance selling through index futures — was constrained by regulatory reform. The underlying dynamic — strategies that individually appear to manage risk but collectively amplify it — has been reproduced in different forms with each new generation of financial innovation.
+
+### The Greenspan Template
+
+Alan Greenspan's response to Black Monday established a template that he would apply repeatedly over his eighteen-year tenure as Federal Reserve chairman: rapid liquidity provision during financial market stress, followed by sustained accommodative monetary policy to support recovery, followed by gradual normalization as conditions stabilized. The template worked in 1987. It worked after the LTCM crisis in 1998. It worked after the dot-com crash in 2001–2002.
+
+What it created, in each application, was a lower threshold of expected return required by investors — because the risk of catastrophic loss appeared insured by the Fed — and a cycle of monetary accommodation that, over time, inflated successive asset bubbles. The credibility that Volcker had built by demonstrating the Fed's willingness to bear the short-term costs of anti-inflation policy was deployed by Greenspan in a different direction: demonstrating the Fed's willingness to bear the long-term costs of asset price inflation to avoid short-term financial crises. Each success made the next crisis larger.

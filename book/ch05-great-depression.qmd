@@ -1,0 +1,199 @@
+# The Great Depression (1929–1939)
+
+## The Crash and Collapse
+
+On October 28, 1929, a Monday that newspapers would later call Black Monday, Charles Mitchell — chairman of National City Bank, the largest bank in the United States — arrived at his Manhattan office to find the ticker tape already running an hour behind. By noon it was two hours behind. By the end of the day, $14 billion in market value had evaporated. The following day, Black Tuesday, another $11 billion vanished. Mitchell, who had spent the previous months publicly assuring Americans that stocks were sound and prosperity permanent, would be indicted for tax evasion within four years. The bank he had built into a colossus would survive only through government intervention.
+
+The Crash of 1929 did not cause the Great Depression by itself. But it was the signal flare that illuminated how much had already gone wrong — and it triggered a cascade of failures that would consume a decade, reshape democratic governance, and kill people by the hundreds of thousands.
+
+### The Architecture of Catastrophe
+
+The Depression was not a single event. It was a system failure, and like all system failures, it required the simultaneous collapse of multiple load-bearing structures.
+
+The first structure was credit. Through the 1920s, American banks had extended credit with minimal oversight. Margin buying — purchasing stocks with borrowed money, sometimes covering only 10% of the purchase price — had inflated equity markets to valuations disconnected from any plausible earnings. When prices fell, brokers issued margin calls. Investors sold whatever they could. Prices fell further. The feedback loop was self-reinforcing and merciless.
+
+The second structure was the banking system itself. American banking in 1929 was fragmented into more than 25,000 independent institutions, many of them small, undiversified, and operating in single agricultural counties already stressed by falling crop prices through the mid-1920s. When deposits fled, banks called in loans. Farmers who could not repay lost their land. Banks that could not collect closed. Between 1930 and 1933, approximately 9,000 banks failed — roughly one in three of all banks in the country. Deposits worth $7 billion were destroyed.
+
+The third structure was the Federal Reserve, created in 1913 specifically to prevent such panics. It did the opposite. Under the intellectual influence of what economists later called the "real bills doctrine" — the belief that credit should only finance productive commerce, not speculation — the Fed watched the banking system collapse and, in 1931, raised interest rates. The logic was to defend the gold standard. The consequence was to strangle whatever credit remained.
+
+Benjamin Strong, the governor of the New York Federal Reserve Bank who had managed monetary policy with relative sophistication through the 1920s, had died in 1928. His successors did not share his pragmatism. Monetary policy, at the moment it was needed most, became contractionary.
+
+### The International Dimension
+
+The Depression was not American in origin or consequence. It was global, and the mechanism of transmission was the gold standard.
+
+Under the interwar gold standard, currencies were pegged to gold at fixed rates. Countries running trade deficits lost gold, which contracted their money supplies, which forced deflation, which contracted their economies. Countries running surpluses — primarily the United States and France — were accumulating gold but not expanding their money supplies to match. The global monetary system was structurally deflationary.
+
+When the American economy contracted, it imported less, removing demand from Europe. European nations, already fragile from the First World War's debt burdens, began to crack. Germany — constrained by reparations obligations, dependent on American loans that now ceased — collapsed fastest. Between 1929 and 1932, German industrial production fell 42%. Unemployment reached 30% by 1932. Six million unemployed German workers provided the electoral fuel for a political movement that promised restoration of national greatness.
+
+World trade fell 66% between 1929 and 1934, accelerated by the Smoot-Hawley Tariff Act of 1930, which raised American import duties to historically high levels and triggered retaliatory tariffs from trading partners. The Smoot-Hawley Act did not cause the Depression, but it helped ensure that international commerce could not serve as a cushion against it.
+
+### Hoover's Response and Its Limits
+
+Herbert Hoover has been written into popular history as the man who did nothing while America starved. This is inaccurate but not entirely unfair.
+
+Hoover was not passive. He convened conferences of business leaders and urged them not to cut wages. He created the Reconstruction Finance Corporation to lend to struggling banks and railroads. He approved the Federal Home Loan Bank Act to support mortgage lending. He was, by the standards of his Republican predecessors, an interventionist.
+
+But Hoover was constrained by ideology and by the intellectual consensus of his era. He believed the federal government should not provide direct relief to individuals — that was the province of charity and local government. He believed the federal budget should be balanced even during economic contraction. In 1932, with unemployment above 20% and the economy still falling, he signed the Revenue Act of 1932, raising the top marginal income tax rate from 25% to 63% and increasing excise taxes. It was, by any measure of macroeconomic logic, exactly the wrong policy at the worst moment.
+
+When the Bonus Army — 43,000 veterans and their families, camping in Washington to demand early payment of promised military bonuses — was forcibly dispersed by General Douglas MacArthur's troops in July 1932, the images of soldiers routing impoverished veterans from a shantytown on the banks of the Potomac became a defining symbol of an administration that had lost moral authority.
+
+### The Election of 1932
+
+Franklin Delano Roosevelt won 472 electoral votes to Hoover's 59. He carried 42 of 48 states. It was not simply an election. It was a verdict.
+
+Roosevelt's campaign had been short on specifics but long on tone. He promised a "new deal for the American people." He radiated confidence in an era of despair. He was, by temperament and circumstance, exactly what the moment required: a man who could project optimism without being delusional, who could experiment without being reckless, and who understood that political legitimacy required visible action.
+
+The action that followed — the New Deal — would transform the relationship between the American state and the American economy in ways that persisted for half a century. But before any policy could work, the economic decline had to stop. Between 1929 and 1933, it had not stopped. It had accelerated into something that most living Americans had no framework to understand.
+
+What those four years looked like in numbers is the subject of the next chapter. The numbers are not comfortable.
+
+## Four Interlocking Failures
+
+On October 29, 1929, a stockbroker named Richard Whitney strode onto the floor of the New York Stock Exchange and placed a bid for U.S. Steel at $205 a share — ten dollars above the market price. He was performing a ritual, repeating the heroic intervention that had briefly halted the panic five days earlier. This time it did not work. The market fell anyway, and kept falling for three years. Whitney would later go to prison for fraud. The gesture said everything about what was to come: the people who were supposed to understand the economy didn't understand it at all.
+
+### Four Interlocking Crises
+
+By 1932, the United States had produced something that orthodox economics said was theoretically impossible: a self-reinforcing collapse with no natural floor. Four distinct problems drove each other deeper.
+
+**Banking collapse.** Between 1930 and 1933, roughly 9,000 American banks failed — a mortality rate of 35% of all commercial banks in the country. This was not a liquidity problem that would resolve on its own. It was a solvency catastrophe that destroyed the economy's transmission mechanism. When banks failed, deposits vanished: an estimated $7 billion in total deposits — equivalent to roughly $140 billion in 2023 terms — was simply wiped out. No deposit insurance existed. What was in the bank was gone. Surviving banks, terrified of the next run, stopped lending, and the credit supply contracted by 35% between 1929 and 1933.
+
+**Deflation spiral.** Consumer prices fell 10% in 1932 alone, and 27% cumulatively between 1929 and 1933. Deflation rewarded hoarding cash over investment and, more damagingly, increased the real burden of every debt in the economy. A farmer who had borrowed $1,000 in 1929 when wheat sold at $1.00 per bushel owed the equivalent of 1,000 bushels. By 1932, with wheat at $0.38, that debt represented 2,632 bushels in real terms. The debt-deflation dynamic — identified by economist Irving Fisher in a remarkable paper written as the crisis was unfolding — produced a cascade of forced asset sales that pushed prices lower still.
+
+**Demand collapse.** Unemployment reached 25% by 1933, with another large fraction of the workforce in severely reduced employment. Consumer spending fell 18% between 1929 and 1933. Business investment collapsed 87%. The economy had entered what Keynes would later call a "liquidity trap" — a condition where cheap money could not induce spending because no one trusted the future enough to borrow or hire.
+
+**The gold standard constraint.** Beneath all of this lay a structural cage. The gold standard required countries to defend fixed exchange rates by holding gold reserves. When investors feared for a currency, they demanded gold. To prevent outflows, central banks raised interest rates — the precise opposite of what a collapsing economy needed. The Federal Reserve actually tightened monetary policy during the contraction, accelerating the collapse. The gold standard was not merely unhelpful. It was actively driving the car toward the cliff.
+
+### The Approaches That Were Tried
+
+What makes the Depression so instructive as a case study is the range of responses attempted across countries — and how precisely the outcomes correlated with those choices.
+
+**Hoover's voluntarism, then austerity.** Herbert Hoover was not the passive president of popular caricature. He convened business leaders, extracted voluntary pledges to maintain wages, and launched public works projects. But he remained committed to balanced budgets and the gold standard. In 1932 he signed the Revenue Act — one of the largest peacetime tax increases in American history — in the middle of a depression. The logic was fiscal orthodoxy: governments must not run deficits. The effect was to drain purchasing power from an economy that had none to spare. Simultaneously, the Smoot-Hawley Tariff Act of 1930 raised duties on over 20,000 imported goods, triggering retaliatory measures from trading partners. US exports fell 61% by 1933. Hoover did not cause the Depression, but his policy toolkit made it substantially worse.
+
+**Britain's early exit from gold.** The United Kingdom, under intense pressure on sterling, abandoned the gold standard in September 1931 — at the time treated as national humiliation. It proved to be a liberation. Freed from the obligation to defend the peg, Britain could lower interest rates and permit currency depreciation. British industrial output recovered to its 1929 level by 1934, three years before the United States managed the same. The correlation was not lost on later economists. Barry Eichengreen's retrospective analysis demonstrated statistically that the timing of recovery across countries mapped almost perfectly onto when they left gold: leave early, recover early.
+
+**Germany's two experiments.** Germany tried both extremes in sequence, and the contrast is harrowing. Chancellor Heinrich Brüning, from 1930 to 1932, pursued savage austerity — cutting wages, slashing welfare spending, raising taxes — to demonstrate fiscal virtue and extract reparations concessions. Unemployment reached 30%. The political consequence was the collapse of the Weimar Republic and Adolf Hitler's electoral rise. After 1933, Finance Minister Hjalmar Schacht ran deficit-financed rearmament and public works. German unemployment fell from 6 million to under 1 million by 1938. The economics worked. The political outcome was a catastrophe of a different and far greater order.
+
+**Sweden's counter-cyclical experiment.** Sweden, under a Social Democratic government elected in 1932, did something barely theorised at the time: it deliberately ran budget deficits during the downturn to sustain demand. Swedish economists — Gunnar Myrdal and Bertil Ohlin — were developing counter-cyclical fiscal theory simultaneously with Keynes, sometimes ahead of him. Unemployment peaked at 23% but recovered faster than in comparable economies. Sweden avoided the worst of the Depression and would build upon that experience one of the most resilient welfare states in the world. It was a proof of concept at the exact moment when proof of concept was most needed.
+
+**FDR's internal debate.** Franklin Roosevelt came to office in 1933 without a coherent economic theory. His instincts were often orthodox — he had campaigned, improbably, on a balanced budget. The intellectual shift inside the administration was driven most clearly by Marriner Eccles, a Utah banker Roosevelt appointed to chair the Federal Reserve in 1934. Eccles had arrived at something close to Keynesian economics independently, through practical observation: in a depression, he argued, the government was the only actor with both the capacity and the obligation to spend. His memo, "A Suggested Remedy," laid out deficit spending as the mechanism of recovery. It was heterodox, contested, and — eventually — correct.
+
+### The Pattern That Emerged
+
+By the late 1930s, a clear pattern was visible across the data. Countries that left the gold standard earliest recovered earliest. Countries that maintained fiscal austerity longest suffered longest. The gold standard had functioned as an orthodoxy machine — enforcing policies that were individually rational for each government (defending the currency) but collectively catastrophic for the global economy. The Depression was, in a real sense, a crisis manufactured by a set of ideas that most economists of the time believed were unquestionable.
+
+The hard work of the decade was not only economic recovery. It was the replacement of one intellectual framework with another — a replacement that would not be complete until the wreckage was so total that the old framework could no longer be defended.
+
+## The New Deal and Monetary Break
+
+Franklin Roosevelt had been president for exactly one day when he signed Proclamation 2039, invoking the Trading with the Enemy Act of 1917 to declare a national bank holiday. Every bank in the United States would close, effective immediately, until further notice. The action required the legal fiction of treating American depositors as wartime enemies — but it stopped the hemorrhage. In the four months since the previous November's election, roughly $1.5 billion in gold and cash had fled the banking system. The drain stopped the moment the doors closed.
+
+The holiday lasted four business days. Federal inspectors, working through the weekend, classified each bank as solvent, salvageable, or hopeless. On March 13, the solvent banks — about 1,000 of them — reopened. By March 15, roughly 75 percent of Federal Reserve member banks were operating. Roosevelt addressed the nation by radio the evening before the reopening. He explained, in plain language, exactly what had been done and why. Deposits began to flow back in. The bank run that had been the immediate mechanism of the monetary contraction was over.
+
+What followed, in the next 99 days, was the most concentrated burst of legislation in American peacetime history.
+
+### The Hundred Days: Banking and Finance
+
+The Emergency Banking Act passed Congress on March 9, 1933 — the day it was introduced — after the House voted by voice without even having printed copies of the bill. It authorized the Treasury to issue new Federal Reserve notes backed by bank assets rather than gold, providing liquidity to reopened banks. It authorized the Reconstruction Finance Corporation to purchase preferred stock in banks, recapitalizing them with federal funds.
+
+The Glass-Steagall Act of June 1933 did two things that would define American banking for the next six decades. It separated commercial banking from investment banking: institutions that held federally insured deposits could no longer underwrite or deal in securities. And it created the Federal Deposit Insurance Corporation, which insured individual deposits up to $2,500 — a threshold later raised repeatedly, reaching $250,000 after 2008.
+
+The FDIC was the single most consequential institutional innovation of the Depression era. By guaranteeing that depositors would be made whole if a bank failed, it eliminated the mechanism of bank runs at their logical root. A depositor who knows their savings are insured by the federal government has no reason to race to the bank at the first rumor of trouble. Self-fulfilling bank panics, which had destroyed thousands of institutions between 1930 and 1933, became structurally impossible.
+
+The Securities Exchange Act of 1934 created the Securities and Exchange Commission, requiring corporate disclosure of financial information to investors and prohibiting specific market manipulation practices that had been common in the 1920s.
+
+### The Gold Standard's End
+
+On April 5, 1933, Roosevelt issued Executive Order 6102, requiring Americans to surrender gold coins, gold bullion, and gold certificates to Federal Reserve banks at $20.67 per troy ounce. Private gold hoarding became a federal offense. The dollar's convertibility into gold for domestic transactions was suspended.
+
+The Thomas Amendment, attached to the Agricultural Adjustment Act in May 1933, authorized the president to devalue the dollar against gold by up to 50 percent. Roosevelt proceeded experimentally through the autumn of 1933, with Treasury purchasing gold on the open market to push the dollar's value down and commodity prices up. The approach — later mocked as "goldbug" economics — was intellectually improvised but directionally correct. A lower dollar meant higher commodity prices, which meant relief for farmers, which meant more purchasing power in rural America.
+
+The Gold Reserve Act of January 1934 codified the new regime. The official gold price was set at $35 per troy ounce, up from $20.67 — a 69 percent increase in the gold price, or equivalently a 41 percent devaluation of the dollar. Gold reserves were transferred from the Federal Reserve to the Treasury. The dollar remained pegged to gold for international transactions but was fully inconvertible domestically.
+
+The economic effect was substantial and immediate. Barry Eichengreen's retrospective analysis established that the single strongest predictor of when a country's Depression-era recovery began was the date it abandoned the gold standard. For the United States, monetary expansion became possible from mid-1933 onward. The money supply, which had contracted by roughly a third between 1929 and 1933, began to expand.
+
+### Relief: Putting People to Work
+
+The Federal Emergency Relief Administration, established in May 1933 with Harry Hopkins as administrator, provided $500 million in direct grants to states for unemployment assistance — replacing the patchwork of state and local charity that had been overwhelmed since 1930. Hopkins famously distributed $5 million of his initial allocation in his first two hours in office.
+
+The Civilian Conservation Corps, created in March 1933, enrolled unemployed young men aged 17 to 28 in conservation work: planting trees, building fire roads, constructing park facilities, and preventing soil erosion in the Dust Bowl states. By 1935, the CCC had enrolled approximately 500,000 men at any given time; over its nine-year existence it employed roughly 3 million workers. Participants received room, board, and $30 per month, of which $25 was sent directly home to their families.
+
+The Civil Works Administration, also under Hopkins, operated through the winter of 1933–1934. It employed 4 million people within 30 days of its creation — the fastest labor mobilization in American peacetime history. CWA workers built 255,000 miles of roads, 30,000 schools, 3,700 playgrounds, and 1,000 airports. It was terminated in March 1934 when its costs alarmed fiscal conservatives in Congress.
+
+The Works Progress Administration, created in April 1935 with an initial appropriation of $4.9 billion — the largest single appropriation in American history to that point — was Hopkins' most ambitious effort. At its peak in 1938, the WPA employed 3.35 million workers. Over its eight-year lifespan it employed a total of 8.5 million Americans and built 651,000 miles of roads, 124,000 bridges, 125,000 public buildings, and 8,000 parks. It also employed writers, artists, musicians, and actors through subsidiary programs that documented American culture during the Depression decade.
+
+The Public Works Administration, under Interior Secretary Harold Ickes, operated with larger projects and stricter oversight. Its $3.3 billion initial allocation funded major infrastructure: the Hoover Dam (begun under Hoover, completed 1936), the Triborough Bridge, the Lincoln Tunnel, and the aircraft carriers USS Yorktown and USS Enterprise. Ickes' methodical approach meant the PWA spent money more slowly than Hopkins but with less waste and greater permanence.
+
+### The Social Contract: Social Security Act, 1935
+
+The Social Security Act of August 1935 created two programs that defined the American welfare state for the rest of the century.
+
+Old-Age Insurance — what most Americans now simply call Social Security — provided federal pensions to workers who had contributed through payroll deductions. The program was deliberately structured as social insurance rather than welfare: participants had "earned" their benefits through contributions, making it politically durable in a way that means-tested assistance was not. Initial monthly benefits averaged $22.60.
+
+Federal Unemployment Insurance created a joint federal-state system requiring employers to pay a payroll tax — initially 1 percent, rising to 3 percent — into state unemployment funds. Workers who lost their jobs received temporary income replacement. The program's macroeconomic significance was structural: it functioned as an automatic stabilizer, injecting purchasing power into the economy precisely when unemployment rose and demand fell, without requiring new legislative action.
+
+Both programs explicitly excluded agricultural workers and domestic servants — occupations in which African American workers were heavily concentrated — as the price of Southern Democratic votes in Congress.
+
+### Marriner Eccles and the Federal Reserve
+
+Roosevelt appointed Marriner Eccles, a Utah banker who had independently arrived at Keynesian conclusions before Keynes published them, as Chairman of the Federal Reserve Board in 1934. The Banking Act of 1935 restructured the Fed's governance, consolidating power in the Washington-based Board of Governors at the expense of the regional Federal Reserve banks — particularly the New York Fed, which had dominated monetary policy in the 1920s.
+
+Eccles pushed for coordinated monetary and fiscal expansion. He spent the late 1930s arguing, largely unsuccessfully, against the premature deficit reduction that caused the recession of 1937–1938. When Roosevelt cut federal spending and the Social Security payroll tax began withdrawing purchasing power from the economy, unemployment rose from 14.3 percent in 1937 to 19 percent in 1938. The episode proved Eccles correct. It also demonstrated the limits of the New Deal's political coalition when it came to sustained fiscal expansion.
+
+### The Resolution That Came From War
+
+The New Deal's programs stabilized the Depression. They did not end it. In 1940, with every program running and the institutional architecture fully constructed, unemployment stood at 14.6 percent.
+
+The resolution came from federal spending of a scale that peacetime political consensus could not authorize. Defense appropriations beginning in 1940 and accelerating through 1941–1945 drove federal spending from roughly 10 percent of GDP to a peak of 43 percent of GDP in 1944. The unemployment rate fell to 1.2 percent by 1944. The economy that had contracted by 30 percent between 1929 and 1933 was, a decade later, producing at nearly double its 1929 level.
+
+The war demonstrated conclusively that the Depression had not been caused by any structural limitation on the economy's capacity to produce. It had been caused, and sustained, by a catastrophic and self-reinforcing collapse in demand. The institutional reforms of the 1930s — deposit insurance, securities regulation, the welfare state's automatic stabilizers — were designed to prevent that collapse from recurring. For roughly 75 years, they worked.
+
+## Recovery and the Keynesian Legacy
+
+In 1963, Milton Friedman and Anna Schwartz published "A Monetary History of the United States" — a book largely about the 1930s written by two economists who had lived through the Depression as children. Their central finding was precise and damning: the Federal Reserve had allowed the money supply to contract by 33% between 1929 and 1933, and this contraction, which was not inevitable, had turned a severe recession into a catastrophe. The book was reviewed, argued over, and eventually absorbed into the standard economic toolkit. Ben Bernanke cited it explicitly when he authorized the Federal Reserve's extraordinary interventions in 2008.
+
+That is what the Depression produced: data that outlasted the suffering it encoded, and institutions that reshaped the relationship between governments and economies for the rest of the century. Some of those changes were clearly beneficial. Some were clearly catastrophic. Many remain contested.
+
+### Positive Results
+
+**The FDIC ended bank runs.** The Federal Deposit Insurance Corporation, created in 1933, is perhaps the single most consequential institutional innovation of the New Deal. By insuring individual deposits — initially up to $2,500, now up to $250,000 — it eliminated the mechanism of bank runs at their root. Depositors with no rational reason to panic do not panic. Between 1934 and the savings-and-loan crisis of the 1980s, bank failures became rare, orderly, and non-contagious. The 9,000 bank failures of 1930-1933 were not repeated. A structural vulnerability that had amplified every financial crisis for a century was simply removed.
+
+**Financial regulation provided durable protection.** The Securities Exchange Act of 1934 created the SEC and mandated disclosure of material information to investors — ending the fraudulent securities markets of the 1920s. The Glass-Steagall Act of 1933 separated commercial banking from investment banking for 66 years, preventing institutions holding insured deposits from gambling those deposits in securities markets. Together, these two reforms produced the most stable period in American banking history. No major financial crisis struck the US banking system between 1934 and 1980. The correlation with the presence of Glass-Steagall is not coincidental.
+
+**Social Security created an automatic stabiliser.** The Social Security Act of 1935 established federal old-age pensions and unemployment insurance. The unemployment insurance component was specifically designed to function counter-cyclically: when unemployment rose, benefits automatically flowed to workers, maintaining purchasing power and cushioning demand contraction. This automatic stabiliser mechanism was exactly what had been absent in 1929-1933. In every subsequent American recession, it prevented the demand collapse from becoming as self-reinforcing as the Depression's.
+
+**The Keynesian framework was adopted globally.** The Depression forced a revolution in macroeconomic theory. Counter-cyclical fiscal policy — government spending more during downturns and less during booms — became the standard toolkit of economic management for the postwar world. The Bretton Woods conference of 1944, convened to design the postwar international economic order, created the IMF and World Bank explicitly to prevent the 1930s from recurring. The architects — including Keynes himself — had spent the decade watching economies destroy themselves with orthodoxy and were determined not to repeat the experience.
+
+**GDP recovered and the gold standard constraint was eliminated.** Real GDP recovered to its 1929 level by 1936 (before the 1937 relapse), and definitively surpassed it by 1940. The devaluation of the dollar against gold in 1934 — setting a new gold price of $35 per ounce, a 69% increase from $20.67 — freed monetary policy from the constraint that had amplified the collapse. The eventual Bretton Woods system replaced the rigid gold standard with a more flexible managed system that permitted exchange rate adjustment without deflationary crisis.
+
+### Negative Results
+
+**Human cost was catastrophic, and mortality was measurable.** Estimates of excess mortality attributable to the Depression — deaths above what would have occurred under normal economic conditions — range from 500,000 to 1 million Americans between 1929 and 1933. Suicide rates rose 22% between 1928 and 1932. Infant mortality, which had been declining, reversed. Malnutrition became widespread in regions where relief did not reach. These are not abstractions. They are the human denominator of the statistical tables.
+
+**The Dust Bowl compounded displacement.** Poor agricultural practices combined with severe drought to create the Dust Bowl across the Great Plains, displacing an estimated 2.5 million people from their homes during the 1930s. Approximately 200,000 migrated to California alone. The intersection of economic depression and environmental catastrophe produced the largest internal migration in American history to that point — documented by John Steinbeck in "The Grapes of Wrath" and by Dorothea Lange in photographs that remain among the most powerful social documents of the 20th century.
+
+**The Depression accelerated fascism and caused WWII.** Germany's unemployment at 30% in 1932, produced partly by Brüning's austerity and partly by the broader collapse of world trade, created the political conditions for Hitler's rise. The Nazi party received 37% of the vote in July 1932, when the Depression was at its worst, and 33% in November 1932. The causal chain from global financial crisis to global war, while involving many intervening steps, is not in serious historical dispute. The Second World War, which killed 70-85 million people, was the downstream consequence of the Depression's unresolved political instabilities.
+
+**Black Americans were systematically excluded from relief.** The New Deal's benefits were distributed through a deeply racially stratified system. Agricultural labor and domestic service — occupations in which Black workers were concentrated — were explicitly excluded from Social Security and the minimum wage provisions of the Fair Labor Standards Act. These exclusions reflected the political bargain Roosevelt made with Southern Democratic legislators whose votes he needed. Black unemployment during the Depression reached estimated rates of 50% or higher in some urban areas, nearly twice the white rate, and New Deal programs did not close this gap.
+
+**The 1937 premature tightening triggered a second recession.** In 1937, with the economy appearing to recover, Roosevelt responded to political pressure by cutting federal spending and allowing the new Social Security payroll tax to remove purchasing power from the economy, while the Federal Reserve simultaneously tightened. The result was a recession that sent unemployment from 14.3% back up to 19% in 1938 — proving that the recovery had been fragile and dependent on continued stimulus. The episode was a preview of policy mistakes that would be repeated in subsequent crises.
+
+### Neutral and Mixed Results
+
+**The New Deal did not end the Depression.** Unemployment in 1940, after seven years of New Deal programs, was still 14.6%. The American economy returned to full employment only when defense mobilisation for the Second World War generated federal spending at a scale that peacetime political constraints had made impossible. This fact is central to the ongoing debate about what actually worked. The New Deal mitigated and managed the Depression. It did not end it. Whether this reflects insufficient scale, wrong design, or the inherent limits of peacetime political economy is contested.
+
+**What ended the Depression was war spending.** Federal spending rose from approximately 10% of GDP in 1939 to 43% in 1943. Unemployment fell from 14.6% in 1940 to 1.2% in 1944. The arithmetic is unambiguous: the spending that ended the Depression was defence spending, at a scale and with a political legitimacy that ordinary counter-cyclical fiscal policy could not attain. Whether this means Keynesian fiscal policy works but requires more than policymakers were willing to provide, or whether it means something structurally different about war mobilisation, remains debated among economic historians.
+
+**The Glass-Steagall repeal question.** Glass-Steagall was repealed in 1999 by the Gramm-Leach-Bliley Act, in a deregulatory environment that judged its separation of commercial and investment banking as outdated. The 2008 financial crisis — involving many of the same institutional pathologies the 1930s reforms were designed to prevent — reignited the debate. Whether Glass-Steagall's presence would have prevented 2008 is contested. What is not contested is that the institutions designed in the 1930s were gradually dismantled in the decades before the next major crisis.
+
+### Sociological Impact
+
+The Depression's sociological effects were as profound as its economic ones, and in many cases more permanent.
+
+**Poverty.** Official poverty rates were not systematically measured in the 1930s, but contemporary surveys estimated that 40-50% of American families had incomes below subsistence levels at the Depression's nadir. The New Deal's relief programs reached perhaps 20 million people directly, but could not close the gap between need and capacity.
+
+**Inequality.** Inequality, as measured by top income shares, actually fell during the Depression years — partly because asset values (which accrue disproportionately to the wealthy) collapsed, and partly because the New Deal's labor protections strengthened workers' bargaining power. Top-1% income share fell from 23.9% in 1928 to 16.9% in 1938. The Depression paradoxically initiated the most egalitarian period in 20th-century American economic history, which persisted through the 1970s.
+
+**Political consequences.** The Depression permanently shifted the American electorate's expectations of government. The New Deal Democratic coalition — labor, urban immigrants, Southern whites, and eventually Black voters (partially) — dominated American politics for 40 years. The expectation that the federal government bore responsibility for economic welfare, which had been politically contested before 1929, became so thoroughly embedded that Ronald Reagan's 1980 campaign against it was understood as radical. The Depression created the framework within which all subsequent American economic politics took place.
+
+**Health and life expectancy.** Despite the acute mortality spike of 1929-1933, some researchers have found paradoxical long-run health effects: reduced industrial accident rates (because fewer people were working in dangerous conditions), lower alcohol consumption, and reduced vehicle accident deaths. These aggregate effects mask severe distributional suffering. The poor, the unemployed, and minorities experienced sharply worse health outcomes; the aggregate statistics reflect survivorship and changing behavior patterns, not the absence of suffering.

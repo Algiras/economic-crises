@@ -1,0 +1,137 @@
+# The Panic of 1907 (1907)
+
+## What Happened
+
+### The Morning the Knickerbocker Stopped Paying
+
+On the morning of October 22, 1907, the Knickerbocker Trust Company of New York — the third-largest trust company in the city, holding deposits of sixty-two million dollars — announced that it would suspend payments to depositors. Within hours, a crowd had gathered outside its headquarters on Fifth Avenue. The panic that followed would nearly collapse the American banking system. It would be stopped not by any government institution — none capable of stopping it existed — but by one man, acting through personal authority and a combination of ruthlessness and financial genius.
+
+The Panic of 1907 lasted six weeks. During those six weeks, the New York Stock Exchange fell fifty percent from its January peak. Call money rates — the overnight rate at which brokers borrowed to finance their securities positions — spiked to one hundred and fifty percent annually, a level that effectively closed the equity market to new borrowing. Hundreds of banks and trust companies across the country suspended payments. Business activity seized. And the United States operated through the crisis without a central bank, without deposit insurance, without any institutional lender of last resort. What it had was J.P. Morgan.
+
+### The Roots of the Crisis
+
+The Panic of 1907 had multiple origin points. One was the San Francisco earthquake of April 1906. The earthquake and the fire that followed it were among the most destructive natural disasters in American history, killing approximately three thousand people and destroying most of the city. Insurance companies, many of them British, had to pay enormous claims — estimates of total insured losses ran to several hundred million dollars. To pay claims, British insurance companies sold American securities and repatriated gold to England. This drain of gold from the American financial system tightened credit in New York through late 1906 and into 1907.
+
+The triggering event came from a copper speculation gone wrong. F. Augustus Heinze, a copper mining magnate from Montana who had acquired control of several New York banks, attempted to corner the market in United Copper Company shares in October 1907. The corner failed spectacularly. Heinze's associates had misjudged the supply of shares available to lend against short sellers, and the squeeze that should have forced short sellers to buy at higher prices instead collapsed as the true supply became apparent. United Copper fell from sixty dollars to ten in two days. Heinze's brokerage firm failed. His banks came under immediate suspicion.
+
+The institutional structure of American banking in 1907 made this suspicion contagious. Heinze controlled or was associated with multiple institutions. When the Mercantile National Bank, which he controlled, faced a run, the New York Clearing House — the organization of the major commercial banks that processed interbank settlements — investigated its condition and concluded it was salvageable. Heinze was forced to resign and the Clearing House provided support. But the investigation implicated other institutions connected to Heinze through his business partner Charles Morse, and the circle of suspicion widened.
+
+### Trust Companies and the Regulatory Gap
+
+The Knickerbocker Trust Company became the focal point of the panic not because it was the weakest institution but because it was the most prominent trust associated with Heinze's network. When the Knickerbocker's president, Charles Barney, was asked to resign by his board, word spread that the institution was in trouble. Depositors lined up to withdraw before it closed.
+
+Trust companies were the unregulated shadow banks of the early twentieth century. They had captured market share from commercial banks by offering higher deposit rates and by lending into a broader range of ventures — including the stock market speculation that commercial banks were formally barred from financing. They operated with no reserve requirements; while commercial banks were required to hold reserves against their deposits, trust companies faced no such constraint. They had expanded rapidly through the 1890s and 1900s, and by 1907 held deposits comparable in size to those of the established commercial banking system.
+
+When confidence broke, the trust companies had nothing to fall back on. Their high-yielding lending had been funded by deposits that were, in crisis conditions, no more reliable than any other deposit. The absence of reserves meant that even a relatively small withdrawal demand could trigger suspension. The Knickerbocker's failure triggered runs on other trust companies: the Trust Company of America, Lincoln Trust Company, and others all faced depositor panics in the days that followed.
+
+### The NYSE and the Market Crisis
+
+The stock exchange crisis was concurrent with the banking crisis and mutually reinforcing. As banks and trust companies contracted lending, broker-dealers who had borrowed to finance their clients' securities positions were called. To repay broker loans, they sold securities. Falling securities prices reduced the value of collateral backing other loans, triggering further calls. The mechanism was self-reinforcing.
+
+By October 24th, the Stock Exchange was on the verge of closure. The exchange's president went to J.P. Morgan's office to report that he needed twenty-five million dollars within minutes or the exchange would close early. Morgan, at seventy years old and in declining health, summoned the presidents of the major commercial banks to his office. In fifteen minutes — the time it would take the exchange's president to return to the floor — Morgan had assembled the twenty-five million dollars in commitments. The money reached the exchange at two in the afternoon. Trading continued.
+
+No government official had directed this. No legal authority had been invoked. One private citizen had assessed the situation, determined what needed to be done, and done it through the authority that his personal reputation and financial power commanded. The question it raised — whether any modern financial system should depend on such a man — was the question the Federal Reserve Act would answer six years later.
+
+## The Failures
+
+### The Missing Lender of Last Resort
+
+The Panic of 1907 exposed the central structural deficiency of the American financial system with a clarity that no previous crisis had managed: the United States had no lender of last resort. Walter Bagehot had described the proper function of such an institution in his 1873 work "Lombard Street" — lend freely, at a penalty rate, against good collateral — but the United States had no institution capable of following this prescription.
+
+In a banking panic, the problem is not insolvency but illiquidity. Solvent banks — institutions that are fundamentally sound but temporarily unable to convert their assets into cash fast enough to meet depositor demands — face runs for the same reason that insolvent banks do: depositors who fear a bank might fail have a rational incentive to withdraw before it does, and the collective effect of individually rational withdrawals is to create the failure they feared. A lender of last resort can break this dynamic by standing ready to lend to solvent institutions against their assets, assuring depositors that the bank can meet their demands regardless of how many others withdraw simultaneously.
+
+The United States had possessed two central banks in its history — the First Bank of the United States, chartered in 1791 and allowed to expire in 1811, and the Second Bank, chartered in 1816 and killed by Andrew Jackson in 1836. Both had been destroyed by political opposition to concentrated financial power. The Jacksonian critique — that a central bank was an engine of aristocratic privilege, a mechanism for the few to exploit the many — had shaped American political culture for generations. The country was ideologically opposed to the very institution that its financial system required.
+
+### The National Banking System's Chain Reaction
+
+The National Banking System, created during the Civil War through the National Bank Acts of 1863 and 1864, established a structure that made panics more contagious rather than less. The system required national banks to hold reserves against their deposits — an apparently prudent requirement. But it allowed banks in smaller cities to hold their reserves not in their own vaults but as deposits in "reserve city" banks in New York, Chicago, and other major centers. These reserve city banks could in turn hold their reserves in a network of central reserve city banks in New York.
+
+This pyramid structure created chains of dependency that transmitted shocks with extraordinary efficiency. When a crisis broke in New York, banks in smaller cities throughout the country began withdrawing their reserves from New York correspondents. New York banks, losing deposits from the interior, contracted their lending to the firms and brokers that depended on call money. Each bank in the chain was behaving rationally — trying to preserve its own liquidity — but the collective effect was to drain liquidity from the center of the system at precisely the moment it was most needed there.
+
+In a system designed by a competent regulator, these chains would have been shortened or eliminated. Interior banks would have held their reserves locally, insulated from New York panics. Alternatively, a central institution would have provided liquidity to New York banks as they were being drained, preventing the contraction. Neither design existed. The National Banking System was the worst of both worlds: it required reserves but structured those reserves as a transmission mechanism for panic.
+
+### The Trust Company Problem
+
+Trust companies represented what economists would later call a "regulatory arbitrage" — the exploitation of a gap between the regulated and unregulated financial sectors. Commercial banks faced reserve requirements, restrictions on their lending activities, and oversight from state banking departments and the Comptroller of the Currency. Trust companies faced none of these constraints in most states.
+
+The result was competitive asymmetry: trust companies could offer higher deposit rates and make more profitable (and more risky) loans than commercial banks, attracting deposits away from the regulated sector. By 1907, New York trust companies held deposits of nearly a billion dollars — comparable to those of the national banks in the city. They had grown by exploiting the regulatory gap. They collapsed by occupying it.
+
+The Knickerbocker Trust's failure demonstrated that deposit-taking institutions outside the regulated banking system could pose systemic risks to the financial system as a whole. A run on a trust company could spread to commercial banks through depositor panic, market disruption, and the withdrawal of trust company deposits from commercial bank accounts. The regulatory perimeter was too narrow to contain the risk.
+
+### The Currency Inelasticity Problem
+
+The American financial system in 1907 also suffered from a structural rigidity in the currency supply. The total supply of national bank notes — the primary currency — was constrained by the volume of government bonds that banks could deposit with the Treasury as backing. When a bank needed to expand its note issuance during a crisis — to meet depositor withdrawal demands in cash — it had to acquire government bonds first. The money supply could not expand in response to a surge in demand for currency.
+
+Clearinghouse certificate was an ad hoc solution that the banking system had developed independently: when banks within a clearinghouse association needed to settle their interbank obligations during a crisis, they could issue certificates among themselves backed by their assets, conserving actual cash for depositor demands. These certificates served as a temporary substitute for cash in interbank settlement, effectively expanding the effective money supply within the clearinghouse system. Clearinghouse certificates were issued during the 1907 panic and helped limit the damage.
+
+But clearinghouse certificates were a workaround, not a solution. They could only be used among clearinghouse members, not with the public. They addressed interbank settlement but not the depositor withdrawal problem. They required coordination among banks that might otherwise be competing for scarce reserves. They were, in the end, a demonstration of what a central bank could have done more systematically, efficiently, and without the chaos of improvised coordination.
+
+## The Response
+
+### Morgan's Private Intervention
+
+J.P. Morgan's response to the Panic of 1907 was the most remarkable exercise of private financial authority in American history. At seventy years old, already in declining health, Morgan operated as a one-man central bank for six weeks — assessing which institutions were solvent and worth saving, which were not and should be allowed to fail, and organizing the pools of capital needed to support the former.
+
+The most famous episode came in the first days of November, when the crisis spread from banks and trust companies to the broader financial system. Several major brokerage houses were on the verge of failure. Moore and Schley, a significant securities firm, faced calls it could not meet. Its failure threatened to propagate through the interconnected web of securities lending and margin financing. Morgan convened the presidents of the major trust companies in his private library at his East 36th Street mansion.
+
+He locked the doors. The trust company presidents spent the night of November 2nd in that library while Morgan worked through the situation. He identified which institutions were solvent — and therefore worth rescuing — and which were not. He then told the solvent trust company presidents that they would contribute to a rescue pool for the weaker institutions. Those who objected found that the door remained locked. By the early morning hours of November 3rd, Morgan had the commitments he needed. The rescue pool was assembled.
+
+The technique was essentially the same Bagehot had prescribed for central banks: distinguish between liquidity and insolvency, support the liquid institutions, let the insolvent ones fail, and act decisively enough to stop the panic from consuming everything. Morgan applied this logic with complete authority — the authority of a man whose own financial stake and whose reputation were entirely aligned with getting the analysis right.
+
+### Government Improvisation
+
+The official government response was improvised and secondary to Morgan's private intervention. Secretary of the Treasury George Cortelyou traveled to New York and deposited twenty-five million dollars in government funds in New York commercial banks — providing additional liquidity to institutions that were supporting the trust company rescues. He authorized further deposits as the crisis continued. The total government injection reached approximately thirty-five million dollars.
+
+Cortelyou's action was legally questionable and institutionally unprecedented. There was no clear legal authority for the Treasury to use public funds to stabilize private banks. Cortelyou acted on the emergency reasoning that the alternative — a generalized banking collapse — was worse. President Theodore Roosevelt, receiving telegrams from Morgan and Cortelyou as the crisis unfolded, authorized what was needed. The legal framework was invented to fit the emergency.
+
+The New York Clearing House also intervened through its established mechanism: it issued clearinghouse loan certificates, allowing member banks to settle their interbank obligations without using actual cash reserves. This effectively expanded the money supply within the clearinghouse system during the crisis. The Clearing House issued approximately one hundred million dollars in certificates during the panic — a substantial liquidity injection that helped prevent the crisis from propagating further through the interbank settlement system.
+
+### The Legislative Response
+
+The crisis was contained by November 1907. Its political afterlife proved more consequential than the crisis itself. Congress, alarmed by the demonstration that the American financial system depended on the personal intervention of one private citizen, moved — with unusual dispatch — to create a legislative remedy.
+
+The Aldrich-Vreeland Act of 1908, passed within eight months of the panic, did two things. It authorized emergency currency issuance by banks — allowing them to expand their note circulation during crises by depositing a broader range of assets with the Treasury, addressing the currency inelasticity problem that the 1907 panic had exposed. And it created the National Monetary Commission, chaired by Senator Nelson Aldrich of Rhode Island, to study the banking systems of the major industrial economies and recommend reforms.
+
+The commission's work was deliberate and thorough. Aldrich spent years studying European central banking systems, meeting with economists and bankers in Britain, France, and Germany. The intellectual case for a central bank — which had been politically toxic in the United States since Andrew Jackson's war on the Second Bank in the 1830s — was assembled systematically from evidence and institutional comparison.
+
+The commission's recommendations, developed in part through a secret meeting of leading bankers and Aldrich at a hunting lodge on Jekyll Island, Georgia in November 1910, became the blueprint for the Federal Reserve System. The political challenge was to create a central bank that was not perceived as a creature of Wall Street — the Jacksonian critique that had killed the previous central banks. The Federal Reserve's compromise solution — twelve regional reserve banks coordinated by a central board, giving regional representation to counter the New York-centric perception of financial power — was a response to this political constraint as much as an economic design.
+
+### The Federal Reserve Act
+
+The Federal Reserve Act was signed by President Woodrow Wilson on December 23, 1913 — a date selected to ensure that skeptical members of Congress had left Washington for the Christmas recess. The Federal Reserve System opened for business in November 1914. The United States finally had a lender of last resort.
+
+The institution J.P. Morgan had made necessary through his indispensability replaced him. Morgan had died in March 1913, eight months before the act was signed. The institution that emerged from his demonstration of indispensability was designed to make such indispensability impossible — or at least less necessary — in future.
+
+## The Legacy
+
+### The Economic Aftermath
+
+The Panic of 1907 lasted six weeks as an acute crisis. The American economy contracted sharply in 1907 and 1908, with unemployment rising to approximately eight percent — painful but not catastrophic by the standards of subsequent downturns. The New York stock market recovered substantially within a year. The banks and trust companies that survived the panic resumed normal operations within months, and the credit markets that had seized in October had thawed by the end of the year.
+
+The relatively swift recovery distinguished the 1907 panic from the longer contractions that preceded and followed it. The Long Depression of 1873–1896 had lasted two decades. The Great Depression that would begin in 1929 would consume the better part of a decade. The 1907 panic was severe but contained — severe enough to kill a recession, not severe enough to become a depression.
+
+The reasons for this relative containment were, paradoxically, the same factors that made the panic so dangerous while it was occurring. The American economy of 1907, despite its size, was still primarily industrial and agricultural rather than financial. The banking system's failures, while extensive, did not destroy the productive capacity of mines, factories, and farms. When credit conditions eased, the economy could resume producing because the underlying industrial infrastructure remained intact.
+
+### The Institutional Legacy: The Federal Reserve
+
+The lasting result of the Panic of 1907 was institutional: the Federal Reserve System, established six years later, was the direct product of the crisis. The chain of causation is unusually direct and well-documented. Morgan's intervention demonstrated conclusively that a modern financial system could not depend on the authority of a single private individual. The Aldrich Commission's work produced the blueprint for the central bank. The Federal Reserve Act incorporated that blueprint into law. The institution opened in 1914.
+
+The Federal Reserve's founding design reflected the political constraints imposed by American hostility to concentrated financial power. Rather than a single central bank on the European model — such as the Bank of England or the Banque de France — the Federal Reserve consisted of twelve regional Federal Reserve Banks coordinated by a central board in Washington. The regional structure gave representation to agricultural and industrial regions outside New York, addressing the Jacksonian critique that a single central bank would be captured by Wall Street interests.
+
+Whether this design was optimal was contested from the beginning and remains contested. The Federal Reserve's response to the Great Depression — allowing the money supply to contract by thirty-three percent between 1929 and 1933 — demonstrated that the institution created to prevent panics was capable of catastrophic failure. But its existence as an institution capable of learning and reform meant that the failures of the 1930s eventually produced better policy frameworks than the United States had possessed before 1914.
+
+### The Shadow Banking Lesson Deferred
+
+The 1907 panic demonstrated the systemic risk posed by lightly regulated deposit-taking institutions outside the formal banking system. Trust companies had grown by exploiting a regulatory gap — offering higher rates and making riskier loans than commercial banks — and their collapse threatened to bring down the regulated sector with them.
+
+This lesson — that regulatory perimeter matters as much as regulatory quality — was incorporated into subsequent legislation. The Federal Reserve Act imposed reserve requirements on member banks and provided the Fed with supervisory authority. The Banking Act of 1933 went further, creating deposit insurance and separating commercial from investment banking. The regulatory framework was hardened against the specific vulnerabilities that 1907 had exposed.
+
+But the underlying dynamic was not eliminated. Every subsequent generation of financial regulation created gaps that shadow banking would exploit. The savings-and-loan industry in the 1980s, hedge funds in the 1990s, money market funds and structured investment vehicles in the 2000s — each represented a new generation of deposit-taking or deposit-like instruments outside the regulated sector that posed systemic risk. The 2008 financial crisis was, in part, a replay of the 1907 trust company problem at enormously larger scale. The lesson had to be relearned.
+
+### Morgan's Memorial
+
+J.P. Morgan died on March 31, 1913 — eight months before the Federal Reserve Act was signed. He was seventy-five years old. His estate, when the figures became public, proved considerably smaller than the legends of his wealth had suggested: roughly eighty million dollars, a substantial fortune for an individual but trivial compared to the financial system he had temporarily sustained.
+
+The Federal Reserve was, in one sense, Morgan's memorial — an institution created by his indispensability and designed to make that indispensability unnecessary. Central banking's fundamental insight, that the stability of a financial system depends on institutional credibility rather than the personal authority of individuals, was the lesson the 1907 panic had taught in the most dramatic possible way. The institution that followed was designed to embody that insight in durable form.
+
+That the Federal Reserve succeeded only intermittently in embodying it — that the institution's subsequent history included both the catastrophic failure of the 1930s and the heroic interventions of 2008 — reflects the difficulty of the underlying problem rather than the inadequacy of the solution. Systemic financial risk does not disappear when a lender of last resort is created. It takes new forms, grows in new directions, and demands responses that the lender of last resort's founding design did not anticipate.

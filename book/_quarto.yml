@@ -9,108 +9,23 @@ book:
   chapters:
     - index.qmd
     - 00-series-framework.qmd
-    - part: "Chapter 1: The South Sea Bubble (1720)"
-      chapters:
-        - s01-01-event.qmd
-        - s01-02-problems.qmd
-        - s01-03-solutions.qmd
-        - s01-04-results.qmd
-    - part: "Chapter 2: The Long Depression (1873–1896)"
-      chapters:
-        - s02-01-event.qmd
-        - s02-02-problems.qmd
-        - s02-03-solutions.qmd
-        - s02-04-results.qmd
-    - part: "Chapter 3: The Panic of 1907"
-      chapters:
-        - s03-01-event.qmd
-        - s03-02-problems.qmd
-        - s03-03-solutions.qmd
-        - s03-04-results.qmd
-    - part: "Chapter 4: The Weimar Hyperinflation (1921–1923)"
-      chapters:
-        - s04-01-event.qmd
-        - s04-02-problems.qmd
-        - s04-03-solutions.qmd
-        - s04-04-results.qmd
-    - part: "Chapter 5: The Great Depression (1929–1939)"
-      chapters:
-        - ep1-01-event.qmd
-        - ep1-02-problems.qmd
-        - ep1-03-solutions.qmd
-        - ep1-04-results.qmd
-    - part: "Chapter 6: The 1970s Stagflation (1973–1982)"
-      chapters:
-        - ep2-01-event.qmd
-        - ep2-02-problems.qmd
-        - ep2-03-solutions.qmd
-        - ep2-04-results.qmd
-    - part: "Chapter 7: The Latin American Debt Crisis (1982–1989)"
-      chapters:
-        - s07-01-event.qmd
-        - s07-02-problems.qmd
-        - s07-03-solutions.qmd
-        - s07-04-results.qmd
-    - part: "Chapter 8: Black Monday (1987)"
-      chapters:
-        - s08-01-event.qmd
-        - s08-02-problems.qmd
-        - s08-03-solutions.qmd
-        - s08-04-results.qmd
-    - part: "Chapter 9: The Japanese Lost Decade (1990–2000)"
-      chapters:
-        - s09-01-event.qmd
-        - s09-02-problems.qmd
-        - s09-03-solutions.qmd
-        - s09-04-results.qmd
-    - part: "Chapter 10: The Asian Financial Crisis (1997–1998)"
-      chapters:
-        - ep3-01-event.qmd
-        - ep3-02-problems.qmd
-        - ep3-03-solutions.qmd
-        - ep3-04-results.qmd
-    - part: "Chapter 11: The LTCM Collapse (1998)"
-      chapters:
-        - s11-01-event.qmd
-        - s11-02-problems.qmd
-        - s11-03-solutions.qmd
-        - s11-04-results.qmd
-    - part: "Chapter 12: The Dot-com Crash (2000–2001)"
-      chapters:
-        - s12-01-event.qmd
-        - s12-02-problems.qmd
-        - s12-03-solutions.qmd
-        - s12-04-results.qmd
-    - part: "Chapter 13: The Argentine Crisis (2001–2002)"
-      chapters:
-        - s13-01-event.qmd
-        - s13-02-problems.qmd
-        - s13-03-solutions.qmd
-        - s13-04-results.qmd
-    - part: "Chapter 14: The Global Financial Crisis (2008–2012)"
-      chapters:
-        - ep4-01-event.qmd
-        - ep4-02-problems.qmd
-        - ep4-03-solutions.qmd
-        - ep4-04-results.qmd
-    - part: "Chapter 15: The Eurozone Debt Crisis (2010–2012)"
-      chapters:
-        - s15-01-event.qmd
-        - s15-02-problems.qmd
-        - s15-03-solutions.qmd
-        - s15-04-results.qmd
-    - part: "Chapter 16: The COVID-19 Economic Shock (2020)"
-      chapters:
-        - ep5-01-event.qmd
-        - ep5-02-problems.qmd
-        - ep5-03-solutions.qmd
-        - ep5-04-results.qmd
-    - part: "Chapter 17: The Great Inflation (2021–2023)"
-      chapters:
-        - ep6-01-event.qmd
-        - ep6-02-problems.qmd
-        - ep6-03-solutions.qmd
-        - ep6-04-results.qmd
+    - ch01-south-sea-bubble.qmd
+    - ch02-long-depression.qmd
+    - ch03-panic-1907.qmd
+    - ch04-weimar-hyperinflation.qmd
+    - ch05-great-depression.qmd
+    - ch06-stagflation.qmd
+    - ch07-latin-american-debt.qmd
+    - ch08-black-monday.qmd
+    - ch09-japanese-lost-decade.qmd
+    - ch10-asian-crisis.qmd
+    - ch11-ltcm-collapse.qmd
+    - ch12-dotcom-crash.qmd
+    - ch13-argentine-crisis.qmd
+    - ch14-global-financial-crisis.qmd
+    - ch15-eurozone-debt.qmd
+    - ch16-covid.qmd
+    - ch17-great-inflation.qmd
     - epilogue.qmd
     - references.qmd
 
