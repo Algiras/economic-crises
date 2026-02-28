@@ -1,4 +1,65 @@
 # References {.unnumbered}
 
-::: {#refs}
-:::
+The following works informed the analysis throughout this series. They are organised by theme rather than by chapter.
+
+---
+
+## Core Economic History
+
+**Reinhart, Carmen M. and Rogoff, Kenneth S.** (2009). *This Time Is Different: Eight Centuries of Financial Folly*. Princeton University Press.
+
+**Friedman, Milton and Schwartz, Anna J.** (1963). *A Monetary History of the United States, 1867–1960*. Princeton University Press.
+
+**Keynes, John Maynard** (1936). *The General Theory of Employment, Interest and Money*. Macmillan.
+
+**Minsky, Hyman P.** (1986). *Stabilizing an Unstable Economy*. Yale University Press.
+
+---
+
+## Financial Crises & Systemic Risk
+
+**Borio, Claudio** (2012). *The Financial Cycle and Macroeconomics: What Have We Learnt?* Bank for International Settlements Working Papers.
+
+**Taleb, Nassim Nicholas** (2007). *The Black Swan: The Impact of the Highly Improbable*. Random House.
+
+**Bernanke, Ben S.** (2015). *The Courage to Act: A Memoir of a Crisis and Its Aftermath*. W. W. Norton & Company.
+
+---
+
+## Monetary Policy & Inflation
+
+**Hayek, Friedrich A.** (1945). "The Use of Knowledge in Society." *American Economic Review*, 35(4), 519–530.
+
+**Phelps, Edmund S.** (1968). "Money-Wage Dynamics and Labor-Market Equilibrium." *Journal of Political Economy*, 76(4), 678–711.
+
+**Lucas, Robert E.** (1976). "Econometric Policy Evaluation: A Critique." *Carnegie-Rochester Conference Series on Public Policy*, 1, 19–46.
+
+**Goodhart, Charles A.E.** (1975). "Problems of Monetary Management: The U.K. Experience." *Papers in Monetary Economics*, Reserve Bank of Australia.
+
+---
+
+## Behavioural Economics & Narratives
+
+**Kahneman, Daniel** (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.
+
+**Shiller, Robert J.** (2019). *Narrative Economics: How Stories Go Viral and Drive Major Economic Events*. Princeton University Press.
+
+**Thaler, Richard H. and Sunstein, Cass R.** (2008). *Nudge: Improving Decisions About Health, Wealth, and Happiness*. Yale University Press.
+
+---
+
+## Institutions, Growth & Development
+
+**Acemoglu, Daron and Robinson, James A.** (2012). *Why Nations Fail: The Origins of Power, Prosperity, and Poverty*. Crown Publishers.
+
+**Ostrom, Elinor** (1990). *Governing the Commons: The Evolution of Institutions for Collective Action*. Cambridge University Press.
+
+**Stiglitz, Joseph E., Sen, Amartya and Fitoussi, Jean-Paul** (2010). *Mismeasuring Our Lives: Why GDP Doesn't Add Up*. The New Press.
+
+---
+
+## International Finance & Currency
+
+**Mundell, Robert A.** (1961). "A Theory of Optimum Currency Areas." *American Economic Review*, 51(4), 657–665.
+
+**Timmermann, Allan** (2018). "Forecasting Methods in Finance." *Annual Review of Financial Economics*, 10, 449–479.
