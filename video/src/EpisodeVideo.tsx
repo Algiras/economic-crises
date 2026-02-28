@@ -122,7 +122,7 @@ const SlideRenderer: React.FC<{ slide: any; episodeNumber?: number; episodeTitle
         case 'bumper':
             return <SectionBumper partNumber="CHAPTER" partTitle={slide.title} color={COLORS.blue} />;
         case 'chart':
-            return <ChartSlide chartSrc={slide.chartSrc} chartType={slide.chartType} title={slide.title} slideIndex={slide._slideIndex} episodeNumber={episodeNumber} episodeTitle={episodeTitle} />;
+            return <ChartSlide chartSrc={slide.chartSrc} chartType={slide.chartType} title={slide.title} source={slide.source} slideIndex={slide._slideIndex} episodeNumber={episodeNumber} episodeTitle={episodeTitle} />;
         case 'quote':
             return <QuoteSlide quote={slide.text} bgImage={slide.bgImage} wordTimings={slide.wordTimings} slideIndex={slide._slideIndex} />;
         case 'stat':

@@ -1053,7 +1053,8 @@
         "chartSrc": "behavioral_biases.png",
         "title": "Cognitive Biases in Economic Decision-Making",
         "audioSrc": "audio/charts/chart_behavioral_biases.wav",
-        "chartType": "behavioral_biases"
+        "chartType": "behavioral_biases",
+        "source": "Kahneman et al. meta-analysis; compiled from peer-reviewed studies"
       },
       {
         "type": "quote",

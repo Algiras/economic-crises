@@ -1852,7 +1852,8 @@
         "chartSrc": "complexity_index.png",
         "title": "Economic Complexity Index vs Long-Run Growth",
         "audioSrc": "audio/charts/chart_complexity_index.wav",
-        "chartType": "complexity_index"
+        "chartType": "complexity_index",
+        "source": "Harvard Growth Lab — Economic Complexity Observatory (2023)"
       },
       {
         "type": "quote",
