@@ -1,0 +1,182 @@
+/*-- scss:defaults --*/
+
+// Typography
+$font-family-base: "Georgia", "Palatino Linotype", "Book Antiqua", serif;
+$headings-font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+$font-size-root: 17px;
+$line-height-base: 1.75;
+
+// Palette — off-white content, dark sidebar
+$body-bg: #f9f8f5;
+$body-color: #1c1c1c;
+$link-color: #1a56a0;
+
+// Sidebar
+$sidebar-bg: #141414;
+$sidebar-fg: #c8c8c8;
+$sidebar-hl: #ffffff;
+
+// Navbar
+$navbar-bg: #141414;
+$navbar-fg: #c8c8c8;
+$navbar-hl: #ffffff;
+
+/*-- scss:rules --*/
+
+// ── Body ──────────────────────────────────────────────────────────────────────
+body {
+  background: $body-bg;
+  color: $body-color;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+// ── Content area ──────────────────────────────────────────────────────────────
+.quarto-container, #quarto-content {
+  max-width: 760px;
+}
+
+.chapter, .quarto-section-identifier {
+  max-width: 100%;
+}
+
+// Generous paragraph spacing for long-form reading
+p {
+  margin-bottom: 1.35em;
+}
+
+// ── Headings ──────────────────────────────────────────────────────────────────
+h1, h2, h3, h4 {
+  font-family: $headings-font-family;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  color: #111111;
+}
+
+h1.title {
+  font-size: 2rem;
+  letter-spacing: -0.03em;
+  margin-bottom: 0.25rem;
+}
+
+h2 {
+  font-size: 1.35rem;
+  margin-top: 2.5rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid #e0ddd6;
+}
+
+// ── Sidebar ───────────────────────────────────────────────────────────────────
+#quarto-sidebar {
+  background: $sidebar-bg !important;
+  border-right: none;
+}
+
+.sidebar-navigation a {
+  color: $sidebar-fg;
+  font-family: $headings-font-family;
+  font-size: 0.82rem;
+  letter-spacing: 0.01em;
+}
+
+.sidebar-navigation a:hover,
+.sidebar-navigation a.active {
+  color: $sidebar-hl;
+}
+
+.sidebar-item-section .sidebar-section-item {
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #888;
+  margin-top: 1.25rem;
+}
+
+// ── Navbar ────────────────────────────────────────────────────────────────────
+.navbar {
+  background: $navbar-bg !important;
+  border-bottom: none;
+  box-shadow: none;
+}
+
+.navbar-title {
+  font-family: $headings-font-family;
+  font-size: 0.9rem;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  color: $navbar-hl !important;
+}
+
+.navbar .nav-link {
+  color: $navbar-fg !important;
+  font-size: 0.82rem;
+}
+
+.navbar .nav-link:hover {
+  color: $navbar-hl !important;
+}
+
+// ── Tables ────────────────────────────────────────────────────────────────────
+table {
+  font-family: $headings-font-family;
+  font-size: 0.88rem;
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.5rem 0;
+}
+
+th {
+  font-weight: 600;
+  text-align: left;
+  border-bottom: 2px solid #ccc;
+  padding: 0.5rem 0.75rem;
+  background: transparent;
+}
+
+td {
+  padding: 0.45rem 0.75rem;
+  border-bottom: 1px solid #e5e2db;
+  vertical-align: top;
+}
+
+// ── Block quotes ──────────────────────────────────────────────────────────────
+blockquote {
+  border-left: 3px solid #c8c0b0;
+  margin: 1.5rem 0;
+  padding: 0.5rem 1.25rem;
+  color: #444;
+  font-style: italic;
+}
+
+// ── Callout / footnotes ───────────────────────────────────────────────────────
+.footnotes {
+  font-size: 0.82rem;
+  color: #555;
+  border-top: 1px solid #ddd;
+  margin-top: 2.5rem;
+  padding-top: 1rem;
+}
+
+// ── Page navigation ───────────────────────────────────────────────────────────
+.page-navigation {
+  border-top: 1px solid #e0ddd6;
+  margin-top: 3rem;
+  padding-top: 1.25rem;
+  font-family: $headings-font-family;
+  font-size: 0.85rem;
+}
+
+// ── Preface / title page ──────────────────────────────────────────────────────
+#preface + p em,
+.quarto-title-meta {
+  font-family: $headings-font-family;
+  font-size: 0.85rem;
+  color: #666;
+}
+
+// ── Mobile ────────────────────────────────────────────────────────────────────
+@media (max-width: 991px) {
+  body { font-size: 16px; }
+  #quarto-sidebar { background: $sidebar-bg !important; }
+}
