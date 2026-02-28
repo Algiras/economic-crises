@@ -1,0 +1,44 @@
+On Monday, October 19, 1987, the Dow Jones Industrial Average fell five hundred and eight points — twenty-two and a half percent in a single day. It remains the largest single-day percentage decline in stock market history.
+
+Black Monday exposed three structural failures simultaneously: the illusion of liquidity created by portfolio insurance strategies that assumed someone would always be on the other side of a trade, the amplifying effect of computerised program trading, and the absence of any mechanism to interrupt self-reinforcing selling. The Federal Reserve's one-sentence statement the following morning — that it stood ready as a lender of last resort to support the financial system — was sufficient to stop the panic, and the feared recession never came. What changed permanently was the architecture of markets: circuit breakers, coordinated margin rules, and direct Fed communication with exchange specialists all date to October 1987.
+
+── CHAPTERS ──────────────────────────────
+0:00  Introduction
+0:05  The Crash
+1:45  Three Structural Failures
+2:55  The Fed's One-Sentence Fix
+4:10  Circuit Breakers and Market Reform
+5:40  Credits
+
+── SERIES: ECONOMIC CRISES EXPLAINED ────
+A documentary series covering every major economic crisis from 1720 to today — what happened, why the tools of the time failed, what was done, and what changed permanently.
+
+  ○  Ep  1  The South Sea Bubble (1720)
+  ○  Ep  2  The Long Depression (1873–1896)
+  ○  Ep  3  The Panic of 1907 (1907)
+  ○  Ep  4  The Weimar Hyperinflation (1921–1923)
+  ▶  Ep  5  The Great Depression (1929–1939)
+  ▶  Ep  6  The 1970s Stagflation (1973–1982)
+  ○  Ep  7  The Latin American Debt Crisis (1982–1989)
+  ▶  Ep  8  Black Monday (1987)
+  ○  Ep  9  The Japanese Lost Decade (1990–2000)
+  ▶  Ep 10  The Asian Financial Crisis (1997–1998)
+  ○  Ep 11  The LTCM Collapse (1998)
+  ○  Ep 12  The Dot-com Crash (2000–2001)
+  ○  Ep 13  The Argentine Crisis (2001–2002)
+  ▶  Ep 14  The Global Financial Crisis (2008–2012)
+  ○  Ep 15  The Eurozone Debt Crisis (2010–2012)
+  ▶  Ep 16  The COVID-19 Economic Shock (2020)
+  ▶  Ep 17  The Great Inflation (2021–2023)
+
+  ▶ = available now   ○ = coming soon
+
+── COMPANION BOOK ───────────────────────
+Each episode is accompanied by a fully referenced chapter with data, primary sources, and deeper analysis.
+  Web + PDF + EPUB: https://algiras.github.io/economic-crises/
+  Download PDF:     https://algiras.github.io/economic-crises/book/Economic-Crises-Explained.pdf
+
+── VIDEO TITLE ──────────────────────────
+Economic Crises Explained — Episode 8: Black Monday (1987)
+
+#BlackMonday #1987Crash #StockMarket #CircuitBreakers #ProgramTrading #EconomicHistory #Economics #EconomicCrises #Documentary #FinancialHistory

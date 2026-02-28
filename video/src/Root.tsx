@@ -4,6 +4,7 @@ import './fonts';
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 import { EpisodeVideo } from './EpisodeVideo';
 import { Thumbnail } from './components/Thumbnail';
+import { PlaylistCover } from './components/PlaylistCover';
 import { SeriesIntroVideo, SERIES_INTRO_TOTAL } from './SeriesIntroVideo';
 import { EPISODE_OPENER_FRAMES } from './components/SeriesOpener';
 import { EPISODE_LIST } from './constants/episodes';
@@ -67,6 +68,14 @@ const EPISODES = EPISODE_LIST.map((ep) => ({
 export const RemotionRoot: React.FC = () => {
     return (
         <>
+            {/* Playlist / series cover image */}
+            <Still
+                id="PlaylistCover"
+                component={PlaylistCover}
+                width={1280}
+                height={720}
+            />
+
             {/* Series intro / Episode 0 */}
             <Composition
                 id="Episode0"

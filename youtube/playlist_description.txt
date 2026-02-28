@@ -1,0 +1,30 @@
+Every major economic crisis of the past century was, in the months before it happened, declared impossible by the people responsible for preventing it.
+
+Economic Crises Explained is a documentary series examining seventeen crises from 1720 to today — the South Sea Bubble, the Great Depression, the 1970s stagflation, the Asian financial crisis, the 2008 collapse, and more. Each episode covers what happened, why the policy tools of the time failed, what was done, and what changed permanently.
+
+The series follows a consistent framework across every episode: the trigger events, the quantitative record (GDP, unemployment, inflation, debt), the human cost, the policy response, and an honest accounting of what was learned — and what was forgotten by the time the next crisis arrived.
+
+── EPISODES ──────────────────────────────
+  Ep  0  Introduction: Why Economies Keep Breaking
+  Ep  1  The South Sea Bubble (1720)
+  Ep  2  The Long Depression (1873–1896)
+  Ep  3  The Panic of 1907 (1907)
+  Ep  4  The Weimar Hyperinflation (1921–1923)
+  Ep  5  The Great Depression (1929–1939)
+  Ep  6  The 1970s Stagflation (1973–1982)
+  Ep  7  The Latin American Debt Crisis (1982–1989)
+  Ep  8  Black Monday (1987)
+  Ep  9  The Japanese Lost Decade (1990–2000)
+  Ep 10  The Asian Financial Crisis (1997–1998)
+  Ep 11  The LTCM Collapse (1998)
+  Ep 12  The Dot-com Crash (2000–2001)
+  Ep 13  The Argentine Crisis (2001–2002)
+  Ep 14  The Global Financial Crisis (2008–2012)
+  Ep 15  The Eurozone Debt Crisis (2010–2012)
+  Ep 16  The COVID-19 Economic Shock (2020)
+  Ep 17  The Great Inflation (2021–2023)
+
+── COMPANION BOOK ───────────────────────
+Each episode is accompanied by a fully referenced chapter with data, primary sources, and deeper analysis.
+  Web + PDF + EPUB: https://algiras.github.io/economic-crises/
+  Download PDF:     https://algiras.github.io/economic-crises/book/Economic-Crises-Explained.pdf
