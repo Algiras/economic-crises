@@ -10,7 +10,7 @@ A documentary series and companion book covering seventeen major economic crises
 
 | # | Crisis | Period | Video |
 |---|--------|--------|-------|
-| Intro | Economic Crises (series intro) | — | [▶](https://www.youtube.com/watch?v=zH8JSm9x_tA) |
+| Intro | Economic Crises (series intro) | — | [▶](https://www.youtube.com/watch?v=eftN-1paKvA) |
 | 1 | The South Sea Bubble | 1720 | [▶](https://www.youtube.com/watch?v=ZOD-uVHhqHA) |
 | 2 | The Long Depression | 1873–1896 | [▶](https://www.youtube.com/watch?v=EkXC3367roM) |
 | 3 | The Panic of 1907 | 1907 | [▶](https://www.youtube.com/watch?v=f5wp8Q8g8Eg) |
