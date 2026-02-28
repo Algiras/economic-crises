@@ -1052,7 +1052,8 @@
         "duration": 896,
         "chartSrc": "behavioral_biases.png",
         "title": "Cognitive Biases in Economic Decision-Making",
-        "audioSrc": "audio/charts/chart_behavioral_biases.wav"
+        "audioSrc": "audio/charts/chart_behavioral_biases.wav",
+        "chartType": "behavioral_biases"
       },
       {
         "type": "quote",

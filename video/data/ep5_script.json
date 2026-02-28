@@ -3683,7 +3683,8 @@
         "duration": 905,
         "chartSrc": "debt_gdp.png",
         "title": "Government Debt-to-GDP Ratio (G7, 1980–2024)",
-        "audioSrc": "audio/charts/chart_debt_gdp.wav"
+        "audioSrc": "audio/charts/chart_debt_gdp.wav",
+        "chartType": "debt_gdp"
       },
       {
         "type": "quote",

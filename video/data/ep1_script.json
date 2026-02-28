@@ -1851,7 +1851,8 @@
         "duration": 853,
         "chartSrc": "complexity_index.png",
         "title": "Economic Complexity Index vs Long-Run Growth",
-        "audioSrc": "audio/charts/chart_complexity_index.wav"
+        "audioSrc": "audio/charts/chart_complexity_index.wav",
+        "chartType": "complexity_index"
       },
       {
         "type": "quote",

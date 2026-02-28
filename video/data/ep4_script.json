@@ -36,7 +36,8 @@
         "duration": 890,
         "chartSrc": "forecast_errors.png",
         "title": "IMF Forecast Errors vs Actual Growth",
-        "audioSrc": "audio/charts/chart_forecast_errors.wav"
+        "audioSrc": "audio/charts/chart_forecast_errors.wav",
+        "chartType": "forecast_errors"
       },
       {
         "type": "quote",

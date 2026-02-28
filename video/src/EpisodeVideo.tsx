@@ -79,7 +79,7 @@ export const EpisodeVideo: React.FC<EpisodeVideoProps> = ({ scriptData, episodeN
 
                         return (
                             <Sequence key={chapter.id} from={chapter.globalStart} durationInFrames={chapter.duration}>
-                                <ChapterSegment chapter={chapter} />
+                                <ChapterSegment chapter={chapter} episodeNumber={episodeNumber} episodeTitle={episodeTitle} />
                             </Sequence>
                         );
                     })}
@@ -92,7 +92,7 @@ export const EpisodeVideo: React.FC<EpisodeVideoProps> = ({ scriptData, episodeN
 // Frames to wait before starting narration — lets the visual transition settle
 const AUDIO_DELAY = 12;
 
-const ChapterSegment: React.FC<{ chapter: any }> = ({ chapter }) => {
+const ChapterSegment: React.FC<{ chapter: any; episodeNumber?: number; episodeTitle?: string }> = ({ chapter, episodeNumber, episodeTitle }) => {
     let offset = 0;
     return (
         <AbsoluteFill style={{ background: COLORS.bgEpisode }}>
@@ -107,7 +107,7 @@ const ChapterSegment: React.FC<{ chapter: any }> = ({ chapter }) => {
                                 <Audio src={staticFile(audioSrc)} />
                             </Sequence>
                         )}
-                        <SlideRenderer slide={{ ...slide, _slideIndex: idx }} />
+                        <SlideRenderer slide={{ ...slide, _slideIndex: idx }} episodeNumber={episodeNumber} episodeTitle={episodeTitle} />
                     </Sequence>
                 );
             })}
@@ -115,14 +115,14 @@ const ChapterSegment: React.FC<{ chapter: any }> = ({ chapter }) => {
     );
 };
 
-const SlideRenderer: React.FC<{ slide: any }> = ({ slide }) => {
+const SlideRenderer: React.FC<{ slide: any; episodeNumber?: number; episodeTitle?: string }> = ({ slide, episodeNumber, episodeTitle }) => {
     switch (slide.type) {
         case 'intro':
             return <TitleCard />;
         case 'bumper':
             return <SectionBumper partNumber="CHAPTER" partTitle={slide.title} color={COLORS.blue} />;
         case 'chart':
-            return <ChartSlide chartSrc={slide.chartSrc} title={slide.title} slideIndex={slide._slideIndex} />;
+            return <ChartSlide chartSrc={slide.chartSrc} chartType={slide.chartType} title={slide.title} slideIndex={slide._slideIndex} episodeNumber={episodeNumber} episodeTitle={episodeTitle} />;
         case 'quote':
             return <QuoteSlide quote={slide.text} bgImage={slide.bgImage} wordTimings={slide.wordTimings} slideIndex={slide._slideIndex} />;
         case 'stat':

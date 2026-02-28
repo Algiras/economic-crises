@@ -36,7 +36,8 @@
         "duration": 912,
         "chartSrc": "inflation_target.png",
         "title": "Inflation vs Central Bank Target (US, 2018–2023)",
-        "audioSrc": "audio/charts/chart_inflation_target.wav"
+        "audioSrc": "audio/charts/chart_inflation_target.wav",
+        "chartType": "inflation_target"
       },
       {
         "type": "quote",
