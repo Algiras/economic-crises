@@ -1,12 +1,12 @@
 # The Series Framework {.unnumbered}
 
-Every episode in this series is structured around five questions. Understanding the framework before the first episode makes the analysis more tractable and the comparisons across episodes more illuminating.
+Every chapter in this book is structured around five questions. Understanding the framework before the first chapter makes the analysis more tractable and the comparisons across chapters more illuminating.
 
 ## The Five Questions
 
 **1. What happened?**
 
-The narrative account of the crisis: the trigger events, the key actors, the sequence of escalation, and the moment at which a local disruption became a systemic event. History without data is anecdote; but data without narrative is incomprehensible. Each episode begins with the story.
+The narrative account of the crisis: the trigger events, the key actors, the sequence of escalation, and the moment at which a local disruption became a systemic event. History without data is anecdote; but data without narrative is incomprehensible. Each chapter begins with the story.
 
 **2. What do the numbers show?**
 
@@ -22,11 +22,11 @@ The policy response: what governments and central banks did, when they did it, a
 
 **5. What did we learn?**
 
-The honest accounting of lessons: which insights were absorbed into subsequent policy frameworks, which were acknowledged but ignored, and which appear to have been forgotten by the time the next crisis arrived. The pattern of lesson-learning (and lesson-forgetting) is one of the most important — and most sobering — threads running through this series.
+The honest accounting of lessons: which insights were absorbed into subsequent policy frameworks, which were acknowledged but ignored, and which appear to have been forgotten by the time the next crisis arrived. The pattern of lesson-learning (and lesson-forgetting) is one of the most important — and most sobering — threads running through this book.
 
 ## The Sociological Impact Framework
 
-Because each episode emphasises quantifiable sociological impacts, the following indicators are tracked consistently across episodes where data is available:
+Because each chapter emphasises quantifiable sociological impacts, the following indicators are tracked consistently across chapters where data is available:
 
 | Indicator | Why It Matters |
 |---|---|
@@ -41,7 +41,7 @@ Because each episode emphasises quantifiable sociological impacts, the following
 | **Social trust** | Long-run measure of societal cohesion |
 | **Educational attainment** | Crisis effects on human capital investment, particularly in children |
 
-Not all indicators are available for all episodes — the Great Depression predates modern survey methodology. Where the data exists, it is presented. Where it does not, the best available historical evidence is used.
+Not all indicators are available for all chapters — the Great Depression predates modern survey methodology. Where the data exists, it is presented. Where it does not, the best available historical evidence is used.
 
 ## A Note on Causality
 
