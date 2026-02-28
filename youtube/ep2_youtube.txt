@@ -1,31 +1,44 @@
 High inflation and high unemployment at the same time. The textbooks said it was impossible.
 
-The 1970s stagflation crisis shattered the Keynesian consensus that had shaped economic policy since the Depression. Oil shocks, wage-price spirals, and the limits of demand management combined to produce a decade of economic stagnation that reshaped the entire field of macroeconomics.
+The 1970s stagflation crisis shattered the Keynesian consensus that had shaped economic policy since the Depression. Oil shocks, wage-price spirals, and the limits of demand management combined to produce a decade of economic stagnation that reshaped the entire field of macroeconomics. The solution — Volcker's brutal interest rate shock — ended inflation but at the cost of the deepest recession since the 1930s.
 
 ── CHAPTERS ──────────────────────────────
 0:00  Introduction
-0:47  Event — Oil Shocks and the Phillips Curve Breaks
-2:06  Problems — The Wage-Price Spiral
-4:01  Solutions — Volcker's Shock Therapy
-5:30  Results — Inflation Targeting and the Great Moderation
+0:07  Oil Shocks and the Phillips Curve Breaks
+1:21  The Wage-Price Spiral
+3:16  Volcker's Shock Therapy
+4:41  Inflation Targeting and the Great Moderation
+6:21  Credits
 
-── SERIES ───────────────────────────────
-This is Episode 2 of 6 in *Economic Crises Explained* — a documentary series covering the major economic crises of the last century: what happened, why existing tools failed, what was done, and what it changed.
+── SERIES: ECONOMIC CRISES EXPLAINED ────
+A documentary series covering every major economic crisis from 1720 to today — what happened, why the tools of the time failed, what was done, and what changed permanently.
 
-Episodes:
-  Ep 1  The Great Depression (1929–1939)
-  Ep 2  The Stagflation Crisis (1973–1982)
-  Ep 3  The Asian Financial Crisis (1997–1998)
-  Ep 4  The Global Financial Crisis (2008–2012)
-  Ep 5  The COVID-19 Economic Shock (2020)
-  Ep 6  The Great Inflation (2021–2023)
+  ○  Ep  1  The South Sea Bubble (1720)
+  ○  Ep  2  The Long Depression (1873–1896)
+  ○  Ep  3  The Panic of 1907 (1907)
+  ○  Ep  4  The Weimar Hyperinflation (1921–1923)
+  ▶  Ep  5  The Great Depression (1929–1939)
+  ▶  Ep  6  The 1970s Stagflation (1973–1982)
+  ○  Ep  7  The Latin American Debt Crisis (1982–1989)
+  ○  Ep  8  Black Monday (1987)
+  ○  Ep  9  The Japanese Lost Decade (1990–2000)
+  ▶  Ep 10  The Asian Financial Crisis (1997–1998)
+  ○  Ep 11  The LTCM Collapse (1998)
+  ○  Ep 12  The Dot-com Crash (2000–2001)
+  ○  Ep 13  The Argentine Crisis (2001–2002)
+  ▶  Ep 14  The Global Financial Crisis (2008–2012)
+  ○  Ep 15  The Eurozone Debt Crisis (2010–2012)
+  ▶  Ep 16  The COVID-19 Economic Shock (2020)
+  ▶  Ep 17  The Great Inflation (2021–2023)
+
+  ▶ = available now   ○ = coming soon
 
 ── COMPANION BOOK ───────────────────────
-Each episode is accompanied by a fully referenced chapter with quantitative data, sources, and deeper analysis.
-  Web edition + PDF + EPUB: https://algiras.github.io/economic-crises/
-  Download PDF directly:    https://algiras.github.io/economic-crises/book/Economic-Crises-Explained.pdf
+Each episode is accompanied by a fully referenced chapter with data, primary sources, and deeper analysis.
+  Web + PDF + EPUB: https://algiras.github.io/economic-crises/
+  Download PDF:     https://algiras.github.io/economic-crises/book/Economic-Crises-Explained.pdf
 
-── TITLE ────────────────────────────────
-Economic Crises Explained — Episode 2: The Stagflation Crisis (1973–1982)
+── VIDEO TITLE ──────────────────────────
+Economic Crises Explained — Episode 6: The 1970s Stagflation (1973–1982)
 
-#Stagflation #1970sEconomy #OilCrisis #Volcker #Inflation #EconomicHistory #Economics #EconomicCrises #Documentary #FinancialHistory #MacroEconomics
+#Stagflation #1970sEconomy #OilCrisis #Volcker #Inflation #EconomicHistory #Economics #EconomicCrises #Documentary #MacroEconomics

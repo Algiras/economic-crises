@@ -4,28 +4,41 @@ The 2008 Global Financial Crisis was the most severe economic shock since the Gr
 
 ── CHAPTERS ──────────────────────────────
 0:00  Introduction
-0:47  Event — Mortgage Bubble and Lehman's Fall
-2:37  Problems — Systemic Risk and Regulatory Failure
-4:15  Solutions — Bailouts, QE, and Fiscal Stimulus
-5:50  Results — Recovery, Austerity, and Lasting Inequality
+0:07  Mortgage Bubble and Lehman's Fall
+1:57  Systemic Risk and Regulatory Failure
+3:24  Bailouts, QE, and Fiscal Stimulus
+4:53  Recovery, Austerity, and Lasting Inequality
+6:46  Credits
 
-── SERIES ───────────────────────────────
-This is Episode 4 of 6 in *Economic Crises Explained* — a documentary series covering the major economic crises of the last century: what happened, why existing tools failed, what was done, and what it changed.
+── SERIES: ECONOMIC CRISES EXPLAINED ────
+A documentary series covering every major economic crisis from 1720 to today — what happened, why the tools of the time failed, what was done, and what changed permanently.
 
-Episodes:
-  Ep 1  The Great Depression (1929–1939)
-  Ep 2  The Stagflation Crisis (1973–1982)
-  Ep 3  The Asian Financial Crisis (1997–1998)
-  Ep 4  The Global Financial Crisis (2008–2012)
-  Ep 5  The COVID-19 Economic Shock (2020)
-  Ep 6  The Great Inflation (2021–2023)
+  ○  Ep  1  The South Sea Bubble (1720)
+  ○  Ep  2  The Long Depression (1873–1896)
+  ○  Ep  3  The Panic of 1907 (1907)
+  ○  Ep  4  The Weimar Hyperinflation (1921–1923)
+  ▶  Ep  5  The Great Depression (1929–1939)
+  ▶  Ep  6  The 1970s Stagflation (1973–1982)
+  ○  Ep  7  The Latin American Debt Crisis (1982–1989)
+  ○  Ep  8  Black Monday (1987)
+  ○  Ep  9  The Japanese Lost Decade (1990–2000)
+  ▶  Ep 10  The Asian Financial Crisis (1997–1998)
+  ○  Ep 11  The LTCM Collapse (1998)
+  ○  Ep 12  The Dot-com Crash (2000–2001)
+  ○  Ep 13  The Argentine Crisis (2001–2002)
+  ▶  Ep 14  The Global Financial Crisis (2008–2012)
+  ○  Ep 15  The Eurozone Debt Crisis (2010–2012)
+  ▶  Ep 16  The COVID-19 Economic Shock (2020)
+  ▶  Ep 17  The Great Inflation (2021–2023)
+
+  ▶ = available now   ○ = coming soon
 
 ── COMPANION BOOK ───────────────────────
-Each episode is accompanied by a fully referenced chapter with quantitative data, sources, and deeper analysis.
-  Web edition + PDF + EPUB: https://algiras.github.io/economic-crises/
-  Download PDF directly:    https://algiras.github.io/economic-crises/book/Economic-Crises-Explained.pdf
+Each episode is accompanied by a fully referenced chapter with data, primary sources, and deeper analysis.
+  Web + PDF + EPUB: https://algiras.github.io/economic-crises/
+  Download PDF:     https://algiras.github.io/economic-crises/book/Economic-Crises-Explained.pdf
 
-── TITLE ────────────────────────────────
-Economic Crises Explained — Episode 4: The Global Financial Crisis (2008–2012)
+── VIDEO TITLE ──────────────────────────
+Economic Crises Explained — Episode 14: The Global Financial Crisis (2008–2012)
 
-#GlobalFinancialCrisis #2008Crash #Lehman #QuantitativeEasing #Bailout #EconomicHistory #Economics #EconomicCrises #Documentary #FinancialHistory #MacroEconomics
+#GlobalFinancialCrisis #2008Crash #Lehman #QuantitativeEasing #Bailout #EconomicHistory #Economics #EconomicCrises #Documentary #MacroEconomics
