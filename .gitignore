@@ -6,8 +6,10 @@ video/.remotion/
 # Build outputs
 video/out/
 
-# Quarto cache
+# Quarto cache and local build output (CI rebuilds _book/)
 book/.quarto/
+book/_book/
+book/index.tex
 
 # Python
 __pycache__/
