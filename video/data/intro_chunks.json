@@ -1,0 +1,26 @@
+{
+  "intro_narration": [
+    {
+      "file": "audio/intro/intro_p0.wav",
+      "durationSec": 7.104
+    },
+    {
+      "file": "audio/intro/intro_p1.wav",
+      "durationSec": 2.712
+    }
+  ],
+  "series_overview": [
+    {
+      "file": "audio/intro/overview_p0.wav",
+      "durationSec": 14.616
+    },
+    {
+      "file": "audio/intro/overview_p1.wav",
+      "durationSec": 10.536
+    },
+    {
+      "file": "audio/intro/overview_p2.wav",
+      "durationSec": 7.032
+    }
+  ]
+}

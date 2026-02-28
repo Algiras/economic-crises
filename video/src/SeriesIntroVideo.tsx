@@ -13,24 +13,36 @@ import { EPISODE_LIST } from './constants/episodes';
 import { COLORS } from './theme';
 
 import rawOverviewTimings from '../public/audio/series_overview.timings.json';
+import introChunks from '../data/intro_chunks.json';
 
-const FPS_CONST = 30;
+const FPS = 30;
+const PAUSE_SEC   = 0.6;  // silence between paragraphs (matches original synthesizeWithPauses)
+const PAUSE_FRAMES = Math.round(PAUSE_SEC * FPS);
 
+/** Compute cumulative frame offsets for a list of audio chunks. */
+function chunkOffsets(chunks: typeof introChunks.intro_narration) {
+    const offsets: number[] = [];
+    let offset = 0;
+    for (const chunk of chunks) {
+        offsets.push(offset);
+        offset += Math.ceil(chunk.durationSec * FPS) + PAUSE_FRAMES;
+    }
+    return { offsets, totalFrames: offset - PAUSE_FRAMES };
+}
+
+const introResult   = chunkOffsets(introChunks.intro_narration);
+const overviewResult = chunkOffsets(introChunks.series_overview);
+
+// Keep word timings for NarratedTextSlide (uses original stitched timing offsets)
 // Split overview at "For every crisis" (first word of second paragraph)
-const SPLIT_SEC = 15.317; // start of "For"
-
+const SPLIT_SEC = 15.317;
 const overviewTimings1 = rawOverviewTimings.filter(w => w.end <= SPLIT_SEC);
-// Keep original times — KaraokeText uses sequence-relative currentSec which aligns naturally
 const overviewTimings2 = rawOverviewTimings.filter(w => w.start >= SPLIT_SEC);
-
-// Transition frame = when the last word of block 1 finishes reading
 const BLOCK1_END_SEC = overviewTimings1[overviewTimings1.length - 1]?.end ?? SPLIT_SEC;
-const SPLIT_FRAME = Math.ceil(BLOCK1_END_SEC * FPS_CONST);
+const SPLIT_FRAME = Math.ceil(BLOCK1_END_SEC * FPS);
 
-const FPS = FPS_CONST;
-
-const OVERVIEW_FRAMES    = Math.ceil(33.39 * FPS) + FPS; // ~1032 frames — narrated arc + method
-const CTA_FRAMES         = 5 * FPS;                      // 150 frames — "Let's get started" card
+const OVERVIEW_FRAMES = overviewResult.totalFrames + FPS; // small tail buffer
+const CTA_FRAMES      = 5 * FPS;
 
 export const SERIES_INTRO_TOTAL =
     OPENER_FRAMES + OVERVIEW_FRAMES + CTA_FRAMES;
@@ -95,27 +107,46 @@ const CtaSlide: React.FC = () => {
     );
 };
 
+const SceneDipOverlay: React.FC<{ boundaries: number[] }> = ({ boundaries }) => {
+    const frame = useCurrentFrame();
+    const opacity = boundaries.reduce((max, boundary) => {
+        const dist = Math.abs(frame - boundary);
+        if (dist > 10) return max;
+        return Math.max(max, interpolate(dist, [0, 10], [1, 0], { extrapolateRight: 'clamp' }));
+    }, 0);
+    if (opacity === 0) return null;
+    return <AbsoluteFill style={{ backgroundColor: 'black', opacity, zIndex: 50, pointerEvents: 'none' }} />;
+};
+
 export const SeriesIntroVideo: React.FC = () => {
     const overviewStart = OPENER_FRAMES;
     const ctaStart      = overviewStart + OVERVIEW_FRAMES;
-
     return (
         <AbsoluteFill style={{ background: COLORS.bgDark }}>
             <Audio src={staticFile('audio/bgm.wav')} volume={0.06} loop />
             <FilmGrain />
             <ColorGrade />
             <Letterbox />
-            <LightLeak boundaries={[ctaStart]} />
+            <LightLeak boundaries={[overviewStart, ctaStart]} />
+            <SceneDipOverlay boundaries={[overviewStart, ctaStart]} />
 
-            {/* 1. Branded opener with narration */}
+            {/* 1. Branded opener with per-paragraph narration (no stitching = no clicks) */}
             <Sequence from={0} durationInFrames={OPENER_FRAMES}>
-                <Audio src={staticFile('audio/intro_narration.wav')} />
+                {introChunks.intro_narration.map((chunk, i) => (
+                    <Sequence key={i} from={introResult.offsets[i]}>
+                        <Audio src={staticFile(chunk.file)} />
+                    </Sequence>
+                ))}
                 <SeriesOpener />
             </Sequence>
 
-            {/* 2. Overview — episode list left (full duration), narration right swaps at split */}
+            {/* 2. Overview — episode list left, narration right; per-paragraph audio */}
             <Sequence from={overviewStart} durationInFrames={OVERVIEW_FRAMES}>
-                <Audio src={staticFile('audio/series_overview.wav')} />
+                {introChunks.series_overview.map((chunk, i) => (
+                    <Sequence key={i} from={overviewResult.offsets[i]}>
+                        <Audio src={staticFile(chunk.file)} />
+                    </Sequence>
+                ))}
                 <AbsoluteFill style={{ display: 'flex', flexDirection: 'row', background: COLORS.bgDark }}>
                     {/* Left: episode list — spans full duration, already fully rendered after stagger */}
                     <div style={{ width: '50%', height: '100%', borderRight: '1px solid rgba(255,255,255,0.06)' }}>
