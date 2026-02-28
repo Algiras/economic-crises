@@ -32,12 +32,19 @@ body {
 }
 
 // ── Content area ──────────────────────────────────────────────────────────────
-.quarto-container, #quarto-content {
-  max-width: 760px;
-}
-
-.chapter, .quarto-section-identifier {
-  max-width: 100%;
+// Limit prose width inside the content column only
+#quarto-content .chapter-content,
+#quarto-content .quarto-appendix-contents,
+#quarto-content section > p,
+#quarto-content section > ul,
+#quarto-content section > ol,
+#quarto-content section > blockquote,
+#quarto-content section > table,
+#quarto-content section > h1,
+#quarto-content section > h2,
+#quarto-content section > h3,
+#quarto-content section > h4 {
+  max-width: 680px;
 }
 
 // Generous paragraph spacing for long-form reading
