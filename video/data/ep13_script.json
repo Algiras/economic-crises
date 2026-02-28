@@ -1,0 +1,4417 @@
+[
+  {
+    "id": "intro",
+    "title": "Intro",
+    "globalStart": 0,
+    "duration": 177,
+    "episode": 8,
+    "episodeMeta": {
+      "title": "Black Monday",
+      "subtitle": "1987"
+    },
+    "subSlides": [
+      {
+        "type": "intro",
+        "start": 0,
+        "duration": 177,
+        "audioSrc": "episodes/ep13/intro.wav"
+      }
+    ]
+  },
+  {
+    "id": "ep13_event",
+    "title": "Event",
+    "globalStart": 177,
+    "duration": 2981,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Event"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep13_event_0",
+        "audio_exists": true,
+        "audioPath": "episodes/ep13/audio/ep13_event_0.wav",
+        "text": "On Monday, October 19, 1987, the Dow Jones Industrial Average fell five hundred eight points — twenty-two and a half percent — in a single session. It remains the largest single-day percentage decline in the history of the American stock market. The crash was global: markets in Hong Kong, London, and Frankfurt fell simultaneously.",
+        "duration": 598,
+        "bgImage": "bg_stock_red.jpg",
+        "wordTimings": [
+          {
+            "word": "On ",
+            "start": 0.1,
+            "end": 0.306
+          },
+          {
+            "word": "Monday, October 19, 1987, ",
+            "start": 0.317,
+            "end": 2.643
+          },
+          {
+            "word": "the ",
+            "start": 2.784,
+            "end": 2.882
+          },
+          {
+            "word": "Dow ",
+            "start": 2.893,
+            "end": 3.121
+          },
+          {
+            "word": "Jones ",
+            "start": 3.132,
+            "end": 3.469
+          },
+          {
+            "word": "Industrial ",
+            "start": 3.48,
+            "end": 4.034
+          },
+          {
+            "word": "Average ",
+            "start": 4.045,
+            "end": 4.382
+          },
+          {
+            "word": "fell ",
+            "start": 4.393,
+            "end": 4.643
+          },
+          {
+            "word": "five ",
+            "start": 4.654,
+            "end": 4.926
+          },
+          {
+            "word": "hundred ",
+            "start": 4.936,
+            "end": 5.186
+          },
+          {
+            "word": "eight ",
+            "start": 5.197,
+            "end": 5.382
+          },
+          {
+            "word": "points — ",
+            "start": 5.393,
+            "end": 5.741
+          },
+          {
+            "word": "twenty-two ",
+            "start": 5.915,
+            "end": 6.578
+          },
+          {
+            "word": "and ",
+            "start": 6.589,
+            "end": 6.719
+          },
+          {
+            "word": "a ",
+            "start": 6.73,
+            "end": 6.763
+          },
+          {
+            "word": "half ",
+            "start": 6.773,
+            "end": 7.067
+          },
+          {
+            "word": "percent — ",
+            "start": 7.078,
+            "end": 7.48
+          },
+          {
+            "word": "in ",
+            "start": 7.686,
+            "end": 7.773
+          },
+          {
+            "word": "a ",
+            "start": 7.784,
+            "end": 7.828
+          },
+          {
+            "word": "single ",
+            "start": 7.839,
+            "end": 8.165
+          },
+          {
+            "word": "session. ",
+            "start": 8.176,
+            "end": 8.621
+          },
+          {
+            "word": "It ",
+            "start": 9.365,
+            "end": 9.517
+          },
+          {
+            "word": "remains ",
+            "start": 9.528,
+            "end": 9.843
+          },
+          {
+            "word": "the ",
+            "start": 9.854,
+            "end": 9.93
+          },
+          {
+            "word": "largest ",
+            "start": 9.941,
+            "end": 10.321
+          },
+          {
+            "word": "single-day ",
+            "start": 10.332,
+            "end": 10.756
+          },
+          {
+            "word": "percentage ",
+            "start": 10.767,
+            "end": 11.213
+          },
+          {
+            "word": "decline ",
+            "start": 11.223,
+            "end": 11.636
+          },
+          {
+            "word": "in ",
+            "start": 11.647,
+            "end": 11.713
+          },
+          {
+            "word": "the ",
+            "start": 11.723,
+            "end": 11.789
+          },
+          {
+            "word": "history ",
+            "start": 11.8,
+            "end": 12.18
+          },
+          {
+            "word": "of ",
+            "start": 12.191,
+            "end": 12.267
+          },
+          {
+            "word": "the ",
+            "start": 12.278,
+            "end": 12.376
+          },
+          {
+            "word": "American ",
+            "start": 12.386,
+            "end": 12.789
+          },
+          {
+            "word": "stock ",
+            "start": 12.8,
+            "end": 13.05
+          },
+          {
+            "word": "market. ",
+            "start": 13.06,
+            "end": 13.517
+          },
+          {
+            "word": "The ",
+            "start": 14.267,
+            "end": 14.386
+          },
+          {
+            "word": "crash ",
+            "start": 14.397,
+            "end": 14.702
+          },
+          {
+            "word": "was ",
+            "start": 14.713,
+            "end": 14.854
+          },
+          {
+            "word": "global: ",
+            "start": 14.865,
+            "end": 15.278
+          },
+          {
+            "word": "markets ",
+            "start": 15.441,
+            "end": 15.854
+          },
+          {
+            "word": "in ",
+            "start": 15.865,
+            "end": 15.941
+          },
+          {
+            "word": "Hong ",
+            "start": 15.952,
+            "end": 16.169
+          },
+          {
+            "word": "Kong, ",
+            "start": 16.18,
+            "end": 16.484
+          },
+          {
+            "word": "London, ",
+            "start": 16.582,
+            "end": 16.93
+          },
+          {
+            "word": "and ",
+            "start": 17.082,
+            "end": 17.191
+          },
+          {
+            "word": "Frankfurt ",
+            "start": 17.202,
+            "end": 17.691
+          },
+          {
+            "word": "fell ",
+            "start": 17.702,
+            "end": 17.93
+          },
+          {
+            "word": "simultaneously.",
+            "start": 17.941,
+            "end": 18.756
+          }
+        ],
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep13_event_1",
+        "audio_exists": true,
+        "audioPath": "episodes/ep13/audio/ep13_event_1.wav",
+        "text": "The proximate causes were multiple and contested. US trade deficit data released the previous week was worse than expected. Treasury Secretary James Baker threatened currency intervention, raising fears about the dollar. Interest rates had been rising. The market was expensive by historical standards.",
+        "duration": 541,
+        "bgImage": "bg_nyse_floor.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.252
+          },
+          {
+            "word": "proximate ",
+            "start": 0.263,
+            "end": 0.686
+          },
+          {
+            "word": "causes ",
+            "start": 0.697,
+            "end": 1.045
+          },
+          {
+            "word": "were ",
+            "start": 1.056,
+            "end": 1.165
+          },
+          {
+            "word": "multiple ",
+            "start": 1.176,
+            "end": 1.676
+          },
+          {
+            "word": "and ",
+            "start": 1.686,
+            "end": 1.773
+          },
+          {
+            "word": "contested. ",
+            "start": 1.784,
+            "end": 2.382
+          },
+          {
+            "word": "US ",
+            "start": 3.126,
+            "end": 3.495
+          },
+          {
+            "word": "trade ",
+            "start": 3.506,
+            "end": 3.767
+          },
+          {
+            "word": "deficit ",
+            "start": 3.778,
+            "end": 4.136
+          },
+          {
+            "word": "data ",
+            "start": 4.147,
+            "end": 4.408
+          },
+          {
+            "word": "released ",
+            "start": 4.419,
+            "end": 4.756
+          },
+          {
+            "word": "the ",
+            "start": 4.767,
+            "end": 4.832
+          },
+          {
+            "word": "previous ",
+            "start": 4.843,
+            "end": 5.234
+          },
+          {
+            "word": "week ",
+            "start": 5.245,
+            "end": 5.484
+          },
+          {
+            "word": "was ",
+            "start": 5.495,
+            "end": 5.604
+          },
+          {
+            "word": "worse ",
+            "start": 5.615,
+            "end": 5.908
+          },
+          {
+            "word": "than ",
+            "start": 5.919,
+            "end": 6.039
+          },
+          {
+            "word": "expected. ",
+            "start": 6.05,
+            "end": 6.604
+          },
+          {
+            "word": "Treasury ",
+            "start": 7.354,
+            "end": 7.723
+          },
+          {
+            "word": "Secretary ",
+            "start": 7.734,
+            "end": 8.191
+          },
+          {
+            "word": "James ",
+            "start": 8.202,
+            "end": 8.528
+          },
+          {
+            "word": "Baker ",
+            "start": 8.539,
+            "end": 8.821
+          },
+          {
+            "word": "threatened ",
+            "start": 8.832,
+            "end": 9.136
+          },
+          {
+            "word": "currency ",
+            "start": 9.147,
+            "end": 9.528
+          },
+          {
+            "word": "intervention, ",
+            "start": 9.539,
+            "end": 10.05
+          },
+          {
+            "word": "raising ",
+            "start": 10.202,
+            "end": 10.517
+          },
+          {
+            "word": "fears ",
+            "start": 10.528,
+            "end": 10.832
+          },
+          {
+            "word": "about ",
+            "start": 10.843,
+            "end": 11.06
+          },
+          {
+            "word": "the ",
+            "start": 11.071,
+            "end": 11.136
+          },
+          {
+            "word": "dollar. ",
+            "start": 11.147,
+            "end": 11.484
+          },
+          {
+            "word": "Interest ",
+            "start": 12.234,
+            "end": 12.669
+          },
+          {
+            "word": "rates ",
+            "start": 12.68,
+            "end": 12.919
+          },
+          {
+            "word": "had ",
+            "start": 12.93,
+            "end": 13.039
+          },
+          {
+            "word": "been ",
+            "start": 13.05,
+            "end": 13.202
+          },
+          {
+            "word": "rising. ",
+            "start": 13.213,
+            "end": 13.691
+          },
+          {
+            "word": "The ",
+            "start": 14.441,
+            "end": 14.593
+          },
+          {
+            "word": "market ",
+            "start": 14.604,
+            "end": 14.941
+          },
+          {
+            "word": "was ",
+            "start": 14.952,
+            "end": 15.06
+          },
+          {
+            "word": "expensive ",
+            "start": 15.071,
+            "end": 15.528
+          },
+          {
+            "word": "by ",
+            "start": 15.539,
+            "end": 15.723
+          },
+          {
+            "word": "historical ",
+            "start": 15.734,
+            "end": 16.289
+          },
+          {
+            "word": "standards.",
+            "start": 16.3,
+            "end": 16.865
+          }
+        ],
+        "start": 688
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep13_event_2",
+        "audio_exists": true,
+        "audioPath": "episodes/ep13/audio/ep13_event_2.wav",
+        "text": "But the mechanism of the crash was amplified by portfolio insurance — a strategy, developed by academics Hayne Leland and Mark Rubinstein, designed to protect institutional portfolios from losses. Portfolio insurance worked by selling stock index futures as prices fell. When markets declined, it generated selling. That selling caused further declines. The hedge became the cause.",
+        "duration": 689,
+        "bgImage": "bg_wallstreet.jpg",
+        "wordTimings": [
+          {
+            "word": "But ",
+            "start": 0.1,
+            "end": 0.241
+          },
+          {
+            "word": "the ",
+            "start": 0.252,
+            "end": 0.317
+          },
+          {
+            "word": "mechanism ",
+            "start": 0.328,
+            "end": 0.784
+          },
+          {
+            "word": "of ",
+            "start": 0.795,
+            "end": 0.849
+          },
+          {
+            "word": "the ",
+            "start": 0.86,
+            "end": 0.926
+          },
+          {
+            "word": "crash ",
+            "start": 0.936,
+            "end": 1.23
+          },
+          {
+            "word": "was ",
+            "start": 1.241,
+            "end": 1.393
+          },
+          {
+            "word": "amplified ",
+            "start": 1.404,
+            "end": 1.915
+          },
+          {
+            "word": "by ",
+            "start": 1.926,
+            "end": 2.056
+          },
+          {
+            "word": "portfolio ",
+            "start": 2.067,
+            "end": 2.676
+          },
+          {
+            "word": "insurance — ",
+            "start": 2.686,
+            "end": 3.176
+          },
+          {
+            "word": "a ",
+            "start": 3.339,
+            "end": 3.382
+          },
+          {
+            "word": "strategy, ",
+            "start": 3.393,
+            "end": 3.915
+          },
+          {
+            "word": "developed ",
+            "start": 4.078,
+            "end": 4.447
+          },
+          {
+            "word": "by ",
+            "start": 4.458,
+            "end": 4.599
+          },
+          {
+            "word": "academics ",
+            "start": 4.61,
+            "end": 5.132
+          },
+          {
+            "word": "Hayne ",
+            "start": 5.143,
+            "end": 5.36
+          },
+          {
+            "word": "Leland ",
+            "start": 5.371,
+            "end": 5.676
+          },
+          {
+            "word": "and ",
+            "start": 5.686,
+            "end": 5.817
+          },
+          {
+            "word": "Mark ",
+            "start": 5.828,
+            "end": 6.067
+          },
+          {
+            "word": "Rubinstein, ",
+            "start": 6.078,
+            "end": 6.676
+          },
+          {
+            "word": "designed ",
+            "start": 6.817,
+            "end": 7.176
+          },
+          {
+            "word": "to ",
+            "start": 7.186,
+            "end": 7.241
+          },
+          {
+            "word": "protect ",
+            "start": 7.252,
+            "end": 7.621
+          },
+          {
+            "word": "institutional ",
+            "start": 7.632,
+            "end": 8.295
+          },
+          {
+            "word": "portfolios ",
+            "start": 8.306,
+            "end": 8.991
+          },
+          {
+            "word": "from ",
+            "start": 9.002,
+            "end": 9.143
+          },
+          {
+            "word": "losses. ",
+            "start": 9.154,
+            "end": 9.654
+          },
+          {
+            "word": "Portfolio ",
+            "start": 10.397,
+            "end": 11.049
+          },
+          {
+            "word": "insurance ",
+            "start": 11.06,
+            "end": 11.517
+          },
+          {
+            "word": "worked ",
+            "start": 11.528,
+            "end": 11.821
+          },
+          {
+            "word": "by ",
+            "start": 11.832,
+            "end": 11.952
+          },
+          {
+            "word": "selling ",
+            "start": 11.963,
+            "end": 12.256
+          },
+          {
+            "word": "stock ",
+            "start": 12.267,
+            "end": 12.517
+          },
+          {
+            "word": "index ",
+            "start": 12.528,
+            "end": 12.854
+          },
+          {
+            "word": "futures ",
+            "start": 12.865,
+            "end": 13.256
+          },
+          {
+            "word": "as ",
+            "start": 13.267,
+            "end": 13.376
+          },
+          {
+            "word": "prices ",
+            "start": 13.386,
+            "end": 13.745
+          },
+          {
+            "word": "fell. ",
+            "start": 13.756,
+            "end": 14.104
+          },
+          {
+            "word": "When ",
+            "start": 14.854,
+            "end": 15.082
+          },
+          {
+            "word": "markets ",
+            "start": 15.093,
+            "end": 15.441
+          },
+          {
+            "word": "declined, ",
+            "start": 15.452,
+            "end": 15.973
+          },
+          {
+            "word": "it ",
+            "start": 16.169,
+            "end": 16.278
+          },
+          {
+            "word": "generated ",
+            "start": 16.289,
+            "end": 16.789
+          },
+          {
+            "word": "selling. ",
+            "start": 16.8,
+            "end": 17.191
+          },
+          {
+            "word": "That ",
+            "start": 17.941,
+            "end": 18.158
+          },
+          {
+            "word": "selling ",
+            "start": 18.169,
+            "end": 18.441
+          },
+          {
+            "word": "caused ",
+            "start": 18.452,
+            "end": 18.734
+          },
+          {
+            "word": "further ",
+            "start": 18.745,
+            "end": 19.049
+          },
+          {
+            "word": "declines. ",
+            "start": 19.06,
+            "end": 19.756
+          },
+          {
+            "word": "The ",
+            "start": 20.506,
+            "end": 20.626
+          },
+          {
+            "word": "hedge ",
+            "start": 20.636,
+            "end": 20.908
+          },
+          {
+            "word": "became ",
+            "start": 20.919,
+            "end": 21.234
+          },
+          {
+            "word": "the ",
+            "start": 21.245,
+            "end": 21.299
+          },
+          {
+            "word": "cause.",
+            "start": 21.31,
+            "end": 21.8
+          }
+        ],
+        "start": 1229
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep13_event_3",
+        "audio_exists": true,
+        "audioPath": "episodes/ep13/audio/ep13_event_3.wav",
+        "text": "The futures market and the stock market disconnected. Futures traded at a deep discount to underlying stocks, because there were no buyers. Arbitrageurs who would normally close such gaps could not: their computers could not execute trades fast enough, and their credit lines were being cut. Market structure itself failed.",
+        "duration": 545,
+        "bgImage": "bg_interest_chart.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.241
+          },
+          {
+            "word": "futures ",
+            "start": 0.252,
+            "end": 0.632
+          },
+          {
+            "word": "market ",
+            "start": 0.643,
+            "end": 1.023
+          },
+          {
+            "word": "and ",
+            "start": 1.034,
+            "end": 1.099
+          },
+          {
+            "word": "the ",
+            "start": 1.11,
+            "end": 1.186
+          },
+          {
+            "word": "stock ",
+            "start": 1.197,
+            "end": 1.436
+          },
+          {
+            "word": "market ",
+            "start": 1.447,
+            "end": 1.784
+          },
+          {
+            "word": "disconnected. ",
+            "start": 1.795,
+            "end": 2.415
+          },
+          {
+            "word": "Futures ",
+            "start": 3.158,
+            "end": 3.593
+          },
+          {
+            "word": "traded ",
+            "start": 3.604,
+            "end": 3.908
+          },
+          {
+            "word": "at ",
+            "start": 3.919,
+            "end": 3.995
+          },
+          {
+            "word": "a ",
+            "start": 4.006,
+            "end": 4.071
+          },
+          {
+            "word": "deep ",
+            "start": 4.082,
+            "end": 4.343
+          },
+          {
+            "word": "discount ",
+            "start": 4.354,
+            "end": 4.702
+          },
+          {
+            "word": "to ",
+            "start": 4.713,
+            "end": 4.789
+          },
+          {
+            "word": "underlying ",
+            "start": 4.8,
+            "end": 5.213
+          },
+          {
+            "word": "stocks, ",
+            "start": 5.223,
+            "end": 5.669
+          },
+          {
+            "word": "because ",
+            "start": 5.821,
+            "end": 6.028
+          },
+          {
+            "word": "there ",
+            "start": 6.039,
+            "end": 6.136
+          },
+          {
+            "word": "were ",
+            "start": 6.147,
+            "end": 6.299
+          },
+          {
+            "word": "no ",
+            "start": 6.31,
+            "end": 6.528
+          },
+          {
+            "word": "buyers. ",
+            "start": 6.539,
+            "end": 7.06
+          },
+          {
+            "word": "Arbitrageurs ",
+            "start": 7.81,
+            "end": 8.528
+          },
+          {
+            "word": "who ",
+            "start": 8.539,
+            "end": 8.636
+          },
+          {
+            "word": "would ",
+            "start": 8.647,
+            "end": 8.778
+          },
+          {
+            "word": "normally ",
+            "start": 8.789,
+            "end": 9.126
+          },
+          {
+            "word": "close ",
+            "start": 9.136,
+            "end": 9.419
+          },
+          {
+            "word": "such ",
+            "start": 9.43,
+            "end": 9.636
+          },
+          {
+            "word": "gaps ",
+            "start": 9.647,
+            "end": 9.908
+          },
+          {
+            "word": "could ",
+            "start": 9.919,
+            "end": 10.06
+          },
+          {
+            "word": "not: ",
+            "start": 10.071,
+            "end": 10.343
+          },
+          {
+            "word": "their ",
+            "start": 10.528,
+            "end": 10.626
+          },
+          {
+            "word": "computers ",
+            "start": 10.636,
+            "end": 11.082
+          },
+          {
+            "word": "could ",
+            "start": 11.093,
+            "end": 11.223
+          },
+          {
+            "word": "not ",
+            "start": 11.234,
+            "end": 11.397
+          },
+          {
+            "word": "execute ",
+            "start": 11.408,
+            "end": 11.843
+          },
+          {
+            "word": "trades ",
+            "start": 11.854,
+            "end": 12.158
+          },
+          {
+            "word": "fast ",
+            "start": 12.169,
+            "end": 12.463
+          },
+          {
+            "word": "enough, ",
+            "start": 12.473,
+            "end": 12.799
+          },
+          {
+            "word": "and ",
+            "start": 13.017,
+            "end": 13.093
+          },
+          {
+            "word": "their ",
+            "start": 13.104,
+            "end": 13.213
+          },
+          {
+            "word": "credit ",
+            "start": 13.223,
+            "end": 13.517
+          },
+          {
+            "word": "lines ",
+            "start": 13.528,
+            "end": 13.821
+          },
+          {
+            "word": "were ",
+            "start": 13.832,
+            "end": 13.908
+          },
+          {
+            "word": "being ",
+            "start": 13.919,
+            "end": 14.147
+          },
+          {
+            "word": "cut. ",
+            "start": 14.158,
+            "end": 14.517
+          },
+          {
+            "word": "Market ",
+            "start": 15.267,
+            "end": 15.702
+          },
+          {
+            "word": "structure ",
+            "start": 15.713,
+            "end": 16.104
+          },
+          {
+            "word": "itself ",
+            "start": 16.115,
+            "end": 16.473
+          },
+          {
+            "word": "failed.",
+            "start": 16.484,
+            "end": 17.006
+          }
+        ],
+        "start": 1918
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep13_event_4",
+        "audio_exists": true,
+        "audioPath": "episodes/ep13/audio/ep13_event_4.wav",
+        "text": "By the end of trading, one trillion dollars in market value had been erased. The financial system did not collapse. Within two years, stock markets had recovered their pre-crash levels. But the day revealed how interconnected, fragile, and poorly understood modern financial markets had become.",
+        "duration": 518,
+        "bgImage": "bg_stock_red.jpg",
+        "wordTimings": [
+          {
+            "word": "By ",
+            "start": 0.1,
+            "end": 0.263
+          },
+          {
+            "word": "the ",
+            "start": 0.273,
+            "end": 0.415
+          },
+          {
+            "word": "end ",
+            "start": 0.426,
+            "end": 0.567
+          },
+          {
+            "word": "of ",
+            "start": 0.578,
+            "end": 0.643
+          },
+          {
+            "word": "trading, ",
+            "start": 0.654,
+            "end": 1.013
+          },
+          {
+            "word": "one ",
+            "start": 1.208,
+            "end": 1.393
+          },
+          {
+            "word": "trillion ",
+            "start": 1.404,
+            "end": 1.773
+          },
+          {
+            "word": "dollars ",
+            "start": 1.784,
+            "end": 2.089
+          },
+          {
+            "word": "in ",
+            "start": 2.1,
+            "end": 2.197
+          },
+          {
+            "word": "market ",
+            "start": 2.208,
+            "end": 2.556
+          },
+          {
+            "word": "value ",
+            "start": 2.567,
+            "end": 2.893
+          },
+          {
+            "word": "had ",
+            "start": 2.904,
+            "end": 3.034
+          },
+          {
+            "word": "been ",
+            "start": 3.045,
+            "end": 3.165
+          },
+          {
+            "word": "erased. ",
+            "start": 3.176,
+            "end": 3.665
+          },
+          {
+            "word": "The ",
+            "start": 4.408,
+            "end": 4.528
+          },
+          {
+            "word": "financial ",
+            "start": 4.539,
+            "end": 5.039
+          },
+          {
+            "word": "system ",
+            "start": 5.05,
+            "end": 5.408
+          },
+          {
+            "word": "did ",
+            "start": 5.419,
+            "end": 5.549
+          },
+          {
+            "word": "not ",
+            "start": 5.56,
+            "end": 5.756
+          },
+          {
+            "word": "collapse. ",
+            "start": 5.767,
+            "end": 6.278
+          },
+          {
+            "word": "Within ",
+            "start": 7.028,
+            "end": 7.332
+          },
+          {
+            "word": "two ",
+            "start": 7.343,
+            "end": 7.528
+          },
+          {
+            "word": "years, ",
+            "start": 7.539,
+            "end": 7.908
+          },
+          {
+            "word": "stock ",
+            "start": 8.06,
+            "end": 8.289
+          },
+          {
+            "word": "markets ",
+            "start": 8.3,
+            "end": 8.647
+          },
+          {
+            "word": "had ",
+            "start": 8.658,
+            "end": 8.767
+          },
+          {
+            "word": "recovered ",
+            "start": 8.778,
+            "end": 9.147
+          },
+          {
+            "word": "their ",
+            "start": 9.158,
+            "end": 9.267
+          },
+          {
+            "word": "pre-crash ",
+            "start": 9.278,
+            "end": 9.745
+          },
+          {
+            "word": "levels. ",
+            "start": 9.756,
+            "end": 10.299
+          },
+          {
+            "word": "But ",
+            "start": 11.05,
+            "end": 11.191
+          },
+          {
+            "word": "the ",
+            "start": 11.202,
+            "end": 11.289
+          },
+          {
+            "word": "day ",
+            "start": 11.3,
+            "end": 11.452
+          },
+          {
+            "word": "revealed ",
+            "start": 11.463,
+            "end": 11.854
+          },
+          {
+            "word": "how ",
+            "start": 11.865,
+            "end": 12.028
+          },
+          {
+            "word": "interconnected, ",
+            "start": 12.039,
+            "end": 12.658
+          },
+          {
+            "word": "fragile, ",
+            "start": 12.832,
+            "end": 13.365
+          },
+          {
+            "word": "and ",
+            "start": 13.571,
+            "end": 13.669
+          },
+          {
+            "word": "poorly ",
+            "start": 13.68,
+            "end": 13.963
+          },
+          {
+            "word": "understood ",
+            "start": 13.973,
+            "end": 14.354
+          },
+          {
+            "word": "modern ",
+            "start": 14.365,
+            "end": 14.636
+          },
+          {
+            "word": "financial ",
+            "start": 14.647,
+            "end": 15.136
+          },
+          {
+            "word": "markets ",
+            "start": 15.147,
+            "end": 15.528
+          },
+          {
+            "word": "had ",
+            "start": 15.539,
+            "end": 15.669
+          },
+          {
+            "word": "become.",
+            "start": 15.68,
+            "end": 16.093
+          }
+        ],
+        "start": 2463
+      }
+    ]
+  },
+  {
+    "id": "ep13_problems",
+    "title": "Problems",
+    "globalStart": 3158,
+    "duration": 2119,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Problems"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep13_problems_0",
+        "audio_exists": true,
+        "audioPath": "episodes/ep13/audio/ep13_problems_0.wav",
+        "text": "Black Monday exposed three structural problems in financial markets. First: the illusion of liquidity. Portfolio insurance assumed that futures markets would remain liquid enough to execute large sell orders without moving prices. Under stress, this assumption failed catastrophically. Strategies designed to be individually safe were collectively destabilizing.",
+        "duration": 644,
+        "bgImage": "bg_stock_red.jpg",
+        "wordTimings": [
+          {
+            "word": "Black ",
+            "start": 0.1,
+            "end": 0.382
+          },
+          {
+            "word": "Monday ",
+            "start": 0.393,
+            "end": 0.741
+          },
+          {
+            "word": "exposed ",
+            "start": 0.752,
+            "end": 1.23
+          },
+          {
+            "word": "three ",
+            "start": 1.241,
+            "end": 1.458
+          },
+          {
+            "word": "structural ",
+            "start": 1.469,
+            "end": 1.958
+          },
+          {
+            "word": "problems ",
+            "start": 1.969,
+            "end": 2.36
+          },
+          {
+            "word": "in ",
+            "start": 2.371,
+            "end": 2.48
+          },
+          {
+            "word": "financial ",
+            "start": 2.491,
+            "end": 3.034
+          },
+          {
+            "word": "markets. ",
+            "start": 3.045,
+            "end": 3.599
+          },
+          {
+            "word": "First: ",
+            "start": 4.343,
+            "end": 4.799
+          },
+          {
+            "word": "the ",
+            "start": 4.963,
+            "end": 5.071
+          },
+          {
+            "word": "illusion ",
+            "start": 5.082,
+            "end": 5.452
+          },
+          {
+            "word": "of ",
+            "start": 5.463,
+            "end": 5.517
+          },
+          {
+            "word": "liquidity. ",
+            "start": 5.528,
+            "end": 6.06
+          },
+          {
+            "word": "Portfolio ",
+            "start": 6.81,
+            "end": 7.473
+          },
+          {
+            "word": "insurance ",
+            "start": 7.484,
+            "end": 7.908
+          },
+          {
+            "word": "assumed ",
+            "start": 7.919,
+            "end": 8.267
+          },
+          {
+            "word": "that ",
+            "start": 8.278,
+            "end": 8.397
+          },
+          {
+            "word": "futures ",
+            "start": 8.408,
+            "end": 8.745
+          },
+          {
+            "word": "markets ",
+            "start": 8.756,
+            "end": 9.147
+          },
+          {
+            "word": "would ",
+            "start": 9.158,
+            "end": 9.267
+          },
+          {
+            "word": "remain ",
+            "start": 9.278,
+            "end": 9.604
+          },
+          {
+            "word": "liquid ",
+            "start": 9.615,
+            "end": 9.876
+          },
+          {
+            "word": "enough ",
+            "start": 9.886,
+            "end": 10.136
+          },
+          {
+            "word": "to ",
+            "start": 10.147,
+            "end": 10.223
+          },
+          {
+            "word": "execute ",
+            "start": 10.234,
+            "end": 10.68
+          },
+          {
+            "word": "large ",
+            "start": 10.691,
+            "end": 11.006
+          },
+          {
+            "word": "sell ",
+            "start": 11.017,
+            "end": 11.234
+          },
+          {
+            "word": "orders ",
+            "start": 11.245,
+            "end": 11.539
+          },
+          {
+            "word": "without ",
+            "start": 11.55,
+            "end": 11.865
+          },
+          {
+            "word": "moving ",
+            "start": 11.876,
+            "end": 12.158
+          },
+          {
+            "word": "prices. ",
+            "start": 12.169,
+            "end": 12.691
+          },
+          {
+            "word": "Under ",
+            "start": 13.441,
+            "end": 13.691
+          },
+          {
+            "word": "stress, ",
+            "start": 13.702,
+            "end": 14.115
+          },
+          {
+            "word": "this ",
+            "start": 14.278,
+            "end": 14.441
+          },
+          {
+            "word": "assumption ",
+            "start": 14.452,
+            "end": 14.897
+          },
+          {
+            "word": "failed ",
+            "start": 14.908,
+            "end": 15.245
+          },
+          {
+            "word": "catastrophically. ",
+            "start": 15.256,
+            "end": 16.006
+          },
+          {
+            "word": "Strategies ",
+            "start": 16.756,
+            "end": 17.321
+          },
+          {
+            "word": "designed ",
+            "start": 17.332,
+            "end": 17.691
+          },
+          {
+            "word": "to ",
+            "start": 17.702,
+            "end": 17.745
+          },
+          {
+            "word": "be ",
+            "start": 17.756,
+            "end": 17.876
+          },
+          {
+            "word": "individually ",
+            "start": 17.886,
+            "end": 18.441
+          },
+          {
+            "word": "safe ",
+            "start": 18.452,
+            "end": 18.745
+          },
+          {
+            "word": "were ",
+            "start": 18.756,
+            "end": 18.821
+          },
+          {
+            "word": "collectively ",
+            "start": 18.832,
+            "end": 19.354
+          },
+          {
+            "word": "destabilizing.",
+            "start": 19.365,
+            "end": 20.289
+          }
+        ],
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep13_problems_1",
+        "audio_exists": true,
+        "audioPath": "episodes/ep13/audio/ep13_problems_1.wav",
+        "text": "Second: the feedback loop between program trading and prices. Electronic trading systems executing pre-programmed sell orders as prices fell created a mechanical spiral. The market had no circuit breakers, no mechanism to pause and allow human judgment to intervene.",
+        "duration": 470,
+        "bgImage": "bg_interest_chart.jpg",
+        "wordTimings": [
+          {
+            "word": "Second: ",
+            "start": 0.1,
+            "end": 0.556
+          },
+          {
+            "word": "the ",
+            "start": 0.73,
+            "end": 0.806
+          },
+          {
+            "word": "feedback ",
+            "start": 0.817,
+            "end": 1.273
+          },
+          {
+            "word": "loop ",
+            "start": 1.284,
+            "end": 1.458
+          },
+          {
+            "word": "between ",
+            "start": 1.469,
+            "end": 1.806
+          },
+          {
+            "word": "program ",
+            "start": 1.817,
+            "end": 2.219
+          },
+          {
+            "word": "trading ",
+            "start": 2.23,
+            "end": 2.578
+          },
+          {
+            "word": "and ",
+            "start": 2.589,
+            "end": 2.686
+          },
+          {
+            "word": "prices. ",
+            "start": 2.697,
+            "end": 3.252
+          },
+          {
+            "word": "Electronic ",
+            "start": 3.995,
+            "end": 4.539
+          },
+          {
+            "word": "trading ",
+            "start": 4.55,
+            "end": 4.876
+          },
+          {
+            "word": "systems ",
+            "start": 4.886,
+            "end": 5.278
+          },
+          {
+            "word": "executing ",
+            "start": 5.289,
+            "end": 5.778
+          },
+          {
+            "word": "pre-programmed ",
+            "start": 5.789,
+            "end": 6.452
+          },
+          {
+            "word": "sell ",
+            "start": 6.463,
+            "end": 6.723
+          },
+          {
+            "word": "orders ",
+            "start": 6.734,
+            "end": 7.017
+          },
+          {
+            "word": "as ",
+            "start": 7.028,
+            "end": 7.147
+          },
+          {
+            "word": "prices ",
+            "start": 7.158,
+            "end": 7.517
+          },
+          {
+            "word": "fell ",
+            "start": 7.528,
+            "end": 7.767
+          },
+          {
+            "word": "created ",
+            "start": 7.778,
+            "end": 8.169
+          },
+          {
+            "word": "a ",
+            "start": 8.18,
+            "end": 8.223
+          },
+          {
+            "word": "mechanical ",
+            "start": 8.234,
+            "end": 8.68
+          },
+          {
+            "word": "spiral. ",
+            "start": 8.691,
+            "end": 9.223
+          },
+          {
+            "word": "The ",
+            "start": 9.973,
+            "end": 10.093
+          },
+          {
+            "word": "market ",
+            "start": 10.104,
+            "end": 10.43
+          },
+          {
+            "word": "had ",
+            "start": 10.441,
+            "end": 10.56
+          },
+          {
+            "word": "no ",
+            "start": 10.571,
+            "end": 10.767
+          },
+          {
+            "word": "circuit ",
+            "start": 10.778,
+            "end": 11.158
+          },
+          {
+            "word": "breakers, ",
+            "start": 11.169,
+            "end": 11.582
+          },
+          {
+            "word": "no ",
+            "start": 11.691,
+            "end": 11.876
+          },
+          {
+            "word": "mechanism ",
+            "start": 11.886,
+            "end": 12.343
+          },
+          {
+            "word": "to ",
+            "start": 12.354,
+            "end": 12.441
+          },
+          {
+            "word": "pause ",
+            "start": 12.452,
+            "end": 12.799
+          },
+          {
+            "word": "and ",
+            "start": 12.81,
+            "end": 12.886
+          },
+          {
+            "word": "allow ",
+            "start": 12.897,
+            "end": 13.082
+          },
+          {
+            "word": "human ",
+            "start": 13.093,
+            "end": 13.452
+          },
+          {
+            "word": "judgment ",
+            "start": 13.463,
+            "end": 13.832
+          },
+          {
+            "word": "to ",
+            "start": 13.843,
+            "end": 13.919
+          },
+          {
+            "word": "intervene.",
+            "start": 13.93,
+            "end": 14.484
+          }
+        ],
+        "start": 734
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep13_problems_2",
+        "audio_exists": true,
+        "audioPath": "episodes/ep13/audio/ep13_problems_2.wav",
+        "text": "Third: the disconnect between derivative markets and underlying securities. When the futures market diverged sharply from the cash market, arbitrage — the mechanism meant to keep them aligned — broke down. The market structure was not resilient to extreme stress.",
+        "duration": 462,
+        "bgImage": "bg_wallstreet.jpg",
+        "wordTimings": [
+          {
+            "word": "Third: ",
+            "start": 0.1,
+            "end": 0.491
+          },
+          {
+            "word": "the ",
+            "start": 0.643,
+            "end": 0.741
+          },
+          {
+            "word": "disconnect ",
+            "start": 0.752,
+            "end": 1.241
+          },
+          {
+            "word": "between ",
+            "start": 1.252,
+            "end": 1.578
+          },
+          {
+            "word": "derivative ",
+            "start": 1.589,
+            "end": 1.98
+          },
+          {
+            "word": "markets ",
+            "start": 1.991,
+            "end": 2.415
+          },
+          {
+            "word": "and ",
+            "start": 2.426,
+            "end": 2.513
+          },
+          {
+            "word": "underlying ",
+            "start": 2.523,
+            "end": 3.002
+          },
+          {
+            "word": "securities. ",
+            "start": 3.013,
+            "end": 3.752
+          },
+          {
+            "word": "When ",
+            "start": 4.495,
+            "end": 4.713
+          },
+          {
+            "word": "the ",
+            "start": 4.723,
+            "end": 4.789
+          },
+          {
+            "word": "futures ",
+            "start": 4.8,
+            "end": 5.169
+          },
+          {
+            "word": "market ",
+            "start": 5.18,
+            "end": 5.528
+          },
+          {
+            "word": "diverged ",
+            "start": 5.539,
+            "end": 5.995
+          },
+          {
+            "word": "sharply ",
+            "start": 6.006,
+            "end": 6.376
+          },
+          {
+            "word": "from ",
+            "start": 6.386,
+            "end": 6.539
+          },
+          {
+            "word": "the ",
+            "start": 6.55,
+            "end": 6.615
+          },
+          {
+            "word": "cash ",
+            "start": 6.626,
+            "end": 6.876
+          },
+          {
+            "word": "market, ",
+            "start": 6.886,
+            "end": 7.299
+          },
+          {
+            "word": "arbitrage — ",
+            "start": 7.517,
+            "end": 8.191
+          },
+          {
+            "word": "the ",
+            "start": 8.397,
+            "end": 8.463
+          },
+          {
+            "word": "mechanism ",
+            "start": 8.473,
+            "end": 8.908
+          },
+          {
+            "word": "meant ",
+            "start": 8.919,
+            "end": 9.093
+          },
+          {
+            "word": "to ",
+            "start": 9.104,
+            "end": 9.158
+          },
+          {
+            "word": "keep ",
+            "start": 9.169,
+            "end": 9.386
+          },
+          {
+            "word": "them ",
+            "start": 9.397,
+            "end": 9.517
+          },
+          {
+            "word": "aligned — ",
+            "start": 9.528,
+            "end": 9.93
+          },
+          {
+            "word": "broke ",
+            "start": 10.115,
+            "end": 10.365
+          },
+          {
+            "word": "down. ",
+            "start": 10.376,
+            "end": 10.789
+          },
+          {
+            "word": "The ",
+            "start": 11.539,
+            "end": 11.658
+          },
+          {
+            "word": "market ",
+            "start": 11.669,
+            "end": 12.039
+          },
+          {
+            "word": "structure ",
+            "start": 12.05,
+            "end": 12.441
+          },
+          {
+            "word": "was ",
+            "start": 12.452,
+            "end": 12.615
+          },
+          {
+            "word": "not ",
+            "start": 12.626,
+            "end": 12.81
+          },
+          {
+            "word": "resilient ",
+            "start": 12.821,
+            "end": 13.191
+          },
+          {
+            "word": "to ",
+            "start": 13.202,
+            "end": 13.278
+          },
+          {
+            "word": "extreme ",
+            "start": 13.289,
+            "end": 13.713
+          },
+          {
+            "word": "stress.",
+            "start": 13.723,
+            "end": 14.213
+          }
+        ],
+        "start": 1204
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep13_problems_3",
+        "audio_exists": true,
+        "audioPath": "episodes/ep13/audio/ep13_problems_3.wav",
+        "text": "The Federal Reserve, under Alan Greenspan who had taken office just two months earlier, faced a critical test. If banks withdrew credit from securities dealers and brokers, the market might not open on Tuesday. The financial system's plumbing was at risk of seizing.",
+        "duration": 453,
+        "bgImage": "bg_city_night.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "Federal ",
+            "start": 0.241,
+            "end": 0.589
+          },
+          {
+            "word": "Reserve, ",
+            "start": 0.6,
+            "end": 0.991
+          },
+          {
+            "word": "under ",
+            "start": 1.165,
+            "end": 1.382
+          },
+          {
+            "word": "Alan ",
+            "start": 1.393,
+            "end": 1.654
+          },
+          {
+            "word": "Greenspan ",
+            "start": 1.665,
+            "end": 2.176
+          },
+          {
+            "word": "who ",
+            "start": 2.186,
+            "end": 2.306
+          },
+          {
+            "word": "had ",
+            "start": 2.317,
+            "end": 2.469
+          },
+          {
+            "word": "taken ",
+            "start": 2.48,
+            "end": 2.763
+          },
+          {
+            "word": "office ",
+            "start": 2.773,
+            "end": 3.034
+          },
+          {
+            "word": "just ",
+            "start": 3.045,
+            "end": 3.273
+          },
+          {
+            "word": "two ",
+            "start": 3.284,
+            "end": 3.426
+          },
+          {
+            "word": "months ",
+            "start": 3.436,
+            "end": 3.719
+          },
+          {
+            "word": "earlier, ",
+            "start": 3.73,
+            "end": 4.078
+          },
+          {
+            "word": "faced ",
+            "start": 4.317,
+            "end": 4.556
+          },
+          {
+            "word": "a ",
+            "start": 4.567,
+            "end": 4.6
+          },
+          {
+            "word": "critical ",
+            "start": 4.61,
+            "end": 5.023
+          },
+          {
+            "word": "test. ",
+            "start": 5.034,
+            "end": 5.447
+          },
+          {
+            "word": "If ",
+            "start": 6.191,
+            "end": 6.397
+          },
+          {
+            "word": "banks ",
+            "start": 6.408,
+            "end": 6.669
+          },
+          {
+            "word": "withdrew ",
+            "start": 6.68,
+            "end": 6.995
+          },
+          {
+            "word": "credit ",
+            "start": 7.006,
+            "end": 7.299
+          },
+          {
+            "word": "from ",
+            "start": 7.31,
+            "end": 7.452
+          },
+          {
+            "word": "securities ",
+            "start": 7.463,
+            "end": 7.952
+          },
+          {
+            "word": "dealers ",
+            "start": 7.963,
+            "end": 8.31
+          },
+          {
+            "word": "and ",
+            "start": 8.321,
+            "end": 8.43
+          },
+          {
+            "word": "brokers, ",
+            "start": 8.441,
+            "end": 8.854
+          },
+          {
+            "word": "the ",
+            "start": 9.05,
+            "end": 9.126
+          },
+          {
+            "word": "market ",
+            "start": 9.136,
+            "end": 9.484
+          },
+          {
+            "word": "might ",
+            "start": 9.495,
+            "end": 9.723
+          },
+          {
+            "word": "not ",
+            "start": 9.734,
+            "end": 9.93
+          },
+          {
+            "word": "open ",
+            "start": 9.941,
+            "end": 10.169
+          },
+          {
+            "word": "on ",
+            "start": 10.18,
+            "end": 10.289
+          },
+          {
+            "word": "Tuesday. ",
+            "start": 10.3,
+            "end": 10.821
+          },
+          {
+            "word": "The ",
+            "start": 11.571,
+            "end": 11.691
+          },
+          {
+            "word": "financial ",
+            "start": 11.702,
+            "end": 12.213
+          },
+          {
+            "word": "system's ",
+            "start": 12.223,
+            "end": 12.593
+          },
+          {
+            "word": "plumbing ",
+            "start": 12.604,
+            "end": 12.908
+          },
+          {
+            "word": "was ",
+            "start": 12.919,
+            "end": 13.039
+          },
+          {
+            "word": "at ",
+            "start": 13.05,
+            "end": 13.18
+          },
+          {
+            "word": "risk ",
+            "start": 13.191,
+            "end": 13.386
+          },
+          {
+            "word": "of ",
+            "start": 13.397,
+            "end": 13.473
+          },
+          {
+            "word": "seizing.",
+            "start": 13.484,
+            "end": 13.93
+          }
+        ],
+        "start": 1666
+      }
+    ]
+  },
+  {
+    "id": "ep13_solutions",
+    "title": "Solutions",
+    "globalStart": 5277,
+    "duration": 2236,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Solutions"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep13_solutions_0",
+        "audio_exists": true,
+        "audioPath": "episodes/ep13/audio/ep13_solutions_0.wav",
+        "text": "Before markets opened on Tuesday, October 20th, the Federal Reserve issued a one-sentence statement: 'The Federal Reserve, consistent with its responsibilities as the nation's central bank, affirmed today its readiness to serve as a source of liquidity to support the economic and financial system.' This signaled clearly that the Fed would provide whatever liquidity was needed.",
+        "duration": 558,
+        "bgImage": "bg_fed_building.jpg",
+        "wordTimings": [
+          {
+            "word": "Before ",
+            "start": 0.1,
+            "end": 0.382
+          },
+          {
+            "word": "markets ",
+            "start": 0.393,
+            "end": 0.795
+          },
+          {
+            "word": "opened ",
+            "start": 0.806,
+            "end": 1.089
+          },
+          {
+            "word": "on ",
+            "start": 1.1,
+            "end": 1.208
+          },
+          {
+            "word": "Tuesday, October 20th, ",
+            "start": 1.219,
+            "end": 2.502
+          },
+          {
+            "word": "the ",
+            "start": 2.676,
+            "end": 2.763
+          },
+          {
+            "word": "Federal ",
+            "start": 2.773,
+            "end": 3.11
+          },
+          {
+            "word": "Reserve ",
+            "start": 3.121,
+            "end": 3.469
+          },
+          {
+            "word": "issued ",
+            "start": 3.48,
+            "end": 3.697
+          },
+          {
+            "word": "a ",
+            "start": 3.708,
+            "end": 3.752
+          },
+          {
+            "word": "one-sentence ",
+            "start": 3.763,
+            "end": 4.328
+          },
+          {
+            "word": "statement: '",
+            "start": 4.339,
+            "end": 4.763
+          },
+          {
+            "word": "The ",
+            "start": 4.926,
+            "end": 4.991
+          },
+          {
+            "word": "Federal ",
+            "start": 5.002,
+            "end": 5.339
+          },
+          {
+            "word": "Reserve, ",
+            "start": 5.35,
+            "end": 5.817
+          },
+          {
+            "word": "consistent ",
+            "start": 5.991,
+            "end": 6.491
+          },
+          {
+            "word": "with ",
+            "start": 6.502,
+            "end": 6.599
+          },
+          {
+            "word": "its ",
+            "start": 6.61,
+            "end": 6.719
+          },
+          {
+            "word": "responsibilities ",
+            "start": 6.73,
+            "end": 7.545
+          },
+          {
+            "word": "as ",
+            "start": 7.556,
+            "end": 7.665
+          },
+          {
+            "word": "the ",
+            "start": 7.676,
+            "end": 7.741
+          },
+          {
+            "word": "nation's ",
+            "start": 7.752,
+            "end": 8.11
+          },
+          {
+            "word": "central ",
+            "start": 8.121,
+            "end": 8.447
+          },
+          {
+            "word": "bank, ",
+            "start": 8.458,
+            "end": 8.719
+          },
+          {
+            "word": "affirmed ",
+            "start": 8.926,
+            "end": 9.23
+          },
+          {
+            "word": "today ",
+            "start": 9.241,
+            "end": 9.523
+          },
+          {
+            "word": "its ",
+            "start": 9.534,
+            "end": 9.676
+          },
+          {
+            "word": "readiness ",
+            "start": 9.686,
+            "end": 10.034
+          },
+          {
+            "word": "to ",
+            "start": 10.045,
+            "end": 10.121
+          },
+          {
+            "word": "serve ",
+            "start": 10.132,
+            "end": 10.436
+          },
+          {
+            "word": "as ",
+            "start": 10.447,
+            "end": 10.523
+          },
+          {
+            "word": "a ",
+            "start": 10.534,
+            "end": 10.589
+          },
+          {
+            "word": "source ",
+            "start": 10.6,
+            "end": 10.86
+          },
+          {
+            "word": "of ",
+            "start": 10.871,
+            "end": 10.947
+          },
+          {
+            "word": "liquidity ",
+            "start": 10.958,
+            "end": 11.415
+          },
+          {
+            "word": "to ",
+            "start": 11.426,
+            "end": 11.513
+          },
+          {
+            "word": "support ",
+            "start": 11.523,
+            "end": 11.849
+          },
+          {
+            "word": "the ",
+            "start": 11.86,
+            "end": 11.947
+          },
+          {
+            "word": "economic ",
+            "start": 11.958,
+            "end": 12.415
+          },
+          {
+            "word": "and ",
+            "start": 12.426,
+            "end": 12.513
+          },
+          {
+            "word": "financial ",
+            "start": 12.523,
+            "end": 13.002
+          },
+          {
+            "word": "system.' ",
+            "start": 13.013,
+            "end": 13.447
+          },
+          {
+            "word": "This ",
+            "start": 14.191,
+            "end": 14.408
+          },
+          {
+            "word": "signaled ",
+            "start": 14.419,
+            "end": 14.756
+          },
+          {
+            "word": "clearly ",
+            "start": 14.767,
+            "end": 15.093
+          },
+          {
+            "word": "that ",
+            "start": 15.104,
+            "end": 15.223
+          },
+          {
+            "word": "the ",
+            "start": 15.234,
+            "end": 15.299
+          },
+          {
+            "word": "Fed ",
+            "start": 15.31,
+            "end": 15.539
+          },
+          {
+            "word": "would ",
+            "start": 15.55,
+            "end": 15.669
+          },
+          {
+            "word": "provide ",
+            "start": 15.68,
+            "end": 16.017
+          },
+          {
+            "word": "whatever ",
+            "start": 16.028,
+            "end": 16.354
+          },
+          {
+            "word": "liquidity ",
+            "start": 16.365,
+            "end": 16.81
+          },
+          {
+            "word": "was ",
+            "start": 16.821,
+            "end": 16.995
+          },
+          {
+            "word": "needed.",
+            "start": 17.006,
+            "end": 17.397
+          }
+        ],
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep13_solutions_1",
+        "audio_exists": true,
+        "audioPath": "episodes/ep13/audio/ep13_solutions_1.wav",
+        "text": "The Fed then put the words into action, conducting open market operations to inject reserves into the banking system and encouraging banks to continue lending to securities firms. The intervention was targeted and effective. Markets opened Tuesday. The panic did not spread to the banking system.",
+        "duration": 515,
+        "bgImage": "bg_wallstreet.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.219
+          },
+          {
+            "word": "Fed ",
+            "start": 0.23,
+            "end": 0.458
+          },
+          {
+            "word": "then ",
+            "start": 0.469,
+            "end": 0.643
+          },
+          {
+            "word": "put ",
+            "start": 0.654,
+            "end": 0.795
+          },
+          {
+            "word": "the ",
+            "start": 0.806,
+            "end": 0.871
+          },
+          {
+            "word": "words ",
+            "start": 0.882,
+            "end": 1.176
+          },
+          {
+            "word": "into ",
+            "start": 1.186,
+            "end": 1.426
+          },
+          {
+            "word": "action, ",
+            "start": 1.436,
+            "end": 1.806
+          },
+          {
+            "word": "conducting ",
+            "start": 1.947,
+            "end": 2.458
+          },
+          {
+            "word": "open ",
+            "start": 2.469,
+            "end": 2.73
+          },
+          {
+            "word": "market ",
+            "start": 2.741,
+            "end": 3.078
+          },
+          {
+            "word": "operations ",
+            "start": 3.089,
+            "end": 3.589
+          },
+          {
+            "word": "to ",
+            "start": 3.6,
+            "end": 3.708
+          },
+          {
+            "word": "inject ",
+            "start": 3.719,
+            "end": 4.089
+          },
+          {
+            "word": "reserves ",
+            "start": 4.1,
+            "end": 4.48
+          },
+          {
+            "word": "into ",
+            "start": 4.491,
+            "end": 4.697
+          },
+          {
+            "word": "the ",
+            "start": 4.708,
+            "end": 4.795
+          },
+          {
+            "word": "banking ",
+            "start": 4.806,
+            "end": 5.154
+          },
+          {
+            "word": "system ",
+            "start": 5.165,
+            "end": 5.534
+          },
+          {
+            "word": "and ",
+            "start": 5.545,
+            "end": 5.654
+          },
+          {
+            "word": "encouraging ",
+            "start": 5.665,
+            "end": 6.176
+          },
+          {
+            "word": "banks ",
+            "start": 6.186,
+            "end": 6.436
+          },
+          {
+            "word": "to ",
+            "start": 6.447,
+            "end": 6.513
+          },
+          {
+            "word": "continue ",
+            "start": 6.523,
+            "end": 6.915
+          },
+          {
+            "word": "lending ",
+            "start": 6.926,
+            "end": 7.241
+          },
+          {
+            "word": "to ",
+            "start": 7.252,
+            "end": 7.328
+          },
+          {
+            "word": "securities ",
+            "start": 7.339,
+            "end": 7.926
+          },
+          {
+            "word": "firms. ",
+            "start": 7.936,
+            "end": 8.458
+          },
+          {
+            "word": "The ",
+            "start": 9.202,
+            "end": 9.354
+          },
+          {
+            "word": "intervention ",
+            "start": 9.365,
+            "end": 9.865
+          },
+          {
+            "word": "was ",
+            "start": 9.876,
+            "end": 10.017
+          },
+          {
+            "word": "targeted ",
+            "start": 10.028,
+            "end": 10.473
+          },
+          {
+            "word": "and ",
+            "start": 10.484,
+            "end": 10.582
+          },
+          {
+            "word": "effective. ",
+            "start": 10.593,
+            "end": 11.126
+          },
+          {
+            "word": "Markets ",
+            "start": 11.876,
+            "end": 12.343
+          },
+          {
+            "word": "opened ",
+            "start": 12.354,
+            "end": 12.658
+          },
+          {
+            "word": "Tuesday. ",
+            "start": 12.669,
+            "end": 13.191
+          },
+          {
+            "word": "The ",
+            "start": 13.941,
+            "end": 14.071
+          },
+          {
+            "word": "panic ",
+            "start": 14.082,
+            "end": 14.354
+          },
+          {
+            "word": "did ",
+            "start": 14.365,
+            "end": 14.484
+          },
+          {
+            "word": "not ",
+            "start": 14.495,
+            "end": 14.68
+          },
+          {
+            "word": "spread ",
+            "start": 14.691,
+            "end": 14.984
+          },
+          {
+            "word": "to ",
+            "start": 14.995,
+            "end": 15.06
+          },
+          {
+            "word": "the ",
+            "start": 15.071,
+            "end": 15.158
+          },
+          {
+            "word": "banking ",
+            "start": 15.169,
+            "end": 15.528
+          },
+          {
+            "word": "system.",
+            "start": 15.539,
+            "end": 15.984
+          }
+        ],
+        "start": 648
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep13_solutions_2",
+        "audio_exists": true,
+        "audioPath": "episodes/ep13/audio/ep13_solutions_2.wav",
+        "text": "The Brady Commission report, issued in January 1988, identified portfolio insurance and the disconnect between futures and cash markets as the principal technical causes of the crash. It recommended circuit breakers — automatic trading halts — to allow markets to pause during extreme moves.",
+        "duration": 497,
+        "bgImage": "bg_interest_chart.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "Brady ",
+            "start": 0.241,
+            "end": 0.523
+          },
+          {
+            "word": "Commission ",
+            "start": 0.534,
+            "end": 0.882
+          },
+          {
+            "word": "report, ",
+            "start": 0.893,
+            "end": 1.284
+          },
+          {
+            "word": "issued ",
+            "start": 1.458,
+            "end": 1.708
+          },
+          {
+            "word": "in ",
+            "start": 1.719,
+            "end": 1.86
+          },
+          {
+            "word": "January 1988, ",
+            "start": 1.871,
+            "end": 3.121
+          },
+          {
+            "word": "identified ",
+            "start": 3.295,
+            "end": 3.828
+          },
+          {
+            "word": "portfolio ",
+            "start": 3.839,
+            "end": 4.415
+          },
+          {
+            "word": "insurance ",
+            "start": 4.426,
+            "end": 4.915
+          },
+          {
+            "word": "and ",
+            "start": 4.926,
+            "end": 5.002
+          },
+          {
+            "word": "the ",
+            "start": 5.013,
+            "end": 5.089
+          },
+          {
+            "word": "disconnect ",
+            "start": 5.1,
+            "end": 5.567
+          },
+          {
+            "word": "between ",
+            "start": 5.578,
+            "end": 5.904
+          },
+          {
+            "word": "futures ",
+            "start": 5.915,
+            "end": 6.339
+          },
+          {
+            "word": "and ",
+            "start": 6.35,
+            "end": 6.436
+          },
+          {
+            "word": "cash ",
+            "start": 6.447,
+            "end": 6.708
+          },
+          {
+            "word": "markets ",
+            "start": 6.719,
+            "end": 7.121
+          },
+          {
+            "word": "as ",
+            "start": 7.132,
+            "end": 7.208
+          },
+          {
+            "word": "the ",
+            "start": 7.219,
+            "end": 7.306
+          },
+          {
+            "word": "principal ",
+            "start": 7.317,
+            "end": 7.741
+          },
+          {
+            "word": "technical ",
+            "start": 7.752,
+            "end": 8.154
+          },
+          {
+            "word": "causes ",
+            "start": 8.165,
+            "end": 8.513
+          },
+          {
+            "word": "of ",
+            "start": 8.523,
+            "end": 8.589
+          },
+          {
+            "word": "the ",
+            "start": 8.6,
+            "end": 8.665
+          },
+          {
+            "word": "crash. ",
+            "start": 8.676,
+            "end": 9.154
+          },
+          {
+            "word": "It ",
+            "start": 9.897,
+            "end": 10.071
+          },
+          {
+            "word": "recommended ",
+            "start": 10.082,
+            "end": 10.582
+          },
+          {
+            "word": "circuit ",
+            "start": 10.593,
+            "end": 10.963
+          },
+          {
+            "word": "breakers — ",
+            "start": 10.973,
+            "end": 11.386
+          },
+          {
+            "word": "automatic ",
+            "start": 11.604,
+            "end": 12.115
+          },
+          {
+            "word": "trading ",
+            "start": 12.126,
+            "end": 12.452
+          },
+          {
+            "word": "halts — ",
+            "start": 12.463,
+            "end": 12.81
+          },
+          {
+            "word": "to ",
+            "start": 12.963,
+            "end": 13.071
+          },
+          {
+            "word": "allow ",
+            "start": 13.082,
+            "end": 13.278
+          },
+          {
+            "word": "markets ",
+            "start": 13.289,
+            "end": 13.734
+          },
+          {
+            "word": "to ",
+            "start": 13.745,
+            "end": 13.832
+          },
+          {
+            "word": "pause ",
+            "start": 13.843,
+            "end": 14.169
+          },
+          {
+            "word": "during ",
+            "start": 14.18,
+            "end": 14.473
+          },
+          {
+            "word": "extreme ",
+            "start": 14.484,
+            "end": 14.886
+          },
+          {
+            "word": "moves.",
+            "start": 14.897,
+            "end": 15.397
+          }
+        ],
+        "start": 1163
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep13_solutions_3",
+        "audio_exists": true,
+        "audioPath": "episodes/ep13/audio/ep13_solutions_3.wav",
+        "text": "Circuit breakers were implemented. The Chicago Mercantile Exchange and the New York Stock Exchange coordinated trading halts for extreme price movements. Margin requirements were adjusted. Coordination between exchanges was formalized. The market structure was hardened against the specific failure mode of 1987.",
+        "duration": 576,
+        "bgImage": "bg_recovery.jpg",
+        "wordTimings": [
+          {
+            "word": "Circuit ",
+            "start": 0.1,
+            "end": 0.556
+          },
+          {
+            "word": "breakers ",
+            "start": 0.567,
+            "end": 0.936
+          },
+          {
+            "word": "were ",
+            "start": 0.947,
+            "end": 1.056
+          },
+          {
+            "word": "implemented. ",
+            "start": 1.067,
+            "end": 1.686
+          },
+          {
+            "word": "The ",
+            "start": 2.43,
+            "end": 2.56
+          },
+          {
+            "word": "Chicago ",
+            "start": 2.571,
+            "end": 3.017
+          },
+          {
+            "word": "Mercantile ",
+            "start": 3.028,
+            "end": 3.571
+          },
+          {
+            "word": "Exchange ",
+            "start": 3.582,
+            "end": 3.995
+          },
+          {
+            "word": "and ",
+            "start": 4.006,
+            "end": 4.082
+          },
+          {
+            "word": "the ",
+            "start": 4.093,
+            "end": 4.147
+          },
+          {
+            "word": "New ",
+            "start": 4.158,
+            "end": 4.332
+          },
+          {
+            "word": "York ",
+            "start": 4.343,
+            "end": 4.582
+          },
+          {
+            "word": "Stock ",
+            "start": 4.593,
+            "end": 4.854
+          },
+          {
+            "word": "Exchange ",
+            "start": 4.865,
+            "end": 5.299
+          },
+          {
+            "word": "coordinated ",
+            "start": 5.31,
+            "end": 5.941
+          },
+          {
+            "word": "trading ",
+            "start": 5.952,
+            "end": 6.267
+          },
+          {
+            "word": "halts ",
+            "start": 6.278,
+            "end": 6.528
+          },
+          {
+            "word": "for ",
+            "start": 6.539,
+            "end": 6.658
+          },
+          {
+            "word": "extreme ",
+            "start": 6.669,
+            "end": 7.104
+          },
+          {
+            "word": "price ",
+            "start": 7.115,
+            "end": 7.397
+          },
+          {
+            "word": "movements. ",
+            "start": 7.408,
+            "end": 7.919
+          },
+          {
+            "word": "Margin ",
+            "start": 8.669,
+            "end": 9.093
+          },
+          {
+            "word": "requirements ",
+            "start": 9.104,
+            "end": 9.647
+          },
+          {
+            "word": "were ",
+            "start": 9.658,
+            "end": 9.821
+          },
+          {
+            "word": "adjusted. ",
+            "start": 9.832,
+            "end": 10.376
+          },
+          {
+            "word": "Coordination ",
+            "start": 11.126,
+            "end": 11.734
+          },
+          {
+            "word": "between ",
+            "start": 11.745,
+            "end": 12.071
+          },
+          {
+            "word": "exchanges ",
+            "start": 12.082,
+            "end": 12.615
+          },
+          {
+            "word": "was ",
+            "start": 12.626,
+            "end": 12.756
+          },
+          {
+            "word": "formalized. ",
+            "start": 12.767,
+            "end": 13.376
+          },
+          {
+            "word": "The ",
+            "start": 14.126,
+            "end": 14.245
+          },
+          {
+            "word": "market ",
+            "start": 14.256,
+            "end": 14.615
+          },
+          {
+            "word": "structure ",
+            "start": 14.626,
+            "end": 15.039
+          },
+          {
+            "word": "was ",
+            "start": 15.05,
+            "end": 15.191
+          },
+          {
+            "word": "hardened ",
+            "start": 15.202,
+            "end": 15.528
+          },
+          {
+            "word": "against ",
+            "start": 15.539,
+            "end": 15.81
+          },
+          {
+            "word": "the ",
+            "start": 15.821,
+            "end": 15.886
+          },
+          {
+            "word": "specific ",
+            "start": 15.897,
+            "end": 16.343
+          },
+          {
+            "word": "failure ",
+            "start": 16.354,
+            "end": 16.691
+          },
+          {
+            "word": "mode ",
+            "start": 16.702,
+            "end": 16.919
+          },
+          {
+            "word": "of ",
+            "start": 16.93,
+            "end": 17.006
+          },
+          {
+            "word": "1987.",
+            "start": 17.017,
+            "end": 18.039
+          }
+        ],
+        "start": 1660
+      }
+    ]
+  },
+  {
+    "id": "ep13_results",
+    "title": "Results",
+    "globalStart": 7513,
+    "duration": 2702,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Results"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep13_results_0",
+        "audio_exists": true,
+        "audioPath": "episodes/ep13/audio/ep13_results_0.wav",
+        "text": "The economic impact of Black Monday was surprisingly limited. The feared recession did not materialize. Consumer confidence dipped but recovered. The real economy grew in 1988. The crash was catastrophic for stock prices and negligible for employment and output — unusual in financial crisis history.",
+        "duration": 569,
+        "bgImage": "bg_recovery.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.252
+          },
+          {
+            "word": "economic ",
+            "start": 0.263,
+            "end": 0.73
+          },
+          {
+            "word": "impact ",
+            "start": 0.741,
+            "end": 1.089
+          },
+          {
+            "word": "of ",
+            "start": 1.1,
+            "end": 1.186
+          },
+          {
+            "word": "Black ",
+            "start": 1.197,
+            "end": 1.447
+          },
+          {
+            "word": "Monday ",
+            "start": 1.458,
+            "end": 1.773
+          },
+          {
+            "word": "was ",
+            "start": 1.784,
+            "end": 1.936
+          },
+          {
+            "word": "surprisingly ",
+            "start": 1.947,
+            "end": 2.523
+          },
+          {
+            "word": "limited. ",
+            "start": 2.534,
+            "end": 2.991
+          },
+          {
+            "word": "The ",
+            "start": 3.734,
+            "end": 3.854
+          },
+          {
+            "word": "feared ",
+            "start": 3.865,
+            "end": 4.136
+          },
+          {
+            "word": "recession ",
+            "start": 4.147,
+            "end": 4.571
+          },
+          {
+            "word": "did ",
+            "start": 4.582,
+            "end": 4.713
+          },
+          {
+            "word": "not ",
+            "start": 4.723,
+            "end": 4.908
+          },
+          {
+            "word": "materialize. ",
+            "start": 4.919,
+            "end": 5.756
+          },
+          {
+            "word": "Consumer ",
+            "start": 6.506,
+            "end": 6.973
+          },
+          {
+            "word": "confidence ",
+            "start": 6.984,
+            "end": 7.441
+          },
+          {
+            "word": "dipped ",
+            "start": 7.452,
+            "end": 7.691
+          },
+          {
+            "word": "but ",
+            "start": 7.702,
+            "end": 7.832
+          },
+          {
+            "word": "recovered. ",
+            "start": 7.843,
+            "end": 8.332
+          },
+          {
+            "word": "The ",
+            "start": 9.082,
+            "end": 9.234
+          },
+          {
+            "word": "real ",
+            "start": 9.245,
+            "end": 9.452
+          },
+          {
+            "word": "economy ",
+            "start": 9.463,
+            "end": 9.821
+          },
+          {
+            "word": "grew ",
+            "start": 9.832,
+            "end": 10.082
+          },
+          {
+            "word": "in 1988. ",
+            "start": 10.093,
+            "end": 11.223
+          },
+          {
+            "word": "The ",
+            "start": 11.973,
+            "end": 12.082
+          },
+          {
+            "word": "crash ",
+            "start": 12.093,
+            "end": 12.397
+          },
+          {
+            "word": "was ",
+            "start": 12.408,
+            "end": 12.539
+          },
+          {
+            "word": "catastrophic ",
+            "start": 12.55,
+            "end": 13.147
+          },
+          {
+            "word": "for ",
+            "start": 13.158,
+            "end": 13.245
+          },
+          {
+            "word": "stock ",
+            "start": 13.256,
+            "end": 13.517
+          },
+          {
+            "word": "prices ",
+            "start": 13.528,
+            "end": 13.908
+          },
+          {
+            "word": "and ",
+            "start": 13.919,
+            "end": 14.049
+          },
+          {
+            "word": "negligible ",
+            "start": 14.06,
+            "end": 14.528
+          },
+          {
+            "word": "for ",
+            "start": 14.539,
+            "end": 14.658
+          },
+          {
+            "word": "employment ",
+            "start": 14.669,
+            "end": 15.147
+          },
+          {
+            "word": "and ",
+            "start": 15.158,
+            "end": 15.223
+          },
+          {
+            "word": "output — ",
+            "start": 15.234,
+            "end": 15.647
+          },
+          {
+            "word": "unusual ",
+            "start": 15.843,
+            "end": 16.289
+          },
+          {
+            "word": "in ",
+            "start": 16.3,
+            "end": 16.419
+          },
+          {
+            "word": "financial ",
+            "start": 16.43,
+            "end": 16.963
+          },
+          {
+            "word": "crisis ",
+            "start": 16.973,
+            "end": 17.354
+          },
+          {
+            "word": "history.",
+            "start": 17.365,
+            "end": 17.789
+          }
+        ],
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep13_results_1",
+        "audio_exists": true,
+        "audioPath": "episodes/ep13/audio/ep13_results_1.wav",
+        "text": "The reason was the Fed's rapid and credible intervention. By assuring liquidity and encouraging banks to maintain credit lines, the Fed prevented the stock market crash from becoming a credit crisis. The transmission mechanism from financial markets to the real economy was blocked.",
+        "duration": 457,
+        "bgImage": "bg_interest_chart.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.241
+          },
+          {
+            "word": "reason ",
+            "start": 0.252,
+            "end": 0.578
+          },
+          {
+            "word": "was ",
+            "start": 0.589,
+            "end": 0.708
+          },
+          {
+            "word": "the ",
+            "start": 0.719,
+            "end": 0.795
+          },
+          {
+            "word": "Fed's ",
+            "start": 0.806,
+            "end": 1.089
+          },
+          {
+            "word": "rapid ",
+            "start": 1.1,
+            "end": 1.426
+          },
+          {
+            "word": "and ",
+            "start": 1.436,
+            "end": 1.534
+          },
+          {
+            "word": "credible ",
+            "start": 1.545,
+            "end": 1.926
+          },
+          {
+            "word": "intervention. ",
+            "start": 1.936,
+            "end": 2.523
+          },
+          {
+            "word": "By ",
+            "start": 3.267,
+            "end": 3.441
+          },
+          {
+            "word": "assuring ",
+            "start": 3.452,
+            "end": 3.821
+          },
+          {
+            "word": "liquidity ",
+            "start": 3.832,
+            "end": 4.289
+          },
+          {
+            "word": "and ",
+            "start": 4.3,
+            "end": 4.408
+          },
+          {
+            "word": "encouraging ",
+            "start": 4.419,
+            "end": 4.919
+          },
+          {
+            "word": "banks ",
+            "start": 4.93,
+            "end": 5.158
+          },
+          {
+            "word": "to ",
+            "start": 5.169,
+            "end": 5.256
+          },
+          {
+            "word": "maintain ",
+            "start": 5.267,
+            "end": 5.713
+          },
+          {
+            "word": "credit ",
+            "start": 5.723,
+            "end": 5.984
+          },
+          {
+            "word": "lines, ",
+            "start": 5.995,
+            "end": 6.343
+          },
+          {
+            "word": "the ",
+            "start": 6.539,
+            "end": 6.626
+          },
+          {
+            "word": "Fed ",
+            "start": 6.636,
+            "end": 6.865
+          },
+          {
+            "word": "prevented ",
+            "start": 6.876,
+            "end": 7.245
+          },
+          {
+            "word": "the ",
+            "start": 7.256,
+            "end": 7.321
+          },
+          {
+            "word": "stock ",
+            "start": 7.332,
+            "end": 7.582
+          },
+          {
+            "word": "market ",
+            "start": 7.593,
+            "end": 7.919
+          },
+          {
+            "word": "crash ",
+            "start": 7.93,
+            "end": 8.202
+          },
+          {
+            "word": "from ",
+            "start": 8.213,
+            "end": 8.354
+          },
+          {
+            "word": "becoming ",
+            "start": 8.365,
+            "end": 8.734
+          },
+          {
+            "word": "a ",
+            "start": 8.745,
+            "end": 8.789
+          },
+          {
+            "word": "credit ",
+            "start": 8.8,
+            "end": 9.104
+          },
+          {
+            "word": "crisis. ",
+            "start": 9.115,
+            "end": 9.68
+          },
+          {
+            "word": "The ",
+            "start": 10.43,
+            "end": 10.549
+          },
+          {
+            "word": "transmission ",
+            "start": 10.56,
+            "end": 11.104
+          },
+          {
+            "word": "mechanism ",
+            "start": 11.115,
+            "end": 11.582
+          },
+          {
+            "word": "from ",
+            "start": 11.593,
+            "end": 11.756
+          },
+          {
+            "word": "financial ",
+            "start": 11.767,
+            "end": 12.245
+          },
+          {
+            "word": "markets ",
+            "start": 12.256,
+            "end": 12.647
+          },
+          {
+            "word": "to ",
+            "start": 12.658,
+            "end": 12.745
+          },
+          {
+            "word": "the ",
+            "start": 12.756,
+            "end": 12.854
+          },
+          {
+            "word": "real ",
+            "start": 12.865,
+            "end": 13.093
+          },
+          {
+            "word": "economy ",
+            "start": 13.104,
+            "end": 13.463
+          },
+          {
+            "word": "was ",
+            "start": 13.473,
+            "end": 13.647
+          },
+          {
+            "word": "blocked.",
+            "start": 13.658,
+            "end": 14.071
+          }
+        ],
+        "start": 659
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep13_results_2",
+        "audio_exists": true,
+        "audioPath": "episodes/ep13/audio/ep13_results_2.wav",
+        "text": "Black Monday established what came to be called the 'Greenspan put' — the expectation that the Federal Reserve would intervene to stabilize financial markets in a crisis. This expectation created moral hazard: if the Fed would cushion market downturns, risk-taking was subsidized. The implications would compound over the following two decades.",
+        "duration": 553,
+        "bgImage": "bg_wallstreet.jpg",
+        "wordTimings": [
+          {
+            "word": "Black ",
+            "start": 0.1,
+            "end": 0.393
+          },
+          {
+            "word": "Monday ",
+            "start": 0.404,
+            "end": 0.741
+          },
+          {
+            "word": "established ",
+            "start": 0.752,
+            "end": 1.252
+          },
+          {
+            "word": "what ",
+            "start": 1.263,
+            "end": 1.415
+          },
+          {
+            "word": "came ",
+            "start": 1.426,
+            "end": 1.621
+          },
+          {
+            "word": "to ",
+            "start": 1.632,
+            "end": 1.697
+          },
+          {
+            "word": "be ",
+            "start": 1.708,
+            "end": 1.806
+          },
+          {
+            "word": "called ",
+            "start": 1.817,
+            "end": 2.089
+          },
+          {
+            "word": "the '",
+            "start": 2.1,
+            "end": 2.165
+          },
+          {
+            "word": "Greenspan ",
+            "start": 2.176,
+            "end": 2.697
+          },
+          {
+            "word": "put' — ",
+            "start": 2.708,
+            "end": 2.947
+          },
+          {
+            "word": "the ",
+            "start": 3.11,
+            "end": 3.23
+          },
+          {
+            "word": "expectation ",
+            "start": 3.241,
+            "end": 3.86
+          },
+          {
+            "word": "that ",
+            "start": 3.871,
+            "end": 3.969
+          },
+          {
+            "word": "the ",
+            "start": 3.98,
+            "end": 4.045
+          },
+          {
+            "word": "Federal ",
+            "start": 4.056,
+            "end": 4.382
+          },
+          {
+            "word": "Reserve ",
+            "start": 4.393,
+            "end": 4.773
+          },
+          {
+            "word": "would ",
+            "start": 4.784,
+            "end": 4.893
+          },
+          {
+            "word": "intervene ",
+            "start": 4.904,
+            "end": 5.295
+          },
+          {
+            "word": "to ",
+            "start": 5.306,
+            "end": 5.382
+          },
+          {
+            "word": "stabilize ",
+            "start": 5.393,
+            "end": 5.915
+          },
+          {
+            "word": "financial ",
+            "start": 5.926,
+            "end": 6.426
+          },
+          {
+            "word": "markets ",
+            "start": 6.436,
+            "end": 6.828
+          },
+          {
+            "word": "in ",
+            "start": 6.839,
+            "end": 6.904
+          },
+          {
+            "word": "a ",
+            "start": 6.915,
+            "end": 6.958
+          },
+          {
+            "word": "crisis. ",
+            "start": 6.969,
+            "end": 7.534
+          },
+          {
+            "word": "This ",
+            "start": 8.278,
+            "end": 8.506
+          },
+          {
+            "word": "expectation ",
+            "start": 8.517,
+            "end": 9.126
+          },
+          {
+            "word": "created ",
+            "start": 9.136,
+            "end": 9.539
+          },
+          {
+            "word": "moral ",
+            "start": 9.55,
+            "end": 9.8
+          },
+          {
+            "word": "hazard: ",
+            "start": 9.81,
+            "end": 10.136
+          },
+          {
+            "word": "if ",
+            "start": 10.289,
+            "end": 10.376
+          },
+          {
+            "word": "the ",
+            "start": 10.386,
+            "end": 10.463
+          },
+          {
+            "word": "Fed ",
+            "start": 10.473,
+            "end": 10.713
+          },
+          {
+            "word": "would ",
+            "start": 10.723,
+            "end": 10.843
+          },
+          {
+            "word": "cushion ",
+            "start": 10.854,
+            "end": 11.136
+          },
+          {
+            "word": "market ",
+            "start": 11.147,
+            "end": 11.473
+          },
+          {
+            "word": "downturns, ",
+            "start": 11.484,
+            "end": 12.093
+          },
+          {
+            "word": "risk-taking ",
+            "start": 12.289,
+            "end": 12.8
+          },
+          {
+            "word": "was ",
+            "start": 12.81,
+            "end": 12.941
+          },
+          {
+            "word": "subsidized. ",
+            "start": 12.952,
+            "end": 13.778
+          },
+          {
+            "word": "The ",
+            "start": 14.528,
+            "end": 14.68
+          },
+          {
+            "word": "implications ",
+            "start": 14.691,
+            "end": 15.278
+          },
+          {
+            "word": "would ",
+            "start": 15.289,
+            "end": 15.419
+          },
+          {
+            "word": "compound ",
+            "start": 15.43,
+            "end": 15.876
+          },
+          {
+            "word": "over ",
+            "start": 15.886,
+            "end": 16.06
+          },
+          {
+            "word": "the ",
+            "start": 16.071,
+            "end": 16.147
+          },
+          {
+            "word": "following ",
+            "start": 16.158,
+            "end": 16.495
+          },
+          {
+            "word": "two ",
+            "start": 16.506,
+            "end": 16.691
+          },
+          {
+            "word": "decades.",
+            "start": 16.702,
+            "end": 17.267
+          }
+        ],
+        "start": 1116
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep13_results_3",
+        "audio_exists": true,
+        "audioPath": "episodes/ep13/audio/ep13_results_3.wav",
+        "text": "The market's recovery also established a template for financial crisis response: central bank liquidity provision, followed by structural reform of market infrastructure. This template would be deployed repeatedly, with diminishing effect, in subsequent crises. Each intervention solved the immediate problem while creating the conditions for the next.",
+        "duration": 563,
+        "bgImage": "bg_city_night.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.219
+          },
+          {
+            "word": "market's ",
+            "start": 0.23,
+            "end": 0.621
+          },
+          {
+            "word": "recovery ",
+            "start": 0.632,
+            "end": 1.002
+          },
+          {
+            "word": "also ",
+            "start": 1.013,
+            "end": 1.295
+          },
+          {
+            "word": "established ",
+            "start": 1.306,
+            "end": 1.795
+          },
+          {
+            "word": "a ",
+            "start": 1.806,
+            "end": 1.849
+          },
+          {
+            "word": "template ",
+            "start": 1.86,
+            "end": 2.273
+          },
+          {
+            "word": "for ",
+            "start": 2.284,
+            "end": 2.36
+          },
+          {
+            "word": "financial ",
+            "start": 2.371,
+            "end": 2.893
+          },
+          {
+            "word": "crisis ",
+            "start": 2.904,
+            "end": 3.273
+          },
+          {
+            "word": "response: ",
+            "start": 3.284,
+            "end": 3.763
+          },
+          {
+            "word": "central ",
+            "start": 3.926,
+            "end": 4.273
+          },
+          {
+            "word": "bank ",
+            "start": 4.284,
+            "end": 4.513
+          },
+          {
+            "word": "liquidity ",
+            "start": 4.523,
+            "end": 4.936
+          },
+          {
+            "word": "provision, ",
+            "start": 4.947,
+            "end": 5.349
+          },
+          {
+            "word": "followed ",
+            "start": 5.545,
+            "end": 5.839
+          },
+          {
+            "word": "by ",
+            "start": 5.85,
+            "end": 5.98
+          },
+          {
+            "word": "structural ",
+            "start": 5.991,
+            "end": 6.534
+          },
+          {
+            "word": "reform ",
+            "start": 6.545,
+            "end": 6.904
+          },
+          {
+            "word": "of ",
+            "start": 6.915,
+            "end": 6.991
+          },
+          {
+            "word": "market ",
+            "start": 7.002,
+            "end": 7.349
+          },
+          {
+            "word": "infrastructure. ",
+            "start": 7.36,
+            "end": 8.11
+          },
+          {
+            "word": "This ",
+            "start": 8.854,
+            "end": 9.082
+          },
+          {
+            "word": "template ",
+            "start": 9.093,
+            "end": 9.473
+          },
+          {
+            "word": "would ",
+            "start": 9.484,
+            "end": 9.593
+          },
+          {
+            "word": "be ",
+            "start": 9.604,
+            "end": 9.68
+          },
+          {
+            "word": "deployed ",
+            "start": 9.691,
+            "end": 10.082
+          },
+          {
+            "word": "repeatedly, ",
+            "start": 10.093,
+            "end": 10.647
+          },
+          {
+            "word": "with ",
+            "start": 10.8,
+            "end": 10.897
+          },
+          {
+            "word": "diminishing ",
+            "start": 10.908,
+            "end": 11.343
+          },
+          {
+            "word": "effect, ",
+            "start": 11.354,
+            "end": 11.691
+          },
+          {
+            "word": "in ",
+            "start": 11.865,
+            "end": 11.984
+          },
+          {
+            "word": "subsequent ",
+            "start": 11.995,
+            "end": 12.528
+          },
+          {
+            "word": "crises. ",
+            "start": 12.539,
+            "end": 13.234
+          },
+          {
+            "word": "Each ",
+            "start": 13.984,
+            "end": 14.223
+          },
+          {
+            "word": "intervention ",
+            "start": 14.234,
+            "end": 14.745
+          },
+          {
+            "word": "solved ",
+            "start": 14.756,
+            "end": 15.017
+          },
+          {
+            "word": "the ",
+            "start": 15.028,
+            "end": 15.104
+          },
+          {
+            "word": "immediate ",
+            "start": 15.115,
+            "end": 15.56
+          },
+          {
+            "word": "problem ",
+            "start": 15.571,
+            "end": 15.919
+          },
+          {
+            "word": "while ",
+            "start": 15.93,
+            "end": 16.093
+          },
+          {
+            "word": "creating ",
+            "start": 16.104,
+            "end": 16.495
+          },
+          {
+            "word": "the ",
+            "start": 16.506,
+            "end": 16.56
+          },
+          {
+            "word": "conditions ",
+            "start": 16.571,
+            "end": 17.028
+          },
+          {
+            "word": "for ",
+            "start": 17.039,
+            "end": 17.115
+          },
+          {
+            "word": "the ",
+            "start": 17.126,
+            "end": 17.191
+          },
+          {
+            "word": "next.",
+            "start": 17.202,
+            "end": 17.604
+          }
+        ],
+        "start": 1669
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep13_results_4",
+        "audio_exists": true,
+        "audioPath": "episodes/ep13/audio/ep13_results_4.wav",
+        "text": "Greenspan's willingness to act — and markets' expectation that he would — was built on the credibility that Volcker had reconstructed after the stagflation crisis (Episode 6). The Greenspan put was only credible because the Volcker precedent had proven the Fed could act decisively when the stakes were existential.",
+        "duration": 470,
+        "bgImage": "bg_recovery.jpg",
+        "wordTimings": [
+          {
+            "word": "Greenspan's ",
+            "start": 0.1,
+            "end": 0.763
+          },
+          {
+            "word": "willingness ",
+            "start": 0.773,
+            "end": 1.176
+          },
+          {
+            "word": "to ",
+            "start": 1.186,
+            "end": 1.263
+          },
+          {
+            "word": "act — ",
+            "start": 1.273,
+            "end": 1.567
+          },
+          {
+            "word": "and ",
+            "start": 1.73,
+            "end": 1.828
+          },
+          {
+            "word": "markets' ",
+            "start": 1.839,
+            "end": 2.219
+          },
+          {
+            "word": "expectation ",
+            "start": 2.23,
+            "end": 2.849
+          },
+          {
+            "word": "that ",
+            "start": 2.86,
+            "end": 2.98
+          },
+          {
+            "word": "he ",
+            "start": 2.991,
+            "end": 3.078
+          },
+          {
+            "word": "would — ",
+            "start": 3.089,
+            "end": 3.295
+          },
+          {
+            "word": "was ",
+            "start": 3.469,
+            "end": 3.599
+          },
+          {
+            "word": "built ",
+            "start": 3.61,
+            "end": 3.871
+          },
+          {
+            "word": "on ",
+            "start": 3.882,
+            "end": 3.958
+          },
+          {
+            "word": "the ",
+            "start": 3.969,
+            "end": 4.023
+          },
+          {
+            "word": "credibility ",
+            "start": 4.034,
+            "end": 4.589
+          },
+          {
+            "word": "that ",
+            "start": 4.6,
+            "end": 4.763
+          },
+          {
+            "word": "Volcker ",
+            "start": 4.773,
+            "end": 5.045
+          },
+          {
+            "word": "had ",
+            "start": 5.056,
+            "end": 5.219
+          },
+          {
+            "word": "reconstructed ",
+            "start": 5.23,
+            "end": 5.871
+          },
+          {
+            "word": "after ",
+            "start": 5.882,
+            "end": 6.1
+          },
+          {
+            "word": "the ",
+            "start": 6.11,
+            "end": 6.186
+          },
+          {
+            "word": "stagflation ",
+            "start": 6.197,
+            "end": 6.773
+          },
+          {
+            "word": "crisis (",
+            "start": 6.784,
+            "end": 7.241
+          },
+          {
+            "word": "Episode ",
+            "start": 7.415,
+            "end": 7.773
+          },
+          {
+            "word": "6). ",
+            "start": 7.784,
+            "end": 8.176
+          },
+          {
+            "word": "The ",
+            "start": 8.919,
+            "end": 9.049
+          },
+          {
+            "word": "Greenspan ",
+            "start": 9.06,
+            "end": 9.56
+          },
+          {
+            "word": "put ",
+            "start": 9.571,
+            "end": 9.723
+          },
+          {
+            "word": "was ",
+            "start": 9.734,
+            "end": 9.865
+          },
+          {
+            "word": "only ",
+            "start": 9.876,
+            "end": 10.082
+          },
+          {
+            "word": "credible ",
+            "start": 10.093,
+            "end": 10.495
+          },
+          {
+            "word": "because ",
+            "start": 10.506,
+            "end": 10.702
+          },
+          {
+            "word": "the ",
+            "start": 10.713,
+            "end": 10.778
+          },
+          {
+            "word": "Volcker ",
+            "start": 10.789,
+            "end": 11.093
+          },
+          {
+            "word": "precedent ",
+            "start": 11.104,
+            "end": 11.452
+          },
+          {
+            "word": "had ",
+            "start": 11.463,
+            "end": 11.582
+          },
+          {
+            "word": "proven ",
+            "start": 11.593,
+            "end": 11.876
+          },
+          {
+            "word": "the ",
+            "start": 11.886,
+            "end": 11.963
+          },
+          {
+            "word": "Fed ",
+            "start": 11.973,
+            "end": 12.223
+          },
+          {
+            "word": "could ",
+            "start": 12.234,
+            "end": 12.365
+          },
+          {
+            "word": "act ",
+            "start": 12.376,
+            "end": 12.539
+          },
+          {
+            "word": "decisively ",
+            "start": 12.55,
+            "end": 13.082
+          },
+          {
+            "word": "when ",
+            "start": 13.093,
+            "end": 13.234
+          },
+          {
+            "word": "the ",
+            "start": 13.245,
+            "end": 13.321
+          },
+          {
+            "word": "stakes ",
+            "start": 13.332,
+            "end": 13.626
+          },
+          {
+            "word": "were ",
+            "start": 13.636,
+            "end": 13.778
+          },
+          {
+            "word": "existential.",
+            "start": 13.789,
+            "end": 14.484
+          }
+        ],
+        "start": 2232
+      }
+    ]
+  },
+  {
+    "id": "credits",
+    "title": "Credits",
+    "globalStart": 10215,
+    "duration": 440,
+    "subSlides": [
+      {
+        "type": "credits",
+        "start": 0,
+        "duration": 440,
+        "audioSrc": "audio/outro_narration.wav"
+      }
+    ]
+  }
+]

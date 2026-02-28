@@ -1,0 +1,31 @@
+# The Event
+
+## The Peak of All Peaks
+
+On December 29, 1989, the Nikkei 225 stock index closed at 38,915 — its all-time high and the culmination of one of the most extraordinary asset price expansions in economic history. The Japanese property market had reached valuations so extreme that the grounds of the Imperial Palace in central Tokyo were estimated to be worth more than the entire state of California — approximately half a trillion dollars for a few dozen acres. The land under the Ginza shopping district sold at prices that implied a value greater than the entire landmass of Canada.
+
+Both the Nikkei and the property market would fall, and keep falling, for years.
+
+The bubble's construction had taken a decade. The Plaza Accord of September 1985 — an agreement among the G-5 countries (the US, UK, Japan, West Germany, and France) to coordinate intervention in currency markets to depreciate the US dollar — deliberately engineered an appreciation of the yen. The yen rose from approximately 250 per dollar before the accord to 150 per dollar by 1987. Japanese export competitiveness fell. The Bank of Japan, alarmed by the economic slowdown that yen appreciation was causing, cut interest rates sharply — from five percent in 1985 to two and a half percent by 1987 — one of the lowest rates in the developed world at that time.
+
+## The Credit Expansion
+
+Cheap money created an asset boom that overwhelmed the Bank of Japan's intentions. Banks, awash in deposits and facing artificially depressed lending rates, lent aggressively against rising asset collateral. The circularity was self-reinforcing: banks lent against land; land prices rose because banks were lending against them; rising land prices increased the collateral value of existing loans, enabling more lending; more lending drove land prices higher.
+
+Japanese corporations participated eagerly. With collateral rising, companies borrowed against their land holdings to purchase other companies, to acquire financial assets, and to fund expansion. The Nikkei tripled between 1985 and 1989. Land prices in the six largest Japanese cities rose ninety percent in four years. Stock portfolios and real estate holdings appeared to have become one-way wealth creators — and since they were collateralizing bank loans, the banks that financed them appeared to be strengthening.
+
+The international dimension amplified the domestic bubble. Japanese companies and investors, flush with capital and encouraged by the yen's appreciation, went on a buying spree overseas: Rockefeller Center in New York, Columbia Pictures in Hollywood, Pebble Beach golf course in California, trophy assets across Europe and America. The purchases reinforced the perception that Japanese finance had reached a level of strength that made normal valuation metrics irrelevant.
+
+## The Bank of Japan Tightens
+
+The Bank of Japan raised interest rates five times between May 1989 and August 1990, taking the official rate from two and a half percent to six percent. The tightening was intended to cool the asset price inflation and address concerns about speculative excess. It worked too effectively. Asset prices that had been elevated solely by cheap money collapsed when money became expensive.
+
+The Nikkei fell forty percent by October 1990 — losing more in ten months than it had gained in the preceding three years. The property market, more illiquid, declined more slowly but more persistently. Residential land prices in Tokyo would fall for fifteen consecutive years. Commercial property values in the major cities fell more than eighty percent from their peaks, a decline without precedent in any advanced economy in the postwar era.
+
+## The Emergence of the Zombie Economy
+
+By 1992, Japan's banking system was technically insolvent. Banks had extended loans against real estate collateral that was now worth a fraction of the outstanding loan balances. A bank that had lent one hundred million yen against commercial property now worth twenty million yen faced an eighty million yen loss on that single transaction — multiplied across tens of thousands of similar loans across the banking system.
+
+The rational response — the response that would have maximized recovery and minimized long-term costs — was to recognize the losses, write down the loan books, recapitalize the banks through equity issuance or government intervention, and allow the banking system to resume its normal function of channeling savings to productive investment. This is what the United States would do, imperfectly but more decisively, when its own banking crisis arrived in 2008–2009.
+
+Japan did not do this. Japanese banking culture, regulatory pressure, and political economy combined to produce a different response: the losses were not recognized. Banks continued to carry the impaired loans at their original values, extending and rolling over the credits rather than writing them off, keeping technically insolvent borrowers technically alive. These became the "zombie loans" that would define Japan's lost decade — and zombie companies, kept alive by zombie banks, continued to occupy market share and labor that productive new entrants needed.

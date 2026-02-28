@@ -1,0 +1,31 @@
+# The Problems
+
+## The Illusion of Liquidity
+
+The first structural problem that Black Monday exposed was what might be called the illusion of liquidity: the assumption that financial instruments which are liquid under normal conditions will remain liquid under stress. Portfolio insurance — and many other hedging strategies developed in the 1980s — had been designed and validated using data from normal market conditions. Those conditions included the implicit assumption that a large institution could execute a large trade without materially moving the price of the instrument being traded.
+
+This assumption is reasonable when a single institution is trading. It breaks down catastrophically when every institution with a portfolio insurance strategy is executing the same trade simultaneously. When sixty billion dollars worth of portfolios all require selling futures contracts as the market falls, the supply of buyers for those contracts is overwhelmed. The market's ability to absorb selling without moving prices — its depth, in the terminology of market microstructure — is a function of who is on the other side. If every institution is on the same side of the trade simultaneously, there is no other side, and the assumption of liquidity evaporates.
+
+The academic literature had a name for this problem: endogenous risk. The risk that a strategy was designed to hedge against was partly created by the strategy itself. Portfolio insurance was individually rational and collectively destabilizing. A small number of institutions implementing it would not have created problems. The sixty billion dollars that had accumulated in portfolio insurance strategies by October 1987 was enough to be the market rather than merely a participant in it.
+
+## The Feedback Loop
+
+The second structural problem was the feedback loop between program trading and prices. The electronic trading systems that executed portfolio insurance strategies were designed to sell as prices fell, without discretion or limit. They did not ask whether the fall in futures prices reflected genuine information about the future earning power of American corporations — information that might justify selling the underlying stocks. They simply responded mechanically to price signals.
+
+This mechanical response created a feedback loop. Falling prices triggered selling. Selling caused further price falls. Further price falls triggered more selling. The loop had no natural stabilizer built in — no point at which the selling would stop because prices had fallen to a level that attracted buyers in sufficient volume to overwhelm the selling pressure.
+
+The absence of circuit breakers — mechanisms that would have automatically paused trading when prices fell beyond specified thresholds — meant that the feedback loop ran without interruption for the entire trading day. In markets elsewhere in the world, trading pauses, price limits, and other circuit breakers interrupted the cascade. The American equity markets in 1987 had no such mechanisms. The market was permitted, by design, to fall without limit in a single day.
+
+## The Disconnect Between Markets
+
+The third structural problem was the disconnect between the futures market and the underlying stock market. Modern finance assumes that related markets — stocks and stock index futures — will remain closely linked by arbitrage. This assumption underlies the pricing of derivatives and the design of hedging strategies. When the linkage breaks, positions hedged with derivatives may not behave as expected.
+
+The breakdown occurred because arbitrage requires not just the willingness to trade but the capacity to do so: credit to finance positions, execution speed to enter and exit trades, and counterparties willing to take the other side. When all of these were simultaneously unavailable — as credit lines were being cut, execution systems were overwhelmed, and market-makers were stepping back — the arbitrage mechanism that normally maintained the link between markets failed.
+
+The practical consequence was that investors who thought they were hedged via futures were not hedged. Their stock portfolios were falling while their futures hedges were trading at prices that did not reflect the underlying market. The hedge had become a source of additional risk rather than a protection against it.
+
+## The Fed's Critical Test
+
+The Federal Reserve, under Alan Greenspan who had been in office for only two months, faced a critical test. If banks withdrew credit from securities dealers and broker-dealers — responding to the uncertainty of Monday's crash by reducing exposure to financial intermediaries that might fail — the market might not open on Tuesday. The clearing and settlement infrastructure of the US financial system depended on dealers maintaining credit lines to finance their inventory and their customers' positions overnight.
+
+The decision Greenspan faced was whether to signal the Fed's support for financial market stability before Tuesday's opening — and whether such a signal would be credible enough to prevent banks from withdrawing credit in the interval between Monday's close and Tuesday's opening. The stakes were genuinely existential for the financial system. If the markets could not open on Tuesday, the implications for confidence in American financial institutions were impossible to predict.

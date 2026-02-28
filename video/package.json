@@ -12,17 +12,21 @@
         "render:ep6": "node node_modules/@remotion/cli/remotion-cli.js render src/index.ts Episode6 out/Episode6-GreatInflation.mp4 --concurrency=4"
     },
     "dependencies": {
-        "@remotion/cli": "4.0.427",
+        "@remotion/cli": "4.0.429",
+        "@remotion/google-fonts": "4.0.429",
+        "@remotion/skia": "^4.0.429",
+        "@remotion/transitions": "4.0.429",
         "kokoro-js": "^1.2.1",
+        "node-edge-tts": "^1.2.10",
         "onnxruntime-node": "^1.24.2",
         "react": "19.2.4",
         "react-dom": "19.2.4",
-        "remotion": "4.0.427",
+        "remotion": "4.0.429",
         "wavefile": "^11.0.0"
     },
     "devDependencies": {
         "@types/react": "19.2.14",
         "@types/react-dom": "19.2.3",
-        "typescript": "5.9.3"
+        "typescript": "^5.9.3"
     }
 }

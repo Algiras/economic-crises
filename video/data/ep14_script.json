@@ -1,0 +1,4727 @@
+[
+  {
+    "id": "intro",
+    "title": "Intro",
+    "globalStart": 0,
+    "duration": 187,
+    "episode": 12,
+    "episodeMeta": {
+      "title": "The Dot-com Crash",
+      "subtitle": "2000–2001"
+    },
+    "subSlides": [
+      {
+        "type": "intro",
+        "start": 0,
+        "duration": 187,
+        "audioSrc": "episodes/ep14/intro.wav"
+      }
+    ]
+  },
+  {
+    "id": "ep14_event",
+    "title": "Event",
+    "globalStart": 187,
+    "duration": 3412,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Event"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep14_event_0",
+        "audio_exists": true,
+        "audioPath": "episodes/ep14/audio/ep14_event_0.wav",
+        "text": "On March 10, 2000, the NASDAQ Composite Index peaked at 5,048 — five times its level four years earlier. Within eighteen months, it would fall seventy-eight percent. Five trillion dollars in market value evaporated. The dot-com crash ended the longest bull market in American history and the first great speculative mania of the internet age.",
+        "duration": 632,
+        "bgImage": "bg_dotcom.jpg",
+        "wordTimings": [
+          {
+            "word": "On ",
+            "start": 0.1,
+            "end": 0.306
+          },
+          {
+            "word": "March 10, 2000, ",
+            "start": 0.317,
+            "end": 1.676
+          },
+          {
+            "word": "the ",
+            "start": 1.839,
+            "end": 1.915
+          },
+          {
+            "word": "NASDAQ ",
+            "start": 1.926,
+            "end": 2.382
+          },
+          {
+            "word": "Composite ",
+            "start": 2.393,
+            "end": 2.795
+          },
+          {
+            "word": "Index ",
+            "start": 2.806,
+            "end": 3.121
+          },
+          {
+            "word": "peaked ",
+            "start": 3.132,
+            "end": 3.371
+          },
+          {
+            "word": "at ",
+            "start": 3.382,
+            "end": 3.458
+          },
+          {
+            "word": "5,048 — ",
+            "start": 3.469,
+            "end": 4.828
+          },
+          {
+            "word": "five ",
+            "start": 4.98,
+            "end": 5.273
+          },
+          {
+            "word": "times ",
+            "start": 5.284,
+            "end": 5.589
+          },
+          {
+            "word": "its ",
+            "start": 5.6,
+            "end": 5.73
+          },
+          {
+            "word": "level ",
+            "start": 5.741,
+            "end": 6.013
+          },
+          {
+            "word": "four ",
+            "start": 6.023,
+            "end": 6.143
+          },
+          {
+            "word": "years ",
+            "start": 6.154,
+            "end": 6.426
+          },
+          {
+            "word": "earlier. ",
+            "start": 6.436,
+            "end": 6.828
+          },
+          {
+            "word": "Within ",
+            "start": 7.571,
+            "end": 7.886
+          },
+          {
+            "word": "eighteen ",
+            "start": 7.897,
+            "end": 8.213
+          },
+          {
+            "word": "months, ",
+            "start": 8.223,
+            "end": 8.571
+          },
+          {
+            "word": "it ",
+            "start": 8.745,
+            "end": 8.81
+          },
+          {
+            "word": "would ",
+            "start": 8.821,
+            "end": 8.93
+          },
+          {
+            "word": "fall ",
+            "start": 8.941,
+            "end": 9.213
+          },
+          {
+            "word": "seventy-eight ",
+            "start": 9.223,
+            "end": 9.756
+          },
+          {
+            "word": "percent. ",
+            "start": 9.767,
+            "end": 10.245
+          },
+          {
+            "word": "Five ",
+            "start": 10.995,
+            "end": 11.386
+          },
+          {
+            "word": "trillion ",
+            "start": 11.397,
+            "end": 11.745
+          },
+          {
+            "word": "dollars ",
+            "start": 11.756,
+            "end": 12.049
+          },
+          {
+            "word": "in ",
+            "start": 12.06,
+            "end": 12.169
+          },
+          {
+            "word": "market ",
+            "start": 12.18,
+            "end": 12.549
+          },
+          {
+            "word": "value ",
+            "start": 12.56,
+            "end": 12.865
+          },
+          {
+            "word": "evaporated. ",
+            "start": 12.876,
+            "end": 13.56
+          },
+          {
+            "word": "The ",
+            "start": 14.31,
+            "end": 14.441
+          },
+          {
+            "word": "dot-com ",
+            "start": 14.452,
+            "end": 14.832
+          },
+          {
+            "word": "crash ",
+            "start": 14.843,
+            "end": 15.126
+          },
+          {
+            "word": "ended ",
+            "start": 15.136,
+            "end": 15.365
+          },
+          {
+            "word": "the ",
+            "start": 15.376,
+            "end": 15.441
+          },
+          {
+            "word": "longest ",
+            "start": 15.452,
+            "end": 15.821
+          },
+          {
+            "word": "bull ",
+            "start": 15.832,
+            "end": 16.028
+          },
+          {
+            "word": "market ",
+            "start": 16.039,
+            "end": 16.365
+          },
+          {
+            "word": "in ",
+            "start": 16.376,
+            "end": 16.452
+          },
+          {
+            "word": "American ",
+            "start": 16.463,
+            "end": 16.821
+          },
+          {
+            "word": "history ",
+            "start": 16.832,
+            "end": 17.202
+          },
+          {
+            "word": "and ",
+            "start": 17.213,
+            "end": 17.31
+          },
+          {
+            "word": "the ",
+            "start": 17.321,
+            "end": 17.376
+          },
+          {
+            "word": "first ",
+            "start": 17.386,
+            "end": 17.713
+          },
+          {
+            "word": "great ",
+            "start": 17.723,
+            "end": 17.984
+          },
+          {
+            "word": "speculative ",
+            "start": 17.995,
+            "end": 18.495
+          },
+          {
+            "word": "mania ",
+            "start": 18.506,
+            "end": 18.876
+          },
+          {
+            "word": "of ",
+            "start": 18.886,
+            "end": 18.952
+          },
+          {
+            "word": "the ",
+            "start": 18.963,
+            "end": 19.06
+          },
+          {
+            "word": "internet ",
+            "start": 19.071,
+            "end": 19.484
+          },
+          {
+            "word": "age.",
+            "start": 19.495,
+            "end": 19.897
+          }
+        ],
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep14_event_1",
+        "audio_exists": true,
+        "audioPath": "episodes/ep14/audio/ep14_event_1.wav",
+        "text": "The origins were technological and financial. The internet was genuinely transformative — but in 1999, investors priced every dot-com company as if it would capture an unlimited share of an unlimited market. Pets.com, Webvan, Boo.com: companies with no profits, no viable business models, and no plausible path to viability raised hundreds of millions of dollars.",
+        "duration": 669,
+        "bgImage": "bg_stock_red.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.263
+          },
+          {
+            "word": "origins ",
+            "start": 0.273,
+            "end": 0.697
+          },
+          {
+            "word": "were ",
+            "start": 0.708,
+            "end": 0.806
+          },
+          {
+            "word": "technological ",
+            "start": 0.817,
+            "end": 1.48
+          },
+          {
+            "word": "and ",
+            "start": 1.491,
+            "end": 1.567
+          },
+          {
+            "word": "financial. ",
+            "start": 1.578,
+            "end": 2.219
+          },
+          {
+            "word": "The ",
+            "start": 2.963,
+            "end": 3.093
+          },
+          {
+            "word": "internet ",
+            "start": 3.104,
+            "end": 3.528
+          },
+          {
+            "word": "was ",
+            "start": 3.539,
+            "end": 3.68
+          },
+          {
+            "word": "genuinely ",
+            "start": 3.691,
+            "end": 4.169
+          },
+          {
+            "word": "transformative — ",
+            "start": 4.18,
+            "end": 4.984
+          },
+          {
+            "word": "but ",
+            "start": 5.147,
+            "end": 5.267
+          },
+          {
+            "word": "in 1999, ",
+            "start": 5.278,
+            "end": 6.365
+          },
+          {
+            "word": "investors ",
+            "start": 6.56,
+            "end": 7.006
+          },
+          {
+            "word": "priced ",
+            "start": 7.017,
+            "end": 7.376
+          },
+          {
+            "word": "every ",
+            "start": 7.386,
+            "end": 7.582
+          },
+          {
+            "word": "dot-com ",
+            "start": 7.593,
+            "end": 7.963
+          },
+          {
+            "word": "company ",
+            "start": 7.973,
+            "end": 8.354
+          },
+          {
+            "word": "as ",
+            "start": 8.365,
+            "end": 8.452
+          },
+          {
+            "word": "if ",
+            "start": 8.463,
+            "end": 8.56
+          },
+          {
+            "word": "it ",
+            "start": 8.571,
+            "end": 8.647
+          },
+          {
+            "word": "would ",
+            "start": 8.658,
+            "end": 8.799
+          },
+          {
+            "word": "capture ",
+            "start": 8.81,
+            "end": 9.191
+          },
+          {
+            "word": "an ",
+            "start": 9.202,
+            "end": 9.299
+          },
+          {
+            "word": "unlimited ",
+            "start": 9.31,
+            "end": 9.778
+          },
+          {
+            "word": "share ",
+            "start": 9.789,
+            "end": 9.995
+          },
+          {
+            "word": "of ",
+            "start": 10.006,
+            "end": 10.136
+          },
+          {
+            "word": "an ",
+            "start": 10.147,
+            "end": 10.213
+          },
+          {
+            "word": "unlimited ",
+            "start": 10.223,
+            "end": 10.691
+          },
+          {
+            "word": "market. ",
+            "start": 10.702,
+            "end": 11.18
+          },
+          {
+            "word": "Pets.com, ",
+            "start": 11.93,
+            "end": 12.713
+          },
+          {
+            "word": "Webvan, ",
+            "start": 12.876,
+            "end": 13.278
+          },
+          {
+            "word": "Boo.com: ",
+            "start": 13.495,
+            "end": 14.713
+          },
+          {
+            "word": "companies ",
+            "start": 14.865,
+            "end": 15.31
+          },
+          {
+            "word": "with ",
+            "start": 15.321,
+            "end": 15.441
+          },
+          {
+            "word": "no ",
+            "start": 15.452,
+            "end": 15.658
+          },
+          {
+            "word": "profits, ",
+            "start": 15.669,
+            "end": 16.136
+          },
+          {
+            "word": "no ",
+            "start": 16.278,
+            "end": 16.463
+          },
+          {
+            "word": "viable ",
+            "start": 16.473,
+            "end": 16.886
+          },
+          {
+            "word": "business ",
+            "start": 16.897,
+            "end": 17.202
+          },
+          {
+            "word": "models, ",
+            "start": 17.213,
+            "end": 17.626
+          },
+          {
+            "word": "and ",
+            "start": 17.778,
+            "end": 17.919
+          },
+          {
+            "word": "no ",
+            "start": 17.93,
+            "end": 18.093
+          },
+          {
+            "word": "plausible ",
+            "start": 18.104,
+            "end": 18.549
+          },
+          {
+            "word": "path ",
+            "start": 18.56,
+            "end": 18.81
+          },
+          {
+            "word": "to ",
+            "start": 18.821,
+            "end": 18.897
+          },
+          {
+            "word": "viability ",
+            "start": 18.908,
+            "end": 19.452
+          },
+          {
+            "word": "raised ",
+            "start": 19.463,
+            "end": 19.756
+          },
+          {
+            "word": "hundreds ",
+            "start": 19.767,
+            "end": 20.082
+          },
+          {
+            "word": "of ",
+            "start": 20.093,
+            "end": 20.18
+          },
+          {
+            "word": "millions ",
+            "start": 20.191,
+            "end": 20.571
+          },
+          {
+            "word": "of ",
+            "start": 20.582,
+            "end": 20.669
+          },
+          {
+            "word": "dollars.",
+            "start": 20.68,
+            "end": 21.126
+          }
+        ],
+        "start": 722
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep14_event_2",
+        "audio_exists": true,
+        "audioPath": "episodes/ep14/audio/ep14_event_2.wav",
+        "text": "The standard valuation metrics of finance — price-to-earnings ratios, discounted cash flows, return on capital — were declared obsolete. New metrics were invented: 'eyeballs,' 'stickiness,' 'burn rate.' Investment banks underwrote IPOs for companies they privately described as unpromising. Analysts issued 'buy' ratings on stocks they described in private emails as 'piece of junk.'",
+        "duration": 677,
+        "bgImage": "bg_city_night.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "standard ",
+            "start": 0.241,
+            "end": 0.621
+          },
+          {
+            "word": "valuation ",
+            "start": 0.632,
+            "end": 1.143
+          },
+          {
+            "word": "metrics ",
+            "start": 1.154,
+            "end": 1.523
+          },
+          {
+            "word": "of ",
+            "start": 1.534,
+            "end": 1.61
+          },
+          {
+            "word": "finance — ",
+            "start": 1.621,
+            "end": 2.208
+          },
+          {
+            "word": "price-to-earnings ",
+            "start": 2.371,
+            "end": 3.089
+          },
+          {
+            "word": "ratios, ",
+            "start": 3.1,
+            "end": 3.621
+          },
+          {
+            "word": "discounted ",
+            "start": 3.773,
+            "end": 4.252
+          },
+          {
+            "word": "cash ",
+            "start": 4.263,
+            "end": 4.523
+          },
+          {
+            "word": "flows, ",
+            "start": 4.534,
+            "end": 4.958
+          },
+          {
+            "word": "return ",
+            "start": 5.154,
+            "end": 5.502
+          },
+          {
+            "word": "on ",
+            "start": 5.513,
+            "end": 5.61
+          },
+          {
+            "word": "capital — ",
+            "start": 5.621,
+            "end": 6.067
+          },
+          {
+            "word": "were ",
+            "start": 6.241,
+            "end": 6.339
+          },
+          {
+            "word": "declared ",
+            "start": 6.35,
+            "end": 6.719
+          },
+          {
+            "word": "obsolete. ",
+            "start": 6.73,
+            "end": 7.273
+          },
+          {
+            "word": "New ",
+            "start": 8.017,
+            "end": 8.31
+          },
+          {
+            "word": "metrics ",
+            "start": 8.321,
+            "end": 8.723
+          },
+          {
+            "word": "were ",
+            "start": 8.734,
+            "end": 8.876
+          },
+          {
+            "word": "invented: '",
+            "start": 8.886,
+            "end": 9.321
+          },
+          {
+            "word": "eyeballs,' '",
+            "start": 9.473,
+            "end": 9.952
+          },
+          {
+            "word": "stickiness,' '",
+            "start": 10.136,
+            "end": 10.691
+          },
+          {
+            "word": "burn ",
+            "start": 10.854,
+            "end": 11.126
+          },
+          {
+            "word": "rate.' ",
+            "start": 11.136,
+            "end": 11.506
+          },
+          {
+            "word": "Investment ",
+            "start": 12.256,
+            "end": 12.821
+          },
+          {
+            "word": "banks ",
+            "start": 12.832,
+            "end": 13.126
+          },
+          {
+            "word": "underwrote ",
+            "start": 13.136,
+            "end": 13.56
+          },
+          {
+            "word": "IPOs ",
+            "start": 13.571,
+            "end": 14.039
+          },
+          {
+            "word": "for ",
+            "start": 14.05,
+            "end": 14.136
+          },
+          {
+            "word": "companies ",
+            "start": 14.147,
+            "end": 14.56
+          },
+          {
+            "word": "they ",
+            "start": 14.571,
+            "end": 14.669
+          },
+          {
+            "word": "privately ",
+            "start": 14.68,
+            "end": 15.126
+          },
+          {
+            "word": "described ",
+            "start": 15.136,
+            "end": 15.604
+          },
+          {
+            "word": "as ",
+            "start": 15.615,
+            "end": 15.723
+          },
+          {
+            "word": "unpromising. ",
+            "start": 15.734,
+            "end": 16.354
+          },
+          {
+            "word": "Analysts ",
+            "start": 17.104,
+            "end": 17.593
+          },
+          {
+            "word": "issued '",
+            "start": 17.604,
+            "end": 17.876
+          },
+          {
+            "word": "buy' ",
+            "start": 17.963,
+            "end": 18.082
+          },
+          {
+            "word": "ratings ",
+            "start": 18.126,
+            "end": 18.517
+          },
+          {
+            "word": "on ",
+            "start": 18.528,
+            "end": 18.626
+          },
+          {
+            "word": "stocks ",
+            "start": 18.636,
+            "end": 18.93
+          },
+          {
+            "word": "they ",
+            "start": 18.941,
+            "end": 19.039
+          },
+          {
+            "word": "described ",
+            "start": 19.05,
+            "end": 19.517
+          },
+          {
+            "word": "in ",
+            "start": 19.528,
+            "end": 19.626
+          },
+          {
+            "word": "private ",
+            "start": 19.636,
+            "end": 20.028
+          },
+          {
+            "word": "emails ",
+            "start": 20.039,
+            "end": 20.452
+          },
+          {
+            "word": "as '",
+            "start": 20.463,
+            "end": 20.593
+          },
+          {
+            "word": "piece ",
+            "start": 20.669,
+            "end": 20.876
+          },
+          {
+            "word": "of ",
+            "start": 20.886,
+            "end": 20.973
+          },
+          {
+            "word": "junk.'",
+            "start": 20.984,
+            "end": 21.386
+          }
+        ],
+        "start": 1391
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep14_event_3",
+        "audio_exists": true,
+        "audioPath": "episodes/ep14/audio/ep14_event_3.wav",
+        "text": "The Federal Reserve raised interest rates six times between June 1999 and May 2000, tightening financial conditions. Venture capital, which had funded the boom, began pulling back. When it became clear that the next quarter's losses would not be followed by the promised profitability, selling began. Once it started, the narrative of limitless internet growth that had justified the valuations collapsed.",
+        "duration": 680,
+        "bgImage": "bg_interest_chart.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.219
+          },
+          {
+            "word": "Federal ",
+            "start": 0.23,
+            "end": 0.556
+          },
+          {
+            "word": "Reserve ",
+            "start": 0.567,
+            "end": 0.915
+          },
+          {
+            "word": "raised ",
+            "start": 0.926,
+            "end": 1.219
+          },
+          {
+            "word": "interest ",
+            "start": 1.23,
+            "end": 1.621
+          },
+          {
+            "word": "rates ",
+            "start": 1.632,
+            "end": 1.86
+          },
+          {
+            "word": "six ",
+            "start": 1.871,
+            "end": 2.067
+          },
+          {
+            "word": "times ",
+            "start": 2.078,
+            "end": 2.36
+          },
+          {
+            "word": "between ",
+            "start": 2.371,
+            "end": 2.708
+          },
+          {
+            "word": "June 1999 ",
+            "start": 2.719,
+            "end": 3.882
+          },
+          {
+            "word": "and ",
+            "start": 3.893,
+            "end": 4.034
+          },
+          {
+            "word": "May 2000, ",
+            "start": 4.045,
+            "end": 4.849
+          },
+          {
+            "word": "tightening ",
+            "start": 5.034,
+            "end": 5.404
+          },
+          {
+            "word": "financial ",
+            "start": 5.415,
+            "end": 5.904
+          },
+          {
+            "word": "conditions. ",
+            "start": 5.915,
+            "end": 6.523
+          },
+          {
+            "word": "Venture ",
+            "start": 7.267,
+            "end": 7.626
+          },
+          {
+            "word": "capital, ",
+            "start": 7.636,
+            "end": 8.06
+          },
+          {
+            "word": "which ",
+            "start": 8.234,
+            "end": 8.354
+          },
+          {
+            "word": "had ",
+            "start": 8.365,
+            "end": 8.495
+          },
+          {
+            "word": "funded ",
+            "start": 8.506,
+            "end": 8.832
+          },
+          {
+            "word": "the ",
+            "start": 8.843,
+            "end": 8.908
+          },
+          {
+            "word": "boom, ",
+            "start": 8.919,
+            "end": 9.256
+          },
+          {
+            "word": "began ",
+            "start": 9.397,
+            "end": 9.691
+          },
+          {
+            "word": "pulling ",
+            "start": 9.702,
+            "end": 10.028
+          },
+          {
+            "word": "back. ",
+            "start": 10.039,
+            "end": 10.419
+          },
+          {
+            "word": "When ",
+            "start": 11.169,
+            "end": 11.365
+          },
+          {
+            "word": "it ",
+            "start": 11.376,
+            "end": 11.441
+          },
+          {
+            "word": "became ",
+            "start": 11.452,
+            "end": 11.734
+          },
+          {
+            "word": "clear ",
+            "start": 11.745,
+            "end": 12.006
+          },
+          {
+            "word": "that ",
+            "start": 12.017,
+            "end": 12.126
+          },
+          {
+            "word": "the ",
+            "start": 12.136,
+            "end": 12.202
+          },
+          {
+            "word": "next ",
+            "start": 12.213,
+            "end": 12.473
+          },
+          {
+            "word": "quarter's ",
+            "start": 12.484,
+            "end": 12.832
+          },
+          {
+            "word": "losses ",
+            "start": 12.843,
+            "end": 13.169
+          },
+          {
+            "word": "would ",
+            "start": 13.18,
+            "end": 13.31
+          },
+          {
+            "word": "not ",
+            "start": 13.321,
+            "end": 13.484
+          },
+          {
+            "word": "be ",
+            "start": 13.495,
+            "end": 13.582
+          },
+          {
+            "word": "followed ",
+            "start": 13.593,
+            "end": 13.952
+          },
+          {
+            "word": "by ",
+            "start": 13.963,
+            "end": 14.082
+          },
+          {
+            "word": "the ",
+            "start": 14.093,
+            "end": 14.191
+          },
+          {
+            "word": "promised ",
+            "start": 14.202,
+            "end": 14.517
+          },
+          {
+            "word": "profitability, ",
+            "start": 14.528,
+            "end": 15.191
+          },
+          {
+            "word": "selling ",
+            "start": 15.354,
+            "end": 15.604
+          },
+          {
+            "word": "began. ",
+            "start": 15.615,
+            "end": 16.039
+          },
+          {
+            "word": "Once ",
+            "start": 16.789,
+            "end": 17.06
+          },
+          {
+            "word": "it ",
+            "start": 17.071,
+            "end": 17.169
+          },
+          {
+            "word": "started, ",
+            "start": 17.18,
+            "end": 17.593
+          },
+          {
+            "word": "the ",
+            "start": 17.778,
+            "end": 17.865
+          },
+          {
+            "word": "narrative ",
+            "start": 17.876,
+            "end": 18.245
+          },
+          {
+            "word": "of ",
+            "start": 18.256,
+            "end": 18.332
+          },
+          {
+            "word": "limitless ",
+            "start": 18.343,
+            "end": 18.756
+          },
+          {
+            "word": "internet ",
+            "start": 18.767,
+            "end": 19.147
+          },
+          {
+            "word": "growth ",
+            "start": 19.158,
+            "end": 19.463
+          },
+          {
+            "word": "that ",
+            "start": 19.473,
+            "end": 19.571
+          },
+          {
+            "word": "had ",
+            "start": 19.582,
+            "end": 19.723
+          },
+          {
+            "word": "justified ",
+            "start": 19.734,
+            "end": 20.245
+          },
+          {
+            "word": "the ",
+            "start": 20.256,
+            "end": 20.31
+          },
+          {
+            "word": "valuations ",
+            "start": 20.321,
+            "end": 20.897
+          },
+          {
+            "word": "collapsed.",
+            "start": 20.908,
+            "end": 21.484
+          }
+        ],
+        "start": 2068
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep14_event_4",
+        "audio_exists": true,
+        "audioPath": "episodes/ep14/audio/ep14_event_4.wav",
+        "text": "The crash was not instantaneous. It took two years for the NASDAQ to find its floor in October 2002. Along the way, WorldCom, the second-largest US long-distance carrier, collapsed in the largest bankruptcy in American history at that time. Enron followed. The dot-com crash metastasized into a broader crisis of corporate governance and accounting fraud.",
+        "duration": 664,
+        "bgImage": "bg_dotcom.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.219
+          },
+          {
+            "word": "crash ",
+            "start": 0.23,
+            "end": 0.556
+          },
+          {
+            "word": "was ",
+            "start": 0.567,
+            "end": 0.73
+          },
+          {
+            "word": "not ",
+            "start": 0.741,
+            "end": 0.936
+          },
+          {
+            "word": "instantaneous. ",
+            "start": 0.947,
+            "end": 1.828
+          },
+          {
+            "word": "It ",
+            "start": 2.571,
+            "end": 2.767
+          },
+          {
+            "word": "took ",
+            "start": 2.778,
+            "end": 2.93
+          },
+          {
+            "word": "two ",
+            "start": 2.941,
+            "end": 3.147
+          },
+          {
+            "word": "years ",
+            "start": 3.158,
+            "end": 3.463
+          },
+          {
+            "word": "for ",
+            "start": 3.473,
+            "end": 3.549
+          },
+          {
+            "word": "the ",
+            "start": 3.56,
+            "end": 3.636
+          },
+          {
+            "word": "NASDAQ ",
+            "start": 3.647,
+            "end": 4.093
+          },
+          {
+            "word": "to ",
+            "start": 4.104,
+            "end": 4.169
+          },
+          {
+            "word": "find ",
+            "start": 4.18,
+            "end": 4.43
+          },
+          {
+            "word": "its ",
+            "start": 4.441,
+            "end": 4.56
+          },
+          {
+            "word": "floor ",
+            "start": 4.571,
+            "end": 4.843
+          },
+          {
+            "word": "in ",
+            "start": 4.854,
+            "end": 4.963
+          },
+          {
+            "word": "October 2002. ",
+            "start": 4.973,
+            "end": 6.365
+          },
+          {
+            "word": "Along ",
+            "start": 7.115,
+            "end": 7.408
+          },
+          {
+            "word": "the ",
+            "start": 7.419,
+            "end": 7.473
+          },
+          {
+            "word": "way, ",
+            "start": 7.484,
+            "end": 7.734
+          },
+          {
+            "word": "WorldCom, ",
+            "start": 7.952,
+            "end": 8.517
+          },
+          {
+            "word": "the ",
+            "start": 8.691,
+            "end": 8.767
+          },
+          {
+            "word": "second-largest ",
+            "start": 8.778,
+            "end": 9.463
+          },
+          {
+            "word": "US ",
+            "start": 9.473,
+            "end": 9.778
+          },
+          {
+            "word": "long-distance ",
+            "start": 9.789,
+            "end": 10.376
+          },
+          {
+            "word": "carrier, ",
+            "start": 10.386,
+            "end": 10.81
+          },
+          {
+            "word": "collapsed ",
+            "start": 10.995,
+            "end": 11.419
+          },
+          {
+            "word": "in ",
+            "start": 11.43,
+            "end": 11.495
+          },
+          {
+            "word": "the ",
+            "start": 11.506,
+            "end": 11.571
+          },
+          {
+            "word": "largest ",
+            "start": 11.582,
+            "end": 11.995
+          },
+          {
+            "word": "bankruptcy ",
+            "start": 12.006,
+            "end": 12.549
+          },
+          {
+            "word": "in ",
+            "start": 12.56,
+            "end": 12.658
+          },
+          {
+            "word": "American ",
+            "start": 12.669,
+            "end": 13.039
+          },
+          {
+            "word": "history ",
+            "start": 13.05,
+            "end": 13.408
+          },
+          {
+            "word": "at ",
+            "start": 13.419,
+            "end": 13.484
+          },
+          {
+            "word": "that ",
+            "start": 13.495,
+            "end": 13.691
+          },
+          {
+            "word": "time. ",
+            "start": 13.702,
+            "end": 14.082
+          },
+          {
+            "word": "Enron ",
+            "start": 14.832,
+            "end": 15.278
+          },
+          {
+            "word": "followed. ",
+            "start": 15.289,
+            "end": 15.789
+          },
+          {
+            "word": "The ",
+            "start": 16.539,
+            "end": 16.68
+          },
+          {
+            "word": "dot-com ",
+            "start": 16.691,
+            "end": 17.082
+          },
+          {
+            "word": "crash ",
+            "start": 17.093,
+            "end": 17.365
+          },
+          {
+            "word": "metastasized ",
+            "start": 17.376,
+            "end": 18.06
+          },
+          {
+            "word": "into ",
+            "start": 18.071,
+            "end": 18.31
+          },
+          {
+            "word": "a ",
+            "start": 18.321,
+            "end": 18.386
+          },
+          {
+            "word": "broader ",
+            "start": 18.397,
+            "end": 18.713
+          },
+          {
+            "word": "crisis ",
+            "start": 18.723,
+            "end": 19.104
+          },
+          {
+            "word": "of ",
+            "start": 19.115,
+            "end": 19.202
+          },
+          {
+            "word": "corporate ",
+            "start": 19.213,
+            "end": 19.571
+          },
+          {
+            "word": "governance ",
+            "start": 19.582,
+            "end": 19.952
+          },
+          {
+            "word": "and ",
+            "start": 19.963,
+            "end": 20.049
+          },
+          {
+            "word": "accounting ",
+            "start": 20.06,
+            "end": 20.495
+          },
+          {
+            "word": "fraud.",
+            "start": 20.506,
+            "end": 20.963
+          }
+        ],
+        "start": 2748
+      }
+    ]
+  },
+  {
+    "id": "ep14_problems",
+    "title": "Problems",
+    "globalStart": 3599,
+    "duration": 2441,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Problems"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep14_problems_0",
+        "audio_exists": true,
+        "audioPath": "episodes/ep14/audio/ep14_problems_0.wav",
+        "text": "The dot-com crash exposed conflicts of interest that had been visible but tolerated during the boom. Investment banks earned fees from IPOs they underwrote. Analysts worked for those same banks. Their 'buy' recommendations served their employers' deal flow, not their clients' portfolios. The Chinese Wall between investment banking and research had become a polite fiction.",
+        "duration": 639,
+        "bgImage": "bg_dotcom.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.252
+          },
+          {
+            "word": "dot-com ",
+            "start": 0.263,
+            "end": 0.654
+          },
+          {
+            "word": "crash ",
+            "start": 0.665,
+            "end": 0.936
+          },
+          {
+            "word": "exposed ",
+            "start": 0.947,
+            "end": 1.393
+          },
+          {
+            "word": "conflicts ",
+            "start": 1.404,
+            "end": 1.839
+          },
+          {
+            "word": "of ",
+            "start": 1.85,
+            "end": 1.926
+          },
+          {
+            "word": "interest ",
+            "start": 1.936,
+            "end": 2.317
+          },
+          {
+            "word": "that ",
+            "start": 2.328,
+            "end": 2.426
+          },
+          {
+            "word": "had ",
+            "start": 2.436,
+            "end": 2.534
+          },
+          {
+            "word": "been ",
+            "start": 2.545,
+            "end": 2.676
+          },
+          {
+            "word": "visible ",
+            "start": 2.686,
+            "end": 3.034
+          },
+          {
+            "word": "but ",
+            "start": 3.045,
+            "end": 3.197
+          },
+          {
+            "word": "tolerated ",
+            "start": 3.208,
+            "end": 3.719
+          },
+          {
+            "word": "during ",
+            "start": 3.73,
+            "end": 4.023
+          },
+          {
+            "word": "the ",
+            "start": 4.034,
+            "end": 4.11
+          },
+          {
+            "word": "boom. ",
+            "start": 4.121,
+            "end": 4.469
+          },
+          {
+            "word": "Investment ",
+            "start": 5.213,
+            "end": 5.778
+          },
+          {
+            "word": "banks ",
+            "start": 5.789,
+            "end": 6.082
+          },
+          {
+            "word": "earned ",
+            "start": 6.093,
+            "end": 6.31
+          },
+          {
+            "word": "fees ",
+            "start": 6.321,
+            "end": 6.604
+          },
+          {
+            "word": "from ",
+            "start": 6.615,
+            "end": 6.745
+          },
+          {
+            "word": "IPOs ",
+            "start": 6.756,
+            "end": 7.256
+          },
+          {
+            "word": "they ",
+            "start": 7.267,
+            "end": 7.376
+          },
+          {
+            "word": "underwrote. ",
+            "start": 7.386,
+            "end": 7.876
+          },
+          {
+            "word": "Analysts ",
+            "start": 8.626,
+            "end": 9.104
+          },
+          {
+            "word": "worked ",
+            "start": 9.115,
+            "end": 9.376
+          },
+          {
+            "word": "for ",
+            "start": 9.386,
+            "end": 9.463
+          },
+          {
+            "word": "those ",
+            "start": 9.473,
+            "end": 9.702
+          },
+          {
+            "word": "same ",
+            "start": 9.713,
+            "end": 9.919
+          },
+          {
+            "word": "banks. ",
+            "start": 9.93,
+            "end": 10.408
+          },
+          {
+            "word": "Their '",
+            "start": 11.158,
+            "end": 11.332
+          },
+          {
+            "word": "buy' ",
+            "start": 11.43,
+            "end": 11.56
+          },
+          {
+            "word": "recommendations ",
+            "start": 11.626,
+            "end": 12.343
+          },
+          {
+            "word": "served ",
+            "start": 12.354,
+            "end": 12.626
+          },
+          {
+            "word": "their ",
+            "start": 12.636,
+            "end": 12.756
+          },
+          {
+            "word": "employers' ",
+            "start": 12.767,
+            "end": 13.18
+          },
+          {
+            "word": "deal ",
+            "start": 13.191,
+            "end": 13.463
+          },
+          {
+            "word": "flow, ",
+            "start": 13.473,
+            "end": 13.767
+          },
+          {
+            "word": "not ",
+            "start": 14.006,
+            "end": 14.169
+          },
+          {
+            "word": "their ",
+            "start": 14.18,
+            "end": 14.299
+          },
+          {
+            "word": "clients' ",
+            "start": 14.31,
+            "end": 14.745
+          },
+          {
+            "word": "portfolios. ",
+            "start": 14.756,
+            "end": 15.647
+          },
+          {
+            "word": "The ",
+            "start": 16.397,
+            "end": 16.539
+          },
+          {
+            "word": "Chinese ",
+            "start": 16.55,
+            "end": 16.995
+          },
+          {
+            "word": "Wall ",
+            "start": 17.006,
+            "end": 17.213
+          },
+          {
+            "word": "between ",
+            "start": 17.223,
+            "end": 17.517
+          },
+          {
+            "word": "investment ",
+            "start": 17.528,
+            "end": 17.973
+          },
+          {
+            "word": "banking ",
+            "start": 17.984,
+            "end": 18.321
+          },
+          {
+            "word": "and ",
+            "start": 18.332,
+            "end": 18.441
+          },
+          {
+            "word": "research ",
+            "start": 18.452,
+            "end": 18.897
+          },
+          {
+            "word": "had ",
+            "start": 18.908,
+            "end": 19.028
+          },
+          {
+            "word": "become ",
+            "start": 19.039,
+            "end": 19.289
+          },
+          {
+            "word": "a ",
+            "start": 19.3,
+            "end": 19.343
+          },
+          {
+            "word": "polite ",
+            "start": 19.354,
+            "end": 19.669
+          },
+          {
+            "word": "fiction.",
+            "start": 19.68,
+            "end": 20.115
+          }
+        ],
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep14_problems_1",
+        "audio_exists": true,
+        "audioPath": "episodes/ep14/audio/ep14_problems_1.wav",
+        "text": "Venture capital had deployed capital into companies that could not sustain themselves. The model assumed that some small percentage of portfolio companies would generate returns sufficient to compensate for the total losses on the rest. When the entire portfolio declined simultaneously, the model broke down.",
+        "duration": 491,
+        "bgImage": "bg_interest_chart.jpg",
+        "wordTimings": [
+          {
+            "word": "Venture ",
+            "start": 0.1,
+            "end": 0.436
+          },
+          {
+            "word": "capital ",
+            "start": 0.447,
+            "end": 0.806
+          },
+          {
+            "word": "had ",
+            "start": 0.817,
+            "end": 0.926
+          },
+          {
+            "word": "deployed ",
+            "start": 0.936,
+            "end": 1.328
+          },
+          {
+            "word": "capital ",
+            "start": 1.339,
+            "end": 1.719
+          },
+          {
+            "word": "into ",
+            "start": 1.73,
+            "end": 1.926
+          },
+          {
+            "word": "companies ",
+            "start": 1.936,
+            "end": 2.36
+          },
+          {
+            "word": "that ",
+            "start": 2.371,
+            "end": 2.48
+          },
+          {
+            "word": "could ",
+            "start": 2.491,
+            "end": 2.621
+          },
+          {
+            "word": "not ",
+            "start": 2.632,
+            "end": 2.828
+          },
+          {
+            "word": "sustain ",
+            "start": 2.839,
+            "end": 3.241
+          },
+          {
+            "word": "themselves. ",
+            "start": 3.252,
+            "end": 3.893
+          },
+          {
+            "word": "The ",
+            "start": 4.636,
+            "end": 4.756
+          },
+          {
+            "word": "model ",
+            "start": 4.767,
+            "end": 5.028
+          },
+          {
+            "word": "assumed ",
+            "start": 5.039,
+            "end": 5.376
+          },
+          {
+            "word": "that ",
+            "start": 5.386,
+            "end": 5.495
+          },
+          {
+            "word": "some ",
+            "start": 5.506,
+            "end": 5.669
+          },
+          {
+            "word": "small ",
+            "start": 5.68,
+            "end": 5.963
+          },
+          {
+            "word": "percentage ",
+            "start": 5.973,
+            "end": 6.376
+          },
+          {
+            "word": "of ",
+            "start": 6.386,
+            "end": 6.473
+          },
+          {
+            "word": "portfolio ",
+            "start": 6.484,
+            "end": 7.06
+          },
+          {
+            "word": "companies ",
+            "start": 7.071,
+            "end": 7.506
+          },
+          {
+            "word": "would ",
+            "start": 7.517,
+            "end": 7.658
+          },
+          {
+            "word": "generate ",
+            "start": 7.669,
+            "end": 8.071
+          },
+          {
+            "word": "returns ",
+            "start": 8.082,
+            "end": 8.419
+          },
+          {
+            "word": "sufficient ",
+            "start": 8.43,
+            "end": 8.81
+          },
+          {
+            "word": "to ",
+            "start": 8.821,
+            "end": 8.876
+          },
+          {
+            "word": "compensate ",
+            "start": 8.886,
+            "end": 9.397
+          },
+          {
+            "word": "for ",
+            "start": 9.408,
+            "end": 9.473
+          },
+          {
+            "word": "the ",
+            "start": 9.484,
+            "end": 9.56
+          },
+          {
+            "word": "total ",
+            "start": 9.571,
+            "end": 9.897
+          },
+          {
+            "word": "losses ",
+            "start": 9.908,
+            "end": 10.213
+          },
+          {
+            "word": "on ",
+            "start": 10.223,
+            "end": 10.299
+          },
+          {
+            "word": "the ",
+            "start": 10.31,
+            "end": 10.376
+          },
+          {
+            "word": "rest. ",
+            "start": 10.386,
+            "end": 10.756
+          },
+          {
+            "word": "When ",
+            "start": 11.506,
+            "end": 11.702
+          },
+          {
+            "word": "the ",
+            "start": 11.713,
+            "end": 11.799
+          },
+          {
+            "word": "entire ",
+            "start": 11.81,
+            "end": 12.191
+          },
+          {
+            "word": "portfolio ",
+            "start": 12.202,
+            "end": 12.767
+          },
+          {
+            "word": "declined ",
+            "start": 12.778,
+            "end": 13.213
+          },
+          {
+            "word": "simultaneously, ",
+            "start": 13.223,
+            "end": 14.028
+          },
+          {
+            "word": "the ",
+            "start": 14.191,
+            "end": 14.267
+          },
+          {
+            "word": "model ",
+            "start": 14.278,
+            "end": 14.55
+          },
+          {
+            "word": "broke ",
+            "start": 14.56,
+            "end": 14.778
+          },
+          {
+            "word": "down.",
+            "start": 14.789,
+            "end": 15.191
+          }
+        ],
+        "start": 729
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep14_problems_2",
+        "audio_exists": true,
+        "audioPath": "episodes/ep14/audio/ep14_problems_2.wav",
+        "text": "Corporate accounting fraud — at Enron, WorldCom, Tyco, and others — revealed a broader failure of governance. Auditors had approved misleading financial statements. Boards had failed to oversee management. Stock options had given executives incentives to inflate reported earnings by any means available.",
+        "duration": 553,
+        "bgImage": "bg_stock_red.jpg",
+        "wordTimings": [
+          {
+            "word": "Corporate ",
+            "start": 0.1,
+            "end": 0.469
+          },
+          {
+            "word": "accounting ",
+            "start": 0.48,
+            "end": 0.926
+          },
+          {
+            "word": "fraud — ",
+            "start": 0.936,
+            "end": 1.306
+          },
+          {
+            "word": "at ",
+            "start": 1.502,
+            "end": 1.632
+          },
+          {
+            "word": "Enron, ",
+            "start": 1.643,
+            "end": 2.089
+          },
+          {
+            "word": "WorldCom, ",
+            "start": 2.273,
+            "end": 2.828
+          },
+          {
+            "word": "Tyco, ",
+            "start": 3.045,
+            "end": 3.458
+          },
+          {
+            "word": "and ",
+            "start": 3.708,
+            "end": 3.839
+          },
+          {
+            "word": "others — ",
+            "start": 3.85,
+            "end": 4.186
+          },
+          {
+            "word": "revealed ",
+            "start": 4.382,
+            "end": 4.708
+          },
+          {
+            "word": "a ",
+            "start": 4.719,
+            "end": 4.773
+          },
+          {
+            "word": "broader ",
+            "start": 4.784,
+            "end": 5.11
+          },
+          {
+            "word": "failure ",
+            "start": 5.121,
+            "end": 5.545
+          },
+          {
+            "word": "of ",
+            "start": 5.556,
+            "end": 5.643
+          },
+          {
+            "word": "governance. ",
+            "start": 5.654,
+            "end": 6.197
+          },
+          {
+            "word": "Auditors ",
+            "start": 6.941,
+            "end": 7.365
+          },
+          {
+            "word": "had ",
+            "start": 7.376,
+            "end": 7.495
+          },
+          {
+            "word": "approved ",
+            "start": 7.506,
+            "end": 7.886
+          },
+          {
+            "word": "misleading ",
+            "start": 7.897,
+            "end": 8.376
+          },
+          {
+            "word": "financial ",
+            "start": 8.386,
+            "end": 8.886
+          },
+          {
+            "word": "statements. ",
+            "start": 8.897,
+            "end": 9.495
+          },
+          {
+            "word": "Boards ",
+            "start": 10.245,
+            "end": 10.56
+          },
+          {
+            "word": "had ",
+            "start": 10.571,
+            "end": 10.702
+          },
+          {
+            "word": "failed ",
+            "start": 10.713,
+            "end": 10.995
+          },
+          {
+            "word": "to ",
+            "start": 11.006,
+            "end": 11.06
+          },
+          {
+            "word": "oversee ",
+            "start": 11.071,
+            "end": 11.506
+          },
+          {
+            "word": "management. ",
+            "start": 11.517,
+            "end": 12.05
+          },
+          {
+            "word": "Stock ",
+            "start": 12.8,
+            "end": 13.126
+          },
+          {
+            "word": "options ",
+            "start": 13.136,
+            "end": 13.473
+          },
+          {
+            "word": "had ",
+            "start": 13.484,
+            "end": 13.615
+          },
+          {
+            "word": "given ",
+            "start": 13.626,
+            "end": 13.832
+          },
+          {
+            "word": "executives ",
+            "start": 13.843,
+            "end": 14.365
+          },
+          {
+            "word": "incentives ",
+            "start": 14.376,
+            "end": 14.854
+          },
+          {
+            "word": "to ",
+            "start": 14.865,
+            "end": 14.963
+          },
+          {
+            "word": "inflate ",
+            "start": 14.973,
+            "end": 15.321
+          },
+          {
+            "word": "reported ",
+            "start": 15.332,
+            "end": 15.723
+          },
+          {
+            "word": "earnings ",
+            "start": 15.734,
+            "end": 16.115
+          },
+          {
+            "word": "by ",
+            "start": 16.126,
+            "end": 16.267
+          },
+          {
+            "word": "any ",
+            "start": 16.278,
+            "end": 16.473
+          },
+          {
+            "word": "means ",
+            "start": 16.484,
+            "end": 16.778
+          },
+          {
+            "word": "available.",
+            "start": 16.789,
+            "end": 17.278
+          }
+        ],
+        "start": 1220
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep14_problems_3",
+        "audio_exists": true,
+        "audioPath": "episodes/ep14/audio/ep14_problems_3.wav",
+        "text": "The broader problem was the conflation of technological transformation with investment return. The internet was indeed revolutionary. But revolutionary technology does not guarantee that early investors will profit. Most of the value created by the internet would accrue to companies founded later, by consumers who adopted it gradually, and to the economy broadly — not to the IPO investors of 1999.",
+        "duration": 668,
+        "bgImage": "bg_wallstreet.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "broader ",
+            "start": 0.241,
+            "end": 0.545
+          },
+          {
+            "word": "problem ",
+            "start": 0.556,
+            "end": 0.882
+          },
+          {
+            "word": "was ",
+            "start": 0.893,
+            "end": 1.013
+          },
+          {
+            "word": "the ",
+            "start": 1.023,
+            "end": 1.099
+          },
+          {
+            "word": "conflation ",
+            "start": 1.11,
+            "end": 1.589
+          },
+          {
+            "word": "of ",
+            "start": 1.6,
+            "end": 1.676
+          },
+          {
+            "word": "technological ",
+            "start": 1.686,
+            "end": 2.328
+          },
+          {
+            "word": "transformation ",
+            "start": 2.339,
+            "end": 2.969
+          },
+          {
+            "word": "with ",
+            "start": 2.98,
+            "end": 3.099
+          },
+          {
+            "word": "investment ",
+            "start": 3.11,
+            "end": 3.567
+          },
+          {
+            "word": "return. ",
+            "start": 3.578,
+            "end": 4.056
+          },
+          {
+            "word": "The ",
+            "start": 4.8,
+            "end": 4.941
+          },
+          {
+            "word": "internet ",
+            "start": 4.952,
+            "end": 5.365
+          },
+          {
+            "word": "was ",
+            "start": 5.376,
+            "end": 5.495
+          },
+          {
+            "word": "indeed ",
+            "start": 5.506,
+            "end": 5.865
+          },
+          {
+            "word": "revolutionary. ",
+            "start": 5.876,
+            "end": 6.582
+          },
+          {
+            "word": "But ",
+            "start": 7.332,
+            "end": 7.506
+          },
+          {
+            "word": "revolutionary ",
+            "start": 7.517,
+            "end": 8.071
+          },
+          {
+            "word": "technology ",
+            "start": 8.082,
+            "end": 8.615
+          },
+          {
+            "word": "does ",
+            "start": 8.626,
+            "end": 8.81
+          },
+          {
+            "word": "not ",
+            "start": 8.821,
+            "end": 8.984
+          },
+          {
+            "word": "guarantee ",
+            "start": 8.995,
+            "end": 9.473
+          },
+          {
+            "word": "that ",
+            "start": 9.484,
+            "end": 9.626
+          },
+          {
+            "word": "early ",
+            "start": 9.636,
+            "end": 9.865
+          },
+          {
+            "word": "investors ",
+            "start": 9.876,
+            "end": 10.332
+          },
+          {
+            "word": "will ",
+            "start": 10.343,
+            "end": 10.463
+          },
+          {
+            "word": "profit. ",
+            "start": 10.473,
+            "end": 10.919
+          },
+          {
+            "word": "Most ",
+            "start": 11.669,
+            "end": 11.973
+          },
+          {
+            "word": "of ",
+            "start": 11.984,
+            "end": 12.049
+          },
+          {
+            "word": "the ",
+            "start": 12.06,
+            "end": 12.126
+          },
+          {
+            "word": "value ",
+            "start": 12.136,
+            "end": 12.43
+          },
+          {
+            "word": "created ",
+            "start": 12.441,
+            "end": 12.854
+          },
+          {
+            "word": "by ",
+            "start": 12.865,
+            "end": 12.973
+          },
+          {
+            "word": "the ",
+            "start": 12.984,
+            "end": 13.093
+          },
+          {
+            "word": "internet ",
+            "start": 13.104,
+            "end": 13.506
+          },
+          {
+            "word": "would ",
+            "start": 13.517,
+            "end": 13.626
+          },
+          {
+            "word": "accrue ",
+            "start": 13.636,
+            "end": 13.908
+          },
+          {
+            "word": "to ",
+            "start": 13.919,
+            "end": 14.006
+          },
+          {
+            "word": "companies ",
+            "start": 14.017,
+            "end": 14.408
+          },
+          {
+            "word": "founded ",
+            "start": 14.419,
+            "end": 14.756
+          },
+          {
+            "word": "later, ",
+            "start": 14.767,
+            "end": 15.071
+          },
+          {
+            "word": "by ",
+            "start": 15.213,
+            "end": 15.321
+          },
+          {
+            "word": "consumers ",
+            "start": 15.332,
+            "end": 15.843
+          },
+          {
+            "word": "who ",
+            "start": 15.854,
+            "end": 15.952
+          },
+          {
+            "word": "adopted ",
+            "start": 15.963,
+            "end": 16.31
+          },
+          {
+            "word": "it ",
+            "start": 16.321,
+            "end": 16.43
+          },
+          {
+            "word": "gradually, ",
+            "start": 16.441,
+            "end": 16.919
+          },
+          {
+            "word": "and ",
+            "start": 17.147,
+            "end": 17.245
+          },
+          {
+            "word": "to ",
+            "start": 17.256,
+            "end": 17.332
+          },
+          {
+            "word": "the ",
+            "start": 17.343,
+            "end": 17.441
+          },
+          {
+            "word": "economy ",
+            "start": 17.452,
+            "end": 17.821
+          },
+          {
+            "word": "broadly — ",
+            "start": 17.832,
+            "end": 18.278
+          },
+          {
+            "word": "not ",
+            "start": 18.473,
+            "end": 18.636
+          },
+          {
+            "word": "to ",
+            "start": 18.647,
+            "end": 18.713
+          },
+          {
+            "word": "the ",
+            "start": 18.723,
+            "end": 18.832
+          },
+          {
+            "word": "IPO ",
+            "start": 18.843,
+            "end": 19.386
+          },
+          {
+            "word": "investors ",
+            "start": 19.397,
+            "end": 19.854
+          },
+          {
+            "word": "of ",
+            "start": 19.865,
+            "end": 19.952
+          },
+          {
+            "word": "1999.",
+            "start": 19.963,
+            "end": 21.082
+          }
+        ],
+        "start": 1773
+      }
+    ]
+  },
+  {
+    "id": "ep14_solutions",
+    "title": "Solutions",
+    "globalStart": 6040,
+    "duration": 2464,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Solutions"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep14_solutions_0",
+        "audio_exists": true,
+        "audioPath": "episodes/ep14/audio/ep14_solutions_0.wav",
+        "text": "The Federal Reserve, alarmed by the recession of 2001 and the September 11th attacks, cut interest rates aggressively. The federal funds rate fell from six and a half percent in January 2001 to one percent by June 2003 — a forty-five year low. The monetary response succeeded in limiting the recession's depth.",
+        "duration": 562,
+        "bgImage": "bg_fed_building.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "Federal ",
+            "start": 0.241,
+            "end": 0.567
+          },
+          {
+            "word": "Reserve, ",
+            "start": 0.578,
+            "end": 0.969
+          },
+          {
+            "word": "alarmed ",
+            "start": 1.143,
+            "end": 1.458
+          },
+          {
+            "word": "by ",
+            "start": 1.469,
+            "end": 1.556
+          },
+          {
+            "word": "the ",
+            "start": 1.567,
+            "end": 1.654
+          },
+          {
+            "word": "recession ",
+            "start": 1.665,
+            "end": 2.067
+          },
+          {
+            "word": "of ",
+            "start": 2.078,
+            "end": 2.165
+          },
+          {
+            "word": "2001 ",
+            "start": 2.176,
+            "end": 2.98
+          },
+          {
+            "word": "and ",
+            "start": 2.991,
+            "end": 3.078
+          },
+          {
+            "word": "the ",
+            "start": 3.089,
+            "end": 3.154
+          },
+          {
+            "word": "September 11th ",
+            "start": 3.165,
+            "end": 3.926
+          },
+          {
+            "word": "attacks, ",
+            "start": 3.936,
+            "end": 4.382
+          },
+          {
+            "word": "cut ",
+            "start": 4.556,
+            "end": 4.763
+          },
+          {
+            "word": "interest ",
+            "start": 4.773,
+            "end": 5.186
+          },
+          {
+            "word": "rates ",
+            "start": 5.197,
+            "end": 5.469
+          },
+          {
+            "word": "aggressively. ",
+            "start": 5.48,
+            "end": 6.002
+          },
+          {
+            "word": "The ",
+            "start": 6.745,
+            "end": 6.876
+          },
+          {
+            "word": "federal ",
+            "start": 6.886,
+            "end": 7.223
+          },
+          {
+            "word": "funds ",
+            "start": 7.234,
+            "end": 7.539
+          },
+          {
+            "word": "rate ",
+            "start": 7.55,
+            "end": 7.767
+          },
+          {
+            "word": "fell ",
+            "start": 7.778,
+            "end": 8.028
+          },
+          {
+            "word": "from ",
+            "start": 8.039,
+            "end": 8.18
+          },
+          {
+            "word": "six ",
+            "start": 8.191,
+            "end": 8.452
+          },
+          {
+            "word": "and ",
+            "start": 8.463,
+            "end": 8.539
+          },
+          {
+            "word": "a ",
+            "start": 8.55,
+            "end": 8.582
+          },
+          {
+            "word": "half ",
+            "start": 8.593,
+            "end": 8.865
+          },
+          {
+            "word": "percent ",
+            "start": 8.876,
+            "end": 9.223
+          },
+          {
+            "word": "in ",
+            "start": 9.234,
+            "end": 9.376
+          },
+          {
+            "word": "January 2001 ",
+            "start": 9.386,
+            "end": 10.615
+          },
+          {
+            "word": "to ",
+            "start": 10.626,
+            "end": 10.713
+          },
+          {
+            "word": "one ",
+            "start": 10.723,
+            "end": 10.908
+          },
+          {
+            "word": "percent ",
+            "start": 10.919,
+            "end": 11.278
+          },
+          {
+            "word": "by ",
+            "start": 11.289,
+            "end": 11.408
+          },
+          {
+            "word": "June 2003 — ",
+            "start": 11.419,
+            "end": 12.647
+          },
+          {
+            "word": "a ",
+            "start": 12.832,
+            "end": 12.876
+          },
+          {
+            "word": "forty-five ",
+            "start": 12.886,
+            "end": 13.473
+          },
+          {
+            "word": "year ",
+            "start": 13.484,
+            "end": 13.702
+          },
+          {
+            "word": "low. ",
+            "start": 13.713,
+            "end": 14.028
+          },
+          {
+            "word": "The ",
+            "start": 14.778,
+            "end": 14.908
+          },
+          {
+            "word": "monetary ",
+            "start": 14.919,
+            "end": 15.278
+          },
+          {
+            "word": "response ",
+            "start": 15.289,
+            "end": 15.68
+          },
+          {
+            "word": "succeeded ",
+            "start": 15.691,
+            "end": 16.104
+          },
+          {
+            "word": "in ",
+            "start": 16.115,
+            "end": 16.213
+          },
+          {
+            "word": "limiting ",
+            "start": 16.223,
+            "end": 16.549
+          },
+          {
+            "word": "the ",
+            "start": 16.56,
+            "end": 16.626
+          },
+          {
+            "word": "recession's ",
+            "start": 16.636,
+            "end": 17.158
+          },
+          {
+            "word": "depth.",
+            "start": 17.169,
+            "end": 17.56
+          }
+        ],
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep14_solutions_1",
+        "audio_exists": true,
+        "audioPath": "episodes/ep14/audio/ep14_solutions_1.wav",
+        "text": "The Sarbanes-Oxley Act of 2002 addressed the accounting fraud dimension. It required CEOs to personally certify financial statements, strengthened auditor independence, created the Public Company Accounting Oversight Board, and imposed criminal penalties for securities fraud. Corporate governance was reformed by statute.",
+        "duration": 553,
+        "bgImage": "bg_dotcom.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.241
+          },
+          {
+            "word": "Sarbanes-Oxley ",
+            "start": 0.252,
+            "end": 0.958
+          },
+          {
+            "word": "Act ",
+            "start": 0.969,
+            "end": 1.143
+          },
+          {
+            "word": "of ",
+            "start": 1.154,
+            "end": 1.252
+          },
+          {
+            "word": "2002 ",
+            "start": 1.263,
+            "end": 2.078
+          },
+          {
+            "word": "addressed ",
+            "start": 2.089,
+            "end": 2.415
+          },
+          {
+            "word": "the ",
+            "start": 2.426,
+            "end": 2.502
+          },
+          {
+            "word": "accounting ",
+            "start": 2.513,
+            "end": 2.936
+          },
+          {
+            "word": "fraud ",
+            "start": 2.947,
+            "end": 3.219
+          },
+          {
+            "word": "dimension. ",
+            "start": 3.23,
+            "end": 3.784
+          },
+          {
+            "word": "It ",
+            "start": 4.528,
+            "end": 4.691
+          },
+          {
+            "word": "required ",
+            "start": 4.702,
+            "end": 5.115
+          },
+          {
+            "word": "CEOs ",
+            "start": 5.126,
+            "end": 5.636
+          },
+          {
+            "word": "to ",
+            "start": 5.647,
+            "end": 5.723
+          },
+          {
+            "word": "personally ",
+            "start": 5.734,
+            "end": 6.147
+          },
+          {
+            "word": "certify ",
+            "start": 6.158,
+            "end": 6.647
+          },
+          {
+            "word": "financial ",
+            "start": 6.658,
+            "end": 7.136
+          },
+          {
+            "word": "statements, ",
+            "start": 7.147,
+            "end": 7.647
+          },
+          {
+            "word": "strengthened ",
+            "start": 7.789,
+            "end": 8.18
+          },
+          {
+            "word": "auditor ",
+            "start": 8.191,
+            "end": 8.528
+          },
+          {
+            "word": "independence, ",
+            "start": 8.539,
+            "end": 9.245
+          },
+          {
+            "word": "created ",
+            "start": 9.408,
+            "end": 9.799
+          },
+          {
+            "word": "the ",
+            "start": 9.81,
+            "end": 9.886
+          },
+          {
+            "word": "Public ",
+            "start": 9.897,
+            "end": 10.18
+          },
+          {
+            "word": "Company ",
+            "start": 10.191,
+            "end": 10.528
+          },
+          {
+            "word": "Accounting ",
+            "start": 10.539,
+            "end": 10.963
+          },
+          {
+            "word": "Oversight ",
+            "start": 10.973,
+            "end": 11.386
+          },
+          {
+            "word": "Board, ",
+            "start": 11.397,
+            "end": 11.734
+          },
+          {
+            "word": "and ",
+            "start": 11.908,
+            "end": 12.017
+          },
+          {
+            "word": "imposed ",
+            "start": 12.028,
+            "end": 12.473
+          },
+          {
+            "word": "criminal ",
+            "start": 12.484,
+            "end": 12.854
+          },
+          {
+            "word": "penalties ",
+            "start": 12.865,
+            "end": 13.31
+          },
+          {
+            "word": "for ",
+            "start": 13.321,
+            "end": 13.408
+          },
+          {
+            "word": "securities ",
+            "start": 13.419,
+            "end": 14.006
+          },
+          {
+            "word": "fraud. ",
+            "start": 14.017,
+            "end": 14.463
+          },
+          {
+            "word": "Corporate ",
+            "start": 15.213,
+            "end": 15.626
+          },
+          {
+            "word": "governance ",
+            "start": 15.636,
+            "end": 15.973
+          },
+          {
+            "word": "was ",
+            "start": 15.984,
+            "end": 16.126
+          },
+          {
+            "word": "reformed ",
+            "start": 16.136,
+            "end": 16.56
+          },
+          {
+            "word": "by ",
+            "start": 16.571,
+            "end": 16.713
+          },
+          {
+            "word": "statute.",
+            "start": 16.723,
+            "end": 17.278
+          }
+        ],
+        "start": 652
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep14_solutions_2",
+        "audio_exists": true,
+        "audioPath": "episodes/ep14/audio/ep14_solutions_2.wav",
+        "text": "The Global Research Analyst Settlement of 2003 — a negotiated agreement between the SEC, NASD, NYSE, and ten major investment banks — imposed a 1.4 billion dollar fine and required structural separation of research and investment banking functions. Conflicts of interest that had corrupted analyst recommendations were addressed by structural reform.",
+        "duration": 608,
+        "bgImage": "bg_city_night.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "Global ",
+            "start": 0.241,
+            "end": 0.621
+          },
+          {
+            "word": "Research ",
+            "start": 0.632,
+            "end": 1.067
+          },
+          {
+            "word": "Analyst ",
+            "start": 1.078,
+            "end": 1.426
+          },
+          {
+            "word": "Settlement ",
+            "start": 1.436,
+            "end": 1.806
+          },
+          {
+            "word": "of ",
+            "start": 1.817,
+            "end": 1.926
+          },
+          {
+            "word": "2003 — ",
+            "start": 1.936,
+            "end": 2.904
+          },
+          {
+            "word": "a ",
+            "start": 3.089,
+            "end": 3.132
+          },
+          {
+            "word": "negotiated ",
+            "start": 3.143,
+            "end": 3.763
+          },
+          {
+            "word": "agreement ",
+            "start": 3.773,
+            "end": 4.176
+          },
+          {
+            "word": "between ",
+            "start": 4.186,
+            "end": 4.502
+          },
+          {
+            "word": "the ",
+            "start": 4.513,
+            "end": 4.589
+          },
+          {
+            "word": "SEC, ",
+            "start": 4.6,
+            "end": 4.904
+          },
+          {
+            "word": "NASD, ",
+            "start": 5.067,
+            "end": 5.458
+          },
+          {
+            "word": "NYSE, ",
+            "start": 5.676,
+            "end": 6.273
+          },
+          {
+            "word": "and ",
+            "start": 6.458,
+            "end": 6.578
+          },
+          {
+            "word": "ten ",
+            "start": 6.589,
+            "end": 6.85
+          },
+          {
+            "word": "major ",
+            "start": 6.86,
+            "end": 7.165
+          },
+          {
+            "word": "investment ",
+            "start": 7.176,
+            "end": 7.654
+          },
+          {
+            "word": "banks — ",
+            "start": 7.665,
+            "end": 8.023
+          },
+          {
+            "word": "imposed ",
+            "start": 8.197,
+            "end": 8.567
+          },
+          {
+            "word": "a ",
+            "start": 8.578,
+            "end": 8.621
+          },
+          {
+            "word": "1.4 billion dollar ",
+            "start": 8.632,
+            "end": 9.871
+          },
+          {
+            "word": "fine ",
+            "start": 9.882,
+            "end": 10.208
+          },
+          {
+            "word": "and ",
+            "start": 10.219,
+            "end": 10.328
+          },
+          {
+            "word": "required ",
+            "start": 10.339,
+            "end": 10.763
+          },
+          {
+            "word": "structural ",
+            "start": 10.773,
+            "end": 11.263
+          },
+          {
+            "word": "separation ",
+            "start": 11.273,
+            "end": 11.773
+          },
+          {
+            "word": "of ",
+            "start": 11.784,
+            "end": 11.86
+          },
+          {
+            "word": "research ",
+            "start": 11.871,
+            "end": 12.339
+          },
+          {
+            "word": "and ",
+            "start": 12.35,
+            "end": 12.447
+          },
+          {
+            "word": "investment ",
+            "start": 12.458,
+            "end": 12.947
+          },
+          {
+            "word": "banking ",
+            "start": 12.958,
+            "end": 13.284
+          },
+          {
+            "word": "functions. ",
+            "start": 13.295,
+            "end": 13.893
+          },
+          {
+            "word": "Conflicts ",
+            "start": 14.636,
+            "end": 15.093
+          },
+          {
+            "word": "of ",
+            "start": 15.104,
+            "end": 15.18
+          },
+          {
+            "word": "interest ",
+            "start": 15.191,
+            "end": 15.571
+          },
+          {
+            "word": "that ",
+            "start": 15.582,
+            "end": 15.691
+          },
+          {
+            "word": "had ",
+            "start": 15.702,
+            "end": 15.81
+          },
+          {
+            "word": "corrupted ",
+            "start": 15.821,
+            "end": 16.256
+          },
+          {
+            "word": "analyst ",
+            "start": 16.267,
+            "end": 16.615
+          },
+          {
+            "word": "recommendations ",
+            "start": 16.626,
+            "end": 17.321
+          },
+          {
+            "word": "were ",
+            "start": 17.332,
+            "end": 17.473
+          },
+          {
+            "word": "addressed ",
+            "start": 17.484,
+            "end": 17.854
+          },
+          {
+            "word": "by ",
+            "start": 17.865,
+            "end": 18.006
+          },
+          {
+            "word": "structural ",
+            "start": 18.017,
+            "end": 18.55
+          },
+          {
+            "word": "reform.",
+            "start": 18.56,
+            "end": 19.093
+          }
+        ],
+        "start": 1205
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep14_solutions_3",
+        "audio_exists": true,
+        "audioPath": "episodes/ep14/audio/ep14_solutions_3.wav",
+        "text": "The interest rate cuts that contained the recession, however, inflated a new bubble. By holding rates at one percent through 2003, the Fed made capital cheap, pushing investors toward yield in riskier assets. The housing market, already rising, was further inflated by cheap money. The cure for the dot-com crash seeded the conditions for the 2008 financial crisis.",
+        "duration": 651,
+        "bgImage": "bg_recovery.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "interest ",
+            "start": 0.241,
+            "end": 0.61
+          },
+          {
+            "word": "rate ",
+            "start": 0.621,
+            "end": 0.817
+          },
+          {
+            "word": "cuts ",
+            "start": 0.828,
+            "end": 1.067
+          },
+          {
+            "word": "that ",
+            "start": 1.078,
+            "end": 1.186
+          },
+          {
+            "word": "contained ",
+            "start": 1.197,
+            "end": 1.545
+          },
+          {
+            "word": "the ",
+            "start": 1.556,
+            "end": 1.621
+          },
+          {
+            "word": "recession, ",
+            "start": 1.632,
+            "end": 2.132
+          },
+          {
+            "word": "however, ",
+            "start": 2.371,
+            "end": 2.73
+          },
+          {
+            "word": "inflated ",
+            "start": 2.915,
+            "end": 3.36
+          },
+          {
+            "word": "a ",
+            "start": 3.371,
+            "end": 3.415
+          },
+          {
+            "word": "new ",
+            "start": 3.426,
+            "end": 3.643
+          },
+          {
+            "word": "bubble. ",
+            "start": 3.654,
+            "end": 3.991
+          },
+          {
+            "word": "By ",
+            "start": 4.734,
+            "end": 4.897
+          },
+          {
+            "word": "holding ",
+            "start": 4.908,
+            "end": 5.256
+          },
+          {
+            "word": "rates ",
+            "start": 5.267,
+            "end": 5.506
+          },
+          {
+            "word": "at ",
+            "start": 5.517,
+            "end": 5.615
+          },
+          {
+            "word": "one ",
+            "start": 5.626,
+            "end": 5.789
+          },
+          {
+            "word": "percent ",
+            "start": 5.8,
+            "end": 6.104
+          },
+          {
+            "word": "through ",
+            "start": 6.115,
+            "end": 6.321
+          },
+          {
+            "word": "2003, ",
+            "start": 6.332,
+            "end": 7.278
+          },
+          {
+            "word": "the ",
+            "start": 7.506,
+            "end": 7.571
+          },
+          {
+            "word": "Fed ",
+            "start": 7.582,
+            "end": 7.832
+          },
+          {
+            "word": "made ",
+            "start": 7.843,
+            "end": 8.06
+          },
+          {
+            "word": "capital ",
+            "start": 8.071,
+            "end": 8.441
+          },
+          {
+            "word": "cheap, ",
+            "start": 8.452,
+            "end": 8.778
+          },
+          {
+            "word": "pushing ",
+            "start": 8.963,
+            "end": 9.202
+          },
+          {
+            "word": "investors ",
+            "start": 9.213,
+            "end": 9.658
+          },
+          {
+            "word": "toward ",
+            "start": 9.669,
+            "end": 10.028
+          },
+          {
+            "word": "yield ",
+            "start": 10.039,
+            "end": 10.31
+          },
+          {
+            "word": "in ",
+            "start": 10.321,
+            "end": 10.43
+          },
+          {
+            "word": "riskier ",
+            "start": 10.441,
+            "end": 10.843
+          },
+          {
+            "word": "assets. ",
+            "start": 10.854,
+            "end": 11.299
+          },
+          {
+            "word": "The ",
+            "start": 12.05,
+            "end": 12.158
+          },
+          {
+            "word": "housing ",
+            "start": 12.169,
+            "end": 12.495
+          },
+          {
+            "word": "market, ",
+            "start": 12.506,
+            "end": 12.897
+          },
+          {
+            "word": "already ",
+            "start": 13.05,
+            "end": 13.386
+          },
+          {
+            "word": "rising, ",
+            "start": 13.397,
+            "end": 13.832
+          },
+          {
+            "word": "was ",
+            "start": 14.017,
+            "end": 14.126
+          },
+          {
+            "word": "further ",
+            "start": 14.136,
+            "end": 14.473
+          },
+          {
+            "word": "inflated ",
+            "start": 14.484,
+            "end": 14.941
+          },
+          {
+            "word": "by ",
+            "start": 14.952,
+            "end": 15.115
+          },
+          {
+            "word": "cheap ",
+            "start": 15.126,
+            "end": 15.386
+          },
+          {
+            "word": "money. ",
+            "start": 15.397,
+            "end": 15.691
+          },
+          {
+            "word": "The ",
+            "start": 16.441,
+            "end": 16.56
+          },
+          {
+            "word": "cure ",
+            "start": 16.571,
+            "end": 16.854
+          },
+          {
+            "word": "for ",
+            "start": 16.865,
+            "end": 16.941
+          },
+          {
+            "word": "the ",
+            "start": 16.952,
+            "end": 17.039
+          },
+          {
+            "word": "dot-com ",
+            "start": 17.05,
+            "end": 17.419
+          },
+          {
+            "word": "crash ",
+            "start": 17.43,
+            "end": 17.702
+          },
+          {
+            "word": "seeded ",
+            "start": 17.713,
+            "end": 17.963
+          },
+          {
+            "word": "the ",
+            "start": 17.973,
+            "end": 18.039
+          },
+          {
+            "word": "conditions ",
+            "start": 18.05,
+            "end": 18.484
+          },
+          {
+            "word": "for ",
+            "start": 18.495,
+            "end": 18.56
+          },
+          {
+            "word": "the ",
+            "start": 18.571,
+            "end": 18.658
+          },
+          {
+            "word": "2008 ",
+            "start": 18.669,
+            "end": 19.452
+          },
+          {
+            "word": "financial ",
+            "start": 19.463,
+            "end": 19.963
+          },
+          {
+            "word": "crisis.",
+            "start": 19.973,
+            "end": 20.539
+          }
+        ],
+        "start": 1813
+      }
+    ]
+  },
+  {
+    "id": "ep14_results",
+    "title": "Results",
+    "globalStart": 8504,
+    "duration": 2525,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Results"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep14_results_0",
+        "audio_exists": true,
+        "audioPath": "episodes/ep14/audio/ep14_results_0.wav",
+        "text": "The dot-com crash destroyed approximately five trillion dollars in market value, wiped out hundreds of internet companies, and produced a mild recession. Unemployment rose from four percent to six percent. The recession was short — eight months — partly because the crash was primarily a financial market event rather than a credit system event.",
+        "duration": 551,
+        "bgImage": "bg_recovery.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.241
+          },
+          {
+            "word": "dot-com ",
+            "start": 0.252,
+            "end": 0.643
+          },
+          {
+            "word": "crash ",
+            "start": 0.654,
+            "end": 0.936
+          },
+          {
+            "word": "destroyed ",
+            "start": 0.947,
+            "end": 1.339
+          },
+          {
+            "word": "approximately ",
+            "start": 1.35,
+            "end": 1.904
+          },
+          {
+            "word": "five ",
+            "start": 1.915,
+            "end": 2.219
+          },
+          {
+            "word": "trillion ",
+            "start": 2.23,
+            "end": 2.578
+          },
+          {
+            "word": "dollars ",
+            "start": 2.589,
+            "end": 2.893
+          },
+          {
+            "word": "in ",
+            "start": 2.904,
+            "end": 3.013
+          },
+          {
+            "word": "market ",
+            "start": 3.023,
+            "end": 3.36
+          },
+          {
+            "word": "value, ",
+            "start": 3.371,
+            "end": 3.697
+          },
+          {
+            "word": "wiped ",
+            "start": 3.958,
+            "end": 4.23
+          },
+          {
+            "word": "out ",
+            "start": 4.241,
+            "end": 4.371
+          },
+          {
+            "word": "hundreds ",
+            "start": 4.382,
+            "end": 4.708
+          },
+          {
+            "word": "of ",
+            "start": 4.719,
+            "end": 4.784
+          },
+          {
+            "word": "internet ",
+            "start": 4.795,
+            "end": 5.154
+          },
+          {
+            "word": "companies, ",
+            "start": 5.165,
+            "end": 5.708
+          },
+          {
+            "word": "and ",
+            "start": 5.893,
+            "end": 5.991
+          },
+          {
+            "word": "produced ",
+            "start": 6.002,
+            "end": 6.393
+          },
+          {
+            "word": "a ",
+            "start": 6.404,
+            "end": 6.447
+          },
+          {
+            "word": "mild ",
+            "start": 6.458,
+            "end": 6.752
+          },
+          {
+            "word": "recession. ",
+            "start": 6.763,
+            "end": 7.273
+          },
+          {
+            "word": "Unemployment ",
+            "start": 8.017,
+            "end": 8.636
+          },
+          {
+            "word": "rose ",
+            "start": 8.647,
+            "end": 8.908
+          },
+          {
+            "word": "from ",
+            "start": 8.919,
+            "end": 9.071
+          },
+          {
+            "word": "four ",
+            "start": 9.082,
+            "end": 9.223
+          },
+          {
+            "word": "percent ",
+            "start": 9.234,
+            "end": 9.593
+          },
+          {
+            "word": "to ",
+            "start": 9.604,
+            "end": 9.669
+          },
+          {
+            "word": "six ",
+            "start": 9.68,
+            "end": 9.941
+          },
+          {
+            "word": "percent. ",
+            "start": 9.952,
+            "end": 10.419
+          },
+          {
+            "word": "The ",
+            "start": 11.169,
+            "end": 11.289
+          },
+          {
+            "word": "recession ",
+            "start": 11.3,
+            "end": 11.713
+          },
+          {
+            "word": "was ",
+            "start": 11.723,
+            "end": 11.832
+          },
+          {
+            "word": "short — ",
+            "start": 11.843,
+            "end": 12.169
+          },
+          {
+            "word": "eight ",
+            "start": 12.332,
+            "end": 12.473
+          },
+          {
+            "word": "months — ",
+            "start": 12.484,
+            "end": 12.81
+          },
+          {
+            "word": "partly ",
+            "start": 12.973,
+            "end": 13.299
+          },
+          {
+            "word": "because ",
+            "start": 13.31,
+            "end": 13.528
+          },
+          {
+            "word": "the ",
+            "start": 13.539,
+            "end": 13.615
+          },
+          {
+            "word": "crash ",
+            "start": 13.626,
+            "end": 13.93
+          },
+          {
+            "word": "was ",
+            "start": 13.941,
+            "end": 14.071
+          },
+          {
+            "word": "primarily ",
+            "start": 14.082,
+            "end": 14.539
+          },
+          {
+            "word": "a ",
+            "start": 14.55,
+            "end": 14.604
+          },
+          {
+            "word": "financial ",
+            "start": 14.615,
+            "end": 15.115
+          },
+          {
+            "word": "market ",
+            "start": 15.126,
+            "end": 15.419
+          },
+          {
+            "word": "event ",
+            "start": 15.43,
+            "end": 15.691
+          },
+          {
+            "word": "rather ",
+            "start": 15.702,
+            "end": 15.963
+          },
+          {
+            "word": "than ",
+            "start": 15.973,
+            "end": 16.082
+          },
+          {
+            "word": "a ",
+            "start": 16.093,
+            "end": 16.136
+          },
+          {
+            "word": "credit ",
+            "start": 16.147,
+            "end": 16.463
+          },
+          {
+            "word": "system ",
+            "start": 16.473,
+            "end": 16.778
+          },
+          {
+            "word": "event.",
+            "start": 16.789,
+            "end": 17.191
+          }
+        ],
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep14_results_1",
+        "audio_exists": true,
+        "audioPath": "episodes/ep14/audio/ep14_results_1.wav",
+        "text": "The surviving internet companies — Amazon, Google, eBay — emerged stronger and more dominant after the crash eliminated their competition. The wreckage of the bust paradoxically consolidated power in the firms that had been most capital-efficient. The long-run trajectory of internet technology was not altered by the crash.",
+        "duration": 522,
+        "bgImage": "bg_dotcom.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "surviving ",
+            "start": 0.241,
+            "end": 0.697
+          },
+          {
+            "word": "internet ",
+            "start": 0.708,
+            "end": 1.056
+          },
+          {
+            "word": "companies — ",
+            "start": 1.067,
+            "end": 1.589
+          },
+          {
+            "word": "Amazon, ",
+            "start": 1.784,
+            "end": 2.176
+          },
+          {
+            "word": "Google, ",
+            "start": 2.273,
+            "end": 2.643
+          },
+          {
+            "word": "eBay — ",
+            "start": 2.828,
+            "end": 3.165
+          },
+          {
+            "word": "emerged ",
+            "start": 3.382,
+            "end": 3.73
+          },
+          {
+            "word": "stronger ",
+            "start": 3.741,
+            "end": 4.208
+          },
+          {
+            "word": "and ",
+            "start": 4.219,
+            "end": 4.339
+          },
+          {
+            "word": "more ",
+            "start": 4.35,
+            "end": 4.513
+          },
+          {
+            "word": "dominant ",
+            "start": 4.523,
+            "end": 4.947
+          },
+          {
+            "word": "after ",
+            "start": 4.958,
+            "end": 5.176
+          },
+          {
+            "word": "the ",
+            "start": 5.186,
+            "end": 5.263
+          },
+          {
+            "word": "crash ",
+            "start": 5.273,
+            "end": 5.567
+          },
+          {
+            "word": "eliminated ",
+            "start": 5.578,
+            "end": 6.056
+          },
+          {
+            "word": "their ",
+            "start": 6.067,
+            "end": 6.176
+          },
+          {
+            "word": "competition. ",
+            "start": 6.186,
+            "end": 6.849
+          },
+          {
+            "word": "The ",
+            "start": 7.593,
+            "end": 7.723
+          },
+          {
+            "word": "wreckage ",
+            "start": 7.734,
+            "end": 8.049
+          },
+          {
+            "word": "of ",
+            "start": 8.06,
+            "end": 8.126
+          },
+          {
+            "word": "the ",
+            "start": 8.136,
+            "end": 8.223
+          },
+          {
+            "word": "bust ",
+            "start": 8.234,
+            "end": 8.473
+          },
+          {
+            "word": "paradoxically ",
+            "start": 8.484,
+            "end": 9.115
+          },
+          {
+            "word": "consolidated ",
+            "start": 9.126,
+            "end": 9.767
+          },
+          {
+            "word": "power ",
+            "start": 9.778,
+            "end": 10.082
+          },
+          {
+            "word": "in ",
+            "start": 10.093,
+            "end": 10.18
+          },
+          {
+            "word": "the ",
+            "start": 10.191,
+            "end": 10.267
+          },
+          {
+            "word": "firms ",
+            "start": 10.278,
+            "end": 10.615
+          },
+          {
+            "word": "that ",
+            "start": 10.626,
+            "end": 10.745
+          },
+          {
+            "word": "had ",
+            "start": 10.756,
+            "end": 10.876
+          },
+          {
+            "word": "been ",
+            "start": 10.886,
+            "end": 11.017
+          },
+          {
+            "word": "most ",
+            "start": 11.028,
+            "end": 11.278
+          },
+          {
+            "word": "capital-efficient. ",
+            "start": 11.289,
+            "end": 12.104
+          },
+          {
+            "word": "The ",
+            "start": 12.854,
+            "end": 12.973
+          },
+          {
+            "word": "long-run ",
+            "start": 12.984,
+            "end": 13.386
+          },
+          {
+            "word": "trajectory ",
+            "start": 13.397,
+            "end": 13.908
+          },
+          {
+            "word": "of ",
+            "start": 13.919,
+            "end": 13.984
+          },
+          {
+            "word": "internet ",
+            "start": 13.995,
+            "end": 14.354
+          },
+          {
+            "word": "technology ",
+            "start": 14.365,
+            "end": 14.876
+          },
+          {
+            "word": "was ",
+            "start": 14.886,
+            "end": 15.049
+          },
+          {
+            "word": "not ",
+            "start": 15.06,
+            "end": 15.278
+          },
+          {
+            "word": "altered ",
+            "start": 15.289,
+            "end": 15.55
+          },
+          {
+            "word": "by ",
+            "start": 15.56,
+            "end": 15.669
+          },
+          {
+            "word": "the ",
+            "start": 15.68,
+            "end": 15.756
+          },
+          {
+            "word": "crash.",
+            "start": 15.767,
+            "end": 16.223
+          }
+        ],
+        "start": 641
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep14_results_2",
+        "audio_exists": true,
+        "audioPath": "episodes/ep14/audio/ep14_results_2.wav",
+        "text": "The regulatory response — Sarbanes-Oxley and the research settlement — addressed the specific frauds and conflicts of interest that the crash revealed. But the deeper lesson — that speculative manias in transformative technologies are recurring features of capitalist finance, not one-time aberrations — was not institutionalized.",
+        "duration": 518,
+        "bgImage": "bg_city_night.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.219
+          },
+          {
+            "word": "regulatory ",
+            "start": 0.23,
+            "end": 0.773
+          },
+          {
+            "word": "response — ",
+            "start": 0.784,
+            "end": 1.295
+          },
+          {
+            "word": "Sarbanes-Oxley ",
+            "start": 1.469,
+            "end": 2.252
+          },
+          {
+            "word": "and ",
+            "start": 2.263,
+            "end": 2.371
+          },
+          {
+            "word": "the ",
+            "start": 2.382,
+            "end": 2.458
+          },
+          {
+            "word": "research ",
+            "start": 2.469,
+            "end": 2.915
+          },
+          {
+            "word": "settlement — ",
+            "start": 2.926,
+            "end": 3.382
+          },
+          {
+            "word": "addressed ",
+            "start": 3.556,
+            "end": 3.849
+          },
+          {
+            "word": "the ",
+            "start": 3.86,
+            "end": 3.926
+          },
+          {
+            "word": "specific ",
+            "start": 3.936,
+            "end": 4.382
+          },
+          {
+            "word": "frauds ",
+            "start": 4.393,
+            "end": 4.73
+          },
+          {
+            "word": "and ",
+            "start": 4.741,
+            "end": 4.817
+          },
+          {
+            "word": "conflicts ",
+            "start": 4.828,
+            "end": 5.263
+          },
+          {
+            "word": "of ",
+            "start": 5.273,
+            "end": 5.349
+          },
+          {
+            "word": "interest ",
+            "start": 5.36,
+            "end": 5.784
+          },
+          {
+            "word": "that ",
+            "start": 5.795,
+            "end": 5.893
+          },
+          {
+            "word": "the ",
+            "start": 5.904,
+            "end": 5.958
+          },
+          {
+            "word": "crash ",
+            "start": 5.969,
+            "end": 6.23
+          },
+          {
+            "word": "revealed. ",
+            "start": 6.241,
+            "end": 6.784
+          },
+          {
+            "word": "But ",
+            "start": 7.528,
+            "end": 7.658
+          },
+          {
+            "word": "the ",
+            "start": 7.669,
+            "end": 7.745
+          },
+          {
+            "word": "deeper ",
+            "start": 7.756,
+            "end": 8.028
+          },
+          {
+            "word": "lesson — ",
+            "start": 8.039,
+            "end": 8.397
+          },
+          {
+            "word": "that ",
+            "start": 8.55,
+            "end": 8.68
+          },
+          {
+            "word": "speculative ",
+            "start": 8.691,
+            "end": 9.202
+          },
+          {
+            "word": "manias ",
+            "start": 9.213,
+            "end": 9.647
+          },
+          {
+            "word": "in ",
+            "start": 9.658,
+            "end": 9.756
+          },
+          {
+            "word": "transformative ",
+            "start": 9.767,
+            "end": 10.408
+          },
+          {
+            "word": "technologies ",
+            "start": 10.419,
+            "end": 10.984
+          },
+          {
+            "word": "are ",
+            "start": 10.995,
+            "end": 11.06
+          },
+          {
+            "word": "recurring ",
+            "start": 11.071,
+            "end": 11.506
+          },
+          {
+            "word": "features ",
+            "start": 11.517,
+            "end": 11.865
+          },
+          {
+            "word": "of ",
+            "start": 11.876,
+            "end": 11.952
+          },
+          {
+            "word": "capitalist ",
+            "start": 11.963,
+            "end": 12.463
+          },
+          {
+            "word": "finance, ",
+            "start": 12.473,
+            "end": 13.017
+          },
+          {
+            "word": "not ",
+            "start": 13.202,
+            "end": 13.408
+          },
+          {
+            "word": "one-time ",
+            "start": 13.419,
+            "end": 13.821
+          },
+          {
+            "word": "aberrations — ",
+            "start": 13.832,
+            "end": 14.43
+          },
+          {
+            "word": "was ",
+            "start": 14.593,
+            "end": 14.734
+          },
+          {
+            "word": "not ",
+            "start": 14.745,
+            "end": 14.995
+          },
+          {
+            "word": "institutionalized.",
+            "start": 15.006,
+            "end": 16.082
+          }
+        ],
+        "start": 1163
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep14_results_3",
+        "audio_exists": true,
+        "audioPath": "episodes/ep14/audio/ep14_results_3.wav",
+        "text": "The Fed's decision to keep rates low to support recovery demonstrated a fundamental asymmetry in central banking: it was easier to respond to busts than to prevent booms. The institution that cushioned the crash helped create the conditions for the next one.",
+        "duration": 391,
+        "bgImage": "bg_interest_chart.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "Fed's ",
+            "start": 0.241,
+            "end": 0.502
+          },
+          {
+            "word": "decision ",
+            "start": 0.513,
+            "end": 0.882
+          },
+          {
+            "word": "to ",
+            "start": 0.893,
+            "end": 0.969
+          },
+          {
+            "word": "keep ",
+            "start": 0.98,
+            "end": 1.186
+          },
+          {
+            "word": "rates ",
+            "start": 1.197,
+            "end": 1.426
+          },
+          {
+            "word": "low ",
+            "start": 1.436,
+            "end": 1.621
+          },
+          {
+            "word": "to ",
+            "start": 1.632,
+            "end": 1.719
+          },
+          {
+            "word": "support ",
+            "start": 1.73,
+            "end": 2.078
+          },
+          {
+            "word": "recovery ",
+            "start": 2.089,
+            "end": 2.469
+          },
+          {
+            "word": "demonstrated ",
+            "start": 2.48,
+            "end": 3.023
+          },
+          {
+            "word": "a ",
+            "start": 3.034,
+            "end": 3.078
+          },
+          {
+            "word": "fundamental ",
+            "start": 3.089,
+            "end": 3.654
+          },
+          {
+            "word": "asymmetry ",
+            "start": 3.665,
+            "end": 4.143
+          },
+          {
+            "word": "in ",
+            "start": 4.154,
+            "end": 4.284
+          },
+          {
+            "word": "central ",
+            "start": 4.295,
+            "end": 4.654
+          },
+          {
+            "word": "banking: ",
+            "start": 4.665,
+            "end": 5.023
+          },
+          {
+            "word": "it ",
+            "start": 5.284,
+            "end": 5.349
+          },
+          {
+            "word": "was ",
+            "start": 5.36,
+            "end": 5.48
+          },
+          {
+            "word": "easier ",
+            "start": 5.491,
+            "end": 5.839
+          },
+          {
+            "word": "to ",
+            "start": 5.85,
+            "end": 5.926
+          },
+          {
+            "word": "respond ",
+            "start": 5.936,
+            "end": 6.317
+          },
+          {
+            "word": "to ",
+            "start": 6.328,
+            "end": 6.393
+          },
+          {
+            "word": "busts ",
+            "start": 6.404,
+            "end": 6.719
+          },
+          {
+            "word": "than ",
+            "start": 6.73,
+            "end": 6.849
+          },
+          {
+            "word": "to ",
+            "start": 6.86,
+            "end": 6.936
+          },
+          {
+            "word": "prevent ",
+            "start": 6.947,
+            "end": 7.306
+          },
+          {
+            "word": "booms. ",
+            "start": 7.317,
+            "end": 7.763
+          },
+          {
+            "word": "The ",
+            "start": 8.506,
+            "end": 8.647
+          },
+          {
+            "word": "institution ",
+            "start": 8.658,
+            "end": 9.234
+          },
+          {
+            "word": "that ",
+            "start": 9.245,
+            "end": 9.386
+          },
+          {
+            "word": "cushioned ",
+            "start": 9.397,
+            "end": 9.669
+          },
+          {
+            "word": "the ",
+            "start": 9.68,
+            "end": 9.734
+          },
+          {
+            "word": "crash ",
+            "start": 9.745,
+            "end": 10.039
+          },
+          {
+            "word": "helped ",
+            "start": 10.05,
+            "end": 10.289
+          },
+          {
+            "word": "create ",
+            "start": 10.3,
+            "end": 10.582
+          },
+          {
+            "word": "the ",
+            "start": 10.593,
+            "end": 10.658
+          },
+          {
+            "word": "conditions ",
+            "start": 10.669,
+            "end": 11.115
+          },
+          {
+            "word": "for ",
+            "start": 11.126,
+            "end": 11.202
+          },
+          {
+            "word": "the ",
+            "start": 11.213,
+            "end": 11.289
+          },
+          {
+            "word": "next ",
+            "start": 11.3,
+            "end": 11.571
+          },
+          {
+            "word": "one.",
+            "start": 11.582,
+            "end": 11.865
+          }
+        ],
+        "start": 1681
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep14_results_4",
+        "audio_exists": true,
+        "audioPath": "episodes/ep14/audio/ep14_results_4.wav",
+        "text": "The Greenspan Fed's aggressive rate cuts — a pattern established after Black Monday (Episode 8) — successfully contained the recession. But the tool that worked in 1987 and again in 2001 was creating the conditions in which it would ultimately fail in 2008.",
+        "duration": 453,
+        "bgImage": "bg_recovery.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "Greenspan ",
+            "start": 0.241,
+            "end": 0.741
+          },
+          {
+            "word": "Fed's ",
+            "start": 0.752,
+            "end": 1.045
+          },
+          {
+            "word": "aggressive ",
+            "start": 1.056,
+            "end": 1.447
+          },
+          {
+            "word": "rate ",
+            "start": 1.458,
+            "end": 1.686
+          },
+          {
+            "word": "cuts — ",
+            "start": 1.697,
+            "end": 2.089
+          },
+          {
+            "word": "a ",
+            "start": 2.273,
+            "end": 2.339
+          },
+          {
+            "word": "pattern ",
+            "start": 2.35,
+            "end": 2.632
+          },
+          {
+            "word": "established ",
+            "start": 2.643,
+            "end": 3.143
+          },
+          {
+            "word": "after ",
+            "start": 3.154,
+            "end": 3.393
+          },
+          {
+            "word": "Black ",
+            "start": 3.404,
+            "end": 3.654
+          },
+          {
+            "word": "Monday (",
+            "start": 3.665,
+            "end": 4.056
+          },
+          {
+            "word": "Episode ",
+            "start": 4.295,
+            "end": 4.654
+          },
+          {
+            "word": "8) — ",
+            "start": 4.665,
+            "end": 4.871
+          },
+          {
+            "word": "successfully ",
+            "start": 5.045,
+            "end": 5.599
+          },
+          {
+            "word": "contained ",
+            "start": 5.61,
+            "end": 6.002
+          },
+          {
+            "word": "the ",
+            "start": 6.013,
+            "end": 6.078
+          },
+          {
+            "word": "recession. ",
+            "start": 6.089,
+            "end": 6.621
+          },
+          {
+            "word": "But ",
+            "start": 7.365,
+            "end": 7.528
+          },
+          {
+            "word": "the ",
+            "start": 7.539,
+            "end": 7.615
+          },
+          {
+            "word": "tool ",
+            "start": 7.626,
+            "end": 7.821
+          },
+          {
+            "word": "that ",
+            "start": 7.832,
+            "end": 7.995
+          },
+          {
+            "word": "worked ",
+            "start": 8.006,
+            "end": 8.267
+          },
+          {
+            "word": "in 1987 ",
+            "start": 8.278,
+            "end": 9.256
+          },
+          {
+            "word": "and ",
+            "start": 9.267,
+            "end": 9.386
+          },
+          {
+            "word": "again ",
+            "start": 9.397,
+            "end": 9.615
+          },
+          {
+            "word": "in 2001 ",
+            "start": 9.626,
+            "end": 10.56
+          },
+          {
+            "word": "was ",
+            "start": 10.571,
+            "end": 10.68
+          },
+          {
+            "word": "creating ",
+            "start": 10.691,
+            "end": 11.082
+          },
+          {
+            "word": "the ",
+            "start": 11.093,
+            "end": 11.147
+          },
+          {
+            "word": "conditions ",
+            "start": 11.158,
+            "end": 11.604
+          },
+          {
+            "word": "in ",
+            "start": 11.615,
+            "end": 11.713
+          },
+          {
+            "word": "which ",
+            "start": 11.723,
+            "end": 11.886
+          },
+          {
+            "word": "it ",
+            "start": 11.897,
+            "end": 11.963
+          },
+          {
+            "word": "would ",
+            "start": 11.973,
+            "end": 12.082
+          },
+          {
+            "word": "ultimately ",
+            "start": 12.093,
+            "end": 12.539
+          },
+          {
+            "word": "fail ",
+            "start": 12.55,
+            "end": 12.843
+          },
+          {
+            "word": "in 2008.",
+            "start": 12.854,
+            "end": 13.919
+          }
+        ],
+        "start": 2072
+      }
+    ]
+  },
+  {
+    "id": "credits",
+    "title": "Credits",
+    "globalStart": 11029,
+    "duration": 440,
+    "subSlides": [
+      {
+        "type": "credits",
+        "start": 0,
+        "duration": 440,
+        "audioSrc": "audio/outro_narration.wav"
+      }
+    ]
+  }
+]

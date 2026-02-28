@@ -1,0 +1,4987 @@
+[
+  {
+    "id": "intro",
+    "title": "Intro",
+    "globalStart": 0,
+    "duration": 180,
+    "episode": 2,
+    "episodeMeta": {
+      "title": "The Long Depression",
+      "subtitle": "1873–1896"
+    },
+    "subSlides": [
+      {
+        "type": "intro",
+        "start": 0,
+        "duration": 180,
+        "audioSrc": "episodes/ep16/intro.wav"
+      }
+    ]
+  },
+  {
+    "id": "ep16_event",
+    "title": "Event",
+    "globalStart": 180,
+    "duration": 3332,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Event"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep16_event_0",
+        "audio_exists": true,
+        "audioPath": "episodes/ep16/audio/ep16_event_0.wav",
+        "text": "On September 18, 1873, Jay Cooke and Company — the most prestigious banking house in the United States, financier of the Union during the Civil War — declared bankruptcy. Within hours, the New York Stock Exchange closed for ten days. Eighteen thousand businesses failed over the next two years. The Long Depression had begun — a period of deflation and economic stagnation that would last, in various forms, until 1896.",
+        "duration": 769,
+        "bgImage": "bg_railroad.jpg",
+        "wordTimings": [
+          {
+            "word": "On ",
+            "start": 0.1,
+            "end": 0.273
+          },
+          {
+            "word": "September 18, 1873, ",
+            "start": 0.284,
+            "end": 2.306
+          },
+          {
+            "word": "Jay ",
+            "start": 2.458,
+            "end": 2.676
+          },
+          {
+            "word": "Cooke ",
+            "start": 2.686,
+            "end": 2.915
+          },
+          {
+            "word": "and ",
+            "start": 2.926,
+            "end": 3.013
+          },
+          {
+            "word": "Company — ",
+            "start": 3.023,
+            "end": 3.404
+          },
+          {
+            "word": "the ",
+            "start": 3.589,
+            "end": 3.665
+          },
+          {
+            "word": "most ",
+            "start": 3.676,
+            "end": 3.926
+          },
+          {
+            "word": "prestigious ",
+            "start": 3.936,
+            "end": 4.404
+          },
+          {
+            "word": "banking ",
+            "start": 4.415,
+            "end": 4.752
+          },
+          {
+            "word": "house ",
+            "start": 4.763,
+            "end": 5.034
+          },
+          {
+            "word": "in ",
+            "start": 5.045,
+            "end": 5.11
+          },
+          {
+            "word": "the ",
+            "start": 5.121,
+            "end": 5.186
+          },
+          {
+            "word": "United ",
+            "start": 5.197,
+            "end": 5.643
+          },
+          {
+            "word": "States, ",
+            "start": 5.654,
+            "end": 6.045
+          },
+          {
+            "word": "financier ",
+            "start": 6.252,
+            "end": 6.86
+          },
+          {
+            "word": "of ",
+            "start": 6.871,
+            "end": 6.947
+          },
+          {
+            "word": "the ",
+            "start": 6.958,
+            "end": 7.034
+          },
+          {
+            "word": "Union ",
+            "start": 7.045,
+            "end": 7.404
+          },
+          {
+            "word": "during ",
+            "start": 7.415,
+            "end": 7.686
+          },
+          {
+            "word": "the ",
+            "start": 7.697,
+            "end": 7.763
+          },
+          {
+            "word": "Civil ",
+            "start": 7.773,
+            "end": 8.067
+          },
+          {
+            "word": "War — ",
+            "start": 8.078,
+            "end": 8.404
+          },
+          {
+            "word": "declared ",
+            "start": 8.6,
+            "end": 9.013
+          },
+          {
+            "word": "bankruptcy. ",
+            "start": 9.023,
+            "end": 9.676
+          },
+          {
+            "word": "Within ",
+            "start": 10.419,
+            "end": 10.713
+          },
+          {
+            "word": "hours, ",
+            "start": 10.723,
+            "end": 11.028
+          },
+          {
+            "word": "the ",
+            "start": 11.147,
+            "end": 11.234
+          },
+          {
+            "word": "New ",
+            "start": 11.245,
+            "end": 11.419
+          },
+          {
+            "word": "York ",
+            "start": 11.43,
+            "end": 11.68
+          },
+          {
+            "word": "Stock ",
+            "start": 11.691,
+            "end": 11.93
+          },
+          {
+            "word": "Exchange ",
+            "start": 11.941,
+            "end": 12.354
+          },
+          {
+            "word": "closed ",
+            "start": 12.365,
+            "end": 12.723
+          },
+          {
+            "word": "for ",
+            "start": 12.734,
+            "end": 12.832
+          },
+          {
+            "word": "ten ",
+            "start": 12.843,
+            "end": 13.104
+          },
+          {
+            "word": "days. ",
+            "start": 13.115,
+            "end": 13.593
+          },
+          {
+            "word": "Eighteen ",
+            "start": 14.343,
+            "end": 14.745
+          },
+          {
+            "word": "thousand ",
+            "start": 14.756,
+            "end": 15.115
+          },
+          {
+            "word": "businesses ",
+            "start": 15.126,
+            "end": 15.528
+          },
+          {
+            "word": "failed ",
+            "start": 15.539,
+            "end": 15.854
+          },
+          {
+            "word": "over ",
+            "start": 15.865,
+            "end": 16.017
+          },
+          {
+            "word": "the ",
+            "start": 16.028,
+            "end": 16.104
+          },
+          {
+            "word": "next ",
+            "start": 16.115,
+            "end": 16.354
+          },
+          {
+            "word": "two ",
+            "start": 16.365,
+            "end": 16.539
+          },
+          {
+            "word": "years. ",
+            "start": 16.55,
+            "end": 17.006
+          },
+          {
+            "word": "The ",
+            "start": 17.756,
+            "end": 17.876
+          },
+          {
+            "word": "Long ",
+            "start": 17.886,
+            "end": 18.071
+          },
+          {
+            "word": "Depression ",
+            "start": 18.082,
+            "end": 18.473
+          },
+          {
+            "word": "had ",
+            "start": 18.484,
+            "end": 18.626
+          },
+          {
+            "word": "begun — ",
+            "start": 18.636,
+            "end": 18.984
+          },
+          {
+            "word": "a ",
+            "start": 19.147,
+            "end": 19.191
+          },
+          {
+            "word": "period ",
+            "start": 19.202,
+            "end": 19.517
+          },
+          {
+            "word": "of ",
+            "start": 19.528,
+            "end": 19.593
+          },
+          {
+            "word": "deflation ",
+            "start": 19.604,
+            "end": 20.049
+          },
+          {
+            "word": "and ",
+            "start": 20.06,
+            "end": 20.18
+          },
+          {
+            "word": "economic ",
+            "start": 20.191,
+            "end": 20.615
+          },
+          {
+            "word": "stagnation ",
+            "start": 20.626,
+            "end": 21.147
+          },
+          {
+            "word": "that ",
+            "start": 21.158,
+            "end": 21.278
+          },
+          {
+            "word": "would ",
+            "start": 21.289,
+            "end": 21.397
+          },
+          {
+            "word": "last, ",
+            "start": 21.408,
+            "end": 21.767
+          },
+          {
+            "word": "in ",
+            "start": 21.963,
+            "end": 22.06
+          },
+          {
+            "word": "various ",
+            "start": 22.071,
+            "end": 22.484
+          },
+          {
+            "word": "forms, ",
+            "start": 22.495,
+            "end": 22.941
+          },
+          {
+            "word": "until 1896.",
+            "start": 23.136,
+            "end": 24.473
+          }
+        ],
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep16_event_1",
+        "audio_exists": true,
+        "audioPath": "episodes/ep16/audio/ep16_event_1.wav",
+        "text": "The origins lay in railroad speculation. The transcontinental railroad boom of the 1860s had created the first modern capital market, bringing European investment into American infrastructure. Jay Cooke's firm was financing the Northern Pacific Railroad — a project larger than anything yet attempted — when it ran out of buyers for the bonds.",
+        "duration": 565,
+        "bgImage": "bg_factory_dark.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.252
+          },
+          {
+            "word": "origins ",
+            "start": 0.263,
+            "end": 0.697
+          },
+          {
+            "word": "lay ",
+            "start": 0.708,
+            "end": 0.904
+          },
+          {
+            "word": "in ",
+            "start": 0.915,
+            "end": 1.067
+          },
+          {
+            "word": "railroad ",
+            "start": 1.078,
+            "end": 1.523
+          },
+          {
+            "word": "speculation. ",
+            "start": 1.534,
+            "end": 2.23
+          },
+          {
+            "word": "The ",
+            "start": 2.973,
+            "end": 3.093
+          },
+          {
+            "word": "transcontinental ",
+            "start": 3.104,
+            "end": 3.963
+          },
+          {
+            "word": "railroad ",
+            "start": 3.973,
+            "end": 4.43
+          },
+          {
+            "word": "boom ",
+            "start": 4.441,
+            "end": 4.669
+          },
+          {
+            "word": "of ",
+            "start": 4.68,
+            "end": 4.756
+          },
+          {
+            "word": "the ",
+            "start": 4.767,
+            "end": 4.876
+          },
+          {
+            "word": "1860s ",
+            "start": 4.886,
+            "end": 5.658
+          },
+          {
+            "word": "had ",
+            "start": 5.669,
+            "end": 5.778
+          },
+          {
+            "word": "created ",
+            "start": 5.789,
+            "end": 6.18
+          },
+          {
+            "word": "the ",
+            "start": 6.191,
+            "end": 6.256
+          },
+          {
+            "word": "first ",
+            "start": 6.267,
+            "end": 6.593
+          },
+          {
+            "word": "modern ",
+            "start": 6.604,
+            "end": 6.843
+          },
+          {
+            "word": "capital ",
+            "start": 6.854,
+            "end": 7.234
+          },
+          {
+            "word": "market, ",
+            "start": 7.245,
+            "end": 7.626
+          },
+          {
+            "word": "bringing ",
+            "start": 7.734,
+            "end": 8.006
+          },
+          {
+            "word": "European ",
+            "start": 8.017,
+            "end": 8.452
+          },
+          {
+            "word": "investment ",
+            "start": 8.463,
+            "end": 8.963
+          },
+          {
+            "word": "into ",
+            "start": 8.973,
+            "end": 9.245
+          },
+          {
+            "word": "American ",
+            "start": 9.256,
+            "end": 9.647
+          },
+          {
+            "word": "infrastructure. ",
+            "start": 9.658,
+            "end": 10.43
+          },
+          {
+            "word": "Jay ",
+            "start": 11.18,
+            "end": 11.452
+          },
+          {
+            "word": "Cooke's ",
+            "start": 11.463,
+            "end": 11.713
+          },
+          {
+            "word": "firm ",
+            "start": 11.723,
+            "end": 11.963
+          },
+          {
+            "word": "was ",
+            "start": 11.973,
+            "end": 12.093
+          },
+          {
+            "word": "financing ",
+            "start": 12.104,
+            "end": 12.647
+          },
+          {
+            "word": "the ",
+            "start": 12.658,
+            "end": 12.723
+          },
+          {
+            "word": "Northern ",
+            "start": 12.734,
+            "end": 13.039
+          },
+          {
+            "word": "Pacific ",
+            "start": 13.05,
+            "end": 13.452
+          },
+          {
+            "word": "Railroad — ",
+            "start": 13.463,
+            "end": 13.941
+          },
+          {
+            "word": "a ",
+            "start": 14.093,
+            "end": 14.158
+          },
+          {
+            "word": "project ",
+            "start": 14.169,
+            "end": 14.506
+          },
+          {
+            "word": "larger ",
+            "start": 14.517,
+            "end": 14.8
+          },
+          {
+            "word": "than ",
+            "start": 14.81,
+            "end": 14.941
+          },
+          {
+            "word": "anything ",
+            "start": 14.952,
+            "end": 15.256
+          },
+          {
+            "word": "yet ",
+            "start": 15.267,
+            "end": 15.386
+          },
+          {
+            "word": "attempted — ",
+            "start": 15.397,
+            "end": 15.832
+          },
+          {
+            "word": "when ",
+            "start": 16.017,
+            "end": 16.147
+          },
+          {
+            "word": "it ",
+            "start": 16.158,
+            "end": 16.256
+          },
+          {
+            "word": "ran ",
+            "start": 16.267,
+            "end": 16.441
+          },
+          {
+            "word": "out ",
+            "start": 16.452,
+            "end": 16.593
+          },
+          {
+            "word": "of ",
+            "start": 16.604,
+            "end": 16.702
+          },
+          {
+            "word": "buyers ",
+            "start": 16.713,
+            "end": 17.049
+          },
+          {
+            "word": "for ",
+            "start": 17.06,
+            "end": 17.136
+          },
+          {
+            "word": "the ",
+            "start": 17.147,
+            "end": 17.223
+          },
+          {
+            "word": "bonds.",
+            "start": 17.234,
+            "end": 17.68
+          }
+        ],
+        "start": 859
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep16_event_2",
+        "audio_exists": true,
+        "audioPath": "episodes/ep16/audio/ep16_event_2.wav",
+        "text": "The panic spread simultaneously to Europe. Austria-Hungary experienced its own financial crisis in May 1873 — the Gründerkrach — as the post-Franco-Prussian War investment boom collapsed. Germany, flush with French war reparations, had also overinvested in railroads and industry. The crash of 1873 was the first global financial crisis — simultaneous contractions in the United States, Britain, and Central Europe.",
+        "duration": 762,
+        "bgImage": "bg_gold_bars.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.252
+          },
+          {
+            "word": "panic ",
+            "start": 0.263,
+            "end": 0.513
+          },
+          {
+            "word": "spread ",
+            "start": 0.523,
+            "end": 0.817
+          },
+          {
+            "word": "simultaneously ",
+            "start": 0.828,
+            "end": 1.6
+          },
+          {
+            "word": "to ",
+            "start": 1.61,
+            "end": 1.708
+          },
+          {
+            "word": "Europe. ",
+            "start": 1.719,
+            "end": 2.208
+          },
+          {
+            "word": "Austria-Hungary ",
+            "start": 2.952,
+            "end": 3.702
+          },
+          {
+            "word": "experienced ",
+            "start": 3.713,
+            "end": 4.289
+          },
+          {
+            "word": "its ",
+            "start": 4.3,
+            "end": 4.408
+          },
+          {
+            "word": "own ",
+            "start": 4.419,
+            "end": 4.604
+          },
+          {
+            "word": "financial ",
+            "start": 4.615,
+            "end": 5.126
+          },
+          {
+            "word": "crisis ",
+            "start": 5.136,
+            "end": 5.56
+          },
+          {
+            "word": "in ",
+            "start": 5.571,
+            "end": 5.669
+          },
+          {
+            "word": "May 1873 — ",
+            "start": 5.68,
+            "end": 6.897
+          },
+          {
+            "word": "the ",
+            "start": 7.093,
+            "end": 7.169
+          },
+          {
+            "word": "Gründerkrach — ",
+            "start": 7.18,
+            "end": 7.745
+          },
+          {
+            "word": "as ",
+            "start": 7.941,
+            "end": 8.017
+          },
+          {
+            "word": "the ",
+            "start": 8.028,
+            "end": 8.115
+          },
+          {
+            "word": "post-Franco-Prussian ",
+            "start": 8.126,
+            "end": 9.115
+          },
+          {
+            "word": "War ",
+            "start": 9.126,
+            "end": 9.31
+          },
+          {
+            "word": "investment ",
+            "start": 9.321,
+            "end": 9.832
+          },
+          {
+            "word": "boom ",
+            "start": 9.843,
+            "end": 10.082
+          },
+          {
+            "word": "collapsed. ",
+            "start": 10.093,
+            "end": 10.669
+          },
+          {
+            "word": "Germany, ",
+            "start": 11.419,
+            "end": 11.865
+          },
+          {
+            "word": "flush ",
+            "start": 12.06,
+            "end": 12.31
+          },
+          {
+            "word": "with ",
+            "start": 12.321,
+            "end": 12.463
+          },
+          {
+            "word": "French ",
+            "start": 12.473,
+            "end": 12.745
+          },
+          {
+            "word": "war ",
+            "start": 12.756,
+            "end": 12.908
+          },
+          {
+            "word": "reparations, ",
+            "start": 12.919,
+            "end": 13.582
+          },
+          {
+            "word": "had ",
+            "start": 13.778,
+            "end": 13.865
+          },
+          {
+            "word": "also ",
+            "start": 13.876,
+            "end": 14.191
+          },
+          {
+            "word": "overinvested ",
+            "start": 14.202,
+            "end": 14.81
+          },
+          {
+            "word": "in ",
+            "start": 14.821,
+            "end": 14.93
+          },
+          {
+            "word": "railroads ",
+            "start": 14.941,
+            "end": 15.463
+          },
+          {
+            "word": "and ",
+            "start": 15.473,
+            "end": 15.626
+          },
+          {
+            "word": "industry. ",
+            "start": 15.636,
+            "end": 16.126
+          },
+          {
+            "word": "The ",
+            "start": 16.876,
+            "end": 16.995
+          },
+          {
+            "word": "crash ",
+            "start": 17.006,
+            "end": 17.289
+          },
+          {
+            "word": "of ",
+            "start": 17.3,
+            "end": 17.386
+          },
+          {
+            "word": "1873 ",
+            "start": 17.397,
+            "end": 18.376
+          },
+          {
+            "word": "was ",
+            "start": 18.386,
+            "end": 18.517
+          },
+          {
+            "word": "the ",
+            "start": 18.528,
+            "end": 18.604
+          },
+          {
+            "word": "first ",
+            "start": 18.615,
+            "end": 18.941
+          },
+          {
+            "word": "global ",
+            "start": 18.952,
+            "end": 19.267
+          },
+          {
+            "word": "financial ",
+            "start": 19.278,
+            "end": 19.8
+          },
+          {
+            "word": "crisis — ",
+            "start": 19.81,
+            "end": 20.3
+          },
+          {
+            "word": "simultaneous ",
+            "start": 20.463,
+            "end": 21.06
+          },
+          {
+            "word": "contractions ",
+            "start": 21.071,
+            "end": 21.626
+          },
+          {
+            "word": "in ",
+            "start": 21.636,
+            "end": 21.702
+          },
+          {
+            "word": "the ",
+            "start": 21.713,
+            "end": 21.767
+          },
+          {
+            "word": "United ",
+            "start": 21.778,
+            "end": 22.202
+          },
+          {
+            "word": "States, ",
+            "start": 22.213,
+            "end": 22.626
+          },
+          {
+            "word": "Britain, ",
+            "start": 22.745,
+            "end": 23.104
+          },
+          {
+            "word": "and ",
+            "start": 23.267,
+            "end": 23.386
+          },
+          {
+            "word": "Central ",
+            "start": 23.397,
+            "end": 23.756
+          },
+          {
+            "word": "Europe.",
+            "start": 23.767,
+            "end": 24.223
+          }
+        ],
+        "start": 1424
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep16_event_3",
+        "audio_exists": true,
+        "audioPath": "episodes/ep16/audio/ep16_event_3.wav",
+        "text": "What followed was not a sharp recession and recovery, but a prolonged period of deflation. Prices fell continuously for two decades. Wheat prices fell by half between 1873 and 1896. Steel prices collapsed. The mechanization of agriculture and industry created persistent deflation — costs fell, but so did revenues and wages.",
+        "duration": 650,
+        "bgImage": "bg_city_night.jpg",
+        "wordTimings": [
+          {
+            "word": "What ",
+            "start": 0.1,
+            "end": 0.306
+          },
+          {
+            "word": "followed ",
+            "start": 0.317,
+            "end": 0.643
+          },
+          {
+            "word": "was ",
+            "start": 0.654,
+            "end": 0.784
+          },
+          {
+            "word": "not ",
+            "start": 0.795,
+            "end": 0.969
+          },
+          {
+            "word": "a ",
+            "start": 0.98,
+            "end": 1.023
+          },
+          {
+            "word": "sharp ",
+            "start": 1.034,
+            "end": 1.306
+          },
+          {
+            "word": "recession ",
+            "start": 1.317,
+            "end": 1.73
+          },
+          {
+            "word": "and ",
+            "start": 1.741,
+            "end": 1.828
+          },
+          {
+            "word": "recovery, ",
+            "start": 1.839,
+            "end": 2.241
+          },
+          {
+            "word": "but ",
+            "start": 2.436,
+            "end": 2.545
+          },
+          {
+            "word": "a ",
+            "start": 2.556,
+            "end": 2.599
+          },
+          {
+            "word": "prolonged ",
+            "start": 2.61,
+            "end": 2.969
+          },
+          {
+            "word": "period ",
+            "start": 2.98,
+            "end": 3.328
+          },
+          {
+            "word": "of ",
+            "start": 3.339,
+            "end": 3.404
+          },
+          {
+            "word": "deflation. ",
+            "start": 3.415,
+            "end": 3.98
+          },
+          {
+            "word": "Prices ",
+            "start": 4.723,
+            "end": 5.136
+          },
+          {
+            "word": "fell ",
+            "start": 5.147,
+            "end": 5.386
+          },
+          {
+            "word": "continuously ",
+            "start": 5.397,
+            "end": 6.039
+          },
+          {
+            "word": "for ",
+            "start": 6.05,
+            "end": 6.169
+          },
+          {
+            "word": "two ",
+            "start": 6.18,
+            "end": 6.397
+          },
+          {
+            "word": "decades. ",
+            "start": 6.408,
+            "end": 7.006
+          },
+          {
+            "word": "Wheat ",
+            "start": 7.756,
+            "end": 8.039
+          },
+          {
+            "word": "prices ",
+            "start": 8.05,
+            "end": 8.408
+          },
+          {
+            "word": "fell ",
+            "start": 8.419,
+            "end": 8.669
+          },
+          {
+            "word": "by ",
+            "start": 8.68,
+            "end": 8.832
+          },
+          {
+            "word": "half ",
+            "start": 8.843,
+            "end": 9.18
+          },
+          {
+            "word": "between 1873 and 1896. ",
+            "start": 9.191,
+            "end": 11.767
+          },
+          {
+            "word": "Steel ",
+            "start": 12.517,
+            "end": 12.897
+          },
+          {
+            "word": "prices ",
+            "start": 12.908,
+            "end": 13.278
+          },
+          {
+            "word": "collapsed. ",
+            "start": 13.289,
+            "end": 13.876
+          },
+          {
+            "word": "The ",
+            "start": 14.626,
+            "end": 14.756
+          },
+          {
+            "word": "mechanization ",
+            "start": 14.767,
+            "end": 15.441
+          },
+          {
+            "word": "of ",
+            "start": 15.452,
+            "end": 15.528
+          },
+          {
+            "word": "agriculture ",
+            "start": 15.539,
+            "end": 16.071
+          },
+          {
+            "word": "and ",
+            "start": 16.082,
+            "end": 16.202
+          },
+          {
+            "word": "industry ",
+            "start": 16.213,
+            "end": 16.593
+          },
+          {
+            "word": "created ",
+            "start": 16.604,
+            "end": 16.995
+          },
+          {
+            "word": "persistent ",
+            "start": 17.006,
+            "end": 17.43
+          },
+          {
+            "word": "deflation — ",
+            "start": 17.441,
+            "end": 17.941
+          },
+          {
+            "word": "costs ",
+            "start": 18.071,
+            "end": 18.397
+          },
+          {
+            "word": "fell, ",
+            "start": 18.408,
+            "end": 18.702
+          },
+          {
+            "word": "but ",
+            "start": 18.876,
+            "end": 19.006
+          },
+          {
+            "word": "so ",
+            "start": 19.017,
+            "end": 19.169
+          },
+          {
+            "word": "did ",
+            "start": 19.18,
+            "end": 19.332
+          },
+          {
+            "word": "revenues ",
+            "start": 19.343,
+            "end": 19.843
+          },
+          {
+            "word": "and ",
+            "start": 19.854,
+            "end": 19.952
+          },
+          {
+            "word": "wages.",
+            "start": 19.963,
+            "end": 20.484
+          }
+        ],
+        "start": 2186
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep16_event_4",
+        "audio_exists": true,
+        "audioPath": "episodes/ep16/audio/ep16_event_4.wav",
+        "text": "Contemporaries called it the 'Great Depression' — a term that would later be transferred to the 1930s crisis. It was the defining economic experience of the late nineteenth century: a world transformed by industrial capitalism, experiencing the first sustained global downturn that no government had the tools to address.",
+        "duration": 496,
+        "bgImage": "bg_railroad.jpg",
+        "wordTimings": [
+          {
+            "word": "Contemporaries ",
+            "start": 0.1,
+            "end": 0.752
+          },
+          {
+            "word": "called ",
+            "start": 0.763,
+            "end": 0.969
+          },
+          {
+            "word": "it ",
+            "start": 0.98,
+            "end": 1.056
+          },
+          {
+            "word": "the '",
+            "start": 1.067,
+            "end": 1.132
+          },
+          {
+            "word": "Great ",
+            "start": 1.176,
+            "end": 1.426
+          },
+          {
+            "word": "Depression' — ",
+            "start": 1.436,
+            "end": 1.871
+          },
+          {
+            "word": "a ",
+            "start": 2.034,
+            "end": 2.089
+          },
+          {
+            "word": "term ",
+            "start": 2.1,
+            "end": 2.339
+          },
+          {
+            "word": "that ",
+            "start": 2.35,
+            "end": 2.458
+          },
+          {
+            "word": "would ",
+            "start": 2.469,
+            "end": 2.578
+          },
+          {
+            "word": "later ",
+            "start": 2.589,
+            "end": 2.85
+          },
+          {
+            "word": "be ",
+            "start": 2.86,
+            "end": 2.958
+          },
+          {
+            "word": "transferred ",
+            "start": 2.969,
+            "end": 3.491
+          },
+          {
+            "word": "to ",
+            "start": 3.502,
+            "end": 3.567
+          },
+          {
+            "word": "the ",
+            "start": 3.578,
+            "end": 3.643
+          },
+          {
+            "word": "1930s ",
+            "start": 3.654,
+            "end": 4.458
+          },
+          {
+            "word": "crisis. ",
+            "start": 4.469,
+            "end": 5.045
+          },
+          {
+            "word": "It ",
+            "start": 5.789,
+            "end": 5.93
+          },
+          {
+            "word": "was ",
+            "start": 5.941,
+            "end": 6.06
+          },
+          {
+            "word": "the ",
+            "start": 6.071,
+            "end": 6.158
+          },
+          {
+            "word": "defining ",
+            "start": 6.169,
+            "end": 6.626
+          },
+          {
+            "word": "economic ",
+            "start": 6.636,
+            "end": 7.049
+          },
+          {
+            "word": "experience ",
+            "start": 7.06,
+            "end": 7.571
+          },
+          {
+            "word": "of ",
+            "start": 7.582,
+            "end": 7.647
+          },
+          {
+            "word": "the ",
+            "start": 7.658,
+            "end": 7.734
+          },
+          {
+            "word": "late ",
+            "start": 7.745,
+            "end": 7.963
+          },
+          {
+            "word": "nineteenth ",
+            "start": 7.973,
+            "end": 8.365
+          },
+          {
+            "word": "century: ",
+            "start": 8.376,
+            "end": 8.745
+          },
+          {
+            "word": "a ",
+            "start": 8.93,
+            "end": 8.973
+          },
+          {
+            "word": "world ",
+            "start": 8.984,
+            "end": 9.278
+          },
+          {
+            "word": "transformed ",
+            "start": 9.289,
+            "end": 9.854
+          },
+          {
+            "word": "by ",
+            "start": 9.865,
+            "end": 9.995
+          },
+          {
+            "word": "industrial ",
+            "start": 10.006,
+            "end": 10.549
+          },
+          {
+            "word": "capitalism, ",
+            "start": 10.56,
+            "end": 11.158
+          },
+          {
+            "word": "experiencing ",
+            "start": 11.31,
+            "end": 11.919
+          },
+          {
+            "word": "the ",
+            "start": 11.93,
+            "end": 11.984
+          },
+          {
+            "word": "first ",
+            "start": 11.995,
+            "end": 12.278
+          },
+          {
+            "word": "sustained ",
+            "start": 12.289,
+            "end": 12.691
+          },
+          {
+            "word": "global ",
+            "start": 12.702,
+            "end": 13.006
+          },
+          {
+            "word": "downturn ",
+            "start": 13.017,
+            "end": 13.473
+          },
+          {
+            "word": "that ",
+            "start": 13.484,
+            "end": 13.615
+          },
+          {
+            "word": "no ",
+            "start": 13.626,
+            "end": 13.843
+          },
+          {
+            "word": "government ",
+            "start": 13.854,
+            "end": 14.234
+          },
+          {
+            "word": "had ",
+            "start": 14.245,
+            "end": 14.376
+          },
+          {
+            "word": "the ",
+            "start": 14.386,
+            "end": 14.452
+          },
+          {
+            "word": "tools ",
+            "start": 14.463,
+            "end": 14.745
+          },
+          {
+            "word": "to ",
+            "start": 14.756,
+            "end": 14.854
+          },
+          {
+            "word": "address.",
+            "start": 14.865,
+            "end": 15.343
+          }
+        ],
+        "start": 2836
+      }
+    ]
+  },
+  {
+    "id": "ep16_problems",
+    "title": "Problems",
+    "globalStart": 3512,
+    "duration": 2474,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Problems"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep16_problems_0",
+        "audio_exists": true,
+        "audioPath": "episodes/ep16/audio/ep16_problems_0.wav",
+        "text": "The Long Depression revealed the deflationary logic of the gold standard. With gold supply growing more slowly than economic output, prices fell persistently. Falling prices were good for consumers and devastating for debtors. Farmers who had borrowed to buy land and equipment found that their revenues fell while their debts remained fixed in gold terms.",
+        "duration": 557,
+        "bgImage": "bg_factory_dark.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.241
+          },
+          {
+            "word": "Long ",
+            "start": 0.252,
+            "end": 0.436
+          },
+          {
+            "word": "Depression ",
+            "start": 0.447,
+            "end": 0.839
+          },
+          {
+            "word": "revealed ",
+            "start": 0.85,
+            "end": 1.176
+          },
+          {
+            "word": "the ",
+            "start": 1.186,
+            "end": 1.263
+          },
+          {
+            "word": "deflationary ",
+            "start": 1.273,
+            "end": 1.817
+          },
+          {
+            "word": "logic ",
+            "start": 1.828,
+            "end": 2.165
+          },
+          {
+            "word": "of ",
+            "start": 2.176,
+            "end": 2.241
+          },
+          {
+            "word": "the ",
+            "start": 2.252,
+            "end": 2.328
+          },
+          {
+            "word": "gold ",
+            "start": 2.339,
+            "end": 2.6
+          },
+          {
+            "word": "standard. ",
+            "start": 2.61,
+            "end": 3.067
+          },
+          {
+            "word": "With ",
+            "start": 3.81,
+            "end": 3.995
+          },
+          {
+            "word": "gold ",
+            "start": 4.006,
+            "end": 4.234
+          },
+          {
+            "word": "supply ",
+            "start": 4.245,
+            "end": 4.539
+          },
+          {
+            "word": "growing ",
+            "start": 4.55,
+            "end": 4.854
+          },
+          {
+            "word": "more ",
+            "start": 4.865,
+            "end": 5.017
+          },
+          {
+            "word": "slowly ",
+            "start": 5.028,
+            "end": 5.419
+          },
+          {
+            "word": "than ",
+            "start": 5.43,
+            "end": 5.571
+          },
+          {
+            "word": "economic ",
+            "start": 5.582,
+            "end": 6.017
+          },
+          {
+            "word": "output, ",
+            "start": 6.028,
+            "end": 6.452
+          },
+          {
+            "word": "prices ",
+            "start": 6.582,
+            "end": 6.952
+          },
+          {
+            "word": "fell ",
+            "start": 6.963,
+            "end": 7.191
+          },
+          {
+            "word": "persistently. ",
+            "start": 7.202,
+            "end": 7.789
+          },
+          {
+            "word": "Falling ",
+            "start": 8.539,
+            "end": 8.908
+          },
+          {
+            "word": "prices ",
+            "start": 8.919,
+            "end": 9.267
+          },
+          {
+            "word": "were ",
+            "start": 9.278,
+            "end": 9.376
+          },
+          {
+            "word": "good ",
+            "start": 9.386,
+            "end": 9.571
+          },
+          {
+            "word": "for ",
+            "start": 9.582,
+            "end": 9.647
+          },
+          {
+            "word": "consumers ",
+            "start": 9.658,
+            "end": 10.169
+          },
+          {
+            "word": "and ",
+            "start": 10.18,
+            "end": 10.267
+          },
+          {
+            "word": "devastating ",
+            "start": 10.278,
+            "end": 10.832
+          },
+          {
+            "word": "for ",
+            "start": 10.843,
+            "end": 10.93
+          },
+          {
+            "word": "debtors. ",
+            "start": 10.941,
+            "end": 11.397
+          },
+          {
+            "word": "Farmers ",
+            "start": 12.147,
+            "end": 12.56
+          },
+          {
+            "word": "who ",
+            "start": 12.571,
+            "end": 12.68
+          },
+          {
+            "word": "had ",
+            "start": 12.691,
+            "end": 12.821
+          },
+          {
+            "word": "borrowed ",
+            "start": 12.832,
+            "end": 13.104
+          },
+          {
+            "word": "to ",
+            "start": 13.115,
+            "end": 13.18
+          },
+          {
+            "word": "buy ",
+            "start": 13.191,
+            "end": 13.332
+          },
+          {
+            "word": "land ",
+            "start": 13.343,
+            "end": 13.658
+          },
+          {
+            "word": "and ",
+            "start": 13.669,
+            "end": 13.745
+          },
+          {
+            "word": "equipment ",
+            "start": 13.756,
+            "end": 14.104
+          },
+          {
+            "word": "found ",
+            "start": 14.115,
+            "end": 14.386
+          },
+          {
+            "word": "that ",
+            "start": 14.397,
+            "end": 14.495
+          },
+          {
+            "word": "their ",
+            "start": 14.506,
+            "end": 14.571
+          },
+          {
+            "word": "revenues ",
+            "start": 14.582,
+            "end": 15.05
+          },
+          {
+            "word": "fell ",
+            "start": 15.06,
+            "end": 15.332
+          },
+          {
+            "word": "while ",
+            "start": 15.343,
+            "end": 15.517
+          },
+          {
+            "word": "their ",
+            "start": 15.528,
+            "end": 15.636
+          },
+          {
+            "word": "debts ",
+            "start": 15.647,
+            "end": 15.908
+          },
+          {
+            "word": "remained ",
+            "start": 15.919,
+            "end": 16.245
+          },
+          {
+            "word": "fixed ",
+            "start": 16.256,
+            "end": 16.506
+          },
+          {
+            "word": "in ",
+            "start": 16.517,
+            "end": 16.615
+          },
+          {
+            "word": "gold ",
+            "start": 16.626,
+            "end": 16.908
+          },
+          {
+            "word": "terms.",
+            "start": 16.919,
+            "end": 17.397
+          }
+        ],
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep16_problems_1",
+        "audio_exists": true,
+        "audioPath": "episodes/ep16/audio/ep16_problems_1.wav",
+        "text": "The political consequence was the agrarian populist movement. The Farmers' Alliance, the Greenback Party, and eventually the Populist Party demanded monetary expansion — the free coinage of silver at a fixed ratio to gold. William Jennings Bryan's 1896 'Cross of Gold' speech was the political culmination of twenty years of deflation experienced by American farmers.",
+        "duration": 614,
+        "bgImage": "bg_breadline.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.241
+          },
+          {
+            "word": "political ",
+            "start": 0.252,
+            "end": 0.676
+          },
+          {
+            "word": "consequence ",
+            "start": 0.686,
+            "end": 1.208
+          },
+          {
+            "word": "was ",
+            "start": 1.219,
+            "end": 1.349
+          },
+          {
+            "word": "the ",
+            "start": 1.36,
+            "end": 1.469
+          },
+          {
+            "word": "agrarian ",
+            "start": 1.48,
+            "end": 1.991
+          },
+          {
+            "word": "populist ",
+            "start": 2.002,
+            "end": 2.48
+          },
+          {
+            "word": "movement. ",
+            "start": 2.491,
+            "end": 2.969
+          },
+          {
+            "word": "The ",
+            "start": 3.713,
+            "end": 3.843
+          },
+          {
+            "word": "Farmers' ",
+            "start": 3.854,
+            "end": 4.169
+          },
+          {
+            "word": "Alliance, ",
+            "start": 4.18,
+            "end": 4.702
+          },
+          {
+            "word": "the ",
+            "start": 4.854,
+            "end": 4.941
+          },
+          {
+            "word": "Greenback ",
+            "start": 4.952,
+            "end": 5.386
+          },
+          {
+            "word": "Party, ",
+            "start": 5.397,
+            "end": 5.734
+          },
+          {
+            "word": "and ",
+            "start": 5.919,
+            "end": 6.028
+          },
+          {
+            "word": "eventually ",
+            "start": 6.039,
+            "end": 6.452
+          },
+          {
+            "word": "the ",
+            "start": 6.463,
+            "end": 6.56
+          },
+          {
+            "word": "Populist ",
+            "start": 6.571,
+            "end": 7.028
+          },
+          {
+            "word": "Party ",
+            "start": 7.039,
+            "end": 7.3
+          },
+          {
+            "word": "demanded ",
+            "start": 7.31,
+            "end": 7.713
+          },
+          {
+            "word": "monetary ",
+            "start": 7.723,
+            "end": 8.147
+          },
+          {
+            "word": "expansion — ",
+            "start": 8.158,
+            "end": 8.702
+          },
+          {
+            "word": "the ",
+            "start": 8.897,
+            "end": 8.973
+          },
+          {
+            "word": "free ",
+            "start": 8.984,
+            "end": 9.202
+          },
+          {
+            "word": "coinage ",
+            "start": 9.213,
+            "end": 9.528
+          },
+          {
+            "word": "of ",
+            "start": 9.539,
+            "end": 9.626
+          },
+          {
+            "word": "silver ",
+            "start": 9.636,
+            "end": 9.973
+          },
+          {
+            "word": "at ",
+            "start": 9.984,
+            "end": 10.093
+          },
+          {
+            "word": "a ",
+            "start": 10.104,
+            "end": 10.147
+          },
+          {
+            "word": "fixed ",
+            "start": 10.158,
+            "end": 10.441
+          },
+          {
+            "word": "ratio ",
+            "start": 10.452,
+            "end": 10.854
+          },
+          {
+            "word": "to ",
+            "start": 10.865,
+            "end": 10.952
+          },
+          {
+            "word": "gold. ",
+            "start": 10.963,
+            "end": 11.419
+          },
+          {
+            "word": "William ",
+            "start": 12.169,
+            "end": 12.56
+          },
+          {
+            "word": "Jennings ",
+            "start": 12.571,
+            "end": 12.908
+          },
+          {
+            "word": "Bryan's ",
+            "start": 12.919,
+            "end": 13.354
+          },
+          {
+            "word": "1896 '",
+            "start": 13.365,
+            "end": 14.213
+          },
+          {
+            "word": "Cross ",
+            "start": 14.234,
+            "end": 14.495
+          },
+          {
+            "word": "of ",
+            "start": 14.506,
+            "end": 14.582
+          },
+          {
+            "word": "Gold' ",
+            "start": 14.593,
+            "end": 14.854
+          },
+          {
+            "word": "speech ",
+            "start": 14.886,
+            "end": 15.18
+          },
+          {
+            "word": "was ",
+            "start": 15.191,
+            "end": 15.31
+          },
+          {
+            "word": "the ",
+            "start": 15.321,
+            "end": 15.408
+          },
+          {
+            "word": "political ",
+            "start": 15.419,
+            "end": 15.854
+          },
+          {
+            "word": "culmination ",
+            "start": 15.865,
+            "end": 16.419
+          },
+          {
+            "word": "of ",
+            "start": 16.43,
+            "end": 16.506
+          },
+          {
+            "word": "twenty ",
+            "start": 16.517,
+            "end": 16.789
+          },
+          {
+            "word": "years ",
+            "start": 16.8,
+            "end": 17.071
+          },
+          {
+            "word": "of ",
+            "start": 17.082,
+            "end": 17.147
+          },
+          {
+            "word": "deflation ",
+            "start": 17.158,
+            "end": 17.604
+          },
+          {
+            "word": "experienced ",
+            "start": 17.615,
+            "end": 18.213
+          },
+          {
+            "word": "by ",
+            "start": 18.223,
+            "end": 18.354
+          },
+          {
+            "word": "American ",
+            "start": 18.365,
+            "end": 18.767
+          },
+          {
+            "word": "farmers.",
+            "start": 18.778,
+            "end": 19.289
+          }
+        ],
+        "start": 647
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep16_problems_2",
+        "audio_exists": true,
+        "audioPath": "episodes/ep16/audio/ep16_problems_2.wav",
+        "text": "Governments had no macroeconomic policy tools. Keynesian demand management did not exist as a concept. Central banking, where it existed, focused on gold convertibility rather than economic stabilization. The fiscal policy of the era was to balance budgets — which meant cutting spending during contractions, worsening their depth.",
+        "duration": 586,
+        "bgImage": "bg_gold_bars.jpg",
+        "wordTimings": [
+          {
+            "word": "Governments ",
+            "start": 0.1,
+            "end": 0.513
+          },
+          {
+            "word": "had ",
+            "start": 0.523,
+            "end": 0.643
+          },
+          {
+            "word": "no ",
+            "start": 0.654,
+            "end": 0.849
+          },
+          {
+            "word": "macroeconomic ",
+            "start": 0.86,
+            "end": 1.632
+          },
+          {
+            "word": "policy ",
+            "start": 1.643,
+            "end": 2.002
+          },
+          {
+            "word": "tools. ",
+            "start": 2.013,
+            "end": 2.502
+          },
+          {
+            "word": "Keynesian ",
+            "start": 3.245,
+            "end": 3.691
+          },
+          {
+            "word": "demand ",
+            "start": 3.702,
+            "end": 4.049
+          },
+          {
+            "word": "management ",
+            "start": 4.06,
+            "end": 4.473
+          },
+          {
+            "word": "did ",
+            "start": 4.484,
+            "end": 4.615
+          },
+          {
+            "word": "not ",
+            "start": 4.626,
+            "end": 4.821
+          },
+          {
+            "word": "exist ",
+            "start": 4.832,
+            "end": 5.191
+          },
+          {
+            "word": "as ",
+            "start": 5.202,
+            "end": 5.267
+          },
+          {
+            "word": "a ",
+            "start": 5.278,
+            "end": 5.321
+          },
+          {
+            "word": "concept. ",
+            "start": 5.332,
+            "end": 5.908
+          },
+          {
+            "word": "Central ",
+            "start": 6.658,
+            "end": 7.071
+          },
+          {
+            "word": "banking, ",
+            "start": 7.082,
+            "end": 7.463
+          },
+          {
+            "word": "where ",
+            "start": 7.669,
+            "end": 7.821
+          },
+          {
+            "word": "it ",
+            "start": 7.832,
+            "end": 7.963
+          },
+          {
+            "word": "existed, ",
+            "start": 7.973,
+            "end": 8.419
+          },
+          {
+            "word": "focused ",
+            "start": 8.604,
+            "end": 8.952
+          },
+          {
+            "word": "on ",
+            "start": 8.963,
+            "end": 9.049
+          },
+          {
+            "word": "gold ",
+            "start": 9.06,
+            "end": 9.332
+          },
+          {
+            "word": "convertibility ",
+            "start": 9.343,
+            "end": 10.028
+          },
+          {
+            "word": "rather ",
+            "start": 10.039,
+            "end": 10.321
+          },
+          {
+            "word": "than ",
+            "start": 10.332,
+            "end": 10.463
+          },
+          {
+            "word": "economic ",
+            "start": 10.473,
+            "end": 10.908
+          },
+          {
+            "word": "stabilization. ",
+            "start": 10.919,
+            "end": 11.789
+          },
+          {
+            "word": "The ",
+            "start": 12.539,
+            "end": 12.669
+          },
+          {
+            "word": "fiscal ",
+            "start": 12.68,
+            "end": 13.017
+          },
+          {
+            "word": "policy ",
+            "start": 13.028,
+            "end": 13.408
+          },
+          {
+            "word": "of ",
+            "start": 13.419,
+            "end": 13.506
+          },
+          {
+            "word": "the ",
+            "start": 13.517,
+            "end": 13.615
+          },
+          {
+            "word": "era ",
+            "start": 13.626,
+            "end": 13.973
+          },
+          {
+            "word": "was ",
+            "start": 13.984,
+            "end": 14.126
+          },
+          {
+            "word": "to ",
+            "start": 14.136,
+            "end": 14.234
+          },
+          {
+            "word": "balance ",
+            "start": 14.245,
+            "end": 14.571
+          },
+          {
+            "word": "budgets — ",
+            "start": 14.582,
+            "end": 15.039
+          },
+          {
+            "word": "which ",
+            "start": 15.213,
+            "end": 15.354
+          },
+          {
+            "word": "meant ",
+            "start": 15.365,
+            "end": 15.528
+          },
+          {
+            "word": "cutting ",
+            "start": 15.539,
+            "end": 15.821
+          },
+          {
+            "word": "spending ",
+            "start": 15.832,
+            "end": 16.223
+          },
+          {
+            "word": "during ",
+            "start": 16.234,
+            "end": 16.495
+          },
+          {
+            "word": "contractions, ",
+            "start": 16.506,
+            "end": 17.18
+          },
+          {
+            "word": "worsening ",
+            "start": 17.343,
+            "end": 17.767
+          },
+          {
+            "word": "their ",
+            "start": 17.778,
+            "end": 17.908
+          },
+          {
+            "word": "depth.",
+            "start": 17.919,
+            "end": 18.354
+          }
+        ],
+        "start": 1261
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep16_problems_3",
+        "audio_exists": true,
+        "audioPath": "episodes/ep16/audio/ep16_problems_3.wav",
+        "text": "The railroad overbuilding that triggered the crisis also exemplified the recurring dynamic of transformative technology investment: rational individual decisions to invest in a revolutionary technology collectively produce overcapacity that causes a crash. Canals in the 1830s, railroads in the 1870s, dot-coms in the 1990s — the pattern repeated across different technologies.",
+        "duration": 627,
+        "bgImage": "bg_railroad.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.241
+          },
+          {
+            "word": "railroad ",
+            "start": 0.252,
+            "end": 0.719
+          },
+          {
+            "word": "overbuilding ",
+            "start": 0.73,
+            "end": 1.208
+          },
+          {
+            "word": "that ",
+            "start": 1.219,
+            "end": 1.36
+          },
+          {
+            "word": "triggered ",
+            "start": 1.371,
+            "end": 1.621
+          },
+          {
+            "word": "the ",
+            "start": 1.632,
+            "end": 1.697
+          },
+          {
+            "word": "crisis ",
+            "start": 1.708,
+            "end": 2.099
+          },
+          {
+            "word": "also ",
+            "start": 2.11,
+            "end": 2.436
+          },
+          {
+            "word": "exemplified ",
+            "start": 2.447,
+            "end": 3.045
+          },
+          {
+            "word": "the ",
+            "start": 3.056,
+            "end": 3.121
+          },
+          {
+            "word": "recurring ",
+            "start": 3.132,
+            "end": 3.513
+          },
+          {
+            "word": "dynamic ",
+            "start": 3.523,
+            "end": 3.915
+          },
+          {
+            "word": "of ",
+            "start": 3.926,
+            "end": 4.023
+          },
+          {
+            "word": "transformative ",
+            "start": 4.034,
+            "end": 4.697
+          },
+          {
+            "word": "technology ",
+            "start": 4.708,
+            "end": 5.219
+          },
+          {
+            "word": "investment: ",
+            "start": 5.23,
+            "end": 5.784
+          },
+          {
+            "word": "rational ",
+            "start": 6.023,
+            "end": 6.382
+          },
+          {
+            "word": "individual ",
+            "start": 6.393,
+            "end": 6.817
+          },
+          {
+            "word": "decisions ",
+            "start": 6.828,
+            "end": 7.263
+          },
+          {
+            "word": "to ",
+            "start": 7.273,
+            "end": 7.382
+          },
+          {
+            "word": "invest ",
+            "start": 7.393,
+            "end": 7.763
+          },
+          {
+            "word": "in ",
+            "start": 7.773,
+            "end": 7.86
+          },
+          {
+            "word": "a ",
+            "start": 7.871,
+            "end": 7.904
+          },
+          {
+            "word": "revolutionary ",
+            "start": 7.915,
+            "end": 8.534
+          },
+          {
+            "word": "technology ",
+            "start": 8.545,
+            "end": 9.11
+          },
+          {
+            "word": "collectively ",
+            "start": 9.121,
+            "end": 9.61
+          },
+          {
+            "word": "produce ",
+            "start": 9.621,
+            "end": 10.002
+          },
+          {
+            "word": "overcapacity ",
+            "start": 10.013,
+            "end": 10.676
+          },
+          {
+            "word": "that ",
+            "start": 10.686,
+            "end": 10.849
+          },
+          {
+            "word": "causes ",
+            "start": 10.86,
+            "end": 11.186
+          },
+          {
+            "word": "a ",
+            "start": 11.197,
+            "end": 11.241
+          },
+          {
+            "word": "crash. ",
+            "start": 11.252,
+            "end": 11.719
+          },
+          {
+            "word": "Canals ",
+            "start": 12.463,
+            "end": 12.908
+          },
+          {
+            "word": "in ",
+            "start": 12.919,
+            "end": 13.006
+          },
+          {
+            "word": "the ",
+            "start": 13.017,
+            "end": 13.115
+          },
+          {
+            "word": "1830s, ",
+            "start": 13.126,
+            "end": 13.984
+          },
+          {
+            "word": "railroads ",
+            "start": 14.126,
+            "end": 14.593
+          },
+          {
+            "word": "in ",
+            "start": 14.604,
+            "end": 14.68
+          },
+          {
+            "word": "the ",
+            "start": 14.691,
+            "end": 14.778
+          },
+          {
+            "word": "1870s, ",
+            "start": 14.789,
+            "end": 15.723
+          },
+          {
+            "word": "dot-coms ",
+            "start": 15.865,
+            "end": 16.299
+          },
+          {
+            "word": "in ",
+            "start": 16.31,
+            "end": 16.386
+          },
+          {
+            "word": "the ",
+            "start": 16.397,
+            "end": 16.452
+          },
+          {
+            "word": "1990s — ",
+            "start": 16.463,
+            "end": 17.376
+          },
+          {
+            "word": "the ",
+            "start": 17.55,
+            "end": 17.636
+          },
+          {
+            "word": "pattern ",
+            "start": 17.647,
+            "end": 17.963
+          },
+          {
+            "word": "repeated ",
+            "start": 17.973,
+            "end": 18.332
+          },
+          {
+            "word": "across ",
+            "start": 18.343,
+            "end": 18.647
+          },
+          {
+            "word": "different ",
+            "start": 18.658,
+            "end": 19.017
+          },
+          {
+            "word": "technologies.",
+            "start": 19.028,
+            "end": 19.734
+          }
+        ],
+        "start": 1847
+      }
+    ]
+  },
+  {
+    "id": "ep16_solutions",
+    "title": "Solutions",
+    "globalStart": 5986,
+    "duration": 2481,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Solutions"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep16_solutions_0",
+        "audio_exists": true,
+        "audioPath": "episodes/ep16/audio/ep16_solutions_0.wav",
+        "text": "There were no macroeconomic solutions to the Long Depression because macroeconomics did not yet exist. Governments responded with tariffs — the McKinley Tariff of 1890 raised average US import duties to nearly fifty percent. The logic was to protect domestic industry from foreign competition during the deflation.",
+        "duration": 514,
+        "bgImage": "bg_gold_bars.jpg",
+        "wordTimings": [
+          {
+            "word": "There ",
+            "start": 0.1,
+            "end": 0.241
+          },
+          {
+            "word": "were ",
+            "start": 0.252,
+            "end": 0.371
+          },
+          {
+            "word": "no ",
+            "start": 0.382,
+            "end": 0.61
+          },
+          {
+            "word": "macroeconomic ",
+            "start": 0.621,
+            "end": 1.393
+          },
+          {
+            "word": "solutions ",
+            "start": 1.404,
+            "end": 1.86
+          },
+          {
+            "word": "to ",
+            "start": 1.871,
+            "end": 1.958
+          },
+          {
+            "word": "the ",
+            "start": 1.969,
+            "end": 2.045
+          },
+          {
+            "word": "Long ",
+            "start": 2.056,
+            "end": 2.23
+          },
+          {
+            "word": "Depression ",
+            "start": 2.241,
+            "end": 2.654
+          },
+          {
+            "word": "because ",
+            "start": 2.665,
+            "end": 2.893
+          },
+          {
+            "word": "macroeconomics ",
+            "start": 2.904,
+            "end": 3.719
+          },
+          {
+            "word": "did ",
+            "start": 3.73,
+            "end": 3.849
+          },
+          {
+            "word": "not ",
+            "start": 3.86,
+            "end": 4.056
+          },
+          {
+            "word": "yet ",
+            "start": 4.067,
+            "end": 4.23
+          },
+          {
+            "word": "exist. ",
+            "start": 4.241,
+            "end": 4.719
+          },
+          {
+            "word": "Governments ",
+            "start": 5.463,
+            "end": 5.886
+          },
+          {
+            "word": "responded ",
+            "start": 5.897,
+            "end": 6.343
+          },
+          {
+            "word": "with ",
+            "start": 6.354,
+            "end": 6.473
+          },
+          {
+            "word": "tariffs — ",
+            "start": 6.484,
+            "end": 6.93
+          },
+          {
+            "word": "the ",
+            "start": 7.093,
+            "end": 7.169
+          },
+          {
+            "word": "McKinley ",
+            "start": 7.18,
+            "end": 7.506
+          },
+          {
+            "word": "Tariff ",
+            "start": 7.517,
+            "end": 7.843
+          },
+          {
+            "word": "of ",
+            "start": 7.854,
+            "end": 7.952
+          },
+          {
+            "word": "1890 ",
+            "start": 7.963,
+            "end": 8.571
+          },
+          {
+            "word": "raised ",
+            "start": 8.582,
+            "end": 8.897
+          },
+          {
+            "word": "average ",
+            "start": 8.908,
+            "end": 9.223
+          },
+          {
+            "word": "US ",
+            "start": 9.234,
+            "end": 9.549
+          },
+          {
+            "word": "import ",
+            "start": 9.56,
+            "end": 9.876
+          },
+          {
+            "word": "duties ",
+            "start": 9.886,
+            "end": 10.234
+          },
+          {
+            "word": "to ",
+            "start": 10.245,
+            "end": 10.343
+          },
+          {
+            "word": "nearly ",
+            "start": 10.354,
+            "end": 10.636
+          },
+          {
+            "word": "fifty ",
+            "start": 10.647,
+            "end": 10.941
+          },
+          {
+            "word": "percent. ",
+            "start": 10.952,
+            "end": 11.408
+          },
+          {
+            "word": "The ",
+            "start": 12.158,
+            "end": 12.278
+          },
+          {
+            "word": "logic ",
+            "start": 12.289,
+            "end": 12.615
+          },
+          {
+            "word": "was ",
+            "start": 12.626,
+            "end": 12.745
+          },
+          {
+            "word": "to ",
+            "start": 12.756,
+            "end": 12.832
+          },
+          {
+            "word": "protect ",
+            "start": 12.843,
+            "end": 13.169
+          },
+          {
+            "word": "domestic ",
+            "start": 13.18,
+            "end": 13.549
+          },
+          {
+            "word": "industry ",
+            "start": 13.56,
+            "end": 13.952
+          },
+          {
+            "word": "from ",
+            "start": 13.963,
+            "end": 14.136
+          },
+          {
+            "word": "foreign ",
+            "start": 14.147,
+            "end": 14.452
+          },
+          {
+            "word": "competition ",
+            "start": 14.463,
+            "end": 15.017
+          },
+          {
+            "word": "during ",
+            "start": 15.028,
+            "end": 15.3
+          },
+          {
+            "word": "the ",
+            "start": 15.31,
+            "end": 15.376
+          },
+          {
+            "word": "deflation.",
+            "start": 15.386,
+            "end": 15.941
+          }
+        ],
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep16_solutions_1",
+        "audio_exists": true,
+        "audioPath": "episodes/ep16/audio/ep16_solutions_1.wav",
+        "text": "The gold standard itself created the eventual solution. The discovery of gold in South Africa in 1886 and the development of the cyanide process for gold extraction expanded the gold supply. The Klondike gold rush of 1896 added further supply. As gold supply grew, deflation moderated. Prices began recovering around 1896, coinciding with the end of the Long Depression.",
+        "duration": 690,
+        "bgImage": "bg_fed_building.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "gold ",
+            "start": 0.241,
+            "end": 0.48
+          },
+          {
+            "word": "standard ",
+            "start": 0.491,
+            "end": 0.828
+          },
+          {
+            "word": "itself ",
+            "start": 0.839,
+            "end": 1.143
+          },
+          {
+            "word": "created ",
+            "start": 1.154,
+            "end": 1.545
+          },
+          {
+            "word": "the ",
+            "start": 1.556,
+            "end": 1.654
+          },
+          {
+            "word": "eventual ",
+            "start": 1.665,
+            "end": 2.056
+          },
+          {
+            "word": "solution. ",
+            "start": 2.067,
+            "end": 2.589
+          },
+          {
+            "word": "The ",
+            "start": 3.332,
+            "end": 3.463
+          },
+          {
+            "word": "discovery ",
+            "start": 3.473,
+            "end": 3.897
+          },
+          {
+            "word": "of ",
+            "start": 3.908,
+            "end": 3.973
+          },
+          {
+            "word": "gold ",
+            "start": 3.984,
+            "end": 4.223
+          },
+          {
+            "word": "in ",
+            "start": 4.234,
+            "end": 4.332
+          },
+          {
+            "word": "South ",
+            "start": 4.343,
+            "end": 4.604
+          },
+          {
+            "word": "Africa ",
+            "start": 4.615,
+            "end": 4.952
+          },
+          {
+            "word": "in 1886 ",
+            "start": 4.963,
+            "end": 5.941
+          },
+          {
+            "word": "and ",
+            "start": 5.952,
+            "end": 6.017
+          },
+          {
+            "word": "the ",
+            "start": 6.028,
+            "end": 6.093
+          },
+          {
+            "word": "development ",
+            "start": 6.104,
+            "end": 6.549
+          },
+          {
+            "word": "of ",
+            "start": 6.56,
+            "end": 6.626
+          },
+          {
+            "word": "the ",
+            "start": 6.636,
+            "end": 6.702
+          },
+          {
+            "word": "cyanide ",
+            "start": 6.713,
+            "end": 7.191
+          },
+          {
+            "word": "process ",
+            "start": 7.202,
+            "end": 7.593
+          },
+          {
+            "word": "for ",
+            "start": 7.604,
+            "end": 7.713
+          },
+          {
+            "word": "gold ",
+            "start": 7.723,
+            "end": 7.973
+          },
+          {
+            "word": "extraction ",
+            "start": 7.984,
+            "end": 8.463
+          },
+          {
+            "word": "expanded ",
+            "start": 8.473,
+            "end": 8.919
+          },
+          {
+            "word": "the ",
+            "start": 8.93,
+            "end": 8.995
+          },
+          {
+            "word": "gold ",
+            "start": 9.006,
+            "end": 9.234
+          },
+          {
+            "word": "supply. ",
+            "start": 9.245,
+            "end": 9.669
+          },
+          {
+            "word": "The ",
+            "start": 10.419,
+            "end": 10.539
+          },
+          {
+            "word": "Klondike ",
+            "start": 10.55,
+            "end": 10.952
+          },
+          {
+            "word": "gold ",
+            "start": 10.963,
+            "end": 11.202
+          },
+          {
+            "word": "rush ",
+            "start": 11.213,
+            "end": 11.43
+          },
+          {
+            "word": "of ",
+            "start": 11.441,
+            "end": 11.528
+          },
+          {
+            "word": "1896 ",
+            "start": 11.539,
+            "end": 12.452
+          },
+          {
+            "word": "added ",
+            "start": 12.463,
+            "end": 12.658
+          },
+          {
+            "word": "further ",
+            "start": 12.669,
+            "end": 12.941
+          },
+          {
+            "word": "supply. ",
+            "start": 12.952,
+            "end": 13.397
+          },
+          {
+            "word": "As ",
+            "start": 14.147,
+            "end": 14.332
+          },
+          {
+            "word": "gold ",
+            "start": 14.343,
+            "end": 14.593
+          },
+          {
+            "word": "supply ",
+            "start": 14.604,
+            "end": 14.919
+          },
+          {
+            "word": "grew, ",
+            "start": 14.93,
+            "end": 15.289
+          },
+          {
+            "word": "deflation ",
+            "start": 15.473,
+            "end": 15.941
+          },
+          {
+            "word": "moderated. ",
+            "start": 15.952,
+            "end": 16.549
+          },
+          {
+            "word": "Prices ",
+            "start": 17.3,
+            "end": 17.702
+          },
+          {
+            "word": "began ",
+            "start": 17.713,
+            "end": 18.017
+          },
+          {
+            "word": "recovering ",
+            "start": 18.028,
+            "end": 18.473
+          },
+          {
+            "word": "around ",
+            "start": 18.484,
+            "end": 18.789
+          },
+          {
+            "word": "1896, ",
+            "start": 18.8,
+            "end": 19.756
+          },
+          {
+            "word": "coinciding ",
+            "start": 19.941,
+            "end": 20.539
+          },
+          {
+            "word": "with ",
+            "start": 20.55,
+            "end": 20.636
+          },
+          {
+            "word": "the ",
+            "start": 20.647,
+            "end": 20.767
+          },
+          {
+            "word": "end ",
+            "start": 20.778,
+            "end": 20.941
+          },
+          {
+            "word": "of ",
+            "start": 20.952,
+            "end": 21.006
+          },
+          {
+            "word": "the ",
+            "start": 21.017,
+            "end": 21.093
+          },
+          {
+            "word": "Long ",
+            "start": 21.104,
+            "end": 21.299
+          },
+          {
+            "word": "Depression.",
+            "start": 21.31,
+            "end": 21.821
+          }
+        ],
+        "start": 604
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep16_solutions_2",
+        "audio_exists": true,
+        "audioPath": "episodes/ep16/audio/ep16_solutions_2.wav",
+        "text": "Technological change also worked through the depression rather than against it. The railroads, despite the crisis they caused, connected national markets and reduced transport costs. New industries — steel, chemicals, electrical equipment — emerged and grew. The structural transformation of the economy continued despite the deflation.",
+        "duration": 592,
+        "bgImage": "bg_recovery.jpg",
+        "wordTimings": [
+          {
+            "word": "Technological ",
+            "start": 0.1,
+            "end": 0.752
+          },
+          {
+            "word": "change ",
+            "start": 0.763,
+            "end": 1.056
+          },
+          {
+            "word": "also ",
+            "start": 1.067,
+            "end": 1.36
+          },
+          {
+            "word": "worked ",
+            "start": 1.371,
+            "end": 1.632
+          },
+          {
+            "word": "through ",
+            "start": 1.643,
+            "end": 1.839
+          },
+          {
+            "word": "the ",
+            "start": 1.85,
+            "end": 1.926
+          },
+          {
+            "word": "depression ",
+            "start": 1.936,
+            "end": 2.349
+          },
+          {
+            "word": "rather ",
+            "start": 2.36,
+            "end": 2.643
+          },
+          {
+            "word": "than ",
+            "start": 2.654,
+            "end": 2.773
+          },
+          {
+            "word": "against ",
+            "start": 2.784,
+            "end": 3.121
+          },
+          {
+            "word": "it. ",
+            "start": 3.132,
+            "end": 3.328
+          },
+          {
+            "word": "The ",
+            "start": 4.071,
+            "end": 4.213
+          },
+          {
+            "word": "railroads, ",
+            "start": 4.223,
+            "end": 4.789
+          },
+          {
+            "word": "despite ",
+            "start": 4.963,
+            "end": 5.321
+          },
+          {
+            "word": "the ",
+            "start": 5.332,
+            "end": 5.397
+          },
+          {
+            "word": "crisis ",
+            "start": 5.408,
+            "end": 5.821
+          },
+          {
+            "word": "they ",
+            "start": 5.832,
+            "end": 5.941
+          },
+          {
+            "word": "caused, ",
+            "start": 5.952,
+            "end": 6.463
+          },
+          {
+            "word": "connected ",
+            "start": 6.626,
+            "end": 7.028
+          },
+          {
+            "word": "national ",
+            "start": 7.039,
+            "end": 7.419
+          },
+          {
+            "word": "markets ",
+            "start": 7.43,
+            "end": 7.854
+          },
+          {
+            "word": "and ",
+            "start": 7.865,
+            "end": 7.963
+          },
+          {
+            "word": "reduced ",
+            "start": 7.973,
+            "end": 8.365
+          },
+          {
+            "word": "transport ",
+            "start": 8.376,
+            "end": 8.843
+          },
+          {
+            "word": "costs. ",
+            "start": 8.854,
+            "end": 9.397
+          },
+          {
+            "word": "New ",
+            "start": 10.147,
+            "end": 10.463
+          },
+          {
+            "word": "industries — ",
+            "start": 10.473,
+            "end": 11.017
+          },
+          {
+            "word": "steel, ",
+            "start": 11.191,
+            "end": 11.593
+          },
+          {
+            "word": "chemicals, ",
+            "start": 11.865,
+            "end": 12.452
+          },
+          {
+            "word": "electrical ",
+            "start": 12.626,
+            "end": 13.071
+          },
+          {
+            "word": "equipment — ",
+            "start": 13.082,
+            "end": 13.506
+          },
+          {
+            "word": "emerged ",
+            "start": 13.68,
+            "end": 14.06
+          },
+          {
+            "word": "and ",
+            "start": 14.071,
+            "end": 14.147
+          },
+          {
+            "word": "grew. ",
+            "start": 14.158,
+            "end": 14.528
+          },
+          {
+            "word": "The ",
+            "start": 15.278,
+            "end": 15.419
+          },
+          {
+            "word": "structural ",
+            "start": 15.43,
+            "end": 15.897
+          },
+          {
+            "word": "transformation ",
+            "start": 15.908,
+            "end": 16.539
+          },
+          {
+            "word": "of ",
+            "start": 16.55,
+            "end": 16.604
+          },
+          {
+            "word": "the ",
+            "start": 16.615,
+            "end": 16.713
+          },
+          {
+            "word": "economy ",
+            "start": 16.723,
+            "end": 17.06
+          },
+          {
+            "word": "continued ",
+            "start": 17.071,
+            "end": 17.539
+          },
+          {
+            "word": "despite ",
+            "start": 17.55,
+            "end": 17.908
+          },
+          {
+            "word": "the ",
+            "start": 17.919,
+            "end": 17.984
+          },
+          {
+            "word": "deflation.",
+            "start": 17.995,
+            "end": 18.571
+          }
+        ],
+        "start": 1294
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep16_solutions_3",
+        "audio_exists": true,
+        "audioPath": "episodes/ep16/audio/ep16_solutions_3.wav",
+        "text": "The political response — the defeat of Bryan in 1896 and the consolidation of the gold standard — resolved the monetary debate in favor of gold. But the Populist movement's demands were eventually satisfied through other means: the Federal Reserve Act of 1913, the income tax, and eventually the New Deal reflected the political legacy of the agrarian revolt.",
+        "duration": 595,
+        "bgImage": "bg_city_night.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "political ",
+            "start": 0.241,
+            "end": 0.654
+          },
+          {
+            "word": "response — ",
+            "start": 0.665,
+            "end": 1.186
+          },
+          {
+            "word": "the ",
+            "start": 1.35,
+            "end": 1.436
+          },
+          {
+            "word": "defeat ",
+            "start": 1.447,
+            "end": 1.763
+          },
+          {
+            "word": "of ",
+            "start": 1.773,
+            "end": 1.882
+          },
+          {
+            "word": "Bryan ",
+            "start": 1.893,
+            "end": 2.241
+          },
+          {
+            "word": "in 1896 ",
+            "start": 2.252,
+            "end": 3.306
+          },
+          {
+            "word": "and ",
+            "start": 3.317,
+            "end": 3.382
+          },
+          {
+            "word": "the ",
+            "start": 3.393,
+            "end": 3.447
+          },
+          {
+            "word": "consolidation ",
+            "start": 3.458,
+            "end": 4.121
+          },
+          {
+            "word": "of ",
+            "start": 4.132,
+            "end": 4.186
+          },
+          {
+            "word": "the ",
+            "start": 4.197,
+            "end": 4.273
+          },
+          {
+            "word": "gold ",
+            "start": 4.284,
+            "end": 4.513
+          },
+          {
+            "word": "standard — ",
+            "start": 4.523,
+            "end": 4.926
+          },
+          {
+            "word": "resolved ",
+            "start": 5.121,
+            "end": 5.458
+          },
+          {
+            "word": "the ",
+            "start": 5.469,
+            "end": 5.534
+          },
+          {
+            "word": "monetary ",
+            "start": 5.545,
+            "end": 5.947
+          },
+          {
+            "word": "debate ",
+            "start": 5.958,
+            "end": 6.273
+          },
+          {
+            "word": "in ",
+            "start": 6.284,
+            "end": 6.426
+          },
+          {
+            "word": "favor ",
+            "start": 6.436,
+            "end": 6.763
+          },
+          {
+            "word": "of ",
+            "start": 6.773,
+            "end": 6.86
+          },
+          {
+            "word": "gold. ",
+            "start": 6.871,
+            "end": 7.317
+          },
+          {
+            "word": "But ",
+            "start": 8.06,
+            "end": 8.202
+          },
+          {
+            "word": "the ",
+            "start": 8.213,
+            "end": 8.289
+          },
+          {
+            "word": "Populist ",
+            "start": 8.3,
+            "end": 8.745
+          },
+          {
+            "word": "movement's ",
+            "start": 8.756,
+            "end": 9.126
+          },
+          {
+            "word": "demands ",
+            "start": 9.136,
+            "end": 9.517
+          },
+          {
+            "word": "were ",
+            "start": 9.528,
+            "end": 9.636
+          },
+          {
+            "word": "eventually ",
+            "start": 9.647,
+            "end": 10.06
+          },
+          {
+            "word": "satisfied ",
+            "start": 10.071,
+            "end": 10.615
+          },
+          {
+            "word": "through ",
+            "start": 10.626,
+            "end": 10.865
+          },
+          {
+            "word": "other ",
+            "start": 10.876,
+            "end": 11.06
+          },
+          {
+            "word": "means: ",
+            "start": 11.071,
+            "end": 11.506
+          },
+          {
+            "word": "the ",
+            "start": 11.68,
+            "end": 11.756
+          },
+          {
+            "word": "Federal ",
+            "start": 11.767,
+            "end": 12.104
+          },
+          {
+            "word": "Reserve ",
+            "start": 12.115,
+            "end": 12.473
+          },
+          {
+            "word": "Act ",
+            "start": 12.484,
+            "end": 12.669
+          },
+          {
+            "word": "of ",
+            "start": 12.68,
+            "end": 12.767
+          },
+          {
+            "word": "1913, ",
+            "start": 12.778,
+            "end": 13.745
+          },
+          {
+            "word": "the ",
+            "start": 13.952,
+            "end": 14.028
+          },
+          {
+            "word": "income ",
+            "start": 14.039,
+            "end": 14.365
+          },
+          {
+            "word": "tax, ",
+            "start": 14.376,
+            "end": 14.767
+          },
+          {
+            "word": "and ",
+            "start": 14.952,
+            "end": 15.039
+          },
+          {
+            "word": "eventually ",
+            "start": 15.05,
+            "end": 15.473
+          },
+          {
+            "word": "the ",
+            "start": 15.484,
+            "end": 15.582
+          },
+          {
+            "word": "New ",
+            "start": 15.593,
+            "end": 15.799
+          },
+          {
+            "word": "Deal ",
+            "start": 15.81,
+            "end": 16.082
+          },
+          {
+            "word": "reflected ",
+            "start": 16.093,
+            "end": 16.517
+          },
+          {
+            "word": "the ",
+            "start": 16.528,
+            "end": 16.593
+          },
+          {
+            "word": "political ",
+            "start": 16.604,
+            "end": 17.049
+          },
+          {
+            "word": "legacy ",
+            "start": 17.06,
+            "end": 17.441
+          },
+          {
+            "word": "of ",
+            "start": 17.452,
+            "end": 17.549
+          },
+          {
+            "word": "the ",
+            "start": 17.56,
+            "end": 17.658
+          },
+          {
+            "word": "agrarian ",
+            "start": 17.669,
+            "end": 18.147
+          },
+          {
+            "word": "revolt.",
+            "start": 18.158,
+            "end": 18.658
+          }
+        ],
+        "start": 1886
+      }
+    ]
+  },
+  {
+    "id": "ep16_results",
+    "title": "Results",
+    "globalStart": 8467,
+    "duration": 2935,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Results"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep16_results_0",
+        "audio_exists": true,
+        "audioPath": "episodes/ep16/audio/ep16_results_0.wav",
+        "text": "The Long Depression was more a period of continuous deflation and slow growth than a catastrophic collapse. Living standards, measured by real wages, actually improved for many workers during the period — because prices fell faster than wages. The crisis was experienced differently by debtors, who were crushed, and by creditors and workers in stable employment, who benefited.",
+        "duration": 609,
+        "bgImage": "bg_recovery.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.219
+          },
+          {
+            "word": "Long ",
+            "start": 0.23,
+            "end": 0.415
+          },
+          {
+            "word": "Depression ",
+            "start": 0.426,
+            "end": 0.849
+          },
+          {
+            "word": "was ",
+            "start": 0.86,
+            "end": 0.991
+          },
+          {
+            "word": "more ",
+            "start": 1.002,
+            "end": 1.219
+          },
+          {
+            "word": "a ",
+            "start": 1.23,
+            "end": 1.273
+          },
+          {
+            "word": "period ",
+            "start": 1.284,
+            "end": 1.621
+          },
+          {
+            "word": "of ",
+            "start": 1.632,
+            "end": 1.697
+          },
+          {
+            "word": "continuous ",
+            "start": 1.708,
+            "end": 2.176
+          },
+          {
+            "word": "deflation ",
+            "start": 2.186,
+            "end": 2.654
+          },
+          {
+            "word": "and ",
+            "start": 2.665,
+            "end": 2.795
+          },
+          {
+            "word": "slow ",
+            "start": 2.806,
+            "end": 3.11
+          },
+          {
+            "word": "growth ",
+            "start": 3.121,
+            "end": 3.436
+          },
+          {
+            "word": "than ",
+            "start": 3.447,
+            "end": 3.545
+          },
+          {
+            "word": "a ",
+            "start": 3.556,
+            "end": 3.589
+          },
+          {
+            "word": "catastrophic ",
+            "start": 3.6,
+            "end": 4.186
+          },
+          {
+            "word": "collapse. ",
+            "start": 4.197,
+            "end": 4.719
+          },
+          {
+            "word": "Living ",
+            "start": 5.463,
+            "end": 5.778
+          },
+          {
+            "word": "standards, ",
+            "start": 5.789,
+            "end": 6.278
+          },
+          {
+            "word": "measured ",
+            "start": 6.386,
+            "end": 6.68
+          },
+          {
+            "word": "by ",
+            "start": 6.691,
+            "end": 6.821
+          },
+          {
+            "word": "real ",
+            "start": 6.832,
+            "end": 7.191
+          },
+          {
+            "word": "wages, ",
+            "start": 7.202,
+            "end": 7.604
+          },
+          {
+            "word": "actually ",
+            "start": 7.756,
+            "end": 8.049
+          },
+          {
+            "word": "improved ",
+            "start": 8.06,
+            "end": 8.473
+          },
+          {
+            "word": "for ",
+            "start": 8.484,
+            "end": 8.571
+          },
+          {
+            "word": "many ",
+            "start": 8.582,
+            "end": 8.789
+          },
+          {
+            "word": "workers ",
+            "start": 8.8,
+            "end": 9.169
+          },
+          {
+            "word": "during ",
+            "start": 9.18,
+            "end": 9.441
+          },
+          {
+            "word": "the ",
+            "start": 9.452,
+            "end": 9.517
+          },
+          {
+            "word": "period — ",
+            "start": 9.528,
+            "end": 9.941
+          },
+          {
+            "word": "because ",
+            "start": 10.115,
+            "end": 10.343
+          },
+          {
+            "word": "prices ",
+            "start": 10.354,
+            "end": 10.713
+          },
+          {
+            "word": "fell ",
+            "start": 10.723,
+            "end": 10.973
+          },
+          {
+            "word": "faster ",
+            "start": 10.984,
+            "end": 11.354
+          },
+          {
+            "word": "than ",
+            "start": 11.365,
+            "end": 11.506
+          },
+          {
+            "word": "wages. ",
+            "start": 11.517,
+            "end": 12.039
+          },
+          {
+            "word": "The ",
+            "start": 12.789,
+            "end": 12.908
+          },
+          {
+            "word": "crisis ",
+            "start": 12.919,
+            "end": 13.31
+          },
+          {
+            "word": "was ",
+            "start": 13.321,
+            "end": 13.441
+          },
+          {
+            "word": "experienced ",
+            "start": 13.452,
+            "end": 13.995
+          },
+          {
+            "word": "differently ",
+            "start": 14.006,
+            "end": 14.408
+          },
+          {
+            "word": "by ",
+            "start": 14.419,
+            "end": 14.56
+          },
+          {
+            "word": "debtors, ",
+            "start": 14.571,
+            "end": 14.973
+          },
+          {
+            "word": "who ",
+            "start": 15.18,
+            "end": 15.267
+          },
+          {
+            "word": "were ",
+            "start": 15.278,
+            "end": 15.386
+          },
+          {
+            "word": "crushed, ",
+            "start": 15.397,
+            "end": 15.799
+          },
+          {
+            "word": "and ",
+            "start": 16.006,
+            "end": 16.093
+          },
+          {
+            "word": "by ",
+            "start": 16.104,
+            "end": 16.256
+          },
+          {
+            "word": "creditors ",
+            "start": 16.267,
+            "end": 16.767
+          },
+          {
+            "word": "and ",
+            "start": 16.778,
+            "end": 16.919
+          },
+          {
+            "word": "workers ",
+            "start": 16.93,
+            "end": 17.278
+          },
+          {
+            "word": "in ",
+            "start": 17.289,
+            "end": 17.386
+          },
+          {
+            "word": "stable ",
+            "start": 17.397,
+            "end": 17.713
+          },
+          {
+            "word": "employment, ",
+            "start": 17.723,
+            "end": 18.223
+          },
+          {
+            "word": "who ",
+            "start": 18.473,
+            "end": 18.56
+          },
+          {
+            "word": "benefited.",
+            "start": 18.571,
+            "end": 19.126
+          }
+        ],
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep16_results_1",
+        "audio_exists": true,
+        "audioPath": "episodes/ep16/audio/ep16_results_1.wav",
+        "text": "The period accelerated the concentration of industry. Businesses that survived the deflation did so partly by achieving scale economies that smaller competitors could not. The merger wave of the 1890s and early 1900s — creating US Steel, Standard Oil, and other trusts — was partly a response to the competitive pressures of the Long Depression.",
+        "duration": 570,
+        "bgImage": "bg_factory_dark.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "period ",
+            "start": 0.241,
+            "end": 0.589
+          },
+          {
+            "word": "accelerated ",
+            "start": 0.6,
+            "end": 1.219
+          },
+          {
+            "word": "the ",
+            "start": 1.23,
+            "end": 1.295
+          },
+          {
+            "word": "concentration ",
+            "start": 1.306,
+            "end": 1.926
+          },
+          {
+            "word": "of ",
+            "start": 1.936,
+            "end": 1.991
+          },
+          {
+            "word": "industry. ",
+            "start": 2.002,
+            "end": 2.458
+          },
+          {
+            "word": "Businesses ",
+            "start": 3.202,
+            "end": 3.669
+          },
+          {
+            "word": "that ",
+            "start": 3.68,
+            "end": 3.81
+          },
+          {
+            "word": "survived ",
+            "start": 3.821,
+            "end": 4.202
+          },
+          {
+            "word": "the ",
+            "start": 4.213,
+            "end": 4.278
+          },
+          {
+            "word": "deflation ",
+            "start": 4.289,
+            "end": 4.745
+          },
+          {
+            "word": "did ",
+            "start": 4.756,
+            "end": 4.919
+          },
+          {
+            "word": "so ",
+            "start": 4.93,
+            "end": 5.115
+          },
+          {
+            "word": "partly ",
+            "start": 5.126,
+            "end": 5.484
+          },
+          {
+            "word": "by ",
+            "start": 5.495,
+            "end": 5.658
+          },
+          {
+            "word": "achieving ",
+            "start": 5.669,
+            "end": 6.071
+          },
+          {
+            "word": "scale ",
+            "start": 6.082,
+            "end": 6.354
+          },
+          {
+            "word": "economies ",
+            "start": 6.365,
+            "end": 6.778
+          },
+          {
+            "word": "that ",
+            "start": 6.789,
+            "end": 6.93
+          },
+          {
+            "word": "smaller ",
+            "start": 6.941,
+            "end": 7.289
+          },
+          {
+            "word": "competitors ",
+            "start": 7.3,
+            "end": 7.821
+          },
+          {
+            "word": "could ",
+            "start": 7.832,
+            "end": 7.995
+          },
+          {
+            "word": "not. ",
+            "start": 8.006,
+            "end": 8.354
+          },
+          {
+            "word": "The ",
+            "start": 9.104,
+            "end": 9.234
+          },
+          {
+            "word": "merger ",
+            "start": 9.245,
+            "end": 9.528
+          },
+          {
+            "word": "wave ",
+            "start": 9.539,
+            "end": 9.756
+          },
+          {
+            "word": "of ",
+            "start": 9.767,
+            "end": 9.832
+          },
+          {
+            "word": "the ",
+            "start": 9.843,
+            "end": 9.941
+          },
+          {
+            "word": "1890s ",
+            "start": 9.952,
+            "end": 10.734
+          },
+          {
+            "word": "and ",
+            "start": 10.745,
+            "end": 10.843
+          },
+          {
+            "word": "early ",
+            "start": 10.854,
+            "end": 11.06
+          },
+          {
+            "word": "1900s — ",
+            "start": 11.071,
+            "end": 11.886
+          },
+          {
+            "word": "creating ",
+            "start": 12.06,
+            "end": 12.473
+          },
+          {
+            "word": "US ",
+            "start": 12.484,
+            "end": 12.81
+          },
+          {
+            "word": "Steel, ",
+            "start": 12.821,
+            "end": 13.158
+          },
+          {
+            "word": "Standard ",
+            "start": 13.321,
+            "end": 13.691
+          },
+          {
+            "word": "Oil, ",
+            "start": 13.702,
+            "end": 13.919
+          },
+          {
+            "word": "and ",
+            "start": 14.115,
+            "end": 14.202
+          },
+          {
+            "word": "other ",
+            "start": 14.213,
+            "end": 14.397
+          },
+          {
+            "word": "trusts — ",
+            "start": 14.408,
+            "end": 14.81
+          },
+          {
+            "word": "was ",
+            "start": 14.973,
+            "end": 15.082
+          },
+          {
+            "word": "partly ",
+            "start": 15.093,
+            "end": 15.408
+          },
+          {
+            "word": "a ",
+            "start": 15.419,
+            "end": 15.463
+          },
+          {
+            "word": "response ",
+            "start": 15.473,
+            "end": 15.886
+          },
+          {
+            "word": "to ",
+            "start": 15.897,
+            "end": 15.973
+          },
+          {
+            "word": "the ",
+            "start": 15.984,
+            "end": 16.049
+          },
+          {
+            "word": "competitive ",
+            "start": 16.06,
+            "end": 16.593
+          },
+          {
+            "word": "pressures ",
+            "start": 16.604,
+            "end": 16.941
+          },
+          {
+            "word": "of ",
+            "start": 16.952,
+            "end": 17.017
+          },
+          {
+            "word": "the ",
+            "start": 17.028,
+            "end": 17.104
+          },
+          {
+            "word": "Long ",
+            "start": 17.115,
+            "end": 17.31
+          },
+          {
+            "word": "Depression.",
+            "start": 17.321,
+            "end": 17.832
+          }
+        ],
+        "start": 699
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep16_results_2",
+        "audio_exists": true,
+        "audioPath": "episodes/ep16/audio/ep16_results_2.wav",
+        "text": "The intellectual legacy was the development of economics as a discipline capable of analyzing the business cycle. Alfred Marshall, Knut Wicksell, and Irving Fisher developed the theoretical frameworks that would become the basis of macroeconomic analysis. The experience of prolonged deflation made the quantity theory of money and the relationship between interest rates and prices central questions.",
+        "duration": 607,
+        "bgImage": "bg_city_night.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "intellectual ",
+            "start": 0.241,
+            "end": 0.817
+          },
+          {
+            "word": "legacy ",
+            "start": 0.828,
+            "end": 1.219
+          },
+          {
+            "word": "was ",
+            "start": 1.23,
+            "end": 1.371
+          },
+          {
+            "word": "the ",
+            "start": 1.382,
+            "end": 1.458
+          },
+          {
+            "word": "development ",
+            "start": 1.469,
+            "end": 1.915
+          },
+          {
+            "word": "of ",
+            "start": 1.926,
+            "end": 2.002
+          },
+          {
+            "word": "economics ",
+            "start": 2.013,
+            "end": 2.513
+          },
+          {
+            "word": "as ",
+            "start": 2.523,
+            "end": 2.632
+          },
+          {
+            "word": "a ",
+            "start": 2.643,
+            "end": 2.719
+          },
+          {
+            "word": "discipline ",
+            "start": 2.73,
+            "end": 3.165
+          },
+          {
+            "word": "capable ",
+            "start": 3.176,
+            "end": 3.556
+          },
+          {
+            "word": "of ",
+            "start": 3.567,
+            "end": 3.632
+          },
+          {
+            "word": "analyzing ",
+            "start": 3.643,
+            "end": 4.089
+          },
+          {
+            "word": "the ",
+            "start": 4.1,
+            "end": 4.165
+          },
+          {
+            "word": "business ",
+            "start": 4.176,
+            "end": 4.513
+          },
+          {
+            "word": "cycle. ",
+            "start": 4.523,
+            "end": 4.936
+          },
+          {
+            "word": "Alfred ",
+            "start": 5.68,
+            "end": 6.071
+          },
+          {
+            "word": "Marshall, ",
+            "start": 6.082,
+            "end": 6.506
+          },
+          {
+            "word": "Knut ",
+            "start": 6.68,
+            "end": 7.006
+          },
+          {
+            "word": "Wicksell, ",
+            "start": 7.017,
+            "end": 7.484
+          },
+          {
+            "word": "and ",
+            "start": 7.691,
+            "end": 7.767
+          },
+          {
+            "word": "Irving ",
+            "start": 7.778,
+            "end": 8.017
+          },
+          {
+            "word": "Fisher ",
+            "start": 8.028,
+            "end": 8.278
+          },
+          {
+            "word": "developed ",
+            "start": 8.289,
+            "end": 8.636
+          },
+          {
+            "word": "the ",
+            "start": 8.647,
+            "end": 8.713
+          },
+          {
+            "word": "theoretical ",
+            "start": 8.723,
+            "end": 9.234
+          },
+          {
+            "word": "frameworks ",
+            "start": 9.245,
+            "end": 9.756
+          },
+          {
+            "word": "that ",
+            "start": 9.767,
+            "end": 9.865
+          },
+          {
+            "word": "would ",
+            "start": 9.876,
+            "end": 9.973
+          },
+          {
+            "word": "become ",
+            "start": 9.984,
+            "end": 10.234
+          },
+          {
+            "word": "the ",
+            "start": 10.245,
+            "end": 10.332
+          },
+          {
+            "word": "basis ",
+            "start": 10.343,
+            "end": 10.702
+          },
+          {
+            "word": "of ",
+            "start": 10.713,
+            "end": 10.799
+          },
+          {
+            "word": "macroeconomic ",
+            "start": 10.81,
+            "end": 11.55
+          },
+          {
+            "word": "analysis. ",
+            "start": 11.56,
+            "end": 12.147
+          },
+          {
+            "word": "The ",
+            "start": 12.897,
+            "end": 13.06
+          },
+          {
+            "word": "experience ",
+            "start": 13.071,
+            "end": 13.582
+          },
+          {
+            "word": "of ",
+            "start": 13.593,
+            "end": 13.68
+          },
+          {
+            "word": "prolonged ",
+            "start": 13.691,
+            "end": 14.006
+          },
+          {
+            "word": "deflation ",
+            "start": 14.017,
+            "end": 14.463
+          },
+          {
+            "word": "made ",
+            "start": 14.473,
+            "end": 14.658
+          },
+          {
+            "word": "the ",
+            "start": 14.669,
+            "end": 14.734
+          },
+          {
+            "word": "quantity ",
+            "start": 14.745,
+            "end": 15.093
+          },
+          {
+            "word": "theory ",
+            "start": 15.104,
+            "end": 15.419
+          },
+          {
+            "word": "of ",
+            "start": 15.43,
+            "end": 15.517
+          },
+          {
+            "word": "money ",
+            "start": 15.528,
+            "end": 15.81
+          },
+          {
+            "word": "and ",
+            "start": 15.821,
+            "end": 15.93
+          },
+          {
+            "word": "the ",
+            "start": 15.941,
+            "end": 16.006
+          },
+          {
+            "word": "relationship ",
+            "start": 16.017,
+            "end": 16.615
+          },
+          {
+            "word": "between ",
+            "start": 16.626,
+            "end": 16.952
+          },
+          {
+            "word": "interest ",
+            "start": 16.963,
+            "end": 17.343
+          },
+          {
+            "word": "rates ",
+            "start": 17.354,
+            "end": 17.636
+          },
+          {
+            "word": "and ",
+            "start": 17.647,
+            "end": 17.734
+          },
+          {
+            "word": "prices ",
+            "start": 17.745,
+            "end": 18.104
+          },
+          {
+            "word": "central ",
+            "start": 18.115,
+            "end": 18.452
+          },
+          {
+            "word": "questions.",
+            "start": 18.463,
+            "end": 19.06
+          }
+        ],
+        "start": 1269
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep16_results_3",
+        "audio_exists": true,
+        "audioPath": "episodes/ep16/audio/ep16_results_3.wav",
+        "text": "The Long Depression also established the pattern of how industrial economies experienced technological transitions: periods of overinvestment in transformative infrastructure, financial crisis when the overinvestment became apparent, prolonged adjustment during which the technology was absorbed into the productive structure, and eventual recovery on a higher technological base.",
+        "duration": 542,
+        "bgImage": "bg_interest_chart.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.219
+          },
+          {
+            "word": "Long ",
+            "start": 0.23,
+            "end": 0.415
+          },
+          {
+            "word": "Depression ",
+            "start": 0.426,
+            "end": 0.839
+          },
+          {
+            "word": "also ",
+            "start": 0.85,
+            "end": 1.1
+          },
+          {
+            "word": "established ",
+            "start": 1.11,
+            "end": 1.578
+          },
+          {
+            "word": "the ",
+            "start": 1.589,
+            "end": 1.654
+          },
+          {
+            "word": "pattern ",
+            "start": 1.665,
+            "end": 1.947
+          },
+          {
+            "word": "of ",
+            "start": 1.958,
+            "end": 2.023
+          },
+          {
+            "word": "how ",
+            "start": 2.034,
+            "end": 2.197
+          },
+          {
+            "word": "industrial ",
+            "start": 2.208,
+            "end": 2.741
+          },
+          {
+            "word": "economies ",
+            "start": 2.752,
+            "end": 3.186
+          },
+          {
+            "word": "experienced ",
+            "start": 3.197,
+            "end": 3.763
+          },
+          {
+            "word": "technological ",
+            "start": 3.773,
+            "end": 4.382
+          },
+          {
+            "word": "transitions: ",
+            "start": 4.393,
+            "end": 5.002
+          },
+          {
+            "word": "periods ",
+            "start": 5.197,
+            "end": 5.589
+          },
+          {
+            "word": "of ",
+            "start": 5.6,
+            "end": 5.686
+          },
+          {
+            "word": "overinvestment ",
+            "start": 5.697,
+            "end": 6.371
+          },
+          {
+            "word": "in ",
+            "start": 6.382,
+            "end": 6.48
+          },
+          {
+            "word": "transformative ",
+            "start": 6.491,
+            "end": 7.11
+          },
+          {
+            "word": "infrastructure, ",
+            "start": 7.121,
+            "end": 7.763
+          },
+          {
+            "word": "financial ",
+            "start": 7.98,
+            "end": 8.469
+          },
+          {
+            "word": "crisis ",
+            "start": 8.48,
+            "end": 8.86
+          },
+          {
+            "word": "when ",
+            "start": 8.871,
+            "end": 9.013
+          },
+          {
+            "word": "the ",
+            "start": 9.023,
+            "end": 9.121
+          },
+          {
+            "word": "overinvestment ",
+            "start": 9.132,
+            "end": 9.784
+          },
+          {
+            "word": "became ",
+            "start": 9.795,
+            "end": 10.067
+          },
+          {
+            "word": "apparent, ",
+            "start": 10.078,
+            "end": 10.534
+          },
+          {
+            "word": "prolonged ",
+            "start": 10.697,
+            "end": 10.98
+          },
+          {
+            "word": "adjustment ",
+            "start": 10.991,
+            "end": 11.415
+          },
+          {
+            "word": "during ",
+            "start": 11.426,
+            "end": 11.686
+          },
+          {
+            "word": "which ",
+            "start": 11.697,
+            "end": 11.86
+          },
+          {
+            "word": "the ",
+            "start": 11.871,
+            "end": 11.947
+          },
+          {
+            "word": "technology ",
+            "start": 11.958,
+            "end": 12.491
+          },
+          {
+            "word": "was ",
+            "start": 12.502,
+            "end": 12.654
+          },
+          {
+            "word": "absorbed ",
+            "start": 12.665,
+            "end": 13.067
+          },
+          {
+            "word": "into ",
+            "start": 13.078,
+            "end": 13.263
+          },
+          {
+            "word": "the ",
+            "start": 13.273,
+            "end": 13.349
+          },
+          {
+            "word": "productive ",
+            "start": 13.36,
+            "end": 13.763
+          },
+          {
+            "word": "structure, ",
+            "start": 13.773,
+            "end": 14.208
+          },
+          {
+            "word": "and ",
+            "start": 14.436,
+            "end": 14.545
+          },
+          {
+            "word": "eventual ",
+            "start": 14.556,
+            "end": 14.936
+          },
+          {
+            "word": "recovery ",
+            "start": 14.947,
+            "end": 15.36
+          },
+          {
+            "word": "on ",
+            "start": 15.371,
+            "end": 15.491
+          },
+          {
+            "word": "a ",
+            "start": 15.502,
+            "end": 15.523
+          },
+          {
+            "word": "higher ",
+            "start": 15.534,
+            "end": 15.828
+          },
+          {
+            "word": "technological ",
+            "start": 15.839,
+            "end": 16.469
+          },
+          {
+            "word": "base.",
+            "start": 16.48,
+            "end": 16.893
+          }
+        ],
+        "start": 1876
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep16_results_4",
+        "audio_exists": true,
+        "audioPath": "episodes/ep16/audio/ep16_results_4.wav",
+        "text": "The pattern the Long Depression established — transformative technology, overinvestment, financial panic, prolonged adjustment — echoed the corporate fraud and investor ruin of the South Sea Bubble traced in Episode 1. Every era of revolutionary infrastructure investment, it turns out, has its own version of the same story.",
+        "duration": 517,
+        "bgImage": "bg_recovery.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "pattern ",
+            "start": 0.241,
+            "end": 0.523
+          },
+          {
+            "word": "the ",
+            "start": 0.534,
+            "end": 0.589
+          },
+          {
+            "word": "Long ",
+            "start": 0.6,
+            "end": 0.784
+          },
+          {
+            "word": "Depression ",
+            "start": 0.795,
+            "end": 1.186
+          },
+          {
+            "word": "established — ",
+            "start": 1.197,
+            "end": 1.763
+          },
+          {
+            "word": "transformative ",
+            "start": 1.958,
+            "end": 2.599
+          },
+          {
+            "word": "technology, ",
+            "start": 2.61,
+            "end": 3.186
+          },
+          {
+            "word": "overinvestment, ",
+            "start": 3.393,
+            "end": 4.154
+          },
+          {
+            "word": "financial ",
+            "start": 4.339,
+            "end": 4.86
+          },
+          {
+            "word": "panic, ",
+            "start": 4.871,
+            "end": 5.219
+          },
+          {
+            "word": "prolonged ",
+            "start": 5.393,
+            "end": 5.697
+          },
+          {
+            "word": "adjustment — ",
+            "start": 5.708,
+            "end": 6.154
+          },
+          {
+            "word": "echoed ",
+            "start": 6.317,
+            "end": 6.556
+          },
+          {
+            "word": "the ",
+            "start": 6.567,
+            "end": 6.621
+          },
+          {
+            "word": "corporate ",
+            "start": 6.632,
+            "end": 7.013
+          },
+          {
+            "word": "fraud ",
+            "start": 7.023,
+            "end": 7.328
+          },
+          {
+            "word": "and ",
+            "start": 7.339,
+            "end": 7.458
+          },
+          {
+            "word": "investor ",
+            "start": 7.469,
+            "end": 7.839
+          },
+          {
+            "word": "ruin ",
+            "start": 7.85,
+            "end": 8.154
+          },
+          {
+            "word": "of ",
+            "start": 8.165,
+            "end": 8.23
+          },
+          {
+            "word": "the ",
+            "start": 8.241,
+            "end": 8.306
+          },
+          {
+            "word": "South ",
+            "start": 8.317,
+            "end": 8.621
+          },
+          {
+            "word": "Sea ",
+            "start": 8.632,
+            "end": 8.85
+          },
+          {
+            "word": "Bubble ",
+            "start": 8.86,
+            "end": 9.1
+          },
+          {
+            "word": "traced ",
+            "start": 9.11,
+            "end": 9.404
+          },
+          {
+            "word": "in ",
+            "start": 9.415,
+            "end": 9.502
+          },
+          {
+            "word": "Episode ",
+            "start": 9.513,
+            "end": 9.86
+          },
+          {
+            "word": "1. ",
+            "start": 9.871,
+            "end": 10.176
+          },
+          {
+            "word": "Every ",
+            "start": 10.919,
+            "end": 11.202
+          },
+          {
+            "word": "era ",
+            "start": 11.213,
+            "end": 11.615
+          },
+          {
+            "word": "of ",
+            "start": 11.626,
+            "end": 11.702
+          },
+          {
+            "word": "revolutionary ",
+            "start": 11.713,
+            "end": 12.31
+          },
+          {
+            "word": "infrastructure ",
+            "start": 12.321,
+            "end": 12.897
+          },
+          {
+            "word": "investment, ",
+            "start": 12.908,
+            "end": 13.408
+          },
+          {
+            "word": "it ",
+            "start": 13.626,
+            "end": 13.713
+          },
+          {
+            "word": "turns ",
+            "start": 13.723,
+            "end": 14.017
+          },
+          {
+            "word": "out, ",
+            "start": 14.028,
+            "end": 14.256
+          },
+          {
+            "word": "has ",
+            "start": 14.473,
+            "end": 14.56
+          },
+          {
+            "word": "its ",
+            "start": 14.571,
+            "end": 14.702
+          },
+          {
+            "word": "own ",
+            "start": 14.713,
+            "end": 14.908
+          },
+          {
+            "word": "version ",
+            "start": 14.919,
+            "end": 15.256
+          },
+          {
+            "word": "of ",
+            "start": 15.267,
+            "end": 15.332
+          },
+          {
+            "word": "the ",
+            "start": 15.343,
+            "end": 15.419
+          },
+          {
+            "word": "same ",
+            "start": 15.43,
+            "end": 15.68
+          },
+          {
+            "word": "story.",
+            "start": 15.691,
+            "end": 16.06
+          }
+        ],
+        "start": 2418
+      }
+    ]
+  },
+  {
+    "id": "credits",
+    "title": "Credits",
+    "globalStart": 11402,
+    "duration": 440,
+    "subSlides": [
+      {
+        "type": "credits",
+        "start": 0,
+        "duration": 440,
+        "audioSrc": "audio/outro_narration.wav"
+      }
+    ]
+  }
+]

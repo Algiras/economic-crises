@@ -1,22 +1,27 @@
+import { FONT_DISPLAY } from '../fonts';
 import React from 'react';
-import { interpolate, useCurrentFrame, useVideoConfig, spring, AbsoluteFill, Img, staticFile } from 'remotion';
+import { interpolate, useCurrentFrame, useVideoConfig, spring, AbsoluteFill } from 'remotion';
+import { COLORS } from '../theme';
+import { useFadeOut, useKenBurns } from '../hooks/useAnimation';
+import { AnimatedBgImage } from './AnimatedBgImage';
 
 interface StatSlideProps {
     stat: string;
     description: string;
     bgImage?: string;
+    slideIndex?: number;
 }
 
 export const StatSlide: React.FC<StatSlideProps> = ({
     stat,
     description,
-    bgImage = 'bg_demographics.jpg'
+    bgImage = 'bg_demographics.jpg',
+    slideIndex = 0,
 }) => {
     const frame = useCurrentFrame();
-    const { fps, durationInFrames } = useVideoConfig();
+    const { fps } = useVideoConfig();
 
-    // Cinematic slow zoom for background
-    const bgScale = interpolate(frame, [0, durationInFrames], [1.05, 1.15], { extrapolateRight: 'clamp' });
+    const { scale: bgScale, panX: bgPanX, panY: bgPanY } = useKenBurns(undefined, slideIndex);
 
     // Entrance animations
     const opacity = interpolate(frame, [0, 20], [0, 1], { extrapolateRight: 'clamp' });
@@ -25,43 +30,35 @@ export const StatSlide: React.FC<StatSlideProps> = ({
     const descOpacity = interpolate(frame, [40, 70], [0, 1], { extrapolateRight: 'clamp' });
     const descY = spring({ frame, fps, from: 20, to: 0, durationInFrames: 40, delay: 40 });
 
-    // Fade out
-    const fadeOutOpacity = interpolate(
-        frame,
-        [durationInFrames - 15, durationInFrames],
-        [1, 0],
-        { extrapolateRight: 'clamp', extrapolateLeft: 'clamp' }
-    );
+    // Animated counter: parse numeric prefix from stat (e.g. "25%", "$700B", "89")
+    const counterProgress = interpolate(frame, [0, 90], [0, 1], {
+        extrapolateRight: 'clamp',
+        easing: (t) => 1 - Math.pow(1 - t, 3),
+    });
+    const displayStat = (() => {
+        const match = stat.match(/^([^0-9]*)(\d+(?:\.\d+)?)(.*)$/);
+        if (!match) return stat;
+        const [, prefix, numStr, suffix] = match;
+        const num = parseFloat(numStr);
+        const animated = num * counterProgress;
+        const decimals = (numStr.includes('.') ? numStr.split('.')[1].length : 0);
+        return `${prefix}${animated.toFixed(decimals)}${suffix}`;
+    })();
+
+    // Heartbeat pulse
+    const pulse = Math.sin((frame / 45) * Math.PI) * 0.03 + 1;
+
+    const fadeOutOpacity = useFadeOut();
 
     return (
         <AbsoluteFill style={{
-            backgroundColor: '#050a0f',
-            fontFamily: '"Inter", "Helvetica Neue", sans-serif',
+            backgroundColor: COLORS.bgSlide,
+            fontFamily: FONT_DISPLAY,
             opacity: fadeOutOpacity,
             overflow: 'hidden',
         }}>
             {/* 1. Cinematic Background */}
-            <div style={{
-                position: 'absolute',
-                top: -50, left: -50, right: -50, bottom: -50,
-                transform: `scale(${bgScale})`,
-                zIndex: 0,
-            }}>
-                <Img
-                    src={staticFile(`images/${bgImage}`)}
-                    style={{
-                        width: '100%',
-                        height: '100%',
-                        objectFit: 'cover',
-                        opacity: 0.4,
-                    }}
-                />
-                <div style={{
-                    position: 'absolute',
-                    top: 0, left: 0, width: '100%', height: '100%',
-                    background: 'radial-gradient(circle at center, rgba(5,10,15,0.4) 0%, rgba(5,10,15,0.95) 100%)',
-                }} />
-            </div>
+            <AnimatedBgImage src={bgImage} scale={bgScale} panX={bgPanX} panY={bgPanY} opacity={0.4} vignetteStrength="light" />
 
             {/* 2. Content Layer */}
             <div style={{
@@ -76,15 +73,15 @@ export const StatSlide: React.FC<StatSlideProps> = ({
                 opacity,
             }}>
                 <h1 style={{
-                    color: '#f0ad4e',
+                    color: COLORS.gold,
                     fontSize: 220,
                     fontWeight: 900,
                     margin: 0,
                     letterSpacing: '-8px',
-                    transform: `scale(${statScale})`,
+                    transform: `scale(${statScale * pulse})`,
                     textShadow: '0 20px 80px rgba(0,0,0,0.8), 0 0 30px rgba(240,173,78,0.3)',
                 }}>
-                    {stat}
+                    {displayStat}
                 </h1>
 
                 <div style={{

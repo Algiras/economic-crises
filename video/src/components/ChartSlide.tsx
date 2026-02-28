@@ -1,24 +1,29 @@
+import { FONT } from '../fonts';
 import React from 'react';
 import { Img, interpolate, useCurrentFrame, useVideoConfig, spring, staticFile, AbsoluteFill } from 'remotion';
+import { COLORS, SHADOWS } from '../theme';
+import { useFadeOut, useKenBurns } from '../hooks/useAnimation';
+import { AnimatedBgImage } from './AnimatedBgImage';
 
 interface ChartSlideProps {
     chartSrc: string;
     title: string;
     source?: string;
-    bgImage?: string; // Optional background image, otherwise uses a default
+    bgImage?: string;
+    slideIndex?: number;
 }
 
 export const ChartSlide: React.FC<ChartSlideProps> = ({
     chartSrc,
     title,
     source,
-    bgImage = 'bg_abstract.jpg'
+    bgImage = 'bg_interest_chart.jpg',
+    slideIndex = 0,
 }) => {
     const frame = useCurrentFrame();
-    const { fps, durationInFrames } = useVideoConfig();
+    const { fps } = useVideoConfig();
 
-    // Cinematic slow zoom for background
-    const bgScale = interpolate(frame, [0, durationInFrames], [1, 1.1], { extrapolateRight: 'clamp' });
+    const { scale: bgScale, panX: bgPanX, panY: bgPanY } = useKenBurns(undefined, slideIndex);
 
     // Entrance animations for chart
     const chartOpacity = interpolate(frame, [10, 40], [0, 1], { extrapolateRight: 'clamp' });
@@ -27,43 +32,17 @@ export const ChartSlide: React.FC<ChartSlideProps> = ({
     const titleOpacity = interpolate(frame, [20, 50], [0, 1], { extrapolateRight: 'clamp' });
     const titleY = spring({ frame, fps, from: 20, to: 0, durationInFrames: 40, delay: 20 });
 
-    // Fade out
-    const fadeOutOpacity = interpolate(
-        frame,
-        [durationInFrames - 15, durationInFrames],
-        [1, 0],
-        { extrapolateRight: 'clamp', extrapolateLeft: 'clamp' }
-    );
+    const fadeOutOpacity = useFadeOut();
 
     return (
         <AbsoluteFill style={{
-            backgroundColor: '#050a0f',
-            fontFamily: '"Inter", "Helvetica Neue", sans-serif',
+            backgroundColor: COLORS.bgSlide,
+            fontFamily: FONT,
             opacity: fadeOutOpacity,
             overflow: 'hidden',
         }}>
             {/* 1. Cinematic Background */}
-            <div style={{
-                position: 'absolute',
-                top: -50, left: -50, right: -50, bottom: -50,
-                transform: `scale(${bgScale})`,
-                zIndex: 0,
-            }}>
-                <Img
-                    src={staticFile(`images/${bgImage}`)}
-                    style={{
-                        width: '100%',
-                        height: '100%',
-                        objectFit: 'cover',
-                        opacity: 0.4,
-                    }}
-                />
-                <div style={{
-                    position: 'absolute',
-                    top: 0, left: 0, width: '100%', height: '100%',
-                    background: 'radial-gradient(circle at center, rgba(5,10,15,0.2) 0%, rgba(5,10,15,0.9) 100%)',
-                }} />
-            </div>
+            <AnimatedBgImage src={bgImage} scale={bgScale} panX={bgPanX} panY={bgPanY} opacity={0.4} vignetteStrength="heavy" />
 
             {/* 2. Content Layer */}
             <div style={{
@@ -83,7 +62,7 @@ export const ChartSlide: React.FC<ChartSlideProps> = ({
                     marginBottom: 40,
                 }}>
                     <h2 style={{
-                        color: '#f0ad4e',
+                        color: COLORS.gold,
                         fontSize: 42,
                         fontWeight: 800,
                         margin: 0,
@@ -99,7 +78,7 @@ export const ChartSlide: React.FC<ChartSlideProps> = ({
                     transform: `scale(${chartScale})`,
                     borderRadius: 16,
                     overflow: 'hidden',
-                    boxShadow: '0 40px 100px rgba(0,0,0,0.8)',
+                    boxShadow: SHADOWS.cardDrop,
                     maxWidth: 1000,
                     width: '100%',
                     border: '1px solid rgba(255,255,255,0.1)',

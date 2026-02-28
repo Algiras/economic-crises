@@ -1,45 +1,37 @@
+/**
+ * generate_chart_audio.mjs — generate narration WAVs for chart slides
+ *
+ * Reads:  data/chart_narrations.json        — list of { id, text } items
+ * Writes: public/audio/charts/<id>.wav      — one WAV per chart narration
+ *
+ * Run:    node generate_chart_audio.mjs
+ */
+
 import fs from 'fs';
 import path from 'path';
-import { KokoroTTS } from 'kokoro-js';
-import pkg from 'wavefile';
-const { WaveFile } = pkg;
+import { synthesize, VOICE } from './tts_edge.mjs';
 
-const BASE_DIR = process.cwd();
-const NARRATIONS_FILE = path.join(BASE_DIR, 'data', 'chart_narrations.json');
-const AUDIO_DIR = path.join(BASE_DIR, 'public', 'audio', 'charts');
-const VOICE = 'am_adam';
-
-function float32To16BitPCM(float32Array) {
-    const int16Array = new Int16Array(float32Array.length);
-    for (let i = 0; i < float32Array.length; i++) {
-        let s = Math.max(-1, Math.min(1, float32Array[i]));
-        int16Array[i] = s < 0 ? s * 0x8000 : s * 0x7FFF;
-    }
-    return int16Array;
-}
+const NARRATIONS_FILE = path.join(process.cwd(), 'data', 'chart_narrations.json');
+const AUDIO_DIR       = path.join(process.cwd(), 'out', 'audio', 'charts');  // persists alongside renders
 
 async function main() {
     fs.mkdirSync(AUDIO_DIR, { recursive: true });
-    const narrations = JSON.parse(fs.readFileSync(NARRATIONS_FILE, 'utf8'));
 
-    console.log('Initializing Kokoro TTS...');
-    const tts = await KokoroTTS.from_pretrained('onnx-community/Kokoro-82M-v1.0-ONNX', { dtype: 'fp32' });
-    console.log(`TTS loaded. Voice: ${VOICE}`);
+    const narrations = JSON.parse(fs.readFileSync(NARRATIONS_FILE, 'utf8'));
+    console.log(`${narrations.length} chart narrations to process. Voice: ${VOICE}\n`);
 
     for (const item of narrations) {
         const outPath = path.join(AUDIO_DIR, `${item.id}.wav`);
-        if (fs.existsSync(outPath) && fs.statSync(outPath).size > 1000) {
-            console.log(`Skipping ${item.id} (already exists)`);
-            continue;
+        const skip    = fs.existsSync(outPath) && fs.statSync(outPath).size > 1000;
+        console.log(`${skip ? 'Skipping' : 'Synthesizing'} ${item.id}...`);
+        await synthesize(item.text, outPath);
+        if (!skip) {
+            const sizeKb = (fs.statSync(outPath).size / 1024).toFixed(0);
+            console.log(`  Saved ${item.id}.wav (${sizeKb} KB)`);
         }
-        console.log(`Synthesizing ${item.id}...`);
-        const audio = await tts.generate(item.text, { voice: VOICE, speed: 1.15 });
-        const wav = new WaveFile();
-        wav.fromScratch(1, audio.sampling_rate, '16', float32To16BitPCM(audio.audio));
-        fs.writeFileSync(outPath, wav.toBuffer());
-        console.log(`  Saved ${item.id}.wav (${(audio.audio.length / audio.sampling_rate).toFixed(1)}s)`);
     }
-    console.log('Done.');
+
+    console.log('\nDone.');
 }
 
 main().catch(console.error);

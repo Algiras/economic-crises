@@ -1,0 +1,33 @@
+# The Problems
+
+## The Missing Lender of Last Resort
+
+The Panic of 1907 exposed the central structural deficiency of the American financial system with a clarity that no previous crisis had managed: the United States had no lender of last resort. Walter Bagehot had described the proper function of such an institution in his 1873 work "Lombard Street" — lend freely, at a penalty rate, against good collateral — but the United States had no institution capable of following this prescription.
+
+In a banking panic, the problem is not insolvency but illiquidity. Solvent banks — institutions that are fundamentally sound but temporarily unable to convert their assets into cash fast enough to meet depositor demands — face runs for the same reason that insolvent banks do: depositors who fear a bank might fail have a rational incentive to withdraw before it does, and the collective effect of individually rational withdrawals is to create the failure they feared. A lender of last resort can break this dynamic by standing ready to lend to solvent institutions against their assets, assuring depositors that the bank can meet their demands regardless of how many others withdraw simultaneously.
+
+The United States had possessed two central banks in its history — the First Bank of the United States, chartered in 1791 and allowed to expire in 1811, and the Second Bank, chartered in 1816 and killed by Andrew Jackson in 1836. Both had been destroyed by political opposition to concentrated financial power. The Jacksonian critique — that a central bank was an engine of aristocratic privilege, a mechanism for the few to exploit the many — had shaped American political culture for generations. The country was ideologically opposed to the very institution that its financial system required.
+
+## The National Banking System's Chain Reaction
+
+The National Banking System, created during the Civil War through the National Bank Acts of 1863 and 1864, established a structure that made panics more contagious rather than less. The system required national banks to hold reserves against their deposits — an apparently prudent requirement. But it allowed banks in smaller cities to hold their reserves not in their own vaults but as deposits in "reserve city" banks in New York, Chicago, and other major centers. These reserve city banks could in turn hold their reserves in a network of central reserve city banks in New York.
+
+This pyramid structure created chains of dependency that transmitted shocks with extraordinary efficiency. When a crisis broke in New York, banks in smaller cities throughout the country began withdrawing their reserves from New York correspondents. New York banks, losing deposits from the interior, contracted their lending to the firms and brokers that depended on call money. Each bank in the chain was behaving rationally — trying to preserve its own liquidity — but the collective effect was to drain liquidity from the center of the system at precisely the moment it was most needed there.
+
+In a system designed by a competent regulator, these chains would have been shortened or eliminated. Interior banks would have held their reserves locally, insulated from New York panics. Alternatively, a central institution would have provided liquidity to New York banks as they were being drained, preventing the contraction. Neither design existed. The National Banking System was the worst of both worlds: it required reserves but structured those reserves as a transmission mechanism for panic.
+
+## The Trust Company Problem
+
+Trust companies represented what economists would later call a "regulatory arbitrage" — the exploitation of a gap between the regulated and unregulated financial sectors. Commercial banks faced reserve requirements, restrictions on their lending activities, and oversight from state banking departments and the Comptroller of the Currency. Trust companies faced none of these constraints in most states.
+
+The result was competitive asymmetry: trust companies could offer higher deposit rates and make more profitable (and more risky) loans than commercial banks, attracting deposits away from the regulated sector. By 1907, New York trust companies held deposits of nearly a billion dollars — comparable to those of the national banks in the city. They had grown by exploiting the regulatory gap. They collapsed by occupying it.
+
+The Knickerbocker Trust's failure demonstrated that deposit-taking institutions outside the regulated banking system could pose systemic risks to the financial system as a whole. A run on a trust company could spread to commercial banks through depositor panic, market disruption, and the withdrawal of trust company deposits from commercial bank accounts. The regulatory perimeter was too narrow to contain the risk.
+
+## The Currency Inelasticity Problem
+
+The American financial system in 1907 also suffered from a structural rigidity in the currency supply. The total supply of national bank notes — the primary currency — was constrained by the volume of government bonds that banks could deposit with the Treasury as backing. When a bank needed to expand its note issuance during a crisis — to meet depositor withdrawal demands in cash — it had to acquire government bonds first. The money supply could not expand in response to a surge in demand for currency.
+
+Clearinghouse certificate was an ad hoc solution that the banking system had developed independently: when banks within a clearinghouse association needed to settle their interbank obligations during a crisis, they could issue certificates among themselves backed by their assets, conserving actual cash for depositor demands. These certificates served as a temporary substitute for cash in interbank settlement, effectively expanding the effective money supply within the clearinghouse system. Clearinghouse certificates were issued during the 1907 panic and helped limit the damage.
+
+But clearinghouse certificates were a workaround, not a solution. They could only be used among clearinghouse members, not with the public. They addressed interbank settlement but not the depositor withdrawal problem. They required coordination among banks that might otherwise be competing for scarce reserves. They were, in the end, a demonstration of what a central bank could have done more systematically, efficiently, and without the chaos of improvised coordination.

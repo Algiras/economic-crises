@@ -1,16 +1,21 @@
+import { FONT_DISPLAY } from '../fonts';
 import React from 'react';
 import { interpolate, useCurrentFrame, spring, useVideoConfig } from 'remotion';
+import { COLORS } from '../theme';
+import { useFadeOut } from '../hooks/useAnimation';
 
 interface SectionBumperProps {
     partNumber: string;
     partTitle: string;
     color?: string;
+    year?: number;
 }
 
 export const SectionBumper: React.FC<SectionBumperProps> = ({
     partNumber,
     partTitle,
-    color = '#f0ad4e',
+    color = COLORS.gold,
+    year,
 }) => {
     const frame = useCurrentFrame();
     const { fps, durationInFrames } = useVideoConfig();
@@ -24,24 +29,29 @@ export const SectionBumper: React.FC<SectionBumperProps> = ({
     const scale = interpolate(frame, [0, durationInFrames], [1, 1.15], { extrapolateRight: 'clamp' });
     const pan = interpolate(frame, [0, durationInFrames], [0, 20], { extrapolateRight: 'clamp' });
 
-    // Fade out
-    const fadeOutOpacity = interpolate(
-        frame,
-        [durationInFrames - 15, durationInFrames],
-        [1, 0],
-        { extrapolateRight: 'clamp', extrapolateLeft: 'clamp' }
-    );
+    const fadeOutOpacity = useFadeOut();
+
+    // Timeline bar
+    const TIMELINE_START = 1700;
+    const TIMELINE_END = 2030;
+    const TIMELINE_WIDTH = 900;
+    const timelineProgress = interpolate(frame, [40, 100], [0, 1], { extrapolateRight: 'clamp', extrapolateLeft: 'clamp' });
+    const dotProgress = year
+        ? Math.max(0, Math.min(1, (year - TIMELINE_START) / (TIMELINE_END - TIMELINE_START)))
+        : 0;
+    const dotX = dotProgress * TIMELINE_WIDTH;
+    const dotOpacity = interpolate(frame, [80, 110], [0, 1], { extrapolateRight: 'clamp', extrapolateLeft: 'clamp' });
 
     return (
         <div style={{
             width: '100%',
             height: '100%',
-            backgroundColor: '#030609',
+            backgroundColor: COLORS.bgBumper,
             display: 'flex',
             flexDirection: 'column',
             alignItems: 'center',
             justifyContent: 'center',
-            fontFamily: '"Inter", "Helvetica Neue", sans-serif',
+            fontFamily: FONT_DISPLAY,
             opacity: fadeOutOpacity,
             overflow: 'hidden',
         }}>
@@ -88,6 +98,57 @@ export const SectionBumper: React.FC<SectionBumperProps> = ({
                 }}>
                     {partTitle}
                 </h2>
+
+                {year && (
+                    <div style={{
+                        marginTop: 60,
+                        opacity: timelineProgress,
+                        position: 'relative',
+                        width: TIMELINE_WIDTH,
+                    }}>
+                        <div style={{
+                            width: TIMELINE_WIDTH * timelineProgress,
+                            height: 2,
+                            background: `linear-gradient(90deg, rgba(255,255,255,0.15), rgba(255,255,255,0.4))`,
+                            borderRadius: 1,
+                        }} />
+                        <div style={{
+                            position: 'absolute',
+                            top: -6,
+                            left: dotX * timelineProgress,
+                            width: 14,
+                            height: 14,
+                            borderRadius: '50%',
+                            backgroundColor: color,
+                            boxShadow: `0 0 16px ${color}, 0 0 32px ${color}55`,
+                            opacity: dotOpacity,
+                        }} />
+                        <div style={{
+                            position: 'absolute',
+                            top: 20,
+                            left: dotX * timelineProgress - 20,
+                            color,
+                            fontSize: 18,
+                            fontWeight: 700,
+                            letterSpacing: 2,
+                            opacity: dotOpacity,
+                            textShadow: `0 0 12px ${color}`,
+                        }}>
+                            {year}
+                        </div>
+                        <div style={{
+                            display: 'flex',
+                            justifyContent: 'space-between',
+                            marginTop: 48,
+                            color: 'rgba(255,255,255,0.3)',
+                            fontSize: 14,
+                            letterSpacing: 2,
+                        }}>
+                            <span>{TIMELINE_START}</span>
+                            <span>{TIMELINE_END}</span>
+                        </div>
+                    </div>
+                )}
             </div>
         </div>
     );

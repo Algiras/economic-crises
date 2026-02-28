@@ -1,0 +1,31 @@
+# The Event
+
+## Mexico's Phone Call
+
+On August 12, 1982, Mexico's Finance Minister Jesús Silva Herzog telephoned the United States Treasury and the International Monetary Fund with a message that stopped financial markets across two continents: Mexico could no longer service its foreign debt. The announcement was not entirely unexpected among those watching the deteriorating arithmetic of Latin American borrowing, but the suddenness and the scale created immediate shock. If Mexico — Latin America's second-largest economy — was defaulting, so might Brazil, Argentina, Venezuela, Chile, and a dozen other countries that had borrowed heavily throughout the 1970s.
+
+The nine largest American banks held combined loans to Latin America equal to two hundred and eighty percent of their capital. A generalized Latin American default would have rendered every major American bank technically insolvent. The question of whether to call it a sovereign debt crisis or a global banking crisis depended entirely on one's vantage point.
+
+## The Petrodollar Recycling Machine
+
+The origins of the crisis lay in the petrodollar recycling boom of the 1970s. The OPEC oil price increases of 1973 and 1979 transferred enormous wealth from oil-importing economies to oil-exporting states. Saudi Arabia, Kuwait, the UAE, and other Gulf states suddenly held vast dollar surpluses that vastly exceeded their domestic investment capacity. These surpluses were deposited in Western commercial banks — primarily American banks operating through their international divisions in New York and London.
+
+The banks, awash in deposits and under pressure to deploy capital, recycled these petrodollars into loans to Latin American sovereign borrowers. The logic seemed sound: sovereign governments do not go bankrupt, or so the banking wisdom of the era held. The loans were made at variable interest rates — tied to LIBOR, the London interbank offered rate — which meant that the borrower's debt service costs would float with market interest rates rather than being fixed at origination.
+
+Latin American governments borrowed for ostensibly productive purposes: industrialization programs, infrastructure development, agricultural modernization. Mexico borrowed to develop its newly discovered oil fields in the Gulf of Mexico. Brazil borrowed to build its steel industry and hydroelectric dams. Argentina borrowed to finance infrastructure. But borrowing also papered over fiscal deficits, subsidized politically connected industries, and financed imports that domestic industry could not match in price or quality. The distinction between productive and wasteful borrowing was easier to make in retrospect than in real time.
+
+## The Volcker Shock Arrives in Latin America
+
+As long as interest rates remained low and commodity prices remained high, the arithmetic of Latin American debt was manageable. When both changed simultaneously, the mathematics of solvency reversed overnight.
+
+Paul Volcker's anti-inflation campaign — the Federal Reserve's decision in October 1979 to prioritize the destruction of American inflation over the costs imposed on borrowers — raised US interest rates to levels not seen since the early twentieth century. The federal funds rate reached twenty percent in mid-1981. LIBOR, to which Latin American sovereign loans were pegged, rose correspondingly. A country that had borrowed at six percent found its interest payments tripling.
+
+Simultaneously, the global recession that the Volcker shock contributed to cut commodity prices — the primary source of export earnings for Latin American debtors. Oil prices, which had driven Mexico's borrowing confidence, began falling in 1981. Agricultural commodity prices fell. The terms of trade — the ratio of export prices to import prices — turned sharply against Latin American exporters. Debt service was consuming export revenues that were simultaneously shrinking. By 1982, forty countries had sought to reschedule their debts.
+
+## The Scale of Exposure
+
+By August 1982, when Mexico made its call to Washington, the exposure of the international banking system to Latin American sovereign debt had reached levels that would have been difficult to justify to regulators or shareholders had they been transparent. The nine largest American banks — Citibank, Bank of America, Chase Manhattan, Manufacturers Hanover, Morgan Guaranty, Chemical Bank, Continental Illinois, Bankers Trust, and First National Bank of Chicago — had collectively lent two hundred and eighty percent of their capital to Latin American sovereigns. Citibank alone had lent sixty-three percent of its capital to Brazil, sixty-one percent to Mexico, and significant sums to Argentina and Venezuela.
+
+These were not the margins of error. These were the central positions of the American banking system, held with full regulatory awareness. The exposure had accumulated gradually, each individual loan decision defensible in isolation, the aggregate becoming dangerous only when the underlying conditions changed. By 1982, the conditions had changed completely.
+
+Brazil followed Mexico in declaring debt service difficulties within weeks. Argentina, already in political turmoil following the Falklands War, followed. By 1983, the entire structure of Latin American sovereign finance had collapsed. The question was how to resolve it — and the first several years of the answer would prove to be wrong.

@@ -1,0 +1,31 @@
+# The Problems
+
+## Three Interlocking Failures
+
+The Latin American debt crisis exposed three interlocking structural failures that would take a decade of experimentation and pain to fully diagnose and address. Understanding all three was necessary before a genuine solution could be constructed; the crisis's first seven years were spent addressing only the first while the second and third went untreated.
+
+The first failure was in loan origination. Variable-rate dollar loans to sovereign borrowers whose revenues were commodity-dependent was a structural mismatch that no competent risk manager should have approved. A Latin American government's ability to service dollar-denominated debt depended on its capacity to earn dollars — through exports priced in world commodity markets. Those commodity prices were determined by global supply and demand, not by the borrower's policies. The interest rate on the loans was determined by US monetary policy, also outside the borrower's control. The borrower bore the full risk of adverse movements in both variables simultaneously, with no hedge and no adjustment mechanism beyond default.
+
+Regulators had the information to identify this mismatch. They did not do so, partly because the loans were to sovereign governments, which were assumed not to default, and partly because the loans were profitable and growing rapidly, creating institutional incentives to accommodate them rather than restrict them. The assumption that sovereign governments could not go bankrupt — taken as an axiom in international banking practice through the 1970s — was simply wrong. Mexico demonstrated that it was wrong in August 1982.
+
+## Austerity in a Collapsed Economy
+
+The second structural failure was in the initial policy response. When Mexico and other debtors approached the IMF for assistance in 1982–1983, the Fund's standard prescription was fiscal austerity: reduce government spending, raise taxes, restrict credit, correct the current account deficit. The logic was conventional: a country that has borrowed too much must tighten its belt to restore solvency.
+
+The economics of this prescription in crisis conditions were perverse. In a severely depressed economy, fiscal austerity does not simply reduce the government deficit — it reduces GDP through the fiscal multiplier, which reduces tax revenues, which reduces the denominator and numerator of the debt-to-GDP ratio in ways that do not improve solvency. The IMF's models assumed that each dollar of spending cuts would reduce GDP by roughly fifty cents — a multiplier of 0.5. The actual multiplier in these conditions was closer to 1.5, meaning each dollar of cuts reduced GDP by a dollar and fifty cents.
+
+Bolivia's experience illustrated the extremes. By 1985, Bolivian annual inflation had reached fifty thousand percent — hyperinflation triggered partly by the collapse of commodity export revenues and the government's fiscal desperation. Peru imposed price controls and refused IMF conditionality, producing a different set of disasters. Brazil endured multiple unsuccessful stabilization plans through the decade. The 1980s became genuinely lost for economic development across the region.
+
+## The Debt Overhang Trap
+
+The third structural failure was the most subtle and the last to be recognized: the debt overhang itself had become an obstacle to recovery. Countries carrying debt burdens that exceeded any plausible capacity to repay had no rational incentive to implement structural reforms that would increase economic output, because all additional output would flow to foreign creditors rather than to domestic investment or consumption.
+
+The economic theory, developed through the 1980s by economists including Jeffrey Sachs, Paul Krugman, and Rudiger Dornbusch, demonstrated that there existed a "debt Laffer curve": beyond a certain debt burden, reducing the debt actually increased the expected repayment to creditors, because it removed the overhang trap and allowed the debtor to grow. Banks holding Latin American loans at fifty or sixty cents on the dollar in the secondary market — where the bonds traded because institutional investors had largely given up on full repayment — had already implicitly acknowledged this arithmetic. The challenge was to translate the secondary market's price discovery into an official debt reduction that would end the crisis.
+
+## The Social Catastrophe
+
+The 1980s were a catastrophe for ordinary Latin Americans in quantifiable terms. Per capita GDP across Latin America fell approximately eight percent between 1980 and 1990. In some countries the decline was far more severe: Peru's per capita income fell thirty percent over the decade. Poverty rates, which had been falling in the 1970s, reversed sharply: the proportion of Latin Americans living in poverty rose from roughly forty percent at the decade's start to nearly fifty percent by its end.
+
+Child mortality, school enrollment, and nutritional status all deteriorated measurably in the countries subjected to the most severe austerity conditions. The social costs of the debt crisis were borne overwhelmingly by the poorest populations — those who depended on public services, social spending, and formal employment. The wealthy, who held dollar accounts abroad or owned real assets, were more insulated.
+
+Democratic transitions complicated the political economy of adjustment. Argentina had returned to democracy in 1983 after the Falklands War discredited the military junta. Brazil transitioned to civilian government in 1985. New democratic governments that had promised economic restoration found themselves implementing austerity programs designed in Washington and enforced by the IMF as a condition of the loans that prevented immediate collapse. The legitimacy of democratic institutions was tested severely by the requirement to deliver economic pain rather than the promised recovery.

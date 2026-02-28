@@ -1,0 +1,31 @@
+# The Event
+
+## The Morning the Knickerbocker Stopped Paying
+
+On the morning of October 22, 1907, the Knickerbocker Trust Company of New York — the third-largest trust company in the city, holding deposits of sixty-two million dollars — announced that it would suspend payments to depositors. Within hours, a crowd had gathered outside its headquarters on Fifth Avenue. The panic that followed would nearly collapse the American banking system. It would be stopped not by any government institution — none capable of stopping it existed — but by one man, acting through personal authority and a combination of ruthlessness and financial genius.
+
+The Panic of 1907 lasted six weeks. During those six weeks, the New York Stock Exchange fell fifty percent from its January peak. Call money rates — the overnight rate at which brokers borrowed to finance their securities positions — spiked to one hundred and fifty percent annually, a level that effectively closed the equity market to new borrowing. Hundreds of banks and trust companies across the country suspended payments. Business activity seized. And the United States operated through the crisis without a central bank, without deposit insurance, without any institutional lender of last resort. What it had was J.P. Morgan.
+
+## The Roots of the Crisis
+
+The Panic of 1907 had multiple origin points. One was the San Francisco earthquake of April 1906. The earthquake and the fire that followed it were among the most destructive natural disasters in American history, killing approximately three thousand people and destroying most of the city. Insurance companies, many of them British, had to pay enormous claims — estimates of total insured losses ran to several hundred million dollars. To pay claims, British insurance companies sold American securities and repatriated gold to England. This drain of gold from the American financial system tightened credit in New York through late 1906 and into 1907.
+
+The triggering event came from a copper speculation gone wrong. F. Augustus Heinze, a copper mining magnate from Montana who had acquired control of several New York banks, attempted to corner the market in United Copper Company shares in October 1907. The corner failed spectacularly. Heinze's associates had misjudged the supply of shares available to lend against short sellers, and the squeeze that should have forced short sellers to buy at higher prices instead collapsed as the true supply became apparent. United Copper fell from sixty dollars to ten in two days. Heinze's brokerage firm failed. His banks came under immediate suspicion.
+
+The institutional structure of American banking in 1907 made this suspicion contagious. Heinze controlled or was associated with multiple institutions. When the Mercantile National Bank, which he controlled, faced a run, the New York Clearing House — the organization of the major commercial banks that processed interbank settlements — investigated its condition and concluded it was salvageable. Heinze was forced to resign and the Clearing House provided support. But the investigation implicated other institutions connected to Heinze through his business partner Charles Morse, and the circle of suspicion widened.
+
+## Trust Companies and the Regulatory Gap
+
+The Knickerbocker Trust Company became the focal point of the panic not because it was the weakest institution but because it was the most prominent trust associated with Heinze's network. When the Knickerbocker's president, Charles Barney, was asked to resign by his board, word spread that the institution was in trouble. Depositors lined up to withdraw before it closed.
+
+Trust companies were the unregulated shadow banks of the early twentieth century. They had captured market share from commercial banks by offering higher deposit rates and by lending into a broader range of ventures — including the stock market speculation that commercial banks were formally barred from financing. They operated with no reserve requirements; while commercial banks were required to hold reserves against their deposits, trust companies faced no such constraint. They had expanded rapidly through the 1890s and 1900s, and by 1907 held deposits comparable in size to those of the established commercial banking system.
+
+When confidence broke, the trust companies had nothing to fall back on. Their high-yielding lending had been funded by deposits that were, in crisis conditions, no more reliable than any other deposit. The absence of reserves meant that even a relatively small withdrawal demand could trigger suspension. The Knickerbocker's failure triggered runs on other trust companies: the Trust Company of America, Lincoln Trust Company, and others all faced depositor panics in the days that followed.
+
+## The NYSE and the Market Crisis
+
+The stock exchange crisis was concurrent with the banking crisis and mutually reinforcing. As banks and trust companies contracted lending, broker-dealers who had borrowed to finance their clients' securities positions were called. To repay broker loans, they sold securities. Falling securities prices reduced the value of collateral backing other loans, triggering further calls. The mechanism was self-reinforcing.
+
+By October 24th, the Stock Exchange was on the verge of closure. The exchange's president went to J.P. Morgan's office to report that he needed twenty-five million dollars within minutes or the exchange would close early. Morgan, at seventy years old and in declining health, summoned the presidents of the major commercial banks to his office. In fifteen minutes — the time it would take the exchange's president to return to the floor — Morgan had assembled the twenty-five million dollars in commitments. The money reached the exchange at two in the afternoon. Trading continued.
+
+No government official had directed this. No legal authority had been invoked. One private citizen had assessed the situation, determined what needed to be done, and done it through the authority that his personal reputation and financial power commanded. The question it raised — whether any modern financial system should depend on such a man — was the question the Federal Reserve Act would answer six years later.

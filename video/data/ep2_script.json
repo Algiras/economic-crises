@@ -3,111 +3,1053 @@
     "id": "intro",
     "title": "Intro",
     "globalStart": 0,
-    "duration": 1421,
+    "duration": 206,
+    "episode": 6,
+    "episodeMeta": {
+      "title": "The 1970s Stagflation",
+      "subtitle": "1973–1982"
+    },
     "subSlides": [
       {
         "type": "intro",
         "start": 0,
-        "duration": 1421,
-        "audioSrc": "audio/intro_narration.wav"
+        "duration": 206,
+        "audioSrc": "episodes/ep2/intro.wav"
       }
-    ],
-    "episode": 2,
-    "episodeMeta": {
-      "title": "The 1970s Stagflation",
-      "subtitle": "1973–1982"
-    }
+    ]
   },
   {
     "id": "ep2_event",
-    "title": "Episode 2 · Event",
-    "globalStart": 1421,
-    "duration": 2367,
+    "title": "Event",
+    "globalStart": 206,
+    "duration": 2223,
     "subSlides": [
       {
         "type": "bumper",
         "start": 0,
         "duration": 90,
-        "title": "Episode 2 · Event"
+        "title": "Event"
       },
       {
         "type": "quote",
         "chunk_id": "ep2_event_0",
         "audio_exists": true,
+        "audioPath": "episodes/ep2/audio/ep2_event_0.wav",
         "text": "In October 1973, the Organisation of Arab Petroleum Exporting Countries announced an oil embargo against the United States and its allies. The price of oil rose from three dollars per barrel to twelve dollars.",
-        "duration": 415,
-        "bgImage": "bg_toxicology.jpg",
-        "wordTimings": null,
+        "duration": 367,
+        "bgImage": "bg_oil_pump.jpg",
+        "wordTimings": [
+          {
+            "word": "In ",
+            "start": 0.1,
+            "end": 0.273
+          },
+          {
+            "word": "October 1973, ",
+            "start": 0.284,
+            "end": 1.686
+          },
+          {
+            "word": "the ",
+            "start": 1.893,
+            "end": 1.98
+          },
+          {
+            "word": "Organisation ",
+            "start": 1.991,
+            "end": 2.676
+          },
+          {
+            "word": "of ",
+            "start": 2.686,
+            "end": 2.763
+          },
+          {
+            "word": "Arab ",
+            "start": 2.773,
+            "end": 3.023
+          },
+          {
+            "word": "Petroleum ",
+            "start": 3.034,
+            "end": 3.513
+          },
+          {
+            "word": "Exporting ",
+            "start": 3.523,
+            "end": 3.991
+          },
+          {
+            "word": "Countries ",
+            "start": 4.002,
+            "end": 4.371
+          },
+          {
+            "word": "announced ",
+            "start": 4.382,
+            "end": 4.719
+          },
+          {
+            "word": "an ",
+            "start": 4.73,
+            "end": 4.839
+          },
+          {
+            "word": "oil ",
+            "start": 4.85,
+            "end": 5.045
+          },
+          {
+            "word": "embargo ",
+            "start": 5.056,
+            "end": 5.491
+          },
+          {
+            "word": "against ",
+            "start": 5.502,
+            "end": 5.795
+          },
+          {
+            "word": "the ",
+            "start": 5.806,
+            "end": 5.86
+          },
+          {
+            "word": "United ",
+            "start": 5.871,
+            "end": 6.295
+          },
+          {
+            "word": "States ",
+            "start": 6.306,
+            "end": 6.654
+          },
+          {
+            "word": "and ",
+            "start": 6.665,
+            "end": 6.773
+          },
+          {
+            "word": "its ",
+            "start": 6.784,
+            "end": 6.893
+          },
+          {
+            "word": "allies. ",
+            "start": 6.904,
+            "end": 7.371
+          },
+          {
+            "word": "The ",
+            "start": 8.115,
+            "end": 8.245
+          },
+          {
+            "word": "price ",
+            "start": 8.256,
+            "end": 8.495
+          },
+          {
+            "word": "of ",
+            "start": 8.506,
+            "end": 8.593
+          },
+          {
+            "word": "oil ",
+            "start": 8.604,
+            "end": 8.81
+          },
+          {
+            "word": "rose ",
+            "start": 8.821,
+            "end": 9.06
+          },
+          {
+            "word": "from ",
+            "start": 9.071,
+            "end": 9.223
+          },
+          {
+            "word": "three ",
+            "start": 9.234,
+            "end": 9.463
+          },
+          {
+            "word": "dollars ",
+            "start": 9.473,
+            "end": 9.756
+          },
+          {
+            "word": "per ",
+            "start": 9.767,
+            "end": 9.908
+          },
+          {
+            "word": "barrel ",
+            "start": 9.919,
+            "end": 10.18
+          },
+          {
+            "word": "to ",
+            "start": 10.191,
+            "end": 10.278
+          },
+          {
+            "word": "twelve ",
+            "start": 10.289,
+            "end": 10.626
+          },
+          {
+            "word": "dollars.",
+            "start": 10.636,
+            "end": 11.06
+          }
+        ],
         "start": 90
       },
       {
         "type": "quote",
         "chunk_id": "ep2_event_1",
         "audio_exists": true,
+        "audioPath": "episodes/ep2/audio/ep2_event_1.wav",
         "text": "Within a year, inflation in the United States reached twelve percent — while unemployment simultaneously rose above nine percent. Economists had a word for this combination: stagflation.",
-        "duration": 339,
-        "bgImage": "bg_toxicology.jpg",
-        "wordTimings": null,
-        "start": 505
+        "duration": 334,
+        "bgImage": "bg_gas_queue.jpg",
+        "wordTimings": [
+          {
+            "word": "Within ",
+            "start": 0.1,
+            "end": 0.382
+          },
+          {
+            "word": "a ",
+            "start": 0.393,
+            "end": 0.426
+          },
+          {
+            "word": "year, ",
+            "start": 0.436,
+            "end": 0.784
+          },
+          {
+            "word": "inflation ",
+            "start": 0.969,
+            "end": 1.426
+          },
+          {
+            "word": "in ",
+            "start": 1.436,
+            "end": 1.502
+          },
+          {
+            "word": "the ",
+            "start": 1.513,
+            "end": 1.567
+          },
+          {
+            "word": "United ",
+            "start": 1.578,
+            "end": 2.002
+          },
+          {
+            "word": "States ",
+            "start": 2.013,
+            "end": 2.317
+          },
+          {
+            "word": "reached ",
+            "start": 2.328,
+            "end": 2.643
+          },
+          {
+            "word": "twelve ",
+            "start": 2.654,
+            "end": 2.926
+          },
+          {
+            "word": "percent — ",
+            "start": 2.936,
+            "end": 3.371
+          },
+          {
+            "word": "while ",
+            "start": 3.567,
+            "end": 3.817
+          },
+          {
+            "word": "unemployment ",
+            "start": 3.828,
+            "end": 4.339
+          },
+          {
+            "word": "simultaneously ",
+            "start": 4.35,
+            "end": 5.034
+          },
+          {
+            "word": "rose ",
+            "start": 5.045,
+            "end": 5.349
+          },
+          {
+            "word": "above ",
+            "start": 5.36,
+            "end": 5.643
+          },
+          {
+            "word": "nine ",
+            "start": 5.654,
+            "end": 5.893
+          },
+          {
+            "word": "percent. ",
+            "start": 5.904,
+            "end": 6.371
+          },
+          {
+            "word": "Economists ",
+            "start": 7.115,
+            "end": 7.702
+          },
+          {
+            "word": "had ",
+            "start": 7.713,
+            "end": 7.81
+          },
+          {
+            "word": "a ",
+            "start": 7.821,
+            "end": 7.865
+          },
+          {
+            "word": "word ",
+            "start": 7.876,
+            "end": 8.147
+          },
+          {
+            "word": "for ",
+            "start": 8.158,
+            "end": 8.245
+          },
+          {
+            "word": "this ",
+            "start": 8.256,
+            "end": 8.419
+          },
+          {
+            "word": "combination: ",
+            "start": 8.43,
+            "end": 9.06
+          },
+          {
+            "word": "stagflation.",
+            "start": 9.234,
+            "end": 9.952
+          }
+        ],
+        "start": 457
       },
       {
         "type": "quote",
         "chunk_id": "ep2_event_2",
         "audio_exists": true,
+        "audioPath": "episodes/ep2/audio/ep2_event_2.wav",
         "text": "And the word was borrowed because no existing economic model could explain it. The Phillips Curve — the central framework of macroeconomic management since the 1950s — held that inflation and unemployment moved in opposite directions.",
-        "duration": 439,
-        "bgImage": "bg_demographics.jpg",
-        "wordTimings": null,
-        "start": 844
+        "duration": 383,
+        "bgImage": "bg_factory_dark.jpg",
+        "wordTimings": [
+          {
+            "word": "And ",
+            "start": 0.1,
+            "end": 0.263
+          },
+          {
+            "word": "the ",
+            "start": 0.273,
+            "end": 0.339
+          },
+          {
+            "word": "word ",
+            "start": 0.35,
+            "end": 0.6
+          },
+          {
+            "word": "was ",
+            "start": 0.61,
+            "end": 0.741
+          },
+          {
+            "word": "borrowed ",
+            "start": 0.752,
+            "end": 1.143
+          },
+          {
+            "word": "because ",
+            "start": 1.154,
+            "end": 1.382
+          },
+          {
+            "word": "no ",
+            "start": 1.393,
+            "end": 1.589
+          },
+          {
+            "word": "existing ",
+            "start": 1.6,
+            "end": 2.034
+          },
+          {
+            "word": "economic ",
+            "start": 2.045,
+            "end": 2.458
+          },
+          {
+            "word": "model ",
+            "start": 2.469,
+            "end": 2.708
+          },
+          {
+            "word": "could ",
+            "start": 2.719,
+            "end": 2.849
+          },
+          {
+            "word": "explain ",
+            "start": 2.86,
+            "end": 3.284
+          },
+          {
+            "word": "it. ",
+            "start": 3.295,
+            "end": 3.491
+          },
+          {
+            "word": "The ",
+            "start": 4.234,
+            "end": 4.354
+          },
+          {
+            "word": "Phillips ",
+            "start": 4.365,
+            "end": 4.68
+          },
+          {
+            "word": "Curve — ",
+            "start": 4.691,
+            "end": 5.049
+          },
+          {
+            "word": "the ",
+            "start": 5.213,
+            "end": 5.299
+          },
+          {
+            "word": "central ",
+            "start": 5.31,
+            "end": 5.658
+          },
+          {
+            "word": "framework ",
+            "start": 5.669,
+            "end": 6.104
+          },
+          {
+            "word": "of ",
+            "start": 6.115,
+            "end": 6.202
+          },
+          {
+            "word": "macroeconomic ",
+            "start": 6.213,
+            "end": 6.941
+          },
+          {
+            "word": "management ",
+            "start": 6.952,
+            "end": 7.354
+          },
+          {
+            "word": "since ",
+            "start": 7.365,
+            "end": 7.549
+          },
+          {
+            "word": "the ",
+            "start": 7.56,
+            "end": 7.636
+          },
+          {
+            "word": "1950s — ",
+            "start": 7.647,
+            "end": 8.484
+          },
+          {
+            "word": "held ",
+            "start": 8.691,
+            "end": 8.843
+          },
+          {
+            "word": "that ",
+            "start": 8.854,
+            "end": 8.984
+          },
+          {
+            "word": "inflation ",
+            "start": 8.995,
+            "end": 9.463
+          },
+          {
+            "word": "and ",
+            "start": 9.473,
+            "end": 9.593
+          },
+          {
+            "word": "unemployment ",
+            "start": 9.604,
+            "end": 10.191
+          },
+          {
+            "word": "moved ",
+            "start": 10.202,
+            "end": 10.495
+          },
+          {
+            "word": "in ",
+            "start": 10.506,
+            "end": 10.571
+          },
+          {
+            "word": "opposite ",
+            "start": 10.582,
+            "end": 10.919
+          },
+          {
+            "word": "directions.",
+            "start": 10.93,
+            "end": 11.582
+          }
+        ],
+        "start": 791
       },
       {
         "type": "quote",
         "chunk_id": "ep2_event_3",
         "audio_exists": true,
+        "audioPath": "episodes/ep2/audio/ep2_event_3.wav",
         "text": "You could have high unemployment or high inflation, but not both at once. The 1970s proved the curve wrong. The oil shock was the trigger, but it was not the only cause.",
-        "duration": 313,
-        "bgImage": "bg_abstract.jpg",
-        "wordTimings": null,
-        "start": 1283
+        "duration": 326,
+        "bgImage": "bg_city_night.jpg",
+        "wordTimings": [
+          {
+            "word": "You ",
+            "start": 0.1,
+            "end": 0.252
+          },
+          {
+            "word": "could ",
+            "start": 0.263,
+            "end": 0.382
+          },
+          {
+            "word": "have ",
+            "start": 0.393,
+            "end": 0.491
+          },
+          {
+            "word": "high ",
+            "start": 0.502,
+            "end": 0.73
+          },
+          {
+            "word": "unemployment ",
+            "start": 0.741,
+            "end": 1.306
+          },
+          {
+            "word": "or ",
+            "start": 1.317,
+            "end": 1.371
+          },
+          {
+            "word": "high ",
+            "start": 1.382,
+            "end": 1.61
+          },
+          {
+            "word": "inflation, ",
+            "start": 1.621,
+            "end": 2.165
+          },
+          {
+            "word": "but ",
+            "start": 2.295,
+            "end": 2.415
+          },
+          {
+            "word": "not ",
+            "start": 2.426,
+            "end": 2.643
+          },
+          {
+            "word": "both ",
+            "start": 2.654,
+            "end": 2.893
+          },
+          {
+            "word": "at ",
+            "start": 2.904,
+            "end": 3.013
+          },
+          {
+            "word": "once. ",
+            "start": 3.023,
+            "end": 3.458
+          },
+          {
+            "word": "The ",
+            "start": 4.202,
+            "end": 4.332
+          },
+          {
+            "word": "1970s ",
+            "start": 4.343,
+            "end": 5.158
+          },
+          {
+            "word": "proved ",
+            "start": 5.169,
+            "end": 5.452
+          },
+          {
+            "word": "the ",
+            "start": 5.463,
+            "end": 5.517
+          },
+          {
+            "word": "curve ",
+            "start": 5.528,
+            "end": 5.81
+          },
+          {
+            "word": "wrong. ",
+            "start": 5.821,
+            "end": 6.245
+          },
+          {
+            "word": "The ",
+            "start": 6.995,
+            "end": 7.147
+          },
+          {
+            "word": "oil ",
+            "start": 7.158,
+            "end": 7.376
+          },
+          {
+            "word": "shock ",
+            "start": 7.386,
+            "end": 7.636
+          },
+          {
+            "word": "was ",
+            "start": 7.647,
+            "end": 7.767
+          },
+          {
+            "word": "the ",
+            "start": 7.778,
+            "end": 7.854
+          },
+          {
+            "word": "trigger, ",
+            "start": 7.865,
+            "end": 8.191
+          },
+          {
+            "word": "but ",
+            "start": 8.3,
+            "end": 8.397
+          },
+          {
+            "word": "it ",
+            "start": 8.408,
+            "end": 8.473
+          },
+          {
+            "word": "was ",
+            "start": 8.484,
+            "end": 8.604
+          },
+          {
+            "word": "not ",
+            "start": 8.615,
+            "end": 8.832
+          },
+          {
+            "word": "the ",
+            "start": 8.843,
+            "end": 8.952
+          },
+          {
+            "word": "only ",
+            "start": 8.963,
+            "end": 9.191
+          },
+          {
+            "word": "cause.",
+            "start": 9.202,
+            "end": 9.713
+          }
+        ],
+        "start": 1174
       },
       {
         "type": "quote",
         "chunk_id": "ep2_event_4",
         "audio_exists": true,
+        "audioPath": "episodes/ep2/audio/ep2_event_4.wav",
         "text": "Vietnam War spending and the Great Society programs had already inflated the money supply before the embargo. Richard Nixon had abandoned the Bretton Woods gold-exchange system in 1971, removing the external discipline on dollar creation.",
-        "duration": 459,
-        "bgImage": "bg_lab.jpg",
-        "wordTimings": null,
-        "start": 1596
+        "duration": 407,
+        "bgImage": "bg_oil_pump.jpg",
+        "wordTimings": [
+          {
+            "word": "Vietnam ",
+            "start": 0.1,
+            "end": 0.61
+          },
+          {
+            "word": "War ",
+            "start": 0.621,
+            "end": 0.752
+          },
+          {
+            "word": "spending ",
+            "start": 0.763,
+            "end": 1.165
+          },
+          {
+            "word": "and ",
+            "start": 1.176,
+            "end": 1.263
+          },
+          {
+            "word": "the ",
+            "start": 1.273,
+            "end": 1.339
+          },
+          {
+            "word": "Great ",
+            "start": 1.35,
+            "end": 1.61
+          },
+          {
+            "word": "Society ",
+            "start": 1.621,
+            "end": 2.11
+          },
+          {
+            "word": "programs ",
+            "start": 2.121,
+            "end": 2.61
+          },
+          {
+            "word": "had ",
+            "start": 2.621,
+            "end": 2.752
+          },
+          {
+            "word": "already ",
+            "start": 2.763,
+            "end": 3.154
+          },
+          {
+            "word": "inflated ",
+            "start": 3.165,
+            "end": 3.578
+          },
+          {
+            "word": "the ",
+            "start": 3.589,
+            "end": 3.643
+          },
+          {
+            "word": "money ",
+            "start": 3.654,
+            "end": 3.871
+          },
+          {
+            "word": "supply ",
+            "start": 3.882,
+            "end": 4.219
+          },
+          {
+            "word": "before ",
+            "start": 4.23,
+            "end": 4.513
+          },
+          {
+            "word": "the ",
+            "start": 4.523,
+            "end": 4.654
+          },
+          {
+            "word": "embargo. ",
+            "start": 4.665,
+            "end": 5.23
+          },
+          {
+            "word": "Richard ",
+            "start": 5.973,
+            "end": 6.31
+          },
+          {
+            "word": "Nixon ",
+            "start": 6.321,
+            "end": 6.626
+          },
+          {
+            "word": "had ",
+            "start": 6.636,
+            "end": 6.745
+          },
+          {
+            "word": "abandoned ",
+            "start": 6.756,
+            "end": 7.169
+          },
+          {
+            "word": "the ",
+            "start": 7.18,
+            "end": 7.267
+          },
+          {
+            "word": "Bretton ",
+            "start": 7.278,
+            "end": 7.593
+          },
+          {
+            "word": "Woods ",
+            "start": 7.604,
+            "end": 7.81
+          },
+          {
+            "word": "gold-exchange ",
+            "start": 7.821,
+            "end": 8.452
+          },
+          {
+            "word": "system ",
+            "start": 8.463,
+            "end": 8.789
+          },
+          {
+            "word": "in 1971, ",
+            "start": 8.8,
+            "end": 9.886
+          },
+          {
+            "word": "removing ",
+            "start": 10.104,
+            "end": 10.463
+          },
+          {
+            "word": "the ",
+            "start": 10.473,
+            "end": 10.56
+          },
+          {
+            "word": "external ",
+            "start": 10.571,
+            "end": 11.017
+          },
+          {
+            "word": "discipline ",
+            "start": 11.028,
+            "end": 11.452
+          },
+          {
+            "word": "on ",
+            "start": 11.463,
+            "end": 11.593
+          },
+          {
+            "word": "dollar ",
+            "start": 11.604,
+            "end": 11.821
+          },
+          {
+            "word": "creation.",
+            "start": 11.832,
+            "end": 12.397
+          }
+        ],
+        "start": 1500
       },
       {
         "type": "quote",
         "chunk_id": "ep2_event_5",
         "audio_exists": true,
+        "audioPath": "episodes/ep2/audio/ep2_event_5.wav",
         "text": "When the oil shock arrived, the system was already primed. What followed was a decade of wage-price spirals, supply shocks, and policy responses that made things worse.",
-        "duration": 312,
-        "bgImage": "bg_demographics.jpg",
-        "wordTimings": null,
-        "start": 2055
+        "duration": 316,
+        "bgImage": "bg_gas_queue.jpg",
+        "wordTimings": [
+          {
+            "word": "When ",
+            "start": 0.1,
+            "end": 0.328
+          },
+          {
+            "word": "the ",
+            "start": 0.339,
+            "end": 0.436
+          },
+          {
+            "word": "oil ",
+            "start": 0.447,
+            "end": 0.621
+          },
+          {
+            "word": "shock ",
+            "start": 0.632,
+            "end": 0.828
+          },
+          {
+            "word": "arrived, ",
+            "start": 0.839,
+            "end": 1.252
+          },
+          {
+            "word": "the ",
+            "start": 1.436,
+            "end": 1.513
+          },
+          {
+            "word": "system ",
+            "start": 1.523,
+            "end": 1.893
+          },
+          {
+            "word": "was ",
+            "start": 1.904,
+            "end": 2.023
+          },
+          {
+            "word": "already ",
+            "start": 2.034,
+            "end": 2.393
+          },
+          {
+            "word": "primed. ",
+            "start": 2.404,
+            "end": 2.947
+          },
+          {
+            "word": "What ",
+            "start": 3.691,
+            "end": 3.886
+          },
+          {
+            "word": "followed ",
+            "start": 3.897,
+            "end": 4.234
+          },
+          {
+            "word": "was ",
+            "start": 4.245,
+            "end": 4.343
+          },
+          {
+            "word": "a ",
+            "start": 4.354,
+            "end": 4.43
+          },
+          {
+            "word": "decade ",
+            "start": 4.441,
+            "end": 4.799
+          },
+          {
+            "word": "of ",
+            "start": 4.81,
+            "end": 4.876
+          },
+          {
+            "word": "wage-price ",
+            "start": 4.886,
+            "end": 5.441
+          },
+          {
+            "word": "spirals, ",
+            "start": 5.452,
+            "end": 6.049
+          },
+          {
+            "word": "supply ",
+            "start": 6.202,
+            "end": 6.571
+          },
+          {
+            "word": "shocks, ",
+            "start": 6.582,
+            "end": 7.039
+          },
+          {
+            "word": "and ",
+            "start": 7.223,
+            "end": 7.321
+          },
+          {
+            "word": "policy ",
+            "start": 7.332,
+            "end": 7.691
+          },
+          {
+            "word": "responses ",
+            "start": 7.702,
+            "end": 8.245
+          },
+          {
+            "word": "that ",
+            "start": 8.256,
+            "end": 8.376
+          },
+          {
+            "word": "made ",
+            "start": 8.386,
+            "end": 8.604
+          },
+          {
+            "word": "things ",
+            "start": 8.615,
+            "end": 8.897
+          },
+          {
+            "word": "worse.",
+            "start": 8.908,
+            "end": 9.343
+          }
+        ],
+        "start": 1907
       }
     ]
   },
   {
     "id": "ep2_problems",
-    "title": "Episode 2 · Problems",
-    "globalStart": 3788,
-    "duration": 3469,
+    "title": "Problems",
+    "globalStart": 2429,
+    "duration": 3449,
     "subSlides": [
       {
         "type": "bumper",
         "start": 0,
         "duration": 90,
-        "title": "Episode 2 · Problems"
+        "title": "Problems"
       },
       {
         "type": "chart",
         "start": 90,
-        "duration": 720,
+        "duration": 896,
         "chartSrc": "behavioral_biases.png",
         "title": "Cognitive Biases in Economic Decision-Making",
         "audioSrc": "audio/charts/chart_behavioral_biases.wav"
@@ -116,252 +1058,3471 @@
         "type": "quote",
         "chunk_id": "ep2_problems_0",
         "audio_exists": true,
+        "audioPath": "episodes/ep2/audio/ep2_problems_0.wav",
         "text": "The 1970s stagflation crisis involved four simultaneous structural failures — and each attempted solution made at least one of the others worse. The supply shock was real and severe.",
-        "duration": 360,
-        "bgImage": "bg_lab.jpg",
-        "wordTimings": null,
-        "start": 810
+        "duration": 322,
+        "bgImage": "bg_gas_queue.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.241
+          },
+          {
+            "word": "1970s ",
+            "start": 0.252,
+            "end": 1.013
+          },
+          {
+            "word": "stagflation ",
+            "start": 1.023,
+            "end": 1.589
+          },
+          {
+            "word": "crisis ",
+            "start": 1.6,
+            "end": 1.969
+          },
+          {
+            "word": "involved ",
+            "start": 1.98,
+            "end": 2.36
+          },
+          {
+            "word": "four ",
+            "start": 2.371,
+            "end": 2.458
+          },
+          {
+            "word": "simultaneous ",
+            "start": 2.469,
+            "end": 3.099
+          },
+          {
+            "word": "structural ",
+            "start": 3.11,
+            "end": 3.567
+          },
+          {
+            "word": "failures — ",
+            "start": 3.578,
+            "end": 4.045
+          },
+          {
+            "word": "and ",
+            "start": 4.252,
+            "end": 4.371
+          },
+          {
+            "word": "each ",
+            "start": 4.382,
+            "end": 4.556
+          },
+          {
+            "word": "attempted ",
+            "start": 4.567,
+            "end": 4.98
+          },
+          {
+            "word": "solution ",
+            "start": 4.991,
+            "end": 5.447
+          },
+          {
+            "word": "made ",
+            "start": 5.458,
+            "end": 5.665
+          },
+          {
+            "word": "at ",
+            "start": 5.676,
+            "end": 5.752
+          },
+          {
+            "word": "least ",
+            "start": 5.763,
+            "end": 5.991
+          },
+          {
+            "word": "one ",
+            "start": 6.002,
+            "end": 6.165
+          },
+          {
+            "word": "of ",
+            "start": 6.176,
+            "end": 6.241
+          },
+          {
+            "word": "the ",
+            "start": 6.252,
+            "end": 6.339
+          },
+          {
+            "word": "others ",
+            "start": 6.35,
+            "end": 6.6
+          },
+          {
+            "word": "worse. ",
+            "start": 6.61,
+            "end": 7.056
+          },
+          {
+            "word": "The ",
+            "start": 7.8,
+            "end": 7.93
+          },
+          {
+            "word": "supply ",
+            "start": 7.941,
+            "end": 8.299
+          },
+          {
+            "word": "shock ",
+            "start": 8.31,
+            "end": 8.571
+          },
+          {
+            "word": "was ",
+            "start": 8.582,
+            "end": 8.713
+          },
+          {
+            "word": "real ",
+            "start": 8.723,
+            "end": 8.973
+          },
+          {
+            "word": "and ",
+            "start": 8.984,
+            "end": 9.06
+          },
+          {
+            "word": "severe.",
+            "start": 9.071,
+            "end": 9.55
+          }
+        ],
+        "start": 986
       },
       {
         "type": "quote",
         "chunk_id": "ep2_problems_1",
         "audio_exists": true,
+        "audioPath": "episodes/ep2/audio/ep2_problems_1.wav",
         "text": "A three-hundred-percent oil price rise transmitted into every sector of an economy built on cheap energy. Manufacturing costs rose. Transportation costs rose. Agricultural costs rose.",
-        "duration": 369,
-        "bgImage": "bg_demographics.jpg",
-        "wordTimings": null,
-        "start": 1170
+        "duration": 390,
+        "bgImage": "bg_protest_70s.jpg",
+        "wordTimings": [
+          {
+            "word": "A ",
+            "start": 0.1,
+            "end": 0.208
+          },
+          {
+            "word": "three-hundred-percent ",
+            "start": 0.219,
+            "end": 1.023
+          },
+          {
+            "word": "oil ",
+            "start": 1.034,
+            "end": 1.219
+          },
+          {
+            "word": "price ",
+            "start": 1.23,
+            "end": 1.513
+          },
+          {
+            "word": "rise ",
+            "start": 1.523,
+            "end": 1.795
+          },
+          {
+            "word": "transmitted ",
+            "start": 1.806,
+            "end": 2.284
+          },
+          {
+            "word": "into ",
+            "start": 2.295,
+            "end": 2.502
+          },
+          {
+            "word": "every ",
+            "start": 2.513,
+            "end": 2.708
+          },
+          {
+            "word": "sector ",
+            "start": 2.719,
+            "end": 3.056
+          },
+          {
+            "word": "of ",
+            "start": 3.067,
+            "end": 3.176
+          },
+          {
+            "word": "an ",
+            "start": 3.186,
+            "end": 3.263
+          },
+          {
+            "word": "economy ",
+            "start": 3.273,
+            "end": 3.621
+          },
+          {
+            "word": "built ",
+            "start": 3.632,
+            "end": 3.926
+          },
+          {
+            "word": "on ",
+            "start": 3.936,
+            "end": 4.045
+          },
+          {
+            "word": "cheap ",
+            "start": 4.056,
+            "end": 4.295
+          },
+          {
+            "word": "energy. ",
+            "start": 4.306,
+            "end": 4.654
+          },
+          {
+            "word": "Manufacturing ",
+            "start": 5.397,
+            "end": 6.223
+          },
+          {
+            "word": "costs ",
+            "start": 6.234,
+            "end": 6.571
+          },
+          {
+            "word": "rose. ",
+            "start": 6.582,
+            "end": 7.115
+          },
+          {
+            "word": "Transportation ",
+            "start": 7.865,
+            "end": 8.636
+          },
+          {
+            "word": "costs ",
+            "start": 8.647,
+            "end": 9.028
+          },
+          {
+            "word": "rose. ",
+            "start": 9.039,
+            "end": 9.539
+          },
+          {
+            "word": "Agricultural ",
+            "start": 10.289,
+            "end": 10.973
+          },
+          {
+            "word": "costs ",
+            "start": 10.984,
+            "end": 11.321
+          },
+          {
+            "word": "rose.",
+            "start": 11.332,
+            "end": 11.843
+          }
+        ],
+        "start": 1308
       },
       {
         "type": "quote",
         "chunk_id": "ep2_problems_2",
         "audio_exists": true,
+        "audioPath": "episodes/ep2/audio/ep2_problems_2.wav",
         "text": "But the supply shock hit an economy already experiencing demand inflation from Vietnam War spending, amplified by the breakdown of the Bretton Woods system and the loss of dollar discipline.",
-        "duration": 348,
-        "bgImage": "bg_abstract.jpg",
-        "wordTimings": null,
-        "start": 1539
+        "duration": 287,
+        "bgImage": "bg_inflation_cash.jpg",
+        "wordTimings": [
+          {
+            "word": "But ",
+            "start": 0.1,
+            "end": 0.241
+          },
+          {
+            "word": "the ",
+            "start": 0.252,
+            "end": 0.328
+          },
+          {
+            "word": "supply ",
+            "start": 0.339,
+            "end": 0.697
+          },
+          {
+            "word": "shock ",
+            "start": 0.708,
+            "end": 0.947
+          },
+          {
+            "word": "hit ",
+            "start": 0.958,
+            "end": 1.099
+          },
+          {
+            "word": "an ",
+            "start": 1.11,
+            "end": 1.186
+          },
+          {
+            "word": "economy ",
+            "start": 1.197,
+            "end": 1.567
+          },
+          {
+            "word": "already ",
+            "start": 1.578,
+            "end": 1.947
+          },
+          {
+            "word": "experiencing ",
+            "start": 1.958,
+            "end": 2.61
+          },
+          {
+            "word": "demand ",
+            "start": 2.621,
+            "end": 2.926
+          },
+          {
+            "word": "inflation ",
+            "start": 2.936,
+            "end": 3.393
+          },
+          {
+            "word": "from ",
+            "start": 3.404,
+            "end": 3.556
+          },
+          {
+            "word": "Vietnam ",
+            "start": 3.567,
+            "end": 4.023
+          },
+          {
+            "word": "War ",
+            "start": 4.034,
+            "end": 4.176
+          },
+          {
+            "word": "spending, ",
+            "start": 4.186,
+            "end": 4.599
+          },
+          {
+            "word": "amplified ",
+            "start": 4.893,
+            "end": 5.426
+          },
+          {
+            "word": "by ",
+            "start": 5.436,
+            "end": 5.534
+          },
+          {
+            "word": "the ",
+            "start": 5.545,
+            "end": 5.643
+          },
+          {
+            "word": "breakdown ",
+            "start": 5.654,
+            "end": 6.11
+          },
+          {
+            "word": "of ",
+            "start": 6.121,
+            "end": 6.176
+          },
+          {
+            "word": "the ",
+            "start": 6.186,
+            "end": 6.273
+          },
+          {
+            "word": "Bretton ",
+            "start": 6.284,
+            "end": 6.578
+          },
+          {
+            "word": "Woods ",
+            "start": 6.589,
+            "end": 6.763
+          },
+          {
+            "word": "system ",
+            "start": 6.773,
+            "end": 7.121
+          },
+          {
+            "word": "and ",
+            "start": 7.132,
+            "end": 7.23
+          },
+          {
+            "word": "the ",
+            "start": 7.241,
+            "end": 7.317
+          },
+          {
+            "word": "loss ",
+            "start": 7.328,
+            "end": 7.534
+          },
+          {
+            "word": "of ",
+            "start": 7.545,
+            "end": 7.654
+          },
+          {
+            "word": "dollar ",
+            "start": 7.665,
+            "end": 7.882
+          },
+          {
+            "word": "discipline.",
+            "start": 7.893,
+            "end": 8.382
+          }
+        ],
+        "start": 1698
       },
       {
         "type": "quote",
         "chunk_id": "ep2_problems_3",
         "audio_exists": true,
+        "audioPath": "episodes/ep2/audio/ep2_problems_3.wav",
         "text": "Nixon's wage and price controls, imposed in August 1971, appeared to work initially. Inflation fell. But controls only defer price increases — they cannot eliminate them. When the controls were lifted, suppressed inflation erupted.",
-        "duration": 451,
-        "bgImage": "bg_demographics.jpg",
-        "wordTimings": null,
-        "start": 1887
+        "duration": 467,
+        "bgImage": "bg_supermarket.jpg",
+        "wordTimings": [
+          {
+            "word": "Nixon's ",
+            "start": 0.1,
+            "end": 0.534
+          },
+          {
+            "word": "wage ",
+            "start": 0.545,
+            "end": 0.86
+          },
+          {
+            "word": "and ",
+            "start": 0.871,
+            "end": 0.969
+          },
+          {
+            "word": "price ",
+            "start": 0.98,
+            "end": 1.241
+          },
+          {
+            "word": "controls, ",
+            "start": 1.252,
+            "end": 1.795
+          },
+          {
+            "word": "imposed ",
+            "start": 1.904,
+            "end": 2.339
+          },
+          {
+            "word": "in ",
+            "start": 2.35,
+            "end": 2.447
+          },
+          {
+            "word": "August 1971, ",
+            "start": 2.458,
+            "end": 3.719
+          },
+          {
+            "word": "appeared ",
+            "start": 3.86,
+            "end": 4.11
+          },
+          {
+            "word": "to ",
+            "start": 4.121,
+            "end": 4.208
+          },
+          {
+            "word": "work ",
+            "start": 4.219,
+            "end": 4.502
+          },
+          {
+            "word": "initially. ",
+            "start": 4.513,
+            "end": 4.926
+          },
+          {
+            "word": "Inflation ",
+            "start": 5.669,
+            "end": 6.234
+          },
+          {
+            "word": "fell. ",
+            "start": 6.245,
+            "end": 6.658
+          },
+          {
+            "word": "But ",
+            "start": 7.408,
+            "end": 7.582
+          },
+          {
+            "word": "controls ",
+            "start": 7.593,
+            "end": 8.071
+          },
+          {
+            "word": "only ",
+            "start": 8.082,
+            "end": 8.332
+          },
+          {
+            "word": "defer ",
+            "start": 8.343,
+            "end": 8.647
+          },
+          {
+            "word": "price ",
+            "start": 8.658,
+            "end": 8.941
+          },
+          {
+            "word": "increases — ",
+            "start": 8.952,
+            "end": 9.473
+          },
+          {
+            "word": "they ",
+            "start": 9.647,
+            "end": 9.756
+          },
+          {
+            "word": "cannot ",
+            "start": 9.767,
+            "end": 10.104
+          },
+          {
+            "word": "eliminate ",
+            "start": 10.115,
+            "end": 10.549
+          },
+          {
+            "word": "them. ",
+            "start": 10.56,
+            "end": 10.789
+          },
+          {
+            "word": "When ",
+            "start": 11.539,
+            "end": 11.734
+          },
+          {
+            "word": "the ",
+            "start": 11.745,
+            "end": 11.81
+          },
+          {
+            "word": "controls ",
+            "start": 11.821,
+            "end": 12.289
+          },
+          {
+            "word": "were ",
+            "start": 12.3,
+            "end": 12.397
+          },
+          {
+            "word": "lifted, ",
+            "start": 12.408,
+            "end": 12.789
+          },
+          {
+            "word": "suppressed ",
+            "start": 12.973,
+            "end": 13.376
+          },
+          {
+            "word": "inflation ",
+            "start": 13.386,
+            "end": 13.854
+          },
+          {
+            "word": "erupted.",
+            "start": 13.865,
+            "end": 14.376
+          }
+        ],
+        "start": 1985
       },
       {
         "type": "quote",
         "chunk_id": "ep2_problems_4",
         "audio_exists": true,
+        "audioPath": "episodes/ep2/audio/ep2_problems_4.wav",
         "text": "Arthur Burns at the Federal Reserve accommodated rising prices rather than fighting them, fearing that tight money would cause recession. This accommodation embedded inflationary expectations into wage negotiations and pricing decisions.",
-        "duration": 437,
-        "bgImage": "bg_lab.jpg",
-        "wordTimings": null,
-        "start": 2338
+        "duration": 379,
+        "bgImage": "bg_gas_queue.jpg",
+        "wordTimings": [
+          {
+            "word": "Arthur ",
+            "start": 0.1,
+            "end": 0.404
+          },
+          {
+            "word": "Burns ",
+            "start": 0.415,
+            "end": 0.752
+          },
+          {
+            "word": "at ",
+            "start": 0.763,
+            "end": 0.828
+          },
+          {
+            "word": "the ",
+            "start": 0.839,
+            "end": 0.904
+          },
+          {
+            "word": "Federal ",
+            "start": 0.915,
+            "end": 1.252
+          },
+          {
+            "word": "Reserve ",
+            "start": 1.263,
+            "end": 1.599
+          },
+          {
+            "word": "accommodated ",
+            "start": 1.61,
+            "end": 2.165
+          },
+          {
+            "word": "rising ",
+            "start": 2.176,
+            "end": 2.513
+          },
+          {
+            "word": "prices ",
+            "start": 2.523,
+            "end": 2.882
+          },
+          {
+            "word": "rather ",
+            "start": 2.893,
+            "end": 3.165
+          },
+          {
+            "word": "than ",
+            "start": 3.176,
+            "end": 3.306
+          },
+          {
+            "word": "fighting ",
+            "start": 3.317,
+            "end": 3.676
+          },
+          {
+            "word": "them, ",
+            "start": 3.686,
+            "end": 3.839
+          },
+          {
+            "word": "fearing ",
+            "start": 4.023,
+            "end": 4.328
+          },
+          {
+            "word": "that ",
+            "start": 4.339,
+            "end": 4.502
+          },
+          {
+            "word": "tight ",
+            "start": 4.513,
+            "end": 4.752
+          },
+          {
+            "word": "money ",
+            "start": 4.763,
+            "end": 4.98
+          },
+          {
+            "word": "would ",
+            "start": 4.991,
+            "end": 5.143
+          },
+          {
+            "word": "cause ",
+            "start": 5.154,
+            "end": 5.382
+          },
+          {
+            "word": "recession. ",
+            "start": 5.393,
+            "end": 5.915
+          },
+          {
+            "word": "This ",
+            "start": 6.658,
+            "end": 6.865
+          },
+          {
+            "word": "accommodation ",
+            "start": 6.876,
+            "end": 7.452
+          },
+          {
+            "word": "embedded ",
+            "start": 7.463,
+            "end": 7.799
+          },
+          {
+            "word": "inflationary ",
+            "start": 7.81,
+            "end": 8.419
+          },
+          {
+            "word": "expectations ",
+            "start": 8.43,
+            "end": 9.071
+          },
+          {
+            "word": "into ",
+            "start": 9.082,
+            "end": 9.332
+          },
+          {
+            "word": "wage ",
+            "start": 9.343,
+            "end": 9.647
+          },
+          {
+            "word": "negotiations ",
+            "start": 9.658,
+            "end": 10.365
+          },
+          {
+            "word": "and ",
+            "start": 10.376,
+            "end": 10.463
+          },
+          {
+            "word": "pricing ",
+            "start": 10.473,
+            "end": 10.843
+          },
+          {
+            "word": "decisions.",
+            "start": 10.854,
+            "end": 11.452
+          }
+        ],
+        "start": 2452
       },
       {
         "type": "quote",
         "chunk_id": "ep2_problems_5",
         "audio_exists": true,
+        "audioPath": "episodes/ep2/audio/ep2_problems_5.wav",
         "text": "Once workers and businesses expected prices to rise, their behaviour caused prices to rise. The expectation became self-fulfilling.",
-        "duration": 268,
-        "bgImage": "bg_demographics.jpg",
-        "wordTimings": null,
-        "start": 2775
+        "duration": 255,
+        "bgImage": "bg_protest_70s.jpg",
+        "wordTimings": [
+          {
+            "word": "Once ",
+            "start": 0.1,
+            "end": 0.415
+          },
+          {
+            "word": "workers ",
+            "start": 0.426,
+            "end": 0.817
+          },
+          {
+            "word": "and ",
+            "start": 0.828,
+            "end": 0.926
+          },
+          {
+            "word": "businesses ",
+            "start": 0.936,
+            "end": 1.393
+          },
+          {
+            "word": "expected ",
+            "start": 1.404,
+            "end": 1.806
+          },
+          {
+            "word": "prices ",
+            "start": 1.817,
+            "end": 2.154
+          },
+          {
+            "word": "to ",
+            "start": 2.165,
+            "end": 2.252
+          },
+          {
+            "word": "rise, ",
+            "start": 2.263,
+            "end": 2.665
+          },
+          {
+            "word": "their ",
+            "start": 2.806,
+            "end": 2.915
+          },
+          {
+            "word": "behaviour ",
+            "start": 2.926,
+            "end": 3.371
+          },
+          {
+            "word": "caused ",
+            "start": 3.382,
+            "end": 3.686
+          },
+          {
+            "word": "prices ",
+            "start": 3.697,
+            "end": 4.045
+          },
+          {
+            "word": "to ",
+            "start": 4.056,
+            "end": 4.143
+          },
+          {
+            "word": "rise. ",
+            "start": 4.154,
+            "end": 4.665
+          },
+          {
+            "word": "The ",
+            "start": 5.408,
+            "end": 5.571
+          },
+          {
+            "word": "expectation ",
+            "start": 5.582,
+            "end": 6.191
+          },
+          {
+            "word": "became ",
+            "start": 6.202,
+            "end": 6.539
+          },
+          {
+            "word": "self-fulfilling.",
+            "start": 6.55,
+            "end": 7.321
+          }
+        ],
+        "start": 2831
       },
       {
         "type": "quote",
         "chunk_id": "ep2_problems_6",
         "audio_exists": true,
+        "audioPath": "episodes/ep2/audio/ep2_problems_6.wav",
         "text": "By 1975, the United States had simultaneous unemployment of eight-and-a-half percent and inflation of nine-and-a-half percent. The frameworks that guided economic management had no prescription for this outcome.",
-        "duration": 426,
-        "bgImage": "bg_abstract.jpg",
-        "wordTimings": null,
-        "start": 3043
+        "duration": 363,
+        "bgImage": "bg_inflation_cash.jpg",
+        "wordTimings": [
+          {
+            "word": "By 1975, ",
+            "start": 0.1,
+            "end": 1.393
+          },
+          {
+            "word": "the ",
+            "start": 1.523,
+            "end": 1.599
+          },
+          {
+            "word": "United ",
+            "start": 1.61,
+            "end": 2.002
+          },
+          {
+            "word": "States ",
+            "start": 2.013,
+            "end": 2.295
+          },
+          {
+            "word": "had ",
+            "start": 2.306,
+            "end": 2.436
+          },
+          {
+            "word": "simultaneous ",
+            "start": 2.447,
+            "end": 3.099
+          },
+          {
+            "word": "unemployment ",
+            "start": 3.11,
+            "end": 3.73
+          },
+          {
+            "word": "of ",
+            "start": 3.741,
+            "end": 3.839
+          },
+          {
+            "word": "eight-and-a-half ",
+            "start": 3.85,
+            "end": 4.534
+          },
+          {
+            "word": "percent ",
+            "start": 4.545,
+            "end": 4.915
+          },
+          {
+            "word": "and ",
+            "start": 4.926,
+            "end": 5.013
+          },
+          {
+            "word": "inflation ",
+            "start": 5.023,
+            "end": 5.458
+          },
+          {
+            "word": "of ",
+            "start": 5.469,
+            "end": 5.567
+          },
+          {
+            "word": "nine-and-a-half ",
+            "start": 5.578,
+            "end": 6.23
+          },
+          {
+            "word": "percent. ",
+            "start": 6.241,
+            "end": 6.686
+          },
+          {
+            "word": "The ",
+            "start": 7.43,
+            "end": 7.549
+          },
+          {
+            "word": "frameworks ",
+            "start": 7.56,
+            "end": 8.05
+          },
+          {
+            "word": "that ",
+            "start": 8.06,
+            "end": 8.191
+          },
+          {
+            "word": "guided ",
+            "start": 8.202,
+            "end": 8.506
+          },
+          {
+            "word": "economic ",
+            "start": 8.517,
+            "end": 8.908
+          },
+          {
+            "word": "management ",
+            "start": 8.919,
+            "end": 9.289
+          },
+          {
+            "word": "had ",
+            "start": 9.3,
+            "end": 9.43
+          },
+          {
+            "word": "no ",
+            "start": 9.441,
+            "end": 9.636
+          },
+          {
+            "word": "prescription ",
+            "start": 9.647,
+            "end": 10.158
+          },
+          {
+            "word": "for ",
+            "start": 10.169,
+            "end": 10.267
+          },
+          {
+            "word": "this ",
+            "start": 10.278,
+            "end": 10.43
+          },
+          {
+            "word": "outcome.",
+            "start": 10.441,
+            "end": 10.919
+          }
+        ],
+        "start": 3086
       }
     ]
   },
   {
     "id": "ep2_solutions",
-    "title": "Episode 2 · Solutions",
-    "globalStart": 7257,
-    "duration": 2662,
+    "title": "Solutions",
+    "globalStart": 5878,
+    "duration": 2549,
     "subSlides": [
       {
         "type": "bumper",
         "start": 0,
         "duration": 90,
-        "title": "Episode 2 · Solutions"
+        "title": "Solutions"
       },
       {
         "type": "quote",
         "chunk_id": "ep2_solutions_0",
         "audio_exists": true,
+        "audioPath": "episodes/ep2/audio/ep2_solutions_0.wav",
         "text": "On Saturday October 6, 1979, Paul Volcker called an emergency meeting of the Federal Open Market Committee. He timed it between the US market close and the Asian market open — a deliberate signal of urgency.",
-        "duration": 412,
-        "bgImage": "bg_abstract.jpg",
-        "wordTimings": null,
+        "duration": 378,
+        "bgImage": "bg_fed_building.jpg",
+        "wordTimings": [
+          {
+            "word": "On ",
+            "start": 0.1,
+            "end": 0.295
+          },
+          {
+            "word": "Saturday October 6, 1979, ",
+            "start": 0.306,
+            "end": 2.643
+          },
+          {
+            "word": "Paul ",
+            "start": 2.763,
+            "end": 3.034
+          },
+          {
+            "word": "Volcker ",
+            "start": 3.045,
+            "end": 3.36
+          },
+          {
+            "word": "called ",
+            "start": 3.371,
+            "end": 3.589
+          },
+          {
+            "word": "an ",
+            "start": 3.6,
+            "end": 3.676
+          },
+          {
+            "word": "emergency ",
+            "start": 3.686,
+            "end": 4.186
+          },
+          {
+            "word": "meeting ",
+            "start": 4.197,
+            "end": 4.523
+          },
+          {
+            "word": "of ",
+            "start": 4.534,
+            "end": 4.589
+          },
+          {
+            "word": "the ",
+            "start": 4.6,
+            "end": 4.676
+          },
+          {
+            "word": "Federal ",
+            "start": 4.686,
+            "end": 5.045
+          },
+          {
+            "word": "Open ",
+            "start": 5.056,
+            "end": 5.317
+          },
+          {
+            "word": "Market ",
+            "start": 5.328,
+            "end": 5.654
+          },
+          {
+            "word": "Committee. ",
+            "start": 5.665,
+            "end": 6.099
+          },
+          {
+            "word": "He ",
+            "start": 6.843,
+            "end": 6.995
+          },
+          {
+            "word": "timed ",
+            "start": 7.006,
+            "end": 7.289
+          },
+          {
+            "word": "it ",
+            "start": 7.3,
+            "end": 7.386
+          },
+          {
+            "word": "between ",
+            "start": 7.397,
+            "end": 7.669
+          },
+          {
+            "word": "the ",
+            "start": 7.68,
+            "end": 7.734
+          },
+          {
+            "word": "US ",
+            "start": 7.745,
+            "end": 8.104
+          },
+          {
+            "word": "market ",
+            "start": 8.115,
+            "end": 8.484
+          },
+          {
+            "word": "close ",
+            "start": 8.495,
+            "end": 8.843
+          },
+          {
+            "word": "and ",
+            "start": 8.854,
+            "end": 8.919
+          },
+          {
+            "word": "the ",
+            "start": 8.93,
+            "end": 9.039
+          },
+          {
+            "word": "Asian ",
+            "start": 9.05,
+            "end": 9.31
+          },
+          {
+            "word": "market ",
+            "start": 9.321,
+            "end": 9.647
+          },
+          {
+            "word": "open — ",
+            "start": 9.658,
+            "end": 9.952
+          },
+          {
+            "word": "a ",
+            "start": 10.126,
+            "end": 10.169
+          },
+          {
+            "word": "deliberate ",
+            "start": 10.18,
+            "end": 10.571
+          },
+          {
+            "word": "signal ",
+            "start": 10.582,
+            "end": 10.876
+          },
+          {
+            "word": "of ",
+            "start": 10.886,
+            "end": 10.952
+          },
+          {
+            "word": "urgency.",
+            "start": 10.963,
+            "end": 11.441
+          }
+        ],
         "start": 90
       },
       {
         "type": "quote",
         "chunk_id": "ep2_solutions_1",
         "audio_exists": true,
+        "audioPath": "episodes/ep2/audio/ep2_solutions_1.wav",
         "text": "The announcement that followed became known as the Saturday Night Special: the Federal Reserve would stop targeting the federal funds rate and instead target the growth of money supply directly. This was not a technocratic adjustment.",
-        "duration": 408,
-        "bgImage": "bg_toxicology.jpg",
-        "wordTimings": null,
-        "start": 502
+        "duration": 347,
+        "bgImage": "bg_interest_chart.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.241
+          },
+          {
+            "word": "announcement ",
+            "start": 0.252,
+            "end": 0.708
+          },
+          {
+            "word": "that ",
+            "start": 0.719,
+            "end": 0.839
+          },
+          {
+            "word": "followed ",
+            "start": 0.85,
+            "end": 1.121
+          },
+          {
+            "word": "became ",
+            "start": 1.132,
+            "end": 1.426
+          },
+          {
+            "word": "known ",
+            "start": 1.436,
+            "end": 1.697
+          },
+          {
+            "word": "as ",
+            "start": 1.708,
+            "end": 1.817
+          },
+          {
+            "word": "the ",
+            "start": 1.828,
+            "end": 1.904
+          },
+          {
+            "word": "Saturday ",
+            "start": 1.915,
+            "end": 2.295
+          },
+          {
+            "word": "Night ",
+            "start": 2.306,
+            "end": 2.534
+          },
+          {
+            "word": "Special: ",
+            "start": 2.545,
+            "end": 2.958
+          },
+          {
+            "word": "the ",
+            "start": 3.132,
+            "end": 3.208
+          },
+          {
+            "word": "Federal ",
+            "start": 3.219,
+            "end": 3.545
+          },
+          {
+            "word": "Reserve ",
+            "start": 3.556,
+            "end": 3.926
+          },
+          {
+            "word": "would ",
+            "start": 3.936,
+            "end": 4.056
+          },
+          {
+            "word": "stop ",
+            "start": 4.067,
+            "end": 4.306
+          },
+          {
+            "word": "targeting ",
+            "start": 4.317,
+            "end": 4.676
+          },
+          {
+            "word": "the ",
+            "start": 4.686,
+            "end": 4.752
+          },
+          {
+            "word": "federal ",
+            "start": 4.763,
+            "end": 5.078
+          },
+          {
+            "word": "funds ",
+            "start": 5.089,
+            "end": 5.371
+          },
+          {
+            "word": "rate ",
+            "start": 5.382,
+            "end": 5.665
+          },
+          {
+            "word": "and ",
+            "start": 5.676,
+            "end": 5.741
+          },
+          {
+            "word": "instead ",
+            "start": 5.752,
+            "end": 6.078
+          },
+          {
+            "word": "target ",
+            "start": 6.089,
+            "end": 6.404
+          },
+          {
+            "word": "the ",
+            "start": 6.415,
+            "end": 6.491
+          },
+          {
+            "word": "growth ",
+            "start": 6.502,
+            "end": 6.763
+          },
+          {
+            "word": "of ",
+            "start": 6.773,
+            "end": 6.86
+          },
+          {
+            "word": "money ",
+            "start": 6.871,
+            "end": 7.089
+          },
+          {
+            "word": "supply ",
+            "start": 7.1,
+            "end": 7.426
+          },
+          {
+            "word": "directly. ",
+            "start": 7.436,
+            "end": 7.926
+          },
+          {
+            "word": "This ",
+            "start": 8.669,
+            "end": 8.908
+          },
+          {
+            "word": "was ",
+            "start": 8.919,
+            "end": 9.071
+          },
+          {
+            "word": "not ",
+            "start": 9.082,
+            "end": 9.245
+          },
+          {
+            "word": "a ",
+            "start": 9.256,
+            "end": 9.31
+          },
+          {
+            "word": "technocratic ",
+            "start": 9.321,
+            "end": 9.886
+          },
+          {
+            "word": "adjustment.",
+            "start": 9.897,
+            "end": 10.408
+          }
+        ],
+        "start": 468
       },
       {
         "type": "quote",
         "chunk_id": "ep2_solutions_2",
         "audio_exists": true,
+        "audioPath": "episodes/ep2/audio/ep2_solutions_2.wav",
         "text": "It was a declaration of intent to cause a recession if that was what breaking inflation required. Over the following two years, the federal funds rate rose from eleven to nineteen percent. The prime lending rate hit twenty-one and a half.",
-        "duration": 404,
-        "bgImage": "bg_lab.jpg",
-        "wordTimings": null,
-        "start": 910
+        "duration": 398,
+        "bgImage": "bg_wallstreet.jpg",
+        "wordTimings": [
+          {
+            "word": "It ",
+            "start": 0.1,
+            "end": 0.252
+          },
+          {
+            "word": "was ",
+            "start": 0.263,
+            "end": 0.382
+          },
+          {
+            "word": "a ",
+            "start": 0.393,
+            "end": 0.458
+          },
+          {
+            "word": "declaration ",
+            "start": 0.469,
+            "end": 0.991
+          },
+          {
+            "word": "of ",
+            "start": 1.002,
+            "end": 1.056
+          },
+          {
+            "word": "intent ",
+            "start": 1.067,
+            "end": 1.36
+          },
+          {
+            "word": "to ",
+            "start": 1.371,
+            "end": 1.436
+          },
+          {
+            "word": "cause ",
+            "start": 1.447,
+            "end": 1.676
+          },
+          {
+            "word": "a ",
+            "start": 1.686,
+            "end": 1.741
+          },
+          {
+            "word": "recession ",
+            "start": 1.752,
+            "end": 2.197
+          },
+          {
+            "word": "if ",
+            "start": 2.208,
+            "end": 2.317
+          },
+          {
+            "word": "that ",
+            "start": 2.328,
+            "end": 2.447
+          },
+          {
+            "word": "was ",
+            "start": 2.458,
+            "end": 2.578
+          },
+          {
+            "word": "what ",
+            "start": 2.589,
+            "end": 2.784
+          },
+          {
+            "word": "breaking ",
+            "start": 2.795,
+            "end": 3.099
+          },
+          {
+            "word": "inflation ",
+            "start": 3.11,
+            "end": 3.545
+          },
+          {
+            "word": "required. ",
+            "start": 3.556,
+            "end": 4.143
+          },
+          {
+            "word": "Over ",
+            "start": 4.886,
+            "end": 5.126
+          },
+          {
+            "word": "the ",
+            "start": 5.136,
+            "end": 5.213
+          },
+          {
+            "word": "following ",
+            "start": 5.223,
+            "end": 5.56
+          },
+          {
+            "word": "two ",
+            "start": 5.571,
+            "end": 5.767
+          },
+          {
+            "word": "years, ",
+            "start": 5.778,
+            "end": 6.18
+          },
+          {
+            "word": "the ",
+            "start": 6.31,
+            "end": 6.386
+          },
+          {
+            "word": "federal ",
+            "start": 6.397,
+            "end": 6.713
+          },
+          {
+            "word": "funds ",
+            "start": 6.723,
+            "end": 7.028
+          },
+          {
+            "word": "rate ",
+            "start": 7.039,
+            "end": 7.289
+          },
+          {
+            "word": "rose ",
+            "start": 7.3,
+            "end": 7.55
+          },
+          {
+            "word": "from ",
+            "start": 7.56,
+            "end": 7.691
+          },
+          {
+            "word": "eleven ",
+            "start": 7.702,
+            "end": 7.995
+          },
+          {
+            "word": "to ",
+            "start": 8.006,
+            "end": 8.104
+          },
+          {
+            "word": "nineteen ",
+            "start": 8.115,
+            "end": 8.549
+          },
+          {
+            "word": "percent. ",
+            "start": 8.56,
+            "end": 9.039
+          },
+          {
+            "word": "The ",
+            "start": 9.789,
+            "end": 9.919
+          },
+          {
+            "word": "prime ",
+            "start": 9.93,
+            "end": 10.213
+          },
+          {
+            "word": "lending ",
+            "start": 10.223,
+            "end": 10.539
+          },
+          {
+            "word": "rate ",
+            "start": 10.55,
+            "end": 10.756
+          },
+          {
+            "word": "hit ",
+            "start": 10.767,
+            "end": 10.93
+          },
+          {
+            "word": "twenty-one ",
+            "start": 10.941,
+            "end": 11.441
+          },
+          {
+            "word": "and ",
+            "start": 11.452,
+            "end": 11.593
+          },
+          {
+            "word": "a ",
+            "start": 11.604,
+            "end": 11.636
+          },
+          {
+            "word": "half.",
+            "start": 11.647,
+            "end": 12.104
+          }
+        ],
+        "start": 815
       },
       {
         "type": "quote",
         "chunk_id": "ep2_solutions_3",
         "audio_exists": true,
+        "audioPath": "episodes/ep2/audio/ep2_solutions_3.wav",
         "text": "Thirty-year mortgage rates exceeded eighteen percent. Two recessions followed — January 1980 and July 1981. Unemployment peaked at ten-point-eight percent in December 1982. Farmers blockaded the Federal Reserve building with tractors.",
-        "duration": 469,
-        "bgImage": "bg_lab.jpg",
-        "wordTimings": null,
-        "start": 1314
+        "duration": 475,
+        "bgImage": "bg_city_night.jpg",
+        "wordTimings": [
+          {
+            "word": "Thirty-year ",
+            "start": 0.1,
+            "end": 0.676
+          },
+          {
+            "word": "mortgage ",
+            "start": 0.686,
+            "end": 1.034
+          },
+          {
+            "word": "rates ",
+            "start": 1.045,
+            "end": 1.328
+          },
+          {
+            "word": "exceeded ",
+            "start": 1.339,
+            "end": 1.73
+          },
+          {
+            "word": "eighteen ",
+            "start": 1.741,
+            "end": 2.099
+          },
+          {
+            "word": "percent. ",
+            "start": 2.11,
+            "end": 2.589
+          },
+          {
+            "word": "Two ",
+            "start": 3.332,
+            "end": 3.539
+          },
+          {
+            "word": "recessions ",
+            "start": 3.55,
+            "end": 4.05
+          },
+          {
+            "word": "followed — ",
+            "start": 4.06,
+            "end": 4.386
+          },
+          {
+            "word": "January 1980 ",
+            "start": 4.571,
+            "end": 5.658
+          },
+          {
+            "word": "and ",
+            "start": 5.669,
+            "end": 5.789
+          },
+          {
+            "word": "July 1981. ",
+            "start": 5.8,
+            "end": 7.18
+          },
+          {
+            "word": "Unemployment ",
+            "start": 7.93,
+            "end": 8.56
+          },
+          {
+            "word": "peaked ",
+            "start": 8.571,
+            "end": 8.821
+          },
+          {
+            "word": "at ",
+            "start": 8.832,
+            "end": 8.919
+          },
+          {
+            "word": "ten-point-eight ",
+            "start": 8.93,
+            "end": 9.484
+          },
+          {
+            "word": "percent ",
+            "start": 9.495,
+            "end": 9.832
+          },
+          {
+            "word": "in ",
+            "start": 9.843,
+            "end": 9.93
+          },
+          {
+            "word": "December 1982. ",
+            "start": 9.941,
+            "end": 11.289
+          },
+          {
+            "word": "Farmers ",
+            "start": 12.039,
+            "end": 12.452
+          },
+          {
+            "word": "blockaded ",
+            "start": 12.463,
+            "end": 12.886
+          },
+          {
+            "word": "the ",
+            "start": 12.897,
+            "end": 12.963
+          },
+          {
+            "word": "Federal ",
+            "start": 12.973,
+            "end": 13.31
+          },
+          {
+            "word": "Reserve ",
+            "start": 13.321,
+            "end": 13.658
+          },
+          {
+            "word": "building ",
+            "start": 13.669,
+            "end": 13.973
+          },
+          {
+            "word": "with ",
+            "start": 13.984,
+            "end": 14.093
+          },
+          {
+            "word": "tractors.",
+            "start": 14.104,
+            "end": 14.658
+          }
+        ],
+        "start": 1213
       },
       {
         "type": "quote",
         "chunk_id": "ep2_solutions_4",
         "audio_exists": true,
+        "audioPath": "episodes/ep2/audio/ep2_solutions_4.wav",
         "text": "Congress threatened to pass legislation removing the Fed's independence. Volcker held. Reagan, to his political credit, supported Volcker publicly through the elections. That political backing was as important as the monetary policy itself.",
-        "duration": 432,
-        "bgImage": "bg_abstract.jpg",
-        "wordTimings": null,
-        "start": 1783
+        "duration": 442,
+        "bgImage": "bg_fed_building.jpg",
+        "wordTimings": [
+          {
+            "word": "Congress ",
+            "start": 0.1,
+            "end": 0.567
+          },
+          {
+            "word": "threatened ",
+            "start": 0.578,
+            "end": 0.882
+          },
+          {
+            "word": "to ",
+            "start": 0.893,
+            "end": 0.947
+          },
+          {
+            "word": "pass ",
+            "start": 0.958,
+            "end": 1.219
+          },
+          {
+            "word": "legislation ",
+            "start": 1.23,
+            "end": 1.828
+          },
+          {
+            "word": "removing ",
+            "start": 1.839,
+            "end": 2.208
+          },
+          {
+            "word": "the ",
+            "start": 2.219,
+            "end": 2.273
+          },
+          {
+            "word": "Fed's ",
+            "start": 2.284,
+            "end": 2.599
+          },
+          {
+            "word": "independence. ",
+            "start": 2.61,
+            "end": 3.295
+          },
+          {
+            "word": "Volcker ",
+            "start": 4.039,
+            "end": 4.365
+          },
+          {
+            "word": "held. ",
+            "start": 4.376,
+            "end": 4.821
+          },
+          {
+            "word": "Reagan, ",
+            "start": 5.571,
+            "end": 6.05
+          },
+          {
+            "word": "to ",
+            "start": 6.202,
+            "end": 6.278
+          },
+          {
+            "word": "his ",
+            "start": 6.289,
+            "end": 6.463
+          },
+          {
+            "word": "political ",
+            "start": 6.473,
+            "end": 6.919
+          },
+          {
+            "word": "credit, ",
+            "start": 6.93,
+            "end": 7.289
+          },
+          {
+            "word": "supported ",
+            "start": 7.463,
+            "end": 7.908
+          },
+          {
+            "word": "Volcker ",
+            "start": 7.919,
+            "end": 8.223
+          },
+          {
+            "word": "publicly ",
+            "start": 8.234,
+            "end": 8.658
+          },
+          {
+            "word": "through ",
+            "start": 8.669,
+            "end": 8.876
+          },
+          {
+            "word": "the ",
+            "start": 8.886,
+            "end": 8.995
+          },
+          {
+            "word": "elections. ",
+            "start": 9.006,
+            "end": 9.604
+          },
+          {
+            "word": "That ",
+            "start": 10.354,
+            "end": 10.571
+          },
+          {
+            "word": "political ",
+            "start": 10.582,
+            "end": 11.017
+          },
+          {
+            "word": "backing ",
+            "start": 11.028,
+            "end": 11.321
+          },
+          {
+            "word": "was ",
+            "start": 11.332,
+            "end": 11.452
+          },
+          {
+            "word": "as ",
+            "start": 11.463,
+            "end": 11.56
+          },
+          {
+            "word": "important ",
+            "start": 11.571,
+            "end": 12.028
+          },
+          {
+            "word": "as ",
+            "start": 12.039,
+            "end": 12.104
+          },
+          {
+            "word": "the ",
+            "start": 12.115,
+            "end": 12.18
+          },
+          {
+            "word": "monetary ",
+            "start": 12.191,
+            "end": 12.615
+          },
+          {
+            "word": "policy ",
+            "start": 12.626,
+            "end": 13.017
+          },
+          {
+            "word": "itself.",
+            "start": 13.028,
+            "end": 13.56
+          }
+        ],
+        "start": 1688
       },
       {
         "type": "quote",
         "chunk_id": "ep2_solutions_5",
         "audio_exists": true,
+        "audioPath": "episodes/ep2/audio/ep2_solutions_5.wav",
         "text": "Inflation fell from thirteen percent in 1979 to three percent in 1983. The credibility of the commitment was what broke inflationary expectations — and credibility required the willingness to impose, and accept, genuine pain.",
-        "duration": 447,
-        "bgImage": "bg_lifestyle.jpg",
-        "wordTimings": null,
-        "start": 2215
+        "duration": 419,
+        "bgImage": "bg_interest_chart.jpg",
+        "wordTimings": [
+          {
+            "word": "Inflation ",
+            "start": 0.1,
+            "end": 0.654
+          },
+          {
+            "word": "fell ",
+            "start": 0.665,
+            "end": 0.936
+          },
+          {
+            "word": "from ",
+            "start": 0.947,
+            "end": 1.099
+          },
+          {
+            "word": "thirteen ",
+            "start": 1.11,
+            "end": 1.556
+          },
+          {
+            "word": "percent ",
+            "start": 1.567,
+            "end": 1.926
+          },
+          {
+            "word": "in 1979 ",
+            "start": 1.936,
+            "end": 2.969
+          },
+          {
+            "word": "to ",
+            "start": 2.98,
+            "end": 3.056
+          },
+          {
+            "word": "three ",
+            "start": 3.067,
+            "end": 3.273
+          },
+          {
+            "word": "percent ",
+            "start": 3.284,
+            "end": 3.632
+          },
+          {
+            "word": "in 1983. ",
+            "start": 3.643,
+            "end": 4.73
+          },
+          {
+            "word": "The ",
+            "start": 5.473,
+            "end": 5.593
+          },
+          {
+            "word": "credibility ",
+            "start": 5.604,
+            "end": 6.169
+          },
+          {
+            "word": "of ",
+            "start": 6.18,
+            "end": 6.256
+          },
+          {
+            "word": "the ",
+            "start": 6.267,
+            "end": 6.321
+          },
+          {
+            "word": "commitment ",
+            "start": 6.332,
+            "end": 6.745
+          },
+          {
+            "word": "was ",
+            "start": 6.756,
+            "end": 6.886
+          },
+          {
+            "word": "what ",
+            "start": 6.897,
+            "end": 7.093
+          },
+          {
+            "word": "broke ",
+            "start": 7.104,
+            "end": 7.289
+          },
+          {
+            "word": "inflationary ",
+            "start": 7.3,
+            "end": 7.897
+          },
+          {
+            "word": "expectations — ",
+            "start": 7.908,
+            "end": 8.669
+          },
+          {
+            "word": "and ",
+            "start": 8.876,
+            "end": 8.984
+          },
+          {
+            "word": "credibility ",
+            "start": 8.995,
+            "end": 9.528
+          },
+          {
+            "word": "required ",
+            "start": 9.539,
+            "end": 9.952
+          },
+          {
+            "word": "the ",
+            "start": 9.963,
+            "end": 10.017
+          },
+          {
+            "word": "willingness ",
+            "start": 10.028,
+            "end": 10.441
+          },
+          {
+            "word": "to ",
+            "start": 10.452,
+            "end": 10.549
+          },
+          {
+            "word": "impose, ",
+            "start": 10.56,
+            "end": 11.06
+          },
+          {
+            "word": "and ",
+            "start": 11.245,
+            "end": 11.343
+          },
+          {
+            "word": "accept, ",
+            "start": 11.354,
+            "end": 11.778
+          },
+          {
+            "word": "genuine ",
+            "start": 11.963,
+            "end": 12.376
+          },
+          {
+            "word": "pain.",
+            "start": 12.386,
+            "end": 12.778
+          }
+        ],
+        "start": 2130
       }
     ]
   },
   {
     "id": "ep2_results",
-    "title": "Episode 2 · Results",
-    "globalStart": 9919,
-    "duration": 2837,
+    "title": "Results",
+    "globalStart": 8427,
+    "duration": 3018,
     "subSlides": [
       {
         "type": "bumper",
         "start": 0,
         "duration": 90,
-        "title": "Episode 2 · Results"
+        "title": "Results"
       },
       {
         "type": "quote",
         "chunk_id": "ep2_results_0",
         "audio_exists": true,
+        "audioPath": "episodes/ep2/audio/ep2_results_0.wav",
         "text": "The defeat of the 1970s inflation produced two sets of consequences — one set absorbed deeply into subsequent policy, one set largely ignored.",
-        "duration": 305,
-        "bgImage": "bg_lab.jpg",
-        "wordTimings": null,
+        "duration": 267,
+        "bgImage": "bg_interest_chart.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "defeat ",
+            "start": 0.241,
+            "end": 0.556
+          },
+          {
+            "word": "of ",
+            "start": 0.567,
+            "end": 0.632
+          },
+          {
+            "word": "the ",
+            "start": 0.643,
+            "end": 0.719
+          },
+          {
+            "word": "1970s ",
+            "start": 0.73,
+            "end": 1.502
+          },
+          {
+            "word": "inflation ",
+            "start": 1.513,
+            "end": 1.98
+          },
+          {
+            "word": "produced ",
+            "start": 1.991,
+            "end": 2.339
+          },
+          {
+            "word": "two ",
+            "start": 2.35,
+            "end": 2.523
+          },
+          {
+            "word": "sets ",
+            "start": 2.534,
+            "end": 2.795
+          },
+          {
+            "word": "of ",
+            "start": 2.806,
+            "end": 2.871
+          },
+          {
+            "word": "consequences — ",
+            "start": 2.882,
+            "end": 3.556
+          },
+          {
+            "word": "one ",
+            "start": 3.795,
+            "end": 4.056
+          },
+          {
+            "word": "set ",
+            "start": 4.067,
+            "end": 4.273
+          },
+          {
+            "word": "absorbed ",
+            "start": 4.284,
+            "end": 4.697
+          },
+          {
+            "word": "deeply ",
+            "start": 4.708,
+            "end": 4.98
+          },
+          {
+            "word": "into ",
+            "start": 4.991,
+            "end": 5.263
+          },
+          {
+            "word": "subsequent ",
+            "start": 5.273,
+            "end": 5.806
+          },
+          {
+            "word": "policy, ",
+            "start": 5.817,
+            "end": 6.176
+          },
+          {
+            "word": "one ",
+            "start": 6.393,
+            "end": 6.61
+          },
+          {
+            "word": "set ",
+            "start": 6.621,
+            "end": 6.828
+          },
+          {
+            "word": "largely ",
+            "start": 6.839,
+            "end": 7.197
+          },
+          {
+            "word": "ignored.",
+            "start": 7.208,
+            "end": 7.719
+          }
+        ],
         "start": 90
       },
       {
         "type": "quote",
         "chunk_id": "ep2_results_1",
         "audio_exists": true,
+        "audioPath": "episodes/ep2/audio/ep2_results_1.wav",
         "text": "What policymakers took from the episode: inflation targeting works when central banks are independent and willing to defend the target. New Zealand formally adopted the first inflation target in 1989. Canada followed in 1991.",
-        "duration": 453,
-        "bgImage": "bg_abstract.jpg",
-        "wordTimings": null,
-        "start": 395
+        "duration": 429,
+        "bgImage": "bg_fed_building.jpg",
+        "wordTimings": [
+          {
+            "word": "What ",
+            "start": 0.1,
+            "end": 0.328
+          },
+          {
+            "word": "policymakers ",
+            "start": 0.339,
+            "end": 0.947
+          },
+          {
+            "word": "took ",
+            "start": 0.958,
+            "end": 1.121
+          },
+          {
+            "word": "from ",
+            "start": 1.132,
+            "end": 1.263
+          },
+          {
+            "word": "the ",
+            "start": 1.273,
+            "end": 1.36
+          },
+          {
+            "word": "episode: ",
+            "start": 1.371,
+            "end": 1.784
+          },
+          {
+            "word": "inflation ",
+            "start": 1.958,
+            "end": 2.426
+          },
+          {
+            "word": "targeting ",
+            "start": 2.436,
+            "end": 2.86
+          },
+          {
+            "word": "works ",
+            "start": 2.871,
+            "end": 3.154
+          },
+          {
+            "word": "when ",
+            "start": 3.165,
+            "end": 3.339
+          },
+          {
+            "word": "central ",
+            "start": 3.35,
+            "end": 3.708
+          },
+          {
+            "word": "banks ",
+            "start": 3.719,
+            "end": 3.98
+          },
+          {
+            "word": "are ",
+            "start": 3.991,
+            "end": 4.089
+          },
+          {
+            "word": "independent ",
+            "start": 4.1,
+            "end": 4.643
+          },
+          {
+            "word": "and ",
+            "start": 4.654,
+            "end": 4.73
+          },
+          {
+            "word": "willing ",
+            "start": 4.741,
+            "end": 4.991
+          },
+          {
+            "word": "to ",
+            "start": 5.002,
+            "end": 5.078
+          },
+          {
+            "word": "defend ",
+            "start": 5.089,
+            "end": 5.436
+          },
+          {
+            "word": "the ",
+            "start": 5.447,
+            "end": 5.502
+          },
+          {
+            "word": "target. ",
+            "start": 5.513,
+            "end": 5.991
+          },
+          {
+            "word": "New ",
+            "start": 6.734,
+            "end": 7.017
+          },
+          {
+            "word": "Zealand ",
+            "start": 7.028,
+            "end": 7.386
+          },
+          {
+            "word": "formally ",
+            "start": 7.397,
+            "end": 7.745
+          },
+          {
+            "word": "adopted ",
+            "start": 7.756,
+            "end": 8.115
+          },
+          {
+            "word": "the ",
+            "start": 8.126,
+            "end": 8.191
+          },
+          {
+            "word": "first ",
+            "start": 8.202,
+            "end": 8.506
+          },
+          {
+            "word": "inflation ",
+            "start": 8.517,
+            "end": 8.952
+          },
+          {
+            "word": "target ",
+            "start": 8.963,
+            "end": 9.321
+          },
+          {
+            "word": "in 1989. ",
+            "start": 9.332,
+            "end": 10.473
+          },
+          {
+            "word": "Canada ",
+            "start": 11.223,
+            "end": 11.626
+          },
+          {
+            "word": "followed ",
+            "start": 11.636,
+            "end": 11.963
+          },
+          {
+            "word": "in 1991.",
+            "start": 11.973,
+            "end": 13.136
+          }
+        ],
+        "start": 357
       },
       {
         "type": "quote",
         "chunk_id": "ep2_results_2",
         "audio_exists": true,
+        "audioPath": "episodes/ep2/audio/ep2_results_2.wav",
         "text": "The United Kingdom in 1997. The European Central Bank in 1999. The Federal Reserve in 2012. Central bank independence was encoded into law across the developed world.",
-        "duration": 371,
-        "bgImage": "bg_toxicology.jpg",
-        "wordTimings": null,
-        "start": 848
+        "duration": 401,
+        "bgImage": "bg_recovery.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "United ",
+            "start": 0.241,
+            "end": 0.686
+          },
+          {
+            "word": "Kingdom ",
+            "start": 0.697,
+            "end": 0.98
+          },
+          {
+            "word": "in 1997. ",
+            "start": 0.991,
+            "end": 2.186
+          },
+          {
+            "word": "The ",
+            "start": 2.93,
+            "end": 3.06
+          },
+          {
+            "word": "European ",
+            "start": 3.071,
+            "end": 3.528
+          },
+          {
+            "word": "Central ",
+            "start": 3.539,
+            "end": 3.876
+          },
+          {
+            "word": "Bank ",
+            "start": 3.886,
+            "end": 4.136
+          },
+          {
+            "word": "in 1999. ",
+            "start": 4.147,
+            "end": 5.365
+          },
+          {
+            "word": "The ",
+            "start": 6.115,
+            "end": 6.245
+          },
+          {
+            "word": "Federal ",
+            "start": 6.256,
+            "end": 6.571
+          },
+          {
+            "word": "Reserve ",
+            "start": 6.582,
+            "end": 6.952
+          },
+          {
+            "word": "in 2012. ",
+            "start": 6.963,
+            "end": 7.876
+          },
+          {
+            "word": "Central ",
+            "start": 8.626,
+            "end": 9.06
+          },
+          {
+            "word": "bank ",
+            "start": 9.071,
+            "end": 9.289
+          },
+          {
+            "word": "independence ",
+            "start": 9.3,
+            "end": 9.832
+          },
+          {
+            "word": "was ",
+            "start": 9.843,
+            "end": 9.973
+          },
+          {
+            "word": "encoded ",
+            "start": 9.984,
+            "end": 10.386
+          },
+          {
+            "word": "into ",
+            "start": 10.397,
+            "end": 10.626
+          },
+          {
+            "word": "law ",
+            "start": 10.636,
+            "end": 10.908
+          },
+          {
+            "word": "across ",
+            "start": 10.919,
+            "end": 11.223
+          },
+          {
+            "word": "the ",
+            "start": 11.234,
+            "end": 11.321
+          },
+          {
+            "word": "developed ",
+            "start": 11.332,
+            "end": 11.734
+          },
+          {
+            "word": "world.",
+            "start": 11.745,
+            "end": 12.202
+          }
+        ],
+        "start": 786
       },
       {
         "type": "quote",
         "chunk_id": "ep2_results_3",
         "audio_exists": true,
+        "audioPath": "episodes/ep2/audio/ep2_results_3.wav",
         "text": "The insight that inflation is fundamentally about credibility and expectations — rather than just money supply growth — became the foundation of modern monetary policy.",
-        "duration": 324,
-        "bgImage": "bg_demographics.jpg",
-        "wordTimings": null,
-        "start": 1219
+        "duration": 272,
+        "bgImage": "bg_city_night.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.241
+          },
+          {
+            "word": "insight ",
+            "start": 0.252,
+            "end": 0.621
+          },
+          {
+            "word": "that ",
+            "start": 0.632,
+            "end": 0.763
+          },
+          {
+            "word": "inflation ",
+            "start": 0.773,
+            "end": 1.23
+          },
+          {
+            "word": "is ",
+            "start": 1.241,
+            "end": 1.371
+          },
+          {
+            "word": "fundamentally ",
+            "start": 1.382,
+            "end": 2.002
+          },
+          {
+            "word": "about ",
+            "start": 2.013,
+            "end": 2.241
+          },
+          {
+            "word": "credibility ",
+            "start": 2.252,
+            "end": 2.849
+          },
+          {
+            "word": "and ",
+            "start": 2.86,
+            "end": 2.958
+          },
+          {
+            "word": "expectations — ",
+            "start": 2.969,
+            "end": 3.773
+          },
+          {
+            "word": "rather ",
+            "start": 3.98,
+            "end": 4.241
+          },
+          {
+            "word": "than ",
+            "start": 4.252,
+            "end": 4.404
+          },
+          {
+            "word": "just ",
+            "start": 4.415,
+            "end": 4.621
+          },
+          {
+            "word": "money ",
+            "start": 4.632,
+            "end": 4.839
+          },
+          {
+            "word": "supply ",
+            "start": 4.85,
+            "end": 5.165
+          },
+          {
+            "word": "growth — ",
+            "start": 5.176,
+            "end": 5.599
+          },
+          {
+            "word": "became ",
+            "start": 5.763,
+            "end": 6.045
+          },
+          {
+            "word": "the ",
+            "start": 6.056,
+            "end": 6.121
+          },
+          {
+            "word": "foundation ",
+            "start": 6.132,
+            "end": 6.676
+          },
+          {
+            "word": "of ",
+            "start": 6.686,
+            "end": 6.763
+          },
+          {
+            "word": "modern ",
+            "start": 6.773,
+            "end": 7.023
+          },
+          {
+            "word": "monetary ",
+            "start": 7.034,
+            "end": 7.426
+          },
+          {
+            "word": "policy.",
+            "start": 7.436,
+            "end": 7.893
+          }
+        ],
+        "start": 1187
       },
       {
         "type": "quote",
         "chunk_id": "ep2_results_4",
         "audio_exists": true,
+        "audioPath": "episodes/ep2/audio/ep2_results_4.wav",
         "text": "What policymakers did not take from the episode: the distributional consequences of tight money fall almost entirely on workers and debtors, not on the policymakers who make the decision.",
-        "duration": 341,
-        "bgImage": "bg_lab.jpg",
-        "wordTimings": null,
-        "start": 1543
+        "duration": 285,
+        "bgImage": "bg_interest_chart.jpg",
+        "wordTimings": [
+          {
+            "word": "What ",
+            "start": 0.1,
+            "end": 0.317
+          },
+          {
+            "word": "policymakers ",
+            "start": 0.328,
+            "end": 0.893
+          },
+          {
+            "word": "did ",
+            "start": 0.904,
+            "end": 1.034
+          },
+          {
+            "word": "not ",
+            "start": 1.045,
+            "end": 1.186
+          },
+          {
+            "word": "take ",
+            "start": 1.197,
+            "end": 1.371
+          },
+          {
+            "word": "from ",
+            "start": 1.382,
+            "end": 1.502
+          },
+          {
+            "word": "the ",
+            "start": 1.513,
+            "end": 1.599
+          },
+          {
+            "word": "episode: ",
+            "start": 1.61,
+            "end": 2.034
+          },
+          {
+            "word": "the ",
+            "start": 2.208,
+            "end": 2.306
+          },
+          {
+            "word": "distributional ",
+            "start": 2.317,
+            "end": 2.98
+          },
+          {
+            "word": "consequences ",
+            "start": 2.991,
+            "end": 3.556
+          },
+          {
+            "word": "of ",
+            "start": 3.567,
+            "end": 3.654
+          },
+          {
+            "word": "tight ",
+            "start": 3.665,
+            "end": 3.904
+          },
+          {
+            "word": "money ",
+            "start": 3.915,
+            "end": 4.132
+          },
+          {
+            "word": "fall ",
+            "start": 4.143,
+            "end": 4.393
+          },
+          {
+            "word": "almost ",
+            "start": 4.404,
+            "end": 4.741
+          },
+          {
+            "word": "entirely ",
+            "start": 4.752,
+            "end": 5.208
+          },
+          {
+            "word": "on ",
+            "start": 5.219,
+            "end": 5.349
+          },
+          {
+            "word": "workers ",
+            "start": 5.36,
+            "end": 5.73
+          },
+          {
+            "word": "and ",
+            "start": 5.741,
+            "end": 5.828
+          },
+          {
+            "word": "debtors, ",
+            "start": 5.839,
+            "end": 6.197
+          },
+          {
+            "word": "not ",
+            "start": 6.436,
+            "end": 6.643
+          },
+          {
+            "word": "on ",
+            "start": 6.654,
+            "end": 6.719
+          },
+          {
+            "word": "the ",
+            "start": 6.73,
+            "end": 6.795
+          },
+          {
+            "word": "policymakers ",
+            "start": 6.806,
+            "end": 7.436
+          },
+          {
+            "word": "who ",
+            "start": 7.447,
+            "end": 7.545
+          },
+          {
+            "word": "make ",
+            "start": 7.556,
+            "end": 7.763
+          },
+          {
+            "word": "the ",
+            "start": 7.773,
+            "end": 7.839
+          },
+          {
+            "word": "decision.",
+            "start": 7.85,
+            "end": 8.328
+          }
+        ],
+        "start": 1459
       },
       {
         "type": "quote",
         "chunk_id": "ep2_results_5",
         "audio_exists": true,
+        "audioPath": "episodes/ep2/audio/ep2_results_5.wav",
         "text": "The Volcker recession permanently destroyed two-point-two million manufacturing jobs in the Rust Belt. The real wages of workers without college degrees never recovered to their 1970s levels.",
-        "duration": 372,
-        "bgImage": "bg_lab.jpg",
-        "wordTimings": null,
-        "start": 1884
+        "duration": 326,
+        "bgImage": "bg_fed_building.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.219
+          },
+          {
+            "word": "Volcker ",
+            "start": 0.23,
+            "end": 0.502
+          },
+          {
+            "word": "recession ",
+            "start": 0.513,
+            "end": 0.936
+          },
+          {
+            "word": "permanently ",
+            "start": 0.947,
+            "end": 1.426
+          },
+          {
+            "word": "destroyed ",
+            "start": 1.436,
+            "end": 1.871
+          },
+          {
+            "word": "two-point-two ",
+            "start": 1.882,
+            "end": 2.491
+          },
+          {
+            "word": "million ",
+            "start": 2.502,
+            "end": 2.839
+          },
+          {
+            "word": "manufacturing ",
+            "start": 2.85,
+            "end": 3.545
+          },
+          {
+            "word": "jobs ",
+            "start": 3.556,
+            "end": 3.849
+          },
+          {
+            "word": "in ",
+            "start": 3.86,
+            "end": 3.926
+          },
+          {
+            "word": "the ",
+            "start": 3.936,
+            "end": 4.002
+          },
+          {
+            "word": "Rust ",
+            "start": 4.013,
+            "end": 4.252
+          },
+          {
+            "word": "Belt. ",
+            "start": 4.263,
+            "end": 4.61
+          },
+          {
+            "word": "The ",
+            "start": 5.354,
+            "end": 5.495
+          },
+          {
+            "word": "real ",
+            "start": 5.506,
+            "end": 5.799
+          },
+          {
+            "word": "wages ",
+            "start": 5.81,
+            "end": 6.115
+          },
+          {
+            "word": "of ",
+            "start": 6.126,
+            "end": 6.191
+          },
+          {
+            "word": "workers ",
+            "start": 6.202,
+            "end": 6.56
+          },
+          {
+            "word": "without ",
+            "start": 6.571,
+            "end": 6.854
+          },
+          {
+            "word": "college ",
+            "start": 6.865,
+            "end": 7.158
+          },
+          {
+            "word": "degrees ",
+            "start": 7.169,
+            "end": 7.539
+          },
+          {
+            "word": "never ",
+            "start": 7.55,
+            "end": 7.756
+          },
+          {
+            "word": "recovered ",
+            "start": 7.767,
+            "end": 8.136
+          },
+          {
+            "word": "to ",
+            "start": 8.147,
+            "end": 8.202
+          },
+          {
+            "word": "their ",
+            "start": 8.213,
+            "end": 8.332
+          },
+          {
+            "word": "1970s ",
+            "start": 8.343,
+            "end": 9.18
+          },
+          {
+            "word": "levels.",
+            "start": 9.191,
+            "end": 9.702
+          }
+        ],
+        "start": 1744
       },
       {
         "type": "quote",
         "chunk_id": "ep2_results_6",
         "audio_exists": true,
+        "audioPath": "episodes/ep2/audio/ep2_results_6.wav",
         "text": "The regions that bore the brunt of the recession — Ohio, Michigan, Pennsylvania, Indiana — experienced structural decline that continued for decades. The social costs of the cure were as real as the social costs of the disease.",
-        "duration": 417,
-        "bgImage": "bg_lab.jpg",
-        "wordTimings": null,
-        "start": 2256
+        "duration": 394,
+        "bgImage": "bg_recovery.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "regions ",
+            "start": 0.241,
+            "end": 0.654
+          },
+          {
+            "word": "that ",
+            "start": 0.665,
+            "end": 0.828
+          },
+          {
+            "word": "bore ",
+            "start": 0.839,
+            "end": 0.98
+          },
+          {
+            "word": "the ",
+            "start": 0.991,
+            "end": 1.089
+          },
+          {
+            "word": "brunt ",
+            "start": 1.1,
+            "end": 1.306
+          },
+          {
+            "word": "of ",
+            "start": 1.317,
+            "end": 1.382
+          },
+          {
+            "word": "the ",
+            "start": 1.393,
+            "end": 1.458
+          },
+          {
+            "word": "recession — ",
+            "start": 1.469,
+            "end": 1.969
+          },
+          {
+            "word": "Ohio, ",
+            "start": 2.121,
+            "end": 2.567
+          },
+          {
+            "word": "Michigan, ",
+            "start": 2.817,
+            "end": 3.219
+          },
+          {
+            "word": "Pennsylvania, ",
+            "start": 3.415,
+            "end": 4.154
+          },
+          {
+            "word": "Indiana — ",
+            "start": 4.404,
+            "end": 4.904
+          },
+          {
+            "word": "experienced ",
+            "start": 5.11,
+            "end": 5.654
+          },
+          {
+            "word": "structural ",
+            "start": 5.665,
+            "end": 6.132
+          },
+          {
+            "word": "decline ",
+            "start": 6.143,
+            "end": 6.513
+          },
+          {
+            "word": "that ",
+            "start": 6.523,
+            "end": 6.643
+          },
+          {
+            "word": "continued ",
+            "start": 6.654,
+            "end": 7.11
+          },
+          {
+            "word": "for ",
+            "start": 7.121,
+            "end": 7.208
+          },
+          {
+            "word": "decades. ",
+            "start": 7.219,
+            "end": 7.828
+          },
+          {
+            "word": "The ",
+            "start": 8.571,
+            "end": 8.713
+          },
+          {
+            "word": "social ",
+            "start": 8.723,
+            "end": 9.039
+          },
+          {
+            "word": "costs ",
+            "start": 9.05,
+            "end": 9.365
+          },
+          {
+            "word": "of ",
+            "start": 9.376,
+            "end": 9.441
+          },
+          {
+            "word": "the ",
+            "start": 9.452,
+            "end": 9.528
+          },
+          {
+            "word": "cure ",
+            "start": 9.539,
+            "end": 9.8
+          },
+          {
+            "word": "were ",
+            "start": 9.81,
+            "end": 10.05
+          },
+          {
+            "word": "as ",
+            "start": 10.06,
+            "end": 10.18
+          },
+          {
+            "word": "real ",
+            "start": 10.191,
+            "end": 10.473
+          },
+          {
+            "word": "as ",
+            "start": 10.484,
+            "end": 10.56
+          },
+          {
+            "word": "the ",
+            "start": 10.571,
+            "end": 10.647
+          },
+          {
+            "word": "social ",
+            "start": 10.658,
+            "end": 10.995
+          },
+          {
+            "word": "costs ",
+            "start": 11.006,
+            "end": 11.299
+          },
+          {
+            "word": "of ",
+            "start": 11.31,
+            "end": 11.365
+          },
+          {
+            "word": "the ",
+            "start": 11.376,
+            "end": 11.441
+          },
+          {
+            "word": "disease.",
+            "start": 11.452,
+            "end": 11.963
+          }
+        ],
+        "start": 2070
       },
       {
         "type": "quote",
         "chunk_id": "ep2_results_7",
         "audio_exists": true,
+        "audioPath": "episodes/ep2/audio/ep2_results_7.wav",
         "text": "The question of who pays for macroeconomic stabilisation remained unasked.",
-        "duration": 164,
-        "bgImage": "bg_abstract.jpg",
-        "wordTimings": null,
-        "start": 2673
+        "duration": 141,
+        "bgImage": "bg_city_night.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.219
+          },
+          {
+            "word": "question ",
+            "start": 0.23,
+            "end": 0.567
+          },
+          {
+            "word": "of ",
+            "start": 0.578,
+            "end": 0.632
+          },
+          {
+            "word": "who ",
+            "start": 0.643,
+            "end": 0.763
+          },
+          {
+            "word": "pays ",
+            "start": 0.773,
+            "end": 1.078
+          },
+          {
+            "word": "for ",
+            "start": 1.089,
+            "end": 1.165
+          },
+          {
+            "word": "macroeconomic ",
+            "start": 1.176,
+            "end": 1.926
+          },
+          {
+            "word": "stabilisation ",
+            "start": 1.936,
+            "end": 2.676
+          },
+          {
+            "word": "remained ",
+            "start": 2.686,
+            "end": 3.002
+          },
+          {
+            "word": "unasked.",
+            "start": 3.013,
+            "end": 3.534
+          }
+        ],
+        "start": 2464
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep2_results_8",
+        "audio_exists": true,
+        "audioPath": "episodes/ep2/audio/ep2_results_8.wav",
+        "text": "The Keynesian consensus that stagflation destroyed had itself been forged in the Great Depression (Episode 5). Every economic crisis revises the framework inherited from the last — and the revision is only visible once the next crisis proves it incomplete.",
+        "duration": 413,
+        "bgImage": "bg_interest_chart.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "Keynesian ",
+            "start": 0.241,
+            "end": 0.665
+          },
+          {
+            "word": "consensus ",
+            "start": 0.676,
+            "end": 1.154
+          },
+          {
+            "word": "that ",
+            "start": 1.165,
+            "end": 1.295
+          },
+          {
+            "word": "stagflation ",
+            "start": 1.306,
+            "end": 1.839
+          },
+          {
+            "word": "destroyed ",
+            "start": 1.85,
+            "end": 2.241
+          },
+          {
+            "word": "had ",
+            "start": 2.252,
+            "end": 2.371
+          },
+          {
+            "word": "itself ",
+            "start": 2.382,
+            "end": 2.73
+          },
+          {
+            "word": "been ",
+            "start": 2.741,
+            "end": 2.882
+          },
+          {
+            "word": "forged ",
+            "start": 2.893,
+            "end": 3.273
+          },
+          {
+            "word": "in ",
+            "start": 3.284,
+            "end": 3.339
+          },
+          {
+            "word": "the ",
+            "start": 3.35,
+            "end": 3.426
+          },
+          {
+            "word": "Great ",
+            "start": 3.436,
+            "end": 3.686
+          },
+          {
+            "word": "Depression (",
+            "start": 3.697,
+            "end": 4.154
+          },
+          {
+            "word": "Episode ",
+            "start": 4.317,
+            "end": 4.676
+          },
+          {
+            "word": "5). ",
+            "start": 4.686,
+            "end": 5.208
+          },
+          {
+            "word": "Every ",
+            "start": 5.952,
+            "end": 6.234
+          },
+          {
+            "word": "economic ",
+            "start": 6.245,
+            "end": 6.658
+          },
+          {
+            "word": "crisis ",
+            "start": 6.669,
+            "end": 7.071
+          },
+          {
+            "word": "revises ",
+            "start": 7.082,
+            "end": 7.517
+          },
+          {
+            "word": "the ",
+            "start": 7.528,
+            "end": 7.604
+          },
+          {
+            "word": "framework ",
+            "start": 7.615,
+            "end": 8.071
+          },
+          {
+            "word": "inherited ",
+            "start": 8.082,
+            "end": 8.528
+          },
+          {
+            "word": "from ",
+            "start": 8.539,
+            "end": 8.658
+          },
+          {
+            "word": "the ",
+            "start": 8.669,
+            "end": 8.723
+          },
+          {
+            "word": "last — ",
+            "start": 8.734,
+            "end": 9.104
+          },
+          {
+            "word": "and ",
+            "start": 9.31,
+            "end": 9.397
+          },
+          {
+            "word": "the ",
+            "start": 9.408,
+            "end": 9.473
+          },
+          {
+            "word": "revision ",
+            "start": 9.484,
+            "end": 9.843
+          },
+          {
+            "word": "is ",
+            "start": 9.854,
+            "end": 9.963
+          },
+          {
+            "word": "only ",
+            "start": 9.973,
+            "end": 10.202
+          },
+          {
+            "word": "visible ",
+            "start": 10.213,
+            "end": 10.571
+          },
+          {
+            "word": "once ",
+            "start": 10.582,
+            "end": 10.81
+          },
+          {
+            "word": "the ",
+            "start": 10.821,
+            "end": 10.897
+          },
+          {
+            "word": "next ",
+            "start": 10.908,
+            "end": 11.158
+          },
+          {
+            "word": "crisis ",
+            "start": 11.169,
+            "end": 11.539
+          },
+          {
+            "word": "proves ",
+            "start": 11.55,
+            "end": 11.886
+          },
+          {
+            "word": "it ",
+            "start": 11.897,
+            "end": 11.995
+          },
+          {
+            "word": "incomplete.",
+            "start": 12.006,
+            "end": 12.593
+          }
+        ],
+        "start": 2605
       }
     ]
   },
   {
     "id": "credits",
     "title": "Credits",
-    "globalStart": 12756,
-    "duration": 1375,
+    "globalStart": 11445,
+    "duration": 440,
     "subSlides": [
       {
         "type": "credits",
         "start": 0,
-        "duration": 1375,
+        "duration": 440,
         "audioSrc": "audio/outro_narration.wav"
       }
     ]

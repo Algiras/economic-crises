@@ -1,0 +1,31 @@
+# The Problems
+
+## The Destruction of Economic Calculation
+
+The hyperinflation destroyed something more fundamental than wealth: it destroyed the capacity for economic calculation itself. Money's primary function in a complex economy is not to store value — it is to serve as a unit of account, a common measure that allows producers, consumers, investors, and workers to compare the value of different goods, services, and activities and make rational decisions on that basis. When prices change by the hour, this function disappears.
+
+A factory manager planning to expand production cannot calculate whether the investment will be profitable when the price of inputs tomorrow is unknown, the wages expected by workers next week cannot be predicted, and the prices at which the finished goods will sell in three months are unknowable. A worker negotiating a wage contract cannot determine whether the nominal figure agreed today will maintain purchasing power by next payday. A bank evaluating a loan application cannot assess whether the borrower will be able to repay in real terms. The market economy requires a stable unit of account as surely as a physical economy requires consistent weights and measures. Remove it and the market seizes.
+
+## The Self-Reinforcing Dynamic
+
+Inflation became self-fulfilling in a way that created no natural stopping point. As prices rose faster, people spent money faster — to acquire goods before the money depreciated further. This acceleration of the velocity of money meant that even a constant money supply would have generated inflation; as people tried to move out of money into goods, the supply of goods was unchanged but the demand measured in monetary units kept rising. The central bank, faced with rising prices and an economy that needed ever-larger nominal quantities of money to conduct even its reduced level of transactions, accommodated by expanding the money supply. This accommodation accelerated inflation, which accelerated velocity, which required more accommodation.
+
+There was no natural floor to this dynamic and no natural ceiling. The acceleration was limited only by the physical capacity of the printing presses and the logistics of distributing new notes. At the peak in October 1923, the Reichsbank was printing notes in denominations of one billion marks, one hundred billion marks, and ultimately one hundred trillion marks. The notes were worth, in real terms, approximately what they cost to print. A new word, "hyperinflation" — meaning monthly price increases exceeding fifty percent — had to be invented to describe what was happening, because existing vocabulary was inadequate.
+
+## Unequal Destruction
+
+The hyperinflation did not destroy all groups equally. The distribution of its costs was extreme and visible, generating social resentments that would accumulate over the following decade with catastrophic political consequences.
+
+Those who held financial assets — savings accounts, government bonds, insurance policies, pension entitlements — were entirely destroyed. The German middle class, which had invested its savings in these forms and had additionally purchased war bonds as a patriotic duty during 1914–1918, was effectively wiped out. This was not the gradual impoverishment of depression-era unemployment but the instantaneous destruction of decades of accumulated thrift.
+
+Those who held real assets — land, factories, apartment buildings, machinery, foreign currency, physical commodities — were largely protected. Wealthy Germans who held dollar accounts abroad or who had the financial sophistication to convert marks into real assets quickly fared well. Foreign speculators who understood that the mark must eventually be stabilized at some exchange rate bought German industrial assets at prices that, in dollar or sterling terms, were trivial. The Ruhr industrialists who held real capital emerged from the hyperinflation with assets intact, while the schoolteachers and civil servants who had saved in marks were ruined.
+
+This wealth redistribution — from the salaried middle class to asset holders, from German savers to foreign speculators, from creditors to debtors — was so extreme and so visible that it generated deep social resentment against the institutions associated with the perceived beneficiaries. The banks, international finance, and perceived "profiteers" became targets of political anger. The political consequences of this resentment would unfold over the following decade in ways that exceeded anything the resentment itself could justify.
+
+## The Reparations Trap
+
+The hyperinflation also exposed the structural impossibility of Germany's reparations obligations. Reparations were denominated in gold marks — a sum that had to be paid in gold or in foreign currency convertible into gold, not in German paper marks. Printing German marks was irrelevant to Germany's capacity to pay reparations. All printing marks accomplished was to destroy the domestic currency while the foreign obligation remained unchanged.
+
+Germany's capacity to earn foreign exchange was limited by its export capacity, which was itself damaged by the inflation. A country whose domestic price level is rising faster than its exchange rate deteriorates is becoming less competitive internationally: its exports become more expensive in foreign currency terms. Germany needed export revenues to service reparations; the hyperinflation was making its exports more expensive to foreign buyers even as the domestic economy was being destroyed. The mechanism that was supposed to generate the foreign exchange for reparations payments was being destroyed by the process of printing money to cover the domestic costs of passive resistance.
+
+By mid-1923, the only path to stability required ending both the passive resistance in the Ruhr and the monetary financing of the German government deficit. Both required political acceptance of painful realities: that Germany could not resist the French occupation indefinitely, and that German public finances would have to be genuinely balanced, requiring cuts in spending that would be deeply unpopular. The political capacity to accept these realities had to be assembled under the most extreme conditions imaginable.

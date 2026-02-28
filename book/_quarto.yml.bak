@@ -1,0 +1,71 @@
+project:
+  type: book
+
+book:
+  title: "Economic Crises Explained"
+  subtitle: "A Documentary Series: Events, Problems, Solutions, and What Came Next"
+  author: "Algimantas K."
+  date: "2026"
+  chapters:
+    - index.qmd
+    - 00-series-framework.qmd
+    - part: "Episode 1: The Great Depression (1929–1939)"
+      chapters:
+        - ep1-01-event.qmd
+        - ep1-02-problems.qmd
+        - ep1-03-solutions.qmd
+        - ep1-04-results.qmd
+    - part: "Episode 2: The 1970s Stagflation Crisis"
+      chapters:
+        - ep2-01-event.qmd
+        - ep2-02-problems.qmd
+        - ep2-03-solutions.qmd
+        - ep2-04-results.qmd
+    - part: "Episode 3: The Asian Financial Crisis (1997–1998)"
+      chapters:
+        - ep3-01-event.qmd
+        - ep3-02-problems.qmd
+        - ep3-03-solutions.qmd
+        - ep3-04-results.qmd
+    - part: "Episode 4: The 2008 Global Financial Crisis"
+      chapters:
+        - ep4-01-event.qmd
+        - ep4-02-problems.qmd
+        - ep4-03-solutions.qmd
+        - ep4-04-results.qmd
+    - part: "Episode 5: The COVID-19 Economic Shock (2020)"
+      chapters:
+        - ep5-01-event.qmd
+        - ep5-02-problems.qmd
+        - ep5-03-solutions.qmd
+        - ep5-04-results.qmd
+    - part: "Episode 6: The Great Inflation (2021–2023)"
+      chapters:
+        - ep6-01-event.qmd
+        - ep6-02-problems.qmd
+        - ep6-03-solutions.qmd
+        - ep6-04-results.qmd
+    - epilogue.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  pdf:
+    documentclass: scrreprt
+    toc: true
+    toc-depth: 2
+    number-sections: true
+    colorlinks: true
+    geometry:
+      - top=30mm
+      - bottom=30mm
+      - left=25mm
+      - right=25mm
+    linestretch: 1.5
+    mainfont: Liberation Sans
+    fontsize: 11pt
+  html:
+    theme: cosmo
+  epub:
+    cover-image: cover.png

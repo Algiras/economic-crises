@@ -1,0 +1,25 @@
+# The Solutions
+
+## Seventeen Stimulus Packages
+
+The government's response to Japan's stagnation was fiscal — enormous, incremental, and largely ineffective for a decade. Between 1992 and 2001, the Japanese government launched seventeen separate fiscal stimulus packages, spending a cumulative amount estimated at more than one hundred and thirty trillion yen — roughly forty percent of one year's GDP — on public works, infrastructure, and other government spending.
+
+The construction was often surreal in its economic rationale. Highways to regions with minimal traffic. Bridges connecting small islands whose populations could easily use ferries. Sea walls along coastlines with no significant storm risk. Public buildings in villages too small to require them. The construction was driven not by identified economic needs but by the political imperative to spend money and by the construction industry's political leverage within the LDP coalition. Japan became home to some of the world's most elaborate infrastructure and some of the most economically unjustifiable.
+
+The infrastructure spending kept unemployment from reaching depression-era levels — unemployment peaked at approximately five and a half percent in 2002, elevated for Japan but modest by international standards — and maintained a floor under economic activity. It did not restart private sector growth. Each stimulus package provided a temporary boost followed by renewed stagnation. The underlying problem — an overleveraged private sector unwilling to borrow and an insolvent banking sector unable to lend — was unaffected by roads to nowhere.
+
+## Zero Rates and Quantitative Easing
+
+The Bank of Japan lowered its policy rate to zero in 1995 — the first major central bank to do so since the Great Depression. The policy rate remained effectively zero for much of the following decade, periodically raised and then cut back when the economy weakened. Japan demonstrated empirically that near-zero interest rates, maintained for extended periods, could coexist with persistent economic stagnation. The zero lower bound was not a theoretical curiosity but an operational constraint that the world's second-largest economy was experiencing in real time.
+
+When zero rates proved insufficient to stimulate borrowing, the Bank of Japan introduced a more radical innovation: quantitative easing, announced in March 2001. Rather than targeting the policy interest rate, the Bank would target the level of reserves held by commercial banks at the central bank, committing to purchase Japanese government bonds in whatever quantity was needed to reach the target. By expanding the quantity of central bank money in the system, the Bank hoped to stimulate lending and spending through channels that interest rate policy could no longer reach.
+
+Quantitative easing was a new tool with no track record. It was developed, tested, and refined in Japan before being adopted — after 2008 — by the Federal Reserve, the Bank of England, and the European Central Bank. Japan invented the instrument. Its experience also demonstrated the instrument's limits: QE could prevent deflation from worsening and could support asset prices, but it could not by itself restart private sector borrowing in the face of a balance sheet recession.
+
+## Banking Reform: Finally
+
+The genuine resolution of the banking crisis required what had been politically unavoidable for eight years: forcing banks to recognize their losses and recapitalizing them with public funds. The Financial Reconstruction Law of 1998 — passed after a wave of major bank failures that finally made the denial politically untenable — authorized the government to inject capital into troubled banks and to nationalize those too damaged to rescue through recapitalization alone.
+
+Long-Term Credit Bank and Nippon Credit Bank, two of Japan's major banks, were nationalized in 1998 — the first nationalizations of major Japanese financial institutions since the postwar period. Other banks accepted government capital injections in exchange for commitments to clean up their loan books. The recognition of losses that had been delayed for eight years was forced, concentrated, and painful: the banks that received capital injections did so at the cost of equity dilution, management replacement, and public acknowledgment of failure.
+
+The lesson about bank resolution was stark and would be applied — with varying degrees of speed and completeness — in subsequent banking crises elsewhere: zombie banks do not recover on their own. The longer losses are hidden, the larger they grow. The pain of honest accounting, concentrated in the short term, is less than the pain of extended pretense, distributed over a decade. Japan's 1998 banking reform came eight years after the bubble burst. The United States, when its own banking crisis arrived in 2008, would compress a similar process into two years — still painful, but dramatically shorter.

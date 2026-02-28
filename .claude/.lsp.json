@@ -1,0 +1,25 @@
+{
+  "typescript": {
+    "command": "typescript-language-server",
+    "args": ["--stdio"],
+    "extensionToLanguage": {
+      ".ts": "typescript",
+      ".tsx": "typescriptreact"
+    },
+    "settings": {
+      "typescript": {
+        "preferences": {
+          "importModuleSpecifierPreference": "relative"
+        }
+      }
+    }
+  },
+  "markdown": {
+    "command": "marksman",
+    "args": [],
+    "extensionToLanguage": {
+      ".md": "markdown",
+      ".qmd": "markdown"
+    }
+  }
+}

@@ -1,11 +1,10 @@
+import { FONT_DISPLAY } from '../fonts';
 import React from 'react';
-import { interpolate, useCurrentFrame, spring, useVideoConfig, Img, staticFile } from 'remotion';
-
-interface WordTiming {
-    word: string;
-    start: number; // seconds
-    end: number;
-}
+import { interpolate, useCurrentFrame, spring, useVideoConfig } from 'remotion';
+import { KaraokeText, WordTiming } from './KaraokeText';
+import { COLORS } from '../theme';
+import { useFadeOut, useKenBurns, KBDirection } from '../hooks/useAnimation';
+import { AnimatedBgImage } from './AnimatedBgImage';
 
 interface QuoteSlideProps {
     quote: string;
@@ -13,82 +12,48 @@ interface QuoteSlideProps {
     accentColor?: string;
     bgImage?: string;
     wordTimings?: WordTiming[] | null;
+    slideIndex?: number;
+    kbDirection?: KBDirection;
 }
 
 export const QuoteSlide: React.FC<QuoteSlideProps> = ({
     quote,
     attribution,
-    accentColor = '#f0ad4e',
+    accentColor = COLORS.gold,
     bgImage,
     wordTimings,
+    slideIndex = 0,
+    kbDirection,
 }) => {
     const frame = useCurrentFrame();
-    const { fps, durationInFrames } = useVideoConfig();
-    const currentSec = frame / fps;
+    const { fps } = useVideoConfig();
 
-    // Dynamically scale font size so text always fits the frame.
-    // Formula calibrated for 1400px text width, ~700px usable height at 30fps.
-    // C=1150: at 320 chars → 64px (max), at 573 chars → 48px, at 900 chars → 38px (min).
     const fontSize = Math.max(36, Math.min(64, Math.round(1150 / Math.sqrt(quote.length))));
 
-    // Full-bleed slow Ken Burns camera move
-    const scale = interpolate(frame, [0, durationInFrames], [1, 1.08], { extrapolateRight: 'clamp' });
-    const panY = interpolate(frame, [0, durationInFrames], [0, -20], { extrapolateRight: 'clamp' });
+    const { scale, panX, panY } = useKenBurns(kbDirection, slideIndex);
 
-    // Minimalist text entrance
     const textOpacity = interpolate(frame, [0, 15], [0, 1], { extrapolateRight: 'clamp' });
     const textY = spring({ frame, fps, from: 30, to: 0, durationInFrames: 30, config: { damping: 12 } });
+    const barWidth = spring({ frame, fps, from: 0, to: 60, durationInFrames: 25, config: { damping: 14, stiffness: 200 } });
 
-    // Add a quick cinematic fade out at the end so chunks don't hard cut
-    const fadeOutOpacity = interpolate(
-        frame,
-        [durationInFrames - 10, durationInFrames],
-        [1, 0],
-        { extrapolateRight: 'clamp', extrapolateLeft: 'clamp' }
-    );
-
+    const fadeOutOpacity = useFadeOut(10);
 
     return (
         <div style={{
             width: '100%',
             height: '100%',
-            backgroundColor: '#050a0f',
+            backgroundColor: COLORS.bgSlide,
             display: 'flex',
             alignItems: 'center',
             justifyContent: 'center',
-            fontFamily: '"Inter", "Helvetica Neue", sans-serif',
+            fontFamily: FONT_DISPLAY,
             position: 'relative',
             overflow: 'hidden',
             opacity: fadeOutOpacity,
         }}>
             {/* 1. Full-Bleed Dynamic Background Element */}
             {bgImage && (
-                <div style={{
-                    position: 'absolute',
-                    top: -50, left: -50, right: -50, bottom: -50, // Bleed edges for panning
-                    transform: `scale(${scale}) translateY(${panY}px)`,
-                    zIndex: 0,
-                }}>
-                    <Img
-                        src={staticFile(`images/${bgImage}`)}
-                        style={{
-                            width: '100%',
-                            height: '100%',
-                            objectFit: 'cover',
-                        }}
-                    />
-                    {/* Heavy cinematic vignette & darkening overlay to make text pop instantly */}
-                    <div style={{
-                        position: 'absolute',
-                        top: 0, left: 0, width: '100%', height: '100%',
-                        background: 'radial-gradient(circle at center, rgba(5,10,15,0.4) 0%, rgba(5,10,15,0.95) 100%)',
-                    }} />
-                    <div style={{
-                        position: 'absolute',
-                        top: 0, left: 0, width: '100%', height: '100%',
-                        backgroundColor: 'rgba(0,0,0,0.5)', // Global darkening
-                    }} />
-                </div>
+                <AnimatedBgImage src={bgImage} scale={scale} panX={panX} panY={panY} vignetteStrength="heavy" />
             )}
 
             {/* 2. Bold, Minimal Typography Overlay */}
@@ -104,7 +69,7 @@ export const QuoteSlide: React.FC<QuoteSlideProps> = ({
             }}>
                 {/* Subtle decorative accent */}
                 <div style={{
-                    width: 60, height: 4,
+                    width: barWidth, height: 4,
                     background: accentColor,
                     marginBottom: 40,
                     boxShadow: `0 0 20px ${accentColor}`
@@ -121,26 +86,14 @@ export const QuoteSlide: React.FC<QuoteSlideProps> = ({
                     textShadow: '0 10px 30px rgba(0,0,0,0.8)',
                 }}>
                     {wordTimings && wordTimings.length > 0
-                        ? wordTimings.map((w, i) => {
-                            const spoken = currentSec >= w.start;
-                            const active = currentSec >= w.start && currentSec < w.end;
-                            return (
-                                <span key={i} style={{
-                                    color: active ? accentColor : spoken ? '#ffffff' : 'rgba(255,255,255,0.35)',
-                                    textShadow: active ? `0 0 30px ${accentColor}` : '0 10px 30px rgba(0,0,0,0.8)',
-                                    transition: 'color 0.05s, text-shadow 0.05s',
-                                }}>
-                                    {w.word}{' '}
-                                </span>
-                            );
-                        })
+                        ? <KaraokeText wordTimings={wordTimings} />
                         : quote
                     }
                 </h2>
 
                 {attribution && (
                     <p style={{
-                        color: '#a0b0c0',
+                        color: COLORS.textMuted,
                         fontSize: 24,
                         fontWeight: 600,
                         letterSpacing: 4,

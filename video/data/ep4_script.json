@@ -3,37 +3,37 @@
     "id": "intro",
     "title": "Intro",
     "globalStart": 0,
-    "duration": 1421,
+    "duration": 210,
+    "episode": 14,
+    "episodeMeta": {
+      "title": "The Global Financial Crisis",
+      "subtitle": "2008–2012"
+    },
     "subSlides": [
       {
         "type": "intro",
         "start": 0,
-        "duration": 1421,
-        "audioSrc": "audio/intro_narration.wav"
+        "duration": 210,
+        "audioSrc": "episodes/ep4/intro.wav"
       }
-    ],
-    "episode": 4,
-    "episodeMeta": {
-      "title": "The Global Financial Crisis",
-      "subtitle": "2008–2012"
-    }
+    ]
   },
   {
     "id": "ep4_event",
-    "title": "Episode 4 · Event",
-    "globalStart": 1421,
-    "duration": 3308,
+    "title": "Event",
+    "globalStart": 210,
+    "duration": 3312,
     "subSlides": [
       {
         "type": "bumper",
         "start": 0,
         "duration": 90,
-        "title": "Episode 4 · Event"
+        "title": "Event"
       },
       {
         "type": "chart",
         "start": 90,
-        "duration": 745,
+        "duration": 890,
         "chartSrc": "forecast_errors.png",
         "title": "IMF Forecast Errors vs Actual Growth",
         "audioSrc": "audio/charts/chart_forecast_errors.wav"
@@ -42,376 +42,5037 @@
         "type": "quote",
         "chunk_id": "ep4_event_0",
         "audio_exists": true,
+        "audioPath": "episodes/ep4/audio/ep4_event_0.wav",
         "text": "On September 15, 2008, at one forty-five in the morning, Lehman Brothers filed for bankruptcy protection. The firm had six hundred and thirty-nine billion dollars in assets and six hundred and thirteen billion in liabilities.",
-        "duration": 429,
-        "bgImage": "bg_demographics.jpg",
-        "wordTimings": null,
-        "start": 835
+        "duration": 403,
+        "bgImage": "bg_lehman.jpg",
+        "wordTimings": [
+          {
+            "word": "On ",
+            "start": 0.1,
+            "end": 0.284
+          },
+          {
+            "word": "September 15, 2008, ",
+            "start": 0.295,
+            "end": 2.273
+          },
+          {
+            "word": "at ",
+            "start": 2.469,
+            "end": 2.556
+          },
+          {
+            "word": "one ",
+            "start": 2.567,
+            "end": 2.784
+          },
+          {
+            "word": "forty-five ",
+            "start": 2.795,
+            "end": 3.393
+          },
+          {
+            "word": "in ",
+            "start": 3.404,
+            "end": 3.48
+          },
+          {
+            "word": "the ",
+            "start": 3.491,
+            "end": 3.545
+          },
+          {
+            "word": "morning, ",
+            "start": 3.556,
+            "end": 3.926
+          },
+          {
+            "word": "Lehman ",
+            "start": 4.121,
+            "end": 4.436
+          },
+          {
+            "word": "Brothers ",
+            "start": 4.447,
+            "end": 4.73
+          },
+          {
+            "word": "filed ",
+            "start": 4.741,
+            "end": 5.056
+          },
+          {
+            "word": "for ",
+            "start": 5.067,
+            "end": 5.165
+          },
+          {
+            "word": "bankruptcy ",
+            "start": 5.176,
+            "end": 5.708
+          },
+          {
+            "word": "protection. ",
+            "start": 5.719,
+            "end": 6.273
+          },
+          {
+            "word": "The ",
+            "start": 7.017,
+            "end": 7.136
+          },
+          {
+            "word": "firm ",
+            "start": 7.147,
+            "end": 7.408
+          },
+          {
+            "word": "had ",
+            "start": 7.419,
+            "end": 7.56
+          },
+          {
+            "word": "six ",
+            "start": 7.571,
+            "end": 7.821
+          },
+          {
+            "word": "hundred ",
+            "start": 7.832,
+            "end": 8.071
+          },
+          {
+            "word": "and ",
+            "start": 8.082,
+            "end": 8.147
+          },
+          {
+            "word": "thirty-nine ",
+            "start": 8.158,
+            "end": 8.734
+          },
+          {
+            "word": "billion ",
+            "start": 8.745,
+            "end": 9.06
+          },
+          {
+            "word": "dollars ",
+            "start": 9.071,
+            "end": 9.386
+          },
+          {
+            "word": "in ",
+            "start": 9.397,
+            "end": 9.484
+          },
+          {
+            "word": "assets ",
+            "start": 9.495,
+            "end": 9.843
+          },
+          {
+            "word": "and ",
+            "start": 9.854,
+            "end": 9.984
+          },
+          {
+            "word": "six ",
+            "start": 9.995,
+            "end": 10.245
+          },
+          {
+            "word": "hundred ",
+            "start": 10.256,
+            "end": 10.484
+          },
+          {
+            "word": "and ",
+            "start": 10.495,
+            "end": 10.56
+          },
+          {
+            "word": "thirteen ",
+            "start": 10.571,
+            "end": 11.006
+          },
+          {
+            "word": "billion ",
+            "start": 11.017,
+            "end": 11.354
+          },
+          {
+            "word": "in ",
+            "start": 11.365,
+            "end": 11.495
+          },
+          {
+            "word": "liabilities.",
+            "start": 11.506,
+            "end": 12.278
+          }
+        ],
+        "start": 980
       },
       {
         "type": "quote",
         "chunk_id": "ep4_event_1",
         "audio_exists": true,
+        "audioPath": "episodes/ep4/audio/ep4_event_1.wav",
         "text": "Twenty-five thousand employees. One hundred and fifty-eight years of institutional history.",
-        "duration": 181,
-        "bgImage": "bg_abstract.jpg",
-        "wordTimings": null,
-        "start": 1264
+        "duration": 188,
+        "bgImage": "bg_housing_bubble.jpg",
+        "wordTimings": [
+          {
+            "word": "Twenty-five ",
+            "start": 0.1,
+            "end": 0.708
+          },
+          {
+            "word": "thousand ",
+            "start": 0.719,
+            "end": 1.089
+          },
+          {
+            "word": "employees. ",
+            "start": 1.1,
+            "end": 1.817
+          },
+          {
+            "word": "One ",
+            "start": 2.56,
+            "end": 2.8
+          },
+          {
+            "word": "hundred ",
+            "start": 2.81,
+            "end": 3.071
+          },
+          {
+            "word": "and ",
+            "start": 3.082,
+            "end": 3.158
+          },
+          {
+            "word": "fifty-eight ",
+            "start": 3.169,
+            "end": 3.669
+          },
+          {
+            "word": "years ",
+            "start": 3.68,
+            "end": 3.919
+          },
+          {
+            "word": "of ",
+            "start": 3.93,
+            "end": 4.006
+          },
+          {
+            "word": "institutional ",
+            "start": 4.017,
+            "end": 4.658
+          },
+          {
+            "word": "history.",
+            "start": 4.669,
+            "end": 5.093
+          }
+        ],
+        "start": 1383
       },
       {
         "type": "quote",
         "chunk_id": "ep4_event_2",
         "audio_exists": true,
+        "audioPath": "episodes/ep4/audio/ep4_event_2.wav",
         "text": "Within hours, the Reserve Primary Fund — one of the oldest money market funds in the United States — announced that its net asset value had fallen below one dollar per share. It had broken the buck.",
-        "duration": 360,
-        "bgImage": "bg_lifestyle.jpg",
-        "wordTimings": null,
-        "start": 1445
+        "duration": 332,
+        "bgImage": "bg_stock_red.jpg",
+        "wordTimings": [
+          {
+            "word": "Within ",
+            "start": 0.1,
+            "end": 0.404
+          },
+          {
+            "word": "hours, ",
+            "start": 0.415,
+            "end": 0.73
+          },
+          {
+            "word": "the ",
+            "start": 0.882,
+            "end": 0.969
+          },
+          {
+            "word": "Reserve ",
+            "start": 0.98,
+            "end": 1.371
+          },
+          {
+            "word": "Primary ",
+            "start": 1.382,
+            "end": 1.741
+          },
+          {
+            "word": "Fund — ",
+            "start": 1.752,
+            "end": 2.089
+          },
+          {
+            "word": "one ",
+            "start": 2.263,
+            "end": 2.415
+          },
+          {
+            "word": "of ",
+            "start": 2.426,
+            "end": 2.491
+          },
+          {
+            "word": "the ",
+            "start": 2.502,
+            "end": 2.61
+          },
+          {
+            "word": "oldest ",
+            "start": 2.621,
+            "end": 2.926
+          },
+          {
+            "word": "money ",
+            "start": 2.936,
+            "end": 3.154
+          },
+          {
+            "word": "market ",
+            "start": 3.165,
+            "end": 3.513
+          },
+          {
+            "word": "funds ",
+            "start": 3.523,
+            "end": 3.817
+          },
+          {
+            "word": "in ",
+            "start": 3.828,
+            "end": 3.893
+          },
+          {
+            "word": "the ",
+            "start": 3.904,
+            "end": 3.958
+          },
+          {
+            "word": "United ",
+            "start": 3.969,
+            "end": 4.404
+          },
+          {
+            "word": "States — ",
+            "start": 4.415,
+            "end": 4.806
+          },
+          {
+            "word": "announced ",
+            "start": 4.969,
+            "end": 5.295
+          },
+          {
+            "word": "that ",
+            "start": 5.306,
+            "end": 5.415
+          },
+          {
+            "word": "its ",
+            "start": 5.426,
+            "end": 5.534
+          },
+          {
+            "word": "net ",
+            "start": 5.545,
+            "end": 5.741
+          },
+          {
+            "word": "asset ",
+            "start": 5.752,
+            "end": 6.045
+          },
+          {
+            "word": "value ",
+            "start": 6.056,
+            "end": 6.339
+          },
+          {
+            "word": "had ",
+            "start": 6.35,
+            "end": 6.491
+          },
+          {
+            "word": "fallen ",
+            "start": 6.502,
+            "end": 6.849
+          },
+          {
+            "word": "below ",
+            "start": 6.86,
+            "end": 7.1
+          },
+          {
+            "word": "one ",
+            "start": 7.11,
+            "end": 7.382
+          },
+          {
+            "word": "dollar ",
+            "start": 7.393,
+            "end": 7.61
+          },
+          {
+            "word": "per ",
+            "start": 7.621,
+            "end": 7.741
+          },
+          {
+            "word": "share. ",
+            "start": 7.752,
+            "end": 8.099
+          },
+          {
+            "word": "It ",
+            "start": 8.832,
+            "end": 8.984
+          },
+          {
+            "word": "had ",
+            "start": 8.995,
+            "end": 9.126
+          },
+          {
+            "word": "broken ",
+            "start": 9.136,
+            "end": 9.452
+          },
+          {
+            "word": "the ",
+            "start": 9.463,
+            "end": 9.528
+          },
+          {
+            "word": "buck.",
+            "start": 9.539,
+            "end": 9.886
+          }
+        ],
+        "start": 1571
       },
       {
         "type": "quote",
         "chunk_id": "ep4_event_3",
         "audio_exists": true,
+        "audioPath": "episodes/ep4/audio/ep4_event_3.wav",
         "text": "The fund held seven hundred and eighty-five million dollars of Lehman commercial paper, now worthless. Money market funds were supposed to be as safe as cash. Investors had placed their savings there specifically to avoid risk.",
-        "duration": 403,
-        "bgImage": "bg_demographics.jpg",
-        "wordTimings": null,
-        "start": 1805
+        "duration": 392,
+        "bgImage": "bg_wallstreet.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "fund ",
+            "start": 0.241,
+            "end": 0.48
+          },
+          {
+            "word": "held ",
+            "start": 0.491,
+            "end": 0.719
+          },
+          {
+            "word": "seven ",
+            "start": 0.73,
+            "end": 0.958
+          },
+          {
+            "word": "hundred ",
+            "start": 0.969,
+            "end": 1.241
+          },
+          {
+            "word": "and ",
+            "start": 1.252,
+            "end": 1.339
+          },
+          {
+            "word": "eighty-five ",
+            "start": 1.35,
+            "end": 1.817
+          },
+          {
+            "word": "million ",
+            "start": 1.828,
+            "end": 2.176
+          },
+          {
+            "word": "dollars ",
+            "start": 2.186,
+            "end": 2.491
+          },
+          {
+            "word": "of ",
+            "start": 2.502,
+            "end": 2.578
+          },
+          {
+            "word": "Lehman ",
+            "start": 2.589,
+            "end": 2.904
+          },
+          {
+            "word": "commercial ",
+            "start": 2.915,
+            "end": 3.349
+          },
+          {
+            "word": "paper, ",
+            "start": 3.36,
+            "end": 3.697
+          },
+          {
+            "word": "now ",
+            "start": 3.85,
+            "end": 4.013
+          },
+          {
+            "word": "worthless. ",
+            "start": 4.023,
+            "end": 4.632
+          },
+          {
+            "word": "Money ",
+            "start": 5.376,
+            "end": 5.669
+          },
+          {
+            "word": "market ",
+            "start": 5.68,
+            "end": 6.028
+          },
+          {
+            "word": "funds ",
+            "start": 6.039,
+            "end": 6.332
+          },
+          {
+            "word": "were ",
+            "start": 6.343,
+            "end": 6.441
+          },
+          {
+            "word": "supposed ",
+            "start": 6.452,
+            "end": 6.843
+          },
+          {
+            "word": "to ",
+            "start": 6.854,
+            "end": 6.908
+          },
+          {
+            "word": "be ",
+            "start": 6.919,
+            "end": 7.071
+          },
+          {
+            "word": "as ",
+            "start": 7.082,
+            "end": 7.191
+          },
+          {
+            "word": "safe ",
+            "start": 7.202,
+            "end": 7.463
+          },
+          {
+            "word": "as ",
+            "start": 7.473,
+            "end": 7.56
+          },
+          {
+            "word": "cash. ",
+            "start": 7.571,
+            "end": 8.028
+          },
+          {
+            "word": "Investors ",
+            "start": 8.778,
+            "end": 9.289
+          },
+          {
+            "word": "had ",
+            "start": 9.3,
+            "end": 9.452
+          },
+          {
+            "word": "placed ",
+            "start": 9.463,
+            "end": 9.745
+          },
+          {
+            "word": "their ",
+            "start": 9.756,
+            "end": 9.876
+          },
+          {
+            "word": "savings ",
+            "start": 9.886,
+            "end": 10.332
+          },
+          {
+            "word": "there ",
+            "start": 10.343,
+            "end": 10.452
+          },
+          {
+            "word": "specifically ",
+            "start": 10.463,
+            "end": 11.039
+          },
+          {
+            "word": "to ",
+            "start": 11.05,
+            "end": 11.18
+          },
+          {
+            "word": "avoid ",
+            "start": 11.191,
+            "end": 11.484
+          },
+          {
+            "word": "risk.",
+            "start": 11.495,
+            "end": 11.886
+          }
+        ],
+        "start": 1903
       },
       {
         "type": "quote",
         "chunk_id": "ep4_event_4",
         "audio_exists": true,
+        "audioPath": "episodes/ep4/audio/ep4_event_4.wav",
         "text": "The news triggered immediate runs on money market funds across the system. In the days that followed, the commercial paper market seized. Interbank lending froze. The federal funds rate spiked as banks refused to lend to each other overnight.",
-        "duration": 424,
-        "bgImage": "bg_lifestyle.jpg",
-        "wordTimings": null,
-        "start": 2208
+        "duration": 433,
+        "bgImage": "bg_lehman.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.252
+          },
+          {
+            "word": "news ",
+            "start": 0.263,
+            "end": 0.534
+          },
+          {
+            "word": "triggered ",
+            "start": 0.545,
+            "end": 0.828
+          },
+          {
+            "word": "immediate ",
+            "start": 0.839,
+            "end": 1.263
+          },
+          {
+            "word": "runs ",
+            "start": 1.273,
+            "end": 1.523
+          },
+          {
+            "word": "on ",
+            "start": 1.534,
+            "end": 1.654
+          },
+          {
+            "word": "money ",
+            "start": 1.665,
+            "end": 1.871
+          },
+          {
+            "word": "market ",
+            "start": 1.882,
+            "end": 2.241
+          },
+          {
+            "word": "funds ",
+            "start": 2.252,
+            "end": 2.534
+          },
+          {
+            "word": "across ",
+            "start": 2.545,
+            "end": 2.839
+          },
+          {
+            "word": "the ",
+            "start": 2.85,
+            "end": 2.926
+          },
+          {
+            "word": "system. ",
+            "start": 2.936,
+            "end": 3.371
+          },
+          {
+            "word": "In ",
+            "start": 4.115,
+            "end": 4.256
+          },
+          {
+            "word": "the ",
+            "start": 4.267,
+            "end": 4.343
+          },
+          {
+            "word": "days ",
+            "start": 4.354,
+            "end": 4.593
+          },
+          {
+            "word": "that ",
+            "start": 4.604,
+            "end": 4.756
+          },
+          {
+            "word": "followed, ",
+            "start": 4.767,
+            "end": 5.104
+          },
+          {
+            "word": "the ",
+            "start": 5.289,
+            "end": 5.354
+          },
+          {
+            "word": "commercial ",
+            "start": 5.365,
+            "end": 5.821
+          },
+          {
+            "word": "paper ",
+            "start": 5.832,
+            "end": 6.126
+          },
+          {
+            "word": "market ",
+            "start": 6.136,
+            "end": 6.539
+          },
+          {
+            "word": "seized. ",
+            "start": 6.55,
+            "end": 7.006
+          },
+          {
+            "word": "Interbank ",
+            "start": 7.756,
+            "end": 8.234
+          },
+          {
+            "word": "lending ",
+            "start": 8.245,
+            "end": 8.56
+          },
+          {
+            "word": "froze. ",
+            "start": 8.571,
+            "end": 9.104
+          },
+          {
+            "word": "The ",
+            "start": 9.854,
+            "end": 9.984
+          },
+          {
+            "word": "federal ",
+            "start": 9.995,
+            "end": 10.321
+          },
+          {
+            "word": "funds ",
+            "start": 10.332,
+            "end": 10.615
+          },
+          {
+            "word": "rate ",
+            "start": 10.626,
+            "end": 10.854
+          },
+          {
+            "word": "spiked ",
+            "start": 10.865,
+            "end": 11.169
+          },
+          {
+            "word": "as ",
+            "start": 11.18,
+            "end": 11.267
+          },
+          {
+            "word": "banks ",
+            "start": 11.278,
+            "end": 11.55
+          },
+          {
+            "word": "refused ",
+            "start": 11.56,
+            "end": 11.963
+          },
+          {
+            "word": "to ",
+            "start": 11.973,
+            "end": 12.028
+          },
+          {
+            "word": "lend ",
+            "start": 12.039,
+            "end": 12.245
+          },
+          {
+            "word": "to ",
+            "start": 12.256,
+            "end": 12.321
+          },
+          {
+            "word": "each ",
+            "start": 12.332,
+            "end": 12.528
+          },
+          {
+            "word": "other ",
+            "start": 12.539,
+            "end": 12.723
+          },
+          {
+            "word": "overnight.",
+            "start": 12.734,
+            "end": 13.256
+          }
+        ],
+        "start": 2295
       },
       {
         "type": "quote",
         "chunk_id": "ep4_event_5",
         "audio_exists": true,
+        "audioPath": "episodes/ep4/audio/ep4_event_5.wav",
         "text": "The crisis that had been visible in slow motion for eighteen months — rising subprime defaults, collapsing structured credit products, Bear Stearns's failure in March — had become systemic in a single morning.",
-        "duration": 375,
-        "bgImage": "bg_abstract.jpg",
-        "wordTimings": null,
-        "start": 2632
+        "duration": 335,
+        "bgImage": "bg_housing_bubble.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.219
+          },
+          {
+            "word": "crisis ",
+            "start": 0.23,
+            "end": 0.621
+          },
+          {
+            "word": "that ",
+            "start": 0.632,
+            "end": 0.741
+          },
+          {
+            "word": "had ",
+            "start": 0.752,
+            "end": 0.86
+          },
+          {
+            "word": "been ",
+            "start": 0.871,
+            "end": 1.002
+          },
+          {
+            "word": "visible ",
+            "start": 1.013,
+            "end": 1.339
+          },
+          {
+            "word": "in ",
+            "start": 1.35,
+            "end": 1.436
+          },
+          {
+            "word": "slow ",
+            "start": 1.447,
+            "end": 1.686
+          },
+          {
+            "word": "motion ",
+            "start": 1.697,
+            "end": 2.045
+          },
+          {
+            "word": "for ",
+            "start": 2.056,
+            "end": 2.186
+          },
+          {
+            "word": "eighteen ",
+            "start": 2.197,
+            "end": 2.567
+          },
+          {
+            "word": "months — ",
+            "start": 2.578,
+            "end": 2.904
+          },
+          {
+            "word": "rising ",
+            "start": 3.1,
+            "end": 3.436
+          },
+          {
+            "word": "subprime ",
+            "start": 3.447,
+            "end": 3.904
+          },
+          {
+            "word": "defaults, ",
+            "start": 3.915,
+            "end": 4.426
+          },
+          {
+            "word": "collapsing ",
+            "start": 4.6,
+            "end": 5.045
+          },
+          {
+            "word": "structured ",
+            "start": 5.056,
+            "end": 5.469
+          },
+          {
+            "word": "credit ",
+            "start": 5.48,
+            "end": 5.773
+          },
+          {
+            "word": "products, ",
+            "start": 5.784,
+            "end": 6.252
+          },
+          {
+            "word": "Bear ",
+            "start": 6.48,
+            "end": 6.676
+          },
+          {
+            "word": "Stearns's ",
+            "start": 6.686,
+            "end": 7.121
+          },
+          {
+            "word": "failure ",
+            "start": 7.132,
+            "end": 7.513
+          },
+          {
+            "word": "in ",
+            "start": 7.523,
+            "end": 7.632
+          },
+          {
+            "word": "March — ",
+            "start": 7.643,
+            "end": 8.002
+          },
+          {
+            "word": "had ",
+            "start": 8.197,
+            "end": 8.284
+          },
+          {
+            "word": "become ",
+            "start": 8.295,
+            "end": 8.578
+          },
+          {
+            "word": "systemic ",
+            "start": 8.589,
+            "end": 9.045
+          },
+          {
+            "word": "in ",
+            "start": 9.056,
+            "end": 9.132
+          },
+          {
+            "word": "a ",
+            "start": 9.143,
+            "end": 9.186
+          },
+          {
+            "word": "single ",
+            "start": 9.197,
+            "end": 9.556
+          },
+          {
+            "word": "morning.",
+            "start": 9.567,
+            "end": 10.002
+          }
+        ],
+        "start": 2728
       },
       {
         "type": "quote",
         "chunk_id": "ep4_event_6",
         "audio_exists": true,
+        "audioPath": "episodes/ep4/audio/ep4_event_6.wav",
         "text": "The question that would be debated for years was whether Lehman could have been saved, or whether its failure was the consequence of a system that had grown too complex to manage.",
-        "duration": 301,
-        "bgImage": "bg_lab.jpg",
-        "wordTimings": null,
-        "start": 3007
+        "duration": 249,
+        "bgImage": "bg_stock_red.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.219
+          },
+          {
+            "word": "question ",
+            "start": 0.23,
+            "end": 0.578
+          },
+          {
+            "word": "that ",
+            "start": 0.589,
+            "end": 0.708
+          },
+          {
+            "word": "would ",
+            "start": 0.719,
+            "end": 0.806
+          },
+          {
+            "word": "be ",
+            "start": 0.817,
+            "end": 0.893
+          },
+          {
+            "word": "debated ",
+            "start": 0.904,
+            "end": 1.284
+          },
+          {
+            "word": "for ",
+            "start": 1.295,
+            "end": 1.382
+          },
+          {
+            "word": "years ",
+            "start": 1.393,
+            "end": 1.643
+          },
+          {
+            "word": "was ",
+            "start": 1.654,
+            "end": 1.784
+          },
+          {
+            "word": "whether ",
+            "start": 1.795,
+            "end": 2.013
+          },
+          {
+            "word": "Lehman ",
+            "start": 2.023,
+            "end": 2.328
+          },
+          {
+            "word": "could ",
+            "start": 2.339,
+            "end": 2.469
+          },
+          {
+            "word": "have ",
+            "start": 2.48,
+            "end": 2.578
+          },
+          {
+            "word": "been ",
+            "start": 2.589,
+            "end": 2.741
+          },
+          {
+            "word": "saved, ",
+            "start": 2.752,
+            "end": 3.165
+          },
+          {
+            "word": "or ",
+            "start": 3.35,
+            "end": 3.426
+          },
+          {
+            "word": "whether ",
+            "start": 3.436,
+            "end": 3.73
+          },
+          {
+            "word": "its ",
+            "start": 3.741,
+            "end": 3.86
+          },
+          {
+            "word": "failure ",
+            "start": 3.871,
+            "end": 4.197
+          },
+          {
+            "word": "was ",
+            "start": 4.208,
+            "end": 4.328
+          },
+          {
+            "word": "the ",
+            "start": 4.339,
+            "end": 4.415
+          },
+          {
+            "word": "consequence ",
+            "start": 4.426,
+            "end": 4.904
+          },
+          {
+            "word": "of ",
+            "start": 4.915,
+            "end": 5.002
+          },
+          {
+            "word": "a ",
+            "start": 5.013,
+            "end": 5.067
+          },
+          {
+            "word": "system ",
+            "start": 5.078,
+            "end": 5.415
+          },
+          {
+            "word": "that ",
+            "start": 5.426,
+            "end": 5.523
+          },
+          {
+            "word": "had ",
+            "start": 5.534,
+            "end": 5.654
+          },
+          {
+            "word": "grown ",
+            "start": 5.665,
+            "end": 5.969
+          },
+          {
+            "word": "too ",
+            "start": 5.98,
+            "end": 6.165
+          },
+          {
+            "word": "complex ",
+            "start": 6.176,
+            "end": 6.599
+          },
+          {
+            "word": "to ",
+            "start": 6.61,
+            "end": 6.686
+          },
+          {
+            "word": "manage.",
+            "start": 6.697,
+            "end": 7.121
+          }
+        ],
+        "start": 3063
       }
     ]
   },
   {
     "id": "ep4_problems",
-    "title": "Episode 4 · Problems",
-    "globalStart": 4729,
-    "duration": 2934,
+    "title": "Problems",
+    "globalStart": 3522,
+    "duration": 2626,
     "subSlides": [
       {
         "type": "bumper",
         "start": 0,
         "duration": 90,
-        "title": "Episode 4 · Problems"
+        "title": "Problems"
       },
       {
         "type": "quote",
         "chunk_id": "ep4_problems_0",
         "audio_exists": true,
+        "audioPath": "episodes/ep4/audio/ep4_problems_0.wav",
         "text": "The 2008 Global Financial Crisis was not primarily a crisis of household mortgages.",
-        "duration": 210,
-        "bgImage": "bg_abstract.jpg",
-        "wordTimings": null,
+        "duration": 175,
+        "bgImage": "bg_bank_run.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "2008 ",
+            "start": 0.241,
+            "end": 0.991
+          },
+          {
+            "word": "Global ",
+            "start": 1.002,
+            "end": 1.328
+          },
+          {
+            "word": "Financial ",
+            "start": 1.339,
+            "end": 1.828
+          },
+          {
+            "word": "Crisis ",
+            "start": 1.839,
+            "end": 2.23
+          },
+          {
+            "word": "was ",
+            "start": 2.241,
+            "end": 2.393
+          },
+          {
+            "word": "not ",
+            "start": 2.404,
+            "end": 2.632
+          },
+          {
+            "word": "primarily ",
+            "start": 2.643,
+            "end": 3.089
+          },
+          {
+            "word": "a ",
+            "start": 3.1,
+            "end": 3.143
+          },
+          {
+            "word": "crisis ",
+            "start": 3.154,
+            "end": 3.567
+          },
+          {
+            "word": "of ",
+            "start": 3.578,
+            "end": 3.665
+          },
+          {
+            "word": "household ",
+            "start": 3.676,
+            "end": 4.121
+          },
+          {
+            "word": "mortgages.",
+            "start": 4.132,
+            "end": 4.676
+          }
+        ],
         "start": 90
       },
       {
         "type": "quote",
         "chunk_id": "ep4_problems_1",
         "audio_exists": true,
+        "audioPath": "episodes/ep4/audio/ep4_problems_1.wav",
         "text": "It was a crisis of the financial architecture built on top of those mortgages — a shadow banking system of twelve trillion dollars operating with almost no regulatory oversight and no lender of last resort.",
-        "duration": 381,
-        "bgImage": "bg_toxicology.jpg",
-        "wordTimings": null,
-        "start": 300
+        "duration": 316,
+        "bgImage": "bg_lehman.jpg",
+        "wordTimings": [
+          {
+            "word": "It ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "was ",
+            "start": 0.241,
+            "end": 0.36
+          },
+          {
+            "word": "a ",
+            "start": 0.371,
+            "end": 0.415
+          },
+          {
+            "word": "crisis ",
+            "start": 0.426,
+            "end": 0.817
+          },
+          {
+            "word": "of ",
+            "start": 0.828,
+            "end": 0.893
+          },
+          {
+            "word": "the ",
+            "start": 0.904,
+            "end": 0.98
+          },
+          {
+            "word": "financial ",
+            "start": 0.991,
+            "end": 1.534
+          },
+          {
+            "word": "architecture ",
+            "start": 1.545,
+            "end": 2.034
+          },
+          {
+            "word": "built ",
+            "start": 2.045,
+            "end": 2.284
+          },
+          {
+            "word": "on ",
+            "start": 2.295,
+            "end": 2.404
+          },
+          {
+            "word": "top ",
+            "start": 2.415,
+            "end": 2.632
+          },
+          {
+            "word": "of ",
+            "start": 2.643,
+            "end": 2.719
+          },
+          {
+            "word": "those ",
+            "start": 2.73,
+            "end": 2.947
+          },
+          {
+            "word": "mortgages — ",
+            "start": 2.958,
+            "end": 3.447
+          },
+          {
+            "word": "a ",
+            "start": 3.61,
+            "end": 3.654
+          },
+          {
+            "word": "shadow ",
+            "start": 3.665,
+            "end": 3.958
+          },
+          {
+            "word": "banking ",
+            "start": 3.969,
+            "end": 4.328
+          },
+          {
+            "word": "system ",
+            "start": 4.339,
+            "end": 4.654
+          },
+          {
+            "word": "of ",
+            "start": 4.665,
+            "end": 4.763
+          },
+          {
+            "word": "twelve ",
+            "start": 4.773,
+            "end": 5.089
+          },
+          {
+            "word": "trillion ",
+            "start": 5.1,
+            "end": 5.458
+          },
+          {
+            "word": "dollars ",
+            "start": 5.469,
+            "end": 5.773
+          },
+          {
+            "word": "operating ",
+            "start": 5.784,
+            "end": 6.219
+          },
+          {
+            "word": "with ",
+            "start": 6.23,
+            "end": 6.328
+          },
+          {
+            "word": "almost ",
+            "start": 6.339,
+            "end": 6.686
+          },
+          {
+            "word": "no ",
+            "start": 6.697,
+            "end": 6.904
+          },
+          {
+            "word": "regulatory ",
+            "start": 6.915,
+            "end": 7.513
+          },
+          {
+            "word": "oversight ",
+            "start": 7.523,
+            "end": 7.98
+          },
+          {
+            "word": "and ",
+            "start": 7.991,
+            "end": 8.089
+          },
+          {
+            "word": "no ",
+            "start": 8.1,
+            "end": 8.252
+          },
+          {
+            "word": "lender ",
+            "start": 8.263,
+            "end": 8.578
+          },
+          {
+            "word": "of ",
+            "start": 8.589,
+            "end": 8.654
+          },
+          {
+            "word": "last ",
+            "start": 8.665,
+            "end": 8.915
+          },
+          {
+            "word": "resort.",
+            "start": 8.926,
+            "end": 9.371
+          }
+        ],
+        "start": 265
       },
       {
         "type": "quote",
         "chunk_id": "ep4_problems_2",
         "audio_exists": true,
+        "audioPath": "episodes/ep4/audio/ep4_problems_2.wav",
         "text": "The originate-to-distribute model had separated mortgage lending from mortgage risk. Banks originated loans and immediately sold them into securitisation vehicles.",
-        "duration": 310,
-        "bgImage": "bg_abstract.jpg",
-        "wordTimings": null,
-        "start": 681
+        "duration": 287,
+        "bgImage": "bg_interest_chart.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.241
+          },
+          {
+            "word": "originate-to-distribute ",
+            "start": 0.252,
+            "end": 1.241
+          },
+          {
+            "word": "model ",
+            "start": 1.252,
+            "end": 1.502
+          },
+          {
+            "word": "had ",
+            "start": 1.513,
+            "end": 1.643
+          },
+          {
+            "word": "separated ",
+            "start": 1.654,
+            "end": 2.121
+          },
+          {
+            "word": "mortgage ",
+            "start": 2.132,
+            "end": 2.48
+          },
+          {
+            "word": "lending ",
+            "start": 2.491,
+            "end": 2.839
+          },
+          {
+            "word": "from ",
+            "start": 2.85,
+            "end": 3.002
+          },
+          {
+            "word": "mortgage ",
+            "start": 3.013,
+            "end": 3.382
+          },
+          {
+            "word": "risk. ",
+            "start": 3.393,
+            "end": 3.784
+          },
+          {
+            "word": "Banks ",
+            "start": 4.528,
+            "end": 4.843
+          },
+          {
+            "word": "originated ",
+            "start": 4.854,
+            "end": 5.376
+          },
+          {
+            "word": "loans ",
+            "start": 5.386,
+            "end": 5.702
+          },
+          {
+            "word": "and ",
+            "start": 5.713,
+            "end": 5.799
+          },
+          {
+            "word": "immediately ",
+            "start": 5.81,
+            "end": 6.321
+          },
+          {
+            "word": "sold ",
+            "start": 6.332,
+            "end": 6.604
+          },
+          {
+            "word": "them ",
+            "start": 6.615,
+            "end": 6.723
+          },
+          {
+            "word": "into ",
+            "start": 6.734,
+            "end": 7.006
+          },
+          {
+            "word": "securitisation ",
+            "start": 7.017,
+            "end": 7.81
+          },
+          {
+            "word": "vehicles.",
+            "start": 7.821,
+            "end": 8.386
+          }
+        ],
+        "start": 581
       },
       {
         "type": "quote",
         "chunk_id": "ep4_problems_3",
         "audio_exists": true,
+        "audioPath": "episodes/ep4/audio/ep4_problems_3.wav",
         "text": "The securities were then sold to money market funds, pension funds, and insurance companies globally. At each stage, the instruments became more complex and the underlying risk more opaque.",
-        "duration": 351,
-        "bgImage": "bg_demographics.jpg",
-        "wordTimings": null,
-        "start": 991
+        "duration": 333,
+        "bgImage": "bg_stock_red.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "securities ",
+            "start": 0.241,
+            "end": 0.828
+          },
+          {
+            "word": "were ",
+            "start": 0.839,
+            "end": 0.926
+          },
+          {
+            "word": "then ",
+            "start": 0.936,
+            "end": 1.154
+          },
+          {
+            "word": "sold ",
+            "start": 1.165,
+            "end": 1.415
+          },
+          {
+            "word": "to ",
+            "start": 1.426,
+            "end": 1.502
+          },
+          {
+            "word": "money ",
+            "start": 1.513,
+            "end": 1.741
+          },
+          {
+            "word": "market ",
+            "start": 1.752,
+            "end": 2.099
+          },
+          {
+            "word": "funds, ",
+            "start": 2.11,
+            "end": 2.502
+          },
+          {
+            "word": "pension ",
+            "start": 2.697,
+            "end": 2.98
+          },
+          {
+            "word": "funds, ",
+            "start": 2.991,
+            "end": 3.36
+          },
+          {
+            "word": "and ",
+            "start": 3.534,
+            "end": 3.643
+          },
+          {
+            "word": "insurance ",
+            "start": 3.654,
+            "end": 4.11
+          },
+          {
+            "word": "companies ",
+            "start": 4.121,
+            "end": 4.567
+          },
+          {
+            "word": "globally. ",
+            "start": 4.578,
+            "end": 5.045
+          },
+          {
+            "word": "At ",
+            "start": 5.789,
+            "end": 5.984
+          },
+          {
+            "word": "each ",
+            "start": 5.995,
+            "end": 6.202
+          },
+          {
+            "word": "stage, ",
+            "start": 6.213,
+            "end": 6.647
+          },
+          {
+            "word": "the ",
+            "start": 6.81,
+            "end": 6.897
+          },
+          {
+            "word": "instruments ",
+            "start": 6.908,
+            "end": 7.376
+          },
+          {
+            "word": "became ",
+            "start": 7.386,
+            "end": 7.669
+          },
+          {
+            "word": "more ",
+            "start": 7.68,
+            "end": 7.821
+          },
+          {
+            "word": "complex ",
+            "start": 7.832,
+            "end": 8.3
+          },
+          {
+            "word": "and ",
+            "start": 8.31,
+            "end": 8.397
+          },
+          {
+            "word": "the ",
+            "start": 8.408,
+            "end": 8.506
+          },
+          {
+            "word": "underlying ",
+            "start": 8.517,
+            "end": 9.039
+          },
+          {
+            "word": "risk ",
+            "start": 9.05,
+            "end": 9.289
+          },
+          {
+            "word": "more ",
+            "start": 9.3,
+            "end": 9.484
+          },
+          {
+            "word": "opaque.",
+            "start": 9.495,
+            "end": 9.919
+          }
+        ],
+        "start": 868
       },
       {
         "type": "quote",
         "chunk_id": "ep4_problems_4",
         "audio_exists": true,
+        "audioPath": "episodes/ep4/audio/ep4_problems_4.wav",
         "text": "When house prices stopped rising in 2006, the assumptions embedded in every level of this structure broke simultaneously. Mortgage default rates exceeded model predictions. Structured products that had never been stress-tested failed.",
-        "duration": 433,
-        "bgImage": "bg_lifestyle.jpg",
-        "wordTimings": null,
-        "start": 1342
+        "duration": 414,
+        "bgImage": "bg_bank_run.jpg",
+        "wordTimings": [
+          {
+            "word": "When ",
+            "start": 0.1,
+            "end": 0.295
+          },
+          {
+            "word": "house ",
+            "start": 0.306,
+            "end": 0.545
+          },
+          {
+            "word": "prices ",
+            "start": 0.556,
+            "end": 0.915
+          },
+          {
+            "word": "stopped ",
+            "start": 0.926,
+            "end": 1.165
+          },
+          {
+            "word": "rising ",
+            "start": 1.176,
+            "end": 1.534
+          },
+          {
+            "word": "in 2006, ",
+            "start": 1.545,
+            "end": 2.599
+          },
+          {
+            "word": "the ",
+            "start": 2.773,
+            "end": 2.871
+          },
+          {
+            "word": "assumptions ",
+            "start": 2.882,
+            "end": 3.36
+          },
+          {
+            "word": "embedded ",
+            "start": 3.371,
+            "end": 3.708
+          },
+          {
+            "word": "in ",
+            "start": 3.719,
+            "end": 3.828
+          },
+          {
+            "word": "every ",
+            "start": 3.839,
+            "end": 4.034
+          },
+          {
+            "word": "level ",
+            "start": 4.045,
+            "end": 4.295
+          },
+          {
+            "word": "of ",
+            "start": 4.306,
+            "end": 4.382
+          },
+          {
+            "word": "this ",
+            "start": 4.393,
+            "end": 4.545
+          },
+          {
+            "word": "structure ",
+            "start": 4.556,
+            "end": 4.926
+          },
+          {
+            "word": "broke ",
+            "start": 4.936,
+            "end": 5.176
+          },
+          {
+            "word": "simultaneously. ",
+            "start": 5.186,
+            "end": 5.991
+          },
+          {
+            "word": "Mortgage ",
+            "start": 6.734,
+            "end": 7.191
+          },
+          {
+            "word": "default ",
+            "start": 7.202,
+            "end": 7.56
+          },
+          {
+            "word": "rates ",
+            "start": 7.571,
+            "end": 7.832
+          },
+          {
+            "word": "exceeded ",
+            "start": 7.843,
+            "end": 8.245
+          },
+          {
+            "word": "model ",
+            "start": 8.256,
+            "end": 8.539
+          },
+          {
+            "word": "predictions. ",
+            "start": 8.55,
+            "end": 9.191
+          },
+          {
+            "word": "Structured ",
+            "start": 9.941,
+            "end": 10.43
+          },
+          {
+            "word": "products ",
+            "start": 10.441,
+            "end": 10.799
+          },
+          {
+            "word": "that ",
+            "start": 10.81,
+            "end": 10.93
+          },
+          {
+            "word": "had ",
+            "start": 10.941,
+            "end": 11.049
+          },
+          {
+            "word": "never ",
+            "start": 11.06,
+            "end": 11.31
+          },
+          {
+            "word": "been ",
+            "start": 11.321,
+            "end": 11.484
+          },
+          {
+            "word": "stress-tested ",
+            "start": 11.495,
+            "end": 12.104
+          },
+          {
+            "word": "failed.",
+            "start": 12.115,
+            "end": 12.615
+          }
+        ],
+        "start": 1201
       },
       {
         "type": "quote",
         "chunk_id": "ep4_problems_5",
         "audio_exists": true,
+        "audioPath": "episodes/ep4/audio/ep4_problems_5.wav",
         "text": "Rating agencies that had given triple-A ratings to instruments that deserved none faced questions about their independence.",
-        "duration": 226,
-        "bgImage": "bg_toxicology.jpg",
-        "wordTimings": null,
-        "start": 1775
+        "duration": 200,
+        "bgImage": "bg_lehman.jpg",
+        "wordTimings": [
+          {
+            "word": "Rating ",
+            "start": 0.1,
+            "end": 0.502
+          },
+          {
+            "word": "agencies ",
+            "start": 0.513,
+            "end": 0.926
+          },
+          {
+            "word": "that ",
+            "start": 0.936,
+            "end": 1.045
+          },
+          {
+            "word": "had ",
+            "start": 1.056,
+            "end": 1.176
+          },
+          {
+            "word": "given ",
+            "start": 1.186,
+            "end": 1.404
+          },
+          {
+            "word": "triple-A ",
+            "start": 1.415,
+            "end": 1.828
+          },
+          {
+            "word": "ratings ",
+            "start": 1.839,
+            "end": 2.273
+          },
+          {
+            "word": "to ",
+            "start": 2.284,
+            "end": 2.36
+          },
+          {
+            "word": "instruments ",
+            "start": 2.371,
+            "end": 2.839
+          },
+          {
+            "word": "that ",
+            "start": 2.85,
+            "end": 2.947
+          },
+          {
+            "word": "deserved ",
+            "start": 2.958,
+            "end": 3.349
+          },
+          {
+            "word": "none ",
+            "start": 3.36,
+            "end": 3.6
+          },
+          {
+            "word": "faced ",
+            "start": 3.61,
+            "end": 3.893
+          },
+          {
+            "word": "questions ",
+            "start": 3.904,
+            "end": 4.328
+          },
+          {
+            "word": "about ",
+            "start": 4.339,
+            "end": 4.589
+          },
+          {
+            "word": "their ",
+            "start": 4.6,
+            "end": 4.719
+          },
+          {
+            "word": "independence.",
+            "start": 4.73,
+            "end": 5.48
+          }
+        ],
+        "start": 1615
       },
       {
         "type": "quote",
         "chunk_id": "ep4_problems_6",
         "audio_exists": true,
+        "audioPath": "episodes/ep4/audio/ep4_problems_6.wav",
         "text": "And insurance products — credit default swaps — that were supposed to redistribute risk had instead concentrated it in a handful of institutions, most notably AIG.",
-        "duration": 326,
-        "bgImage": "bg_toxicology.jpg",
-        "wordTimings": null,
-        "start": 2001
+        "duration": 275,
+        "bgImage": "bg_interest_chart.jpg",
+        "wordTimings": [
+          {
+            "word": "And ",
+            "start": 0.1,
+            "end": 0.273
+          },
+          {
+            "word": "insurance ",
+            "start": 0.284,
+            "end": 0.73
+          },
+          {
+            "word": "products — ",
+            "start": 0.741,
+            "end": 1.154
+          },
+          {
+            "word": "credit ",
+            "start": 1.328,
+            "end": 1.6
+          },
+          {
+            "word": "default ",
+            "start": 1.61,
+            "end": 1.969
+          },
+          {
+            "word": "swaps — ",
+            "start": 1.98,
+            "end": 2.436
+          },
+          {
+            "word": "that ",
+            "start": 2.61,
+            "end": 2.719
+          },
+          {
+            "word": "were ",
+            "start": 2.73,
+            "end": 2.795
+          },
+          {
+            "word": "supposed ",
+            "start": 2.806,
+            "end": 3.197
+          },
+          {
+            "word": "to ",
+            "start": 3.208,
+            "end": 3.263
+          },
+          {
+            "word": "redistribute ",
+            "start": 3.273,
+            "end": 3.882
+          },
+          {
+            "word": "risk ",
+            "start": 3.893,
+            "end": 4.143
+          },
+          {
+            "word": "had ",
+            "start": 4.154,
+            "end": 4.263
+          },
+          {
+            "word": "instead ",
+            "start": 4.273,
+            "end": 4.599
+          },
+          {
+            "word": "concentrated ",
+            "start": 4.61,
+            "end": 5.186
+          },
+          {
+            "word": "it ",
+            "start": 5.197,
+            "end": 5.295
+          },
+          {
+            "word": "in ",
+            "start": 5.306,
+            "end": 5.371
+          },
+          {
+            "word": "a ",
+            "start": 5.382,
+            "end": 5.404
+          },
+          {
+            "word": "handful ",
+            "start": 5.415,
+            "end": 5.806
+          },
+          {
+            "word": "of ",
+            "start": 5.817,
+            "end": 5.882
+          },
+          {
+            "word": "institutions, ",
+            "start": 5.893,
+            "end": 6.599
+          },
+          {
+            "word": "most ",
+            "start": 6.763,
+            "end": 7.002
+          },
+          {
+            "word": "notably ",
+            "start": 7.013,
+            "end": 7.426
+          },
+          {
+            "word": "AIG.",
+            "start": 7.436,
+            "end": 8.002
+          }
+        ],
+        "start": 1815
       },
       {
         "type": "quote",
         "chunk_id": "ep4_problems_7",
         "audio_exists": true,
+        "audioPath": "episodes/ep4/audio/ep4_problems_7.wav",
         "text": "The tools available to the Federal Reserve and Treasury had been designed for a banking system of regulated commercial banks with transparent balance sheets.",
-        "duration": 277,
-        "bgImage": "bg_abstract.jpg",
-        "wordTimings": null,
-        "start": 2327
+        "duration": 231,
+        "bgImage": "bg_stock_red.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "tools ",
+            "start": 0.241,
+            "end": 0.523
+          },
+          {
+            "word": "available ",
+            "start": 0.534,
+            "end": 0.926
+          },
+          {
+            "word": "to ",
+            "start": 0.936,
+            "end": 1.013
+          },
+          {
+            "word": "the ",
+            "start": 1.023,
+            "end": 1.099
+          },
+          {
+            "word": "Federal ",
+            "start": 1.11,
+            "end": 1.436
+          },
+          {
+            "word": "Reserve ",
+            "start": 1.447,
+            "end": 1.828
+          },
+          {
+            "word": "and ",
+            "start": 1.839,
+            "end": 1.926
+          },
+          {
+            "word": "Treasury ",
+            "start": 1.936,
+            "end": 2.252
+          },
+          {
+            "word": "had ",
+            "start": 2.263,
+            "end": 2.404
+          },
+          {
+            "word": "been ",
+            "start": 2.415,
+            "end": 2.534
+          },
+          {
+            "word": "designed ",
+            "start": 2.545,
+            "end": 2.936
+          },
+          {
+            "word": "for ",
+            "start": 2.947,
+            "end": 3.056
+          },
+          {
+            "word": "a ",
+            "start": 3.067,
+            "end": 3.132
+          },
+          {
+            "word": "banking ",
+            "start": 3.143,
+            "end": 3.48
+          },
+          {
+            "word": "system ",
+            "start": 3.491,
+            "end": 3.817
+          },
+          {
+            "word": "of ",
+            "start": 3.828,
+            "end": 3.915
+          },
+          {
+            "word": "regulated ",
+            "start": 3.926,
+            "end": 4.415
+          },
+          {
+            "word": "commercial ",
+            "start": 4.426,
+            "end": 4.839
+          },
+          {
+            "word": "banks ",
+            "start": 4.85,
+            "end": 5.11
+          },
+          {
+            "word": "with ",
+            "start": 5.121,
+            "end": 5.241
+          },
+          {
+            "word": "transparent ",
+            "start": 5.252,
+            "end": 5.828
+          },
+          {
+            "word": "balance ",
+            "start": 5.839,
+            "end": 6.121
+          },
+          {
+            "word": "sheets.",
+            "start": 6.132,
+            "end": 6.556
+          }
+        ],
+        "start": 2090
       },
       {
         "type": "quote",
         "chunk_id": "ep4_problems_8",
         "audio_exists": true,
+        "audioPath": "episodes/ep4/audio/ep4_problems_8.wav",
         "text": "The system they were dealing with in 2008 operated in the dark — repo markets, asset-backed commercial paper, money market funds — and had no legal framework for resolution.",
-        "duration": 330,
-        "bgImage": "bg_demographics.jpg",
-        "wordTimings": null,
-        "start": 2604
+        "duration": 305,
+        "bgImage": "bg_bank_run.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.219
+          },
+          {
+            "word": "system ",
+            "start": 0.23,
+            "end": 0.567
+          },
+          {
+            "word": "they ",
+            "start": 0.578,
+            "end": 0.676
+          },
+          {
+            "word": "were ",
+            "start": 0.686,
+            "end": 0.773
+          },
+          {
+            "word": "dealing ",
+            "start": 0.784,
+            "end": 1.078
+          },
+          {
+            "word": "with ",
+            "start": 1.089,
+            "end": 1.197
+          },
+          {
+            "word": "in 2008 ",
+            "start": 1.208,
+            "end": 2.143
+          },
+          {
+            "word": "operated ",
+            "start": 2.154,
+            "end": 2.534
+          },
+          {
+            "word": "in ",
+            "start": 2.545,
+            "end": 2.621
+          },
+          {
+            "word": "the ",
+            "start": 2.632,
+            "end": 2.719
+          },
+          {
+            "word": "dark — ",
+            "start": 2.73,
+            "end": 3.067
+          },
+          {
+            "word": "repo ",
+            "start": 3.263,
+            "end": 3.556
+          },
+          {
+            "word": "markets, ",
+            "start": 3.567,
+            "end": 4.056
+          },
+          {
+            "word": "asset-backed ",
+            "start": 4.273,
+            "end": 4.806
+          },
+          {
+            "word": "commercial ",
+            "start": 4.817,
+            "end": 5.241
+          },
+          {
+            "word": "paper, ",
+            "start": 5.252,
+            "end": 5.578
+          },
+          {
+            "word": "money ",
+            "start": 5.806,
+            "end": 6.023
+          },
+          {
+            "word": "market ",
+            "start": 6.034,
+            "end": 6.382
+          },
+          {
+            "word": "funds — ",
+            "start": 6.393,
+            "end": 6.752
+          },
+          {
+            "word": "and ",
+            "start": 6.936,
+            "end": 7.034
+          },
+          {
+            "word": "had ",
+            "start": 7.045,
+            "end": 7.176
+          },
+          {
+            "word": "no ",
+            "start": 7.186,
+            "end": 7.393
+          },
+          {
+            "word": "legal ",
+            "start": 7.404,
+            "end": 7.741
+          },
+          {
+            "word": "framework ",
+            "start": 7.752,
+            "end": 8.23
+          },
+          {
+            "word": "for ",
+            "start": 8.241,
+            "end": 8.328
+          },
+          {
+            "word": "resolution.",
+            "start": 8.339,
+            "end": 8.991
+          }
+        ],
+        "start": 2321
       }
     ]
   },
   {
     "id": "ep4_solutions",
-    "title": "Episode 4 · Solutions",
-    "globalStart": 7663,
-    "duration": 2838,
+    "title": "Solutions",
+    "globalStart": 6148,
+    "duration": 2661,
     "subSlides": [
       {
         "type": "bumper",
         "start": 0,
         "duration": 90,
-        "title": "Episode 4 · Solutions"
+        "title": "Solutions"
       },
       {
         "type": "quote",
         "chunk_id": "ep4_solutions_0",
         "audio_exists": true,
+        "audioPath": "episodes/ep4/audio/ep4_solutions_0.wav",
         "text": "On October 13, 2008, nine bank chief executives were summoned to the Treasury Department. Hank Paulson presented them with a one-page term sheet: the government would purchase preferred equity in each of their institutions.",
-        "duration": 407,
-        "bgImage": "bg_lab.jpg",
-        "wordTimings": null,
+        "duration": 385,
+        "bgImage": "bg_qe_printer.jpg",
+        "wordTimings": [
+          {
+            "word": "On ",
+            "start": 0.1,
+            "end": 0.295
+          },
+          {
+            "word": "October 13, 2008, ",
+            "start": 0.306,
+            "end": 2.186
+          },
+          {
+            "word": "nine ",
+            "start": 2.317,
+            "end": 2.567
+          },
+          {
+            "word": "bank ",
+            "start": 2.578,
+            "end": 2.817
+          },
+          {
+            "word": "chief ",
+            "start": 2.828,
+            "end": 3.067
+          },
+          {
+            "word": "executives ",
+            "start": 3.078,
+            "end": 3.632
+          },
+          {
+            "word": "were ",
+            "start": 3.643,
+            "end": 3.73
+          },
+          {
+            "word": "summoned ",
+            "start": 3.741,
+            "end": 4.056
+          },
+          {
+            "word": "to ",
+            "start": 4.067,
+            "end": 4.121
+          },
+          {
+            "word": "the ",
+            "start": 4.132,
+            "end": 4.219
+          },
+          {
+            "word": "Treasury ",
+            "start": 4.23,
+            "end": 4.589
+          },
+          {
+            "word": "Department. ",
+            "start": 4.6,
+            "end": 5.176
+          },
+          {
+            "word": "Hank ",
+            "start": 5.919,
+            "end": 6.191
+          },
+          {
+            "word": "Paulson ",
+            "start": 6.202,
+            "end": 6.549
+          },
+          {
+            "word": "presented ",
+            "start": 6.56,
+            "end": 6.952
+          },
+          {
+            "word": "them ",
+            "start": 6.963,
+            "end": 7.093
+          },
+          {
+            "word": "with ",
+            "start": 7.104,
+            "end": 7.213
+          },
+          {
+            "word": "a ",
+            "start": 7.223,
+            "end": 7.267
+          },
+          {
+            "word": "one-page ",
+            "start": 7.278,
+            "end": 7.778
+          },
+          {
+            "word": "term ",
+            "start": 7.789,
+            "end": 8.039
+          },
+          {
+            "word": "sheet: ",
+            "start": 8.05,
+            "end": 8.365
+          },
+          {
+            "word": "the ",
+            "start": 8.539,
+            "end": 8.615
+          },
+          {
+            "word": "government ",
+            "start": 8.626,
+            "end": 9.017
+          },
+          {
+            "word": "would ",
+            "start": 9.028,
+            "end": 9.158
+          },
+          {
+            "word": "purchase ",
+            "start": 9.169,
+            "end": 9.517
+          },
+          {
+            "word": "preferred ",
+            "start": 9.528,
+            "end": 9.886
+          },
+          {
+            "word": "equity ",
+            "start": 9.897,
+            "end": 10.245
+          },
+          {
+            "word": "in ",
+            "start": 10.256,
+            "end": 10.365
+          },
+          {
+            "word": "each ",
+            "start": 10.376,
+            "end": 10.549
+          },
+          {
+            "word": "of ",
+            "start": 10.56,
+            "end": 10.636
+          },
+          {
+            "word": "their ",
+            "start": 10.647,
+            "end": 10.778
+          },
+          {
+            "word": "institutions.",
+            "start": 10.789,
+            "end": 11.647
+          }
+        ],
         "start": 90
       },
       {
         "type": "quote",
         "chunk_id": "ep4_solutions_1",
         "audio_exists": true,
+        "audioPath": "episodes/ep4/audio/ep4_solutions_1.wav",
         "text": "The amounts were not negotiable. The terms were not up for discussion. The meeting lasted less than an hour. All nine signed. The Federal Reserve deployed facilities that had never been used in the history of American central banking.",
-        "duration": 401,
-        "bgImage": "bg_toxicology.jpg",
-        "wordTimings": null,
-        "start": 497
+        "duration": 432,
+        "bgImage": "bg_fed_building.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.252
+          },
+          {
+            "word": "amounts ",
+            "start": 0.263,
+            "end": 0.556
+          },
+          {
+            "word": "were ",
+            "start": 0.567,
+            "end": 0.665
+          },
+          {
+            "word": "not ",
+            "start": 0.676,
+            "end": 0.893
+          },
+          {
+            "word": "negotiable. ",
+            "start": 0.904,
+            "end": 1.469
+          },
+          {
+            "word": "The ",
+            "start": 2.213,
+            "end": 2.354
+          },
+          {
+            "word": "terms ",
+            "start": 2.365,
+            "end": 2.669
+          },
+          {
+            "word": "were ",
+            "start": 2.68,
+            "end": 2.756
+          },
+          {
+            "word": "not ",
+            "start": 2.767,
+            "end": 2.963
+          },
+          {
+            "word": "up ",
+            "start": 2.973,
+            "end": 3.093
+          },
+          {
+            "word": "for ",
+            "start": 3.104,
+            "end": 3.191
+          },
+          {
+            "word": "discussion. ",
+            "start": 3.202,
+            "end": 3.789
+          },
+          {
+            "word": "The ",
+            "start": 4.539,
+            "end": 4.669
+          },
+          {
+            "word": "meeting ",
+            "start": 4.68,
+            "end": 4.984
+          },
+          {
+            "word": "lasted ",
+            "start": 4.995,
+            "end": 5.343
+          },
+          {
+            "word": "less ",
+            "start": 5.354,
+            "end": 5.593
+          },
+          {
+            "word": "than ",
+            "start": 5.604,
+            "end": 5.713
+          },
+          {
+            "word": "an ",
+            "start": 5.723,
+            "end": 5.789
+          },
+          {
+            "word": "hour. ",
+            "start": 5.8,
+            "end": 6.136
+          },
+          {
+            "word": "All ",
+            "start": 6.886,
+            "end": 7.126
+          },
+          {
+            "word": "nine ",
+            "start": 7.136,
+            "end": 7.397
+          },
+          {
+            "word": "signed. ",
+            "start": 7.408,
+            "end": 7.908
+          },
+          {
+            "word": "The ",
+            "start": 8.658,
+            "end": 8.789
+          },
+          {
+            "word": "Federal ",
+            "start": 8.8,
+            "end": 9.147
+          },
+          {
+            "word": "Reserve ",
+            "start": 9.158,
+            "end": 9.484
+          },
+          {
+            "word": "deployed ",
+            "start": 9.495,
+            "end": 9.843
+          },
+          {
+            "word": "facilities ",
+            "start": 9.854,
+            "end": 10.332
+          },
+          {
+            "word": "that ",
+            "start": 10.343,
+            "end": 10.452
+          },
+          {
+            "word": "had ",
+            "start": 10.463,
+            "end": 10.571
+          },
+          {
+            "word": "never ",
+            "start": 10.582,
+            "end": 10.832
+          },
+          {
+            "word": "been ",
+            "start": 10.843,
+            "end": 11.006
+          },
+          {
+            "word": "used ",
+            "start": 11.017,
+            "end": 11.321
+          },
+          {
+            "word": "in ",
+            "start": 11.332,
+            "end": 11.386
+          },
+          {
+            "word": "the ",
+            "start": 11.397,
+            "end": 11.463
+          },
+          {
+            "word": "history ",
+            "start": 11.473,
+            "end": 11.843
+          },
+          {
+            "word": "of ",
+            "start": 11.854,
+            "end": 11.93
+          },
+          {
+            "word": "American ",
+            "start": 11.941,
+            "end": 12.365
+          },
+          {
+            "word": "central ",
+            "start": 12.376,
+            "end": 12.745
+          },
+          {
+            "word": "banking.",
+            "start": 12.756,
+            "end": 13.202
+          }
+        ],
+        "start": 475
       },
       {
         "type": "quote",
         "chunk_id": "ep4_solutions_2",
         "audio_exists": true,
+        "audioPath": "episodes/ep4/audio/ep4_solutions_2.wav",
         "text": "The Commercial Paper Funding Facility. The Term Securities Lending Facility. The Primary Dealer Credit Facility. At their peak in December 2008, these emergency facilities had approximately one-and-a-half trillion dollars outstanding.",
-        "duration": 435,
-        "bgImage": "bg_toxicology.jpg",
-        "wordTimings": null,
-        "start": 898
+        "duration": 442,
+        "bgImage": "bg_imf_meeting.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "Commercial ",
+            "start": 0.241,
+            "end": 0.665
+          },
+          {
+            "word": "Paper ",
+            "start": 0.676,
+            "end": 0.936
+          },
+          {
+            "word": "Funding ",
+            "start": 0.947,
+            "end": 1.317
+          },
+          {
+            "word": "Facility. ",
+            "start": 1.328,
+            "end": 1.86
+          },
+          {
+            "word": "The ",
+            "start": 2.604,
+            "end": 2.745
+          },
+          {
+            "word": "Term ",
+            "start": 2.756,
+            "end": 3.006
+          },
+          {
+            "word": "Securities ",
+            "start": 3.017,
+            "end": 3.571
+          },
+          {
+            "word": "Lending ",
+            "start": 3.582,
+            "end": 3.876
+          },
+          {
+            "word": "Facility. ",
+            "start": 3.886,
+            "end": 4.408
+          },
+          {
+            "word": "The ",
+            "start": 5.158,
+            "end": 5.299
+          },
+          {
+            "word": "Primary ",
+            "start": 5.31,
+            "end": 5.713
+          },
+          {
+            "word": "Dealer ",
+            "start": 5.723,
+            "end": 5.984
+          },
+          {
+            "word": "Credit ",
+            "start": 5.995,
+            "end": 6.289
+          },
+          {
+            "word": "Facility. ",
+            "start": 6.3,
+            "end": 6.81
+          },
+          {
+            "word": "At ",
+            "start": 7.56,
+            "end": 7.713
+          },
+          {
+            "word": "their ",
+            "start": 7.723,
+            "end": 7.854
+          },
+          {
+            "word": "peak ",
+            "start": 7.865,
+            "end": 8.115
+          },
+          {
+            "word": "in ",
+            "start": 8.126,
+            "end": 8.202
+          },
+          {
+            "word": "December 2008, ",
+            "start": 8.213,
+            "end": 9.473
+          },
+          {
+            "word": "these ",
+            "start": 9.647,
+            "end": 9.865
+          },
+          {
+            "word": "emergency ",
+            "start": 9.876,
+            "end": 10.354
+          },
+          {
+            "word": "facilities ",
+            "start": 10.365,
+            "end": 10.897
+          },
+          {
+            "word": "had ",
+            "start": 10.908,
+            "end": 11.017
+          },
+          {
+            "word": "approximately ",
+            "start": 11.028,
+            "end": 11.539
+          },
+          {
+            "word": "one-and-a-half ",
+            "start": 11.55,
+            "end": 12.169
+          },
+          {
+            "word": "trillion ",
+            "start": 12.18,
+            "end": 12.517
+          },
+          {
+            "word": "dollars ",
+            "start": 12.528,
+            "end": 12.843
+          },
+          {
+            "word": "outstanding.",
+            "start": 12.854,
+            "end": 13.539
+          }
+        ],
+        "start": 907
       },
       {
         "type": "quote",
         "chunk_id": "ep4_solutions_3",
         "audio_exists": true,
+        "audioPath": "episodes/ep4/audio/ep4_solutions_3.wav",
         "text": "The Fed's balance sheet rose from nine hundred billion to two-point-three trillion in four months.",
-        "duration": 185,
-        "bgImage": "bg_lifestyle.jpg",
-        "wordTimings": null,
-        "start": 1333
+        "duration": 161,
+        "bgImage": "bg_city_night.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.219
+          },
+          {
+            "word": "Fed's ",
+            "start": 0.23,
+            "end": 0.48
+          },
+          {
+            "word": "balance ",
+            "start": 0.491,
+            "end": 0.763
+          },
+          {
+            "word": "sheet ",
+            "start": 0.773,
+            "end": 1.002
+          },
+          {
+            "word": "rose ",
+            "start": 1.013,
+            "end": 1.263
+          },
+          {
+            "word": "from ",
+            "start": 1.273,
+            "end": 1.404
+          },
+          {
+            "word": "nine ",
+            "start": 1.415,
+            "end": 1.654
+          },
+          {
+            "word": "hundred ",
+            "start": 1.665,
+            "end": 1.936
+          },
+          {
+            "word": "billion ",
+            "start": 1.947,
+            "end": 2.263
+          },
+          {
+            "word": "to ",
+            "start": 2.273,
+            "end": 2.36
+          },
+          {
+            "word": "two-point-three ",
+            "start": 2.371,
+            "end": 3.023
+          },
+          {
+            "word": "trillion ",
+            "start": 3.034,
+            "end": 3.415
+          },
+          {
+            "word": "in ",
+            "start": 3.426,
+            "end": 3.534
+          },
+          {
+            "word": "four ",
+            "start": 3.545,
+            "end": 3.719
+          },
+          {
+            "word": "months.",
+            "start": 3.73,
+            "end": 4.197
+          }
+        ],
+        "start": 1349
       },
       {
         "type": "quote",
         "chunk_id": "ep4_solutions_4",
         "audio_exists": true,
+        "audioPath": "episodes/ep4/audio/ep4_solutions_4.wav",
         "text": "Congress passed the seven-hundred-billion-dollar Troubled Asset Relief Program — which then, in a pivot that surprised everyone, was used primarily to purchase equity stakes rather than troubled assets.",
-        "duration": 362,
-        "bgImage": "bg_lifestyle.jpg",
-        "wordTimings": null,
-        "start": 1518
+        "duration": 298,
+        "bgImage": "bg_qe_printer.jpg",
+        "wordTimings": [
+          {
+            "word": "Congress ",
+            "start": 0.1,
+            "end": 0.545
+          },
+          {
+            "word": "passed ",
+            "start": 0.556,
+            "end": 0.828
+          },
+          {
+            "word": "the ",
+            "start": 0.839,
+            "end": 0.904
+          },
+          {
+            "word": "seven-hundred-billion-dollar ",
+            "start": 0.915,
+            "end": 1.947
+          },
+          {
+            "word": "Troubled ",
+            "start": 1.958,
+            "end": 2.263
+          },
+          {
+            "word": "Asset ",
+            "start": 2.273,
+            "end": 2.589
+          },
+          {
+            "word": "Relief ",
+            "start": 2.6,
+            "end": 2.893
+          },
+          {
+            "word": "Program — ",
+            "start": 2.904,
+            "end": 3.349
+          },
+          {
+            "word": "which ",
+            "start": 3.502,
+            "end": 3.654
+          },
+          {
+            "word": "then, ",
+            "start": 3.665,
+            "end": 3.86
+          },
+          {
+            "word": "in ",
+            "start": 4.078,
+            "end": 4.165
+          },
+          {
+            "word": "a ",
+            "start": 4.176,
+            "end": 4.23
+          },
+          {
+            "word": "pivot ",
+            "start": 4.241,
+            "end": 4.458
+          },
+          {
+            "word": "that ",
+            "start": 4.469,
+            "end": 4.589
+          },
+          {
+            "word": "surprised ",
+            "start": 4.6,
+            "end": 5.034
+          },
+          {
+            "word": "everyone, ",
+            "start": 5.045,
+            "end": 5.426
+          },
+          {
+            "word": "was ",
+            "start": 5.545,
+            "end": 5.676
+          },
+          {
+            "word": "used ",
+            "start": 5.686,
+            "end": 5.915
+          },
+          {
+            "word": "primarily ",
+            "start": 5.926,
+            "end": 6.382
+          },
+          {
+            "word": "to ",
+            "start": 6.393,
+            "end": 6.491
+          },
+          {
+            "word": "purchase ",
+            "start": 6.502,
+            "end": 6.893
+          },
+          {
+            "word": "equity ",
+            "start": 6.904,
+            "end": 7.219
+          },
+          {
+            "word": "stakes ",
+            "start": 7.23,
+            "end": 7.523
+          },
+          {
+            "word": "rather ",
+            "start": 7.534,
+            "end": 7.828
+          },
+          {
+            "word": "than ",
+            "start": 7.839,
+            "end": 7.969
+          },
+          {
+            "word": "troubled ",
+            "start": 7.98,
+            "end": 8.273
+          },
+          {
+            "word": "assets.",
+            "start": 8.284,
+            "end": 8.773
+          }
+        ],
+        "start": 1510
       },
       {
         "type": "quote",
         "chunk_id": "ep4_solutions_5",
         "audio_exists": true,
+        "audioPath": "episodes/ep4/audio/ep4_solutions_5.wav",
         "text": "The American Recovery and Reinvestment Act added seven-hundred-and-eighty-seven billion in fiscal stimulus in February 2009. Three rounds of quantitative easing eventually brought the Fed's balance sheet to four-and-a-half trillion dollars.",
-        "duration": 449,
-        "bgImage": "bg_toxicology.jpg",
-        "wordTimings": null,
-        "start": 1880
+        "duration": 388,
+        "bgImage": "bg_fed_building.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.263
+          },
+          {
+            "word": "American ",
+            "start": 0.273,
+            "end": 0.686
+          },
+          {
+            "word": "Recovery ",
+            "start": 0.697,
+            "end": 1.176
+          },
+          {
+            "word": "and ",
+            "start": 1.186,
+            "end": 1.328
+          },
+          {
+            "word": "Reinvestment ",
+            "start": 1.339,
+            "end": 2.013
+          },
+          {
+            "word": "Act ",
+            "start": 2.023,
+            "end": 2.208
+          },
+          {
+            "word": "added ",
+            "start": 2.219,
+            "end": 2.436
+          },
+          {
+            "word": "seven-hundred-and-eighty-seven ",
+            "start": 2.447,
+            "end": 3.48
+          },
+          {
+            "word": "billion ",
+            "start": 3.491,
+            "end": 3.839
+          },
+          {
+            "word": "in ",
+            "start": 3.85,
+            "end": 3.969
+          },
+          {
+            "word": "fiscal ",
+            "start": 3.98,
+            "end": 4.339
+          },
+          {
+            "word": "stimulus ",
+            "start": 4.35,
+            "end": 4.784
+          },
+          {
+            "word": "in ",
+            "start": 4.795,
+            "end": 4.926
+          },
+          {
+            "word": "February 2009. ",
+            "start": 4.936,
+            "end": 6.404
+          },
+          {
+            "word": "Three ",
+            "start": 7.147,
+            "end": 7.419
+          },
+          {
+            "word": "rounds ",
+            "start": 7.43,
+            "end": 7.713
+          },
+          {
+            "word": "of ",
+            "start": 7.723,
+            "end": 7.789
+          },
+          {
+            "word": "quantitative ",
+            "start": 7.8,
+            "end": 8.278
+          },
+          {
+            "word": "easing ",
+            "start": 8.289,
+            "end": 8.571
+          },
+          {
+            "word": "eventually ",
+            "start": 8.582,
+            "end": 8.984
+          },
+          {
+            "word": "brought ",
+            "start": 8.995,
+            "end": 9.234
+          },
+          {
+            "word": "the ",
+            "start": 9.245,
+            "end": 9.31
+          },
+          {
+            "word": "Fed's ",
+            "start": 9.321,
+            "end": 9.593
+          },
+          {
+            "word": "balance ",
+            "start": 9.604,
+            "end": 9.919
+          },
+          {
+            "word": "sheet ",
+            "start": 9.93,
+            "end": 10.158
+          },
+          {
+            "word": "to ",
+            "start": 10.169,
+            "end": 10.245
+          },
+          {
+            "word": "four-and-a-half ",
+            "start": 10.256,
+            "end": 10.93
+          },
+          {
+            "word": "trillion ",
+            "start": 10.941,
+            "end": 11.299
+          },
+          {
+            "word": "dollars.",
+            "start": 11.31,
+            "end": 11.745
+          }
+        ],
+        "start": 1808
       },
       {
         "type": "quote",
         "chunk_id": "ep4_solutions_6",
         "audio_exists": true,
+        "audioPath": "episodes/ep4/audio/ep4_solutions_6.wav",
         "text": "Interest rates were held at the zero lower bound for seven years. The response was unprecedented in scale and speed.",
         "duration": 221,
-        "bgImage": "bg_toxicology.jpg",
-        "wordTimings": null,
-        "start": 2329
+        "bgImage": "bg_imf_meeting.jpg",
+        "wordTimings": [
+          {
+            "word": "Interest ",
+            "start": 0.1,
+            "end": 0.545
+          },
+          {
+            "word": "rates ",
+            "start": 0.556,
+            "end": 0.795
+          },
+          {
+            "word": "were ",
+            "start": 0.806,
+            "end": 0.893
+          },
+          {
+            "word": "held ",
+            "start": 0.904,
+            "end": 1.165
+          },
+          {
+            "word": "at ",
+            "start": 1.176,
+            "end": 1.23
+          },
+          {
+            "word": "the ",
+            "start": 1.241,
+            "end": 1.317
+          },
+          {
+            "word": "zero ",
+            "start": 1.328,
+            "end": 1.621
+          },
+          {
+            "word": "lower ",
+            "start": 1.632,
+            "end": 1.915
+          },
+          {
+            "word": "bound ",
+            "start": 1.926,
+            "end": 2.208
+          },
+          {
+            "word": "for ",
+            "start": 2.219,
+            "end": 2.306
+          },
+          {
+            "word": "seven ",
+            "start": 2.317,
+            "end": 2.621
+          },
+          {
+            "word": "years. ",
+            "start": 2.632,
+            "end": 3.078
+          },
+          {
+            "word": "The ",
+            "start": 3.821,
+            "end": 3.952
+          },
+          {
+            "word": "response ",
+            "start": 3.963,
+            "end": 4.386
+          },
+          {
+            "word": "was ",
+            "start": 4.397,
+            "end": 4.549
+          },
+          {
+            "word": "unprecedented ",
+            "start": 4.56,
+            "end": 5.202
+          },
+          {
+            "word": "in ",
+            "start": 5.213,
+            "end": 5.321
+          },
+          {
+            "word": "scale ",
+            "start": 5.332,
+            "end": 5.713
+          },
+          {
+            "word": "and ",
+            "start": 5.723,
+            "end": 5.81
+          },
+          {
+            "word": "speed.",
+            "start": 5.821,
+            "end": 6.267
+          }
+        ],
+        "start": 2196
       },
       {
         "type": "quote",
         "chunk_id": "ep4_solutions_7",
         "audio_exists": true,
+        "audioPath": "episodes/ep4/audio/ep4_solutions_7.wav",
         "text": "It was also incomplete — the fiscal stimulus was smaller than most economists believed necessary, and the recovery was the slowest since the Great Depression.",
-        "duration": 288,
-        "bgImage": "bg_lifestyle.jpg",
-        "wordTimings": null,
-        "start": 2550
+        "duration": 244,
+        "bgImage": "bg_city_night.jpg",
+        "wordTimings": [
+          {
+            "word": "It ",
+            "start": 0.1,
+            "end": 0.241
+          },
+          {
+            "word": "was ",
+            "start": 0.252,
+            "end": 0.371
+          },
+          {
+            "word": "also ",
+            "start": 0.382,
+            "end": 0.632
+          },
+          {
+            "word": "incomplete — ",
+            "start": 0.643,
+            "end": 1.165
+          },
+          {
+            "word": "the ",
+            "start": 1.328,
+            "end": 1.393
+          },
+          {
+            "word": "fiscal ",
+            "start": 1.404,
+            "end": 1.73
+          },
+          {
+            "word": "stimulus ",
+            "start": 1.741,
+            "end": 2.165
+          },
+          {
+            "word": "was ",
+            "start": 2.176,
+            "end": 2.317
+          },
+          {
+            "word": "smaller ",
+            "start": 2.328,
+            "end": 2.665
+          },
+          {
+            "word": "than ",
+            "start": 2.676,
+            "end": 2.806
+          },
+          {
+            "word": "most ",
+            "start": 2.817,
+            "end": 3.056
+          },
+          {
+            "word": "economists ",
+            "start": 3.067,
+            "end": 3.513
+          },
+          {
+            "word": "believed ",
+            "start": 3.523,
+            "end": 3.882
+          },
+          {
+            "word": "necessary, ",
+            "start": 3.893,
+            "end": 4.404
+          },
+          {
+            "word": "and ",
+            "start": 4.632,
+            "end": 4.719
+          },
+          {
+            "word": "the ",
+            "start": 4.73,
+            "end": 4.795
+          },
+          {
+            "word": "recovery ",
+            "start": 4.806,
+            "end": 5.208
+          },
+          {
+            "word": "was ",
+            "start": 5.219,
+            "end": 5.371
+          },
+          {
+            "word": "the ",
+            "start": 5.382,
+            "end": 5.458
+          },
+          {
+            "word": "slowest ",
+            "start": 5.469,
+            "end": 5.871
+          },
+          {
+            "word": "since ",
+            "start": 5.882,
+            "end": 6.067
+          },
+          {
+            "word": "the ",
+            "start": 6.078,
+            "end": 6.165
+          },
+          {
+            "word": "Great ",
+            "start": 6.176,
+            "end": 6.436
+          },
+          {
+            "word": "Depression.",
+            "start": 6.447,
+            "end": 6.958
+          }
+        ],
+        "start": 2417
       }
     ]
   },
   {
     "id": "ep4_results",
-    "title": "Episode 4 · Results",
-    "globalStart": 10501,
-    "duration": 2994,
+    "title": "Results",
+    "globalStart": 8809,
+    "duration": 3371,
     "subSlides": [
       {
         "type": "bumper",
         "start": 0,
         "duration": 90,
-        "title": "Episode 4 · Results"
+        "title": "Results"
       },
       {
         "type": "quote",
         "chunk_id": "ep4_results_0",
         "audio_exists": true,
+        "audioPath": "episodes/ep4/audio/ep4_results_0.wav",
         "text": "The 2008 crisis response prevented the second Great Depression. That is the baseline, and it matters.",
         "duration": 213,
-        "bgImage": "bg_abstract.jpg",
-        "wordTimings": null,
+        "bgImage": "bg_recovery.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.241
+          },
+          {
+            "word": "2008 ",
+            "start": 0.252,
+            "end": 0.98
+          },
+          {
+            "word": "crisis ",
+            "start": 0.991,
+            "end": 1.371
+          },
+          {
+            "word": "response ",
+            "start": 1.382,
+            "end": 1.773
+          },
+          {
+            "word": "prevented ",
+            "start": 1.784,
+            "end": 2.154
+          },
+          {
+            "word": "the ",
+            "start": 2.165,
+            "end": 2.23
+          },
+          {
+            "word": "second ",
+            "start": 2.241,
+            "end": 2.545
+          },
+          {
+            "word": "Great ",
+            "start": 2.556,
+            "end": 2.806
+          },
+          {
+            "word": "Depression. ",
+            "start": 2.817,
+            "end": 3.317
+          },
+          {
+            "word": "That ",
+            "start": 4.06,
+            "end": 4.278
+          },
+          {
+            "word": "is ",
+            "start": 4.289,
+            "end": 4.386
+          },
+          {
+            "word": "the ",
+            "start": 4.397,
+            "end": 4.495
+          },
+          {
+            "word": "baseline, ",
+            "start": 4.506,
+            "end": 5.082
+          },
+          {
+            "word": "and ",
+            "start": 5.245,
+            "end": 5.332
+          },
+          {
+            "word": "it ",
+            "start": 5.343,
+            "end": 5.419
+          },
+          {
+            "word": "matters.",
+            "start": 5.43,
+            "end": 5.93
+          }
+        ],
         "start": 90
       },
       {
         "type": "quote",
         "chunk_id": "ep4_results_1",
         "audio_exists": true,
+        "audioPath": "episodes/ep4/audio/ep4_results_1.wav",
         "text": "The bank run cascade that Bernanke, Paulson, and Geithner feared — banks failing, depositors losing everything, credit markets permanently frozen — did not happen. The financial system was stabilised.",
         "duration": 364,
-        "bgImage": "bg_lifestyle.jpg",
-        "wordTimings": null,
+        "bgImage": "bg_city_night.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.241
+          },
+          {
+            "word": "bank ",
+            "start": 0.252,
+            "end": 0.523
+          },
+          {
+            "word": "run ",
+            "start": 0.534,
+            "end": 0.741
+          },
+          {
+            "word": "cascade ",
+            "start": 0.752,
+            "end": 1.186
+          },
+          {
+            "word": "that ",
+            "start": 1.197,
+            "end": 1.349
+          },
+          {
+            "word": "Bernanke, ",
+            "start": 1.36,
+            "end": 1.86
+          },
+          {
+            "word": "Paulson, ",
+            "start": 2.067,
+            "end": 2.48
+          },
+          {
+            "word": "and ",
+            "start": 2.6,
+            "end": 2.686
+          },
+          {
+            "word": "Geithner ",
+            "start": 2.697,
+            "end": 3.013
+          },
+          {
+            "word": "feared — ",
+            "start": 3.023,
+            "end": 3.36
+          },
+          {
+            "word": "banks ",
+            "start": 3.534,
+            "end": 3.773
+          },
+          {
+            "word": "failing, ",
+            "start": 3.784,
+            "end": 4.121
+          },
+          {
+            "word": "depositors ",
+            "start": 4.284,
+            "end": 4.817
+          },
+          {
+            "word": "losing ",
+            "start": 4.828,
+            "end": 5.143
+          },
+          {
+            "word": "everything, ",
+            "start": 5.154,
+            "end": 5.534
+          },
+          {
+            "word": "credit ",
+            "start": 5.741,
+            "end": 6.045
+          },
+          {
+            "word": "markets ",
+            "start": 6.056,
+            "end": 6.426
+          },
+          {
+            "word": "permanently ",
+            "start": 6.436,
+            "end": 6.947
+          },
+          {
+            "word": "frozen — ",
+            "start": 6.958,
+            "end": 7.404
+          },
+          {
+            "word": "did ",
+            "start": 7.556,
+            "end": 7.686
+          },
+          {
+            "word": "not ",
+            "start": 7.697,
+            "end": 7.893
+          },
+          {
+            "word": "happen. ",
+            "start": 7.904,
+            "end": 8.306
+          },
+          {
+            "word": "The ",
+            "start": 9.05,
+            "end": 9.169
+          },
+          {
+            "word": "financial ",
+            "start": 9.18,
+            "end": 9.68
+          },
+          {
+            "word": "system ",
+            "start": 9.691,
+            "end": 10.049
+          },
+          {
+            "word": "was ",
+            "start": 10.06,
+            "end": 10.18
+          },
+          {
+            "word": "stabilised.",
+            "start": 10.191,
+            "end": 10.919
+          }
+        ],
         "start": 303
       },
       {
         "type": "quote",
         "chunk_id": "ep4_results_2",
         "audio_exists": true,
+        "audioPath": "episodes/ep4/audio/ep4_results_2.wav",
         "text": "GDP bottomed out and began recovering in mid-2009. But the recovery was deeply unequal. The top one percent of American households captured ninety-one percent of income gains between 2009 and 2012. Seven million households were foreclosed.",
-        "duration": 496,
-        "bgImage": "bg_demographics.jpg",
-        "wordTimings": null,
+        "duration": 501,
+        "bgImage": "bg_interest_chart.jpg",
+        "wordTimings": [
+          {
+            "word": "GDP ",
+            "start": 0.1,
+            "end": 0.61
+          },
+          {
+            "word": "bottomed ",
+            "start": 0.621,
+            "end": 0.936
+          },
+          {
+            "word": "out ",
+            "start": 0.947,
+            "end": 1.176
+          },
+          {
+            "word": "and ",
+            "start": 1.186,
+            "end": 1.252
+          },
+          {
+            "word": "began ",
+            "start": 1.263,
+            "end": 1.556
+          },
+          {
+            "word": "recovering ",
+            "start": 1.567,
+            "end": 2.034
+          },
+          {
+            "word": "in ",
+            "start": 2.045,
+            "end": 2.143
+          },
+          {
+            "word": "mid-2009. ",
+            "start": 2.154,
+            "end": 3.502
+          },
+          {
+            "word": "But ",
+            "start": 4.245,
+            "end": 4.397
+          },
+          {
+            "word": "the ",
+            "start": 4.408,
+            "end": 4.473
+          },
+          {
+            "word": "recovery ",
+            "start": 4.484,
+            "end": 4.897
+          },
+          {
+            "word": "was ",
+            "start": 4.908,
+            "end": 5.071
+          },
+          {
+            "word": "deeply ",
+            "start": 5.082,
+            "end": 5.419
+          },
+          {
+            "word": "unequal. ",
+            "start": 5.43,
+            "end": 5.919
+          },
+          {
+            "word": "The ",
+            "start": 6.669,
+            "end": 6.799
+          },
+          {
+            "word": "top ",
+            "start": 6.81,
+            "end": 7.017
+          },
+          {
+            "word": "one ",
+            "start": 7.028,
+            "end": 7.191
+          },
+          {
+            "word": "percent ",
+            "start": 7.202,
+            "end": 7.528
+          },
+          {
+            "word": "of ",
+            "start": 7.539,
+            "end": 7.626
+          },
+          {
+            "word": "American ",
+            "start": 7.636,
+            "end": 8.039
+          },
+          {
+            "word": "households ",
+            "start": 8.05,
+            "end": 8.528
+          },
+          {
+            "word": "captured ",
+            "start": 8.539,
+            "end": 8.886
+          },
+          {
+            "word": "ninety-one ",
+            "start": 8.897,
+            "end": 9.386
+          },
+          {
+            "word": "percent ",
+            "start": 9.397,
+            "end": 9.723
+          },
+          {
+            "word": "of ",
+            "start": 9.734,
+            "end": 9.81
+          },
+          {
+            "word": "income ",
+            "start": 9.821,
+            "end": 10.115
+          },
+          {
+            "word": "gains ",
+            "start": 10.126,
+            "end": 10.495
+          },
+          {
+            "word": "between 2009 and 2012. ",
+            "start": 10.506,
+            "end": 12.68
+          },
+          {
+            "word": "Seven ",
+            "start": 13.43,
+            "end": 13.821
+          },
+          {
+            "word": "million ",
+            "start": 13.832,
+            "end": 14.115
+          },
+          {
+            "word": "households ",
+            "start": 14.126,
+            "end": 14.636
+          },
+          {
+            "word": "were ",
+            "start": 14.647,
+            "end": 14.745
+          },
+          {
+            "word": "foreclosed.",
+            "start": 14.756,
+            "end": 15.506
+          }
+        ],
         "start": 667
       },
       {
         "type": "quote",
         "chunk_id": "ep4_results_3",
         "audio_exists": true,
+        "audioPath": "episodes/ep4/audio/ep4_results_3.wav",
         "text": "The scarring effects on young workers who graduated into the crisis — studies showed persistent wage penalties of eight to twelve percent extending a decade into their careers. The institutional response was genuine.",
-        "duration": 386,
-        "bgImage": "bg_demographics.jpg",
-        "wordTimings": null,
-        "start": 1163
+        "duration": 352,
+        "bgImage": "bg_wallstreet.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "scarring ",
+            "start": 0.241,
+            "end": 0.654
+          },
+          {
+            "word": "effects ",
+            "start": 0.665,
+            "end": 0.991
+          },
+          {
+            "word": "on ",
+            "start": 1.002,
+            "end": 1.11
+          },
+          {
+            "word": "young ",
+            "start": 1.121,
+            "end": 1.339
+          },
+          {
+            "word": "workers ",
+            "start": 1.35,
+            "end": 1.686
+          },
+          {
+            "word": "who ",
+            "start": 1.697,
+            "end": 1.784
+          },
+          {
+            "word": "graduated ",
+            "start": 1.795,
+            "end": 2.306
+          },
+          {
+            "word": "into ",
+            "start": 2.317,
+            "end": 2.523
+          },
+          {
+            "word": "the ",
+            "start": 2.534,
+            "end": 2.61
+          },
+          {
+            "word": "crisis — ",
+            "start": 2.621,
+            "end": 3.11
+          },
+          {
+            "word": "studies ",
+            "start": 3.263,
+            "end": 3.61
+          },
+          {
+            "word": "showed ",
+            "start": 3.621,
+            "end": 3.839
+          },
+          {
+            "word": "persistent ",
+            "start": 3.85,
+            "end": 4.295
+          },
+          {
+            "word": "wage ",
+            "start": 4.306,
+            "end": 4.567
+          },
+          {
+            "word": "penalties ",
+            "start": 4.578,
+            "end": 5.002
+          },
+          {
+            "word": "of ",
+            "start": 5.013,
+            "end": 5.089
+          },
+          {
+            "word": "eight ",
+            "start": 5.1,
+            "end": 5.241
+          },
+          {
+            "word": "to ",
+            "start": 5.252,
+            "end": 5.328
+          },
+          {
+            "word": "twelve ",
+            "start": 5.339,
+            "end": 5.632
+          },
+          {
+            "word": "percent ",
+            "start": 5.643,
+            "end": 5.991
+          },
+          {
+            "word": "extending ",
+            "start": 6.002,
+            "end": 6.415
+          },
+          {
+            "word": "a ",
+            "start": 6.426,
+            "end": 6.491
+          },
+          {
+            "word": "decade ",
+            "start": 6.502,
+            "end": 6.86
+          },
+          {
+            "word": "into ",
+            "start": 6.871,
+            "end": 7.1
+          },
+          {
+            "word": "their ",
+            "start": 7.11,
+            "end": 7.252
+          },
+          {
+            "word": "careers. ",
+            "start": 7.263,
+            "end": 7.839
+          },
+          {
+            "word": "The ",
+            "start": 8.582,
+            "end": 8.723
+          },
+          {
+            "word": "institutional ",
+            "start": 8.734,
+            "end": 9.441
+          },
+          {
+            "word": "response ",
+            "start": 9.452,
+            "end": 9.854
+          },
+          {
+            "word": "was ",
+            "start": 9.865,
+            "end": 10.017
+          },
+          {
+            "word": "genuine.",
+            "start": 10.028,
+            "end": 10.539
+          }
+        ],
+        "start": 1168
       },
       {
         "type": "quote",
         "chunk_id": "ep4_results_4",
         "audio_exists": true,
+        "audioPath": "episodes/ep4/audio/ep4_results_4.wav",
         "text": "Basel Three increased required capital ratios and introduced liquidity requirements. The Dodd-Frank Act created the Financial Stability Oversight Council and the Consumer Financial Protection Bureau. Annual stress tests became standard.",
-        "duration": 444,
-        "bgImage": "bg_lab.jpg",
-        "wordTimings": null,
-        "start": 1549
+        "duration": 417,
+        "bgImage": "bg_recovery.jpg",
+        "wordTimings": [
+          {
+            "word": "Basel ",
+            "start": 0.1,
+            "end": 0.513
+          },
+          {
+            "word": "Three ",
+            "start": 0.523,
+            "end": 0.784
+          },
+          {
+            "word": "increased ",
+            "start": 0.795,
+            "end": 1.23
+          },
+          {
+            "word": "required ",
+            "start": 1.241,
+            "end": 1.665
+          },
+          {
+            "word": "capital ",
+            "start": 1.676,
+            "end": 2.056
+          },
+          {
+            "word": "ratios ",
+            "start": 2.067,
+            "end": 2.523
+          },
+          {
+            "word": "and ",
+            "start": 2.534,
+            "end": 2.654
+          },
+          {
+            "word": "introduced ",
+            "start": 2.665,
+            "end": 3.176
+          },
+          {
+            "word": "liquidity ",
+            "start": 3.186,
+            "end": 3.621
+          },
+          {
+            "word": "requirements. ",
+            "start": 3.632,
+            "end": 4.317
+          },
+          {
+            "word": "The ",
+            "start": 5.06,
+            "end": 5.191
+          },
+          {
+            "word": "Dodd-Frank ",
+            "start": 5.202,
+            "end": 5.636
+          },
+          {
+            "word": "Act ",
+            "start": 5.647,
+            "end": 5.832
+          },
+          {
+            "word": "created ",
+            "start": 5.843,
+            "end": 6.245
+          },
+          {
+            "word": "the ",
+            "start": 6.256,
+            "end": 6.321
+          },
+          {
+            "word": "Financial ",
+            "start": 6.332,
+            "end": 6.832
+          },
+          {
+            "word": "Stability ",
+            "start": 6.843,
+            "end": 7.332
+          },
+          {
+            "word": "Oversight ",
+            "start": 7.343,
+            "end": 7.756
+          },
+          {
+            "word": "Council ",
+            "start": 7.767,
+            "end": 8.213
+          },
+          {
+            "word": "and ",
+            "start": 8.223,
+            "end": 8.278
+          },
+          {
+            "word": "the ",
+            "start": 8.289,
+            "end": 8.343
+          },
+          {
+            "word": "Consumer ",
+            "start": 8.354,
+            "end": 8.756
+          },
+          {
+            "word": "Financial ",
+            "start": 8.767,
+            "end": 9.245
+          },
+          {
+            "word": "Protection ",
+            "start": 9.256,
+            "end": 9.713
+          },
+          {
+            "word": "Bureau. ",
+            "start": 9.723,
+            "end": 10.169
+          },
+          {
+            "word": "Annual ",
+            "start": 10.919,
+            "end": 11.278
+          },
+          {
+            "word": "stress ",
+            "start": 11.289,
+            "end": 11.593
+          },
+          {
+            "word": "tests ",
+            "start": 11.604,
+            "end": 11.93
+          },
+          {
+            "word": "became ",
+            "start": 11.941,
+            "end": 12.256
+          },
+          {
+            "word": "standard.",
+            "start": 12.267,
+            "end": 12.734
+          }
+        ],
+        "start": 1520
       },
       {
         "type": "quote",
         "chunk_id": "ep4_results_5",
         "audio_exists": true,
+        "audioPath": "episodes/ep4/audio/ep4_results_5.wav",
         "text": "The systemically important financial institutions were identified and subjected to enhanced supervision. But the distributional reckoning did not occur.",
-        "duration": 287,
-        "bgImage": "bg_toxicology.jpg",
-        "wordTimings": null,
-        "start": 1993
+        "duration": 263,
+        "bgImage": "bg_city_night.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.241
+          },
+          {
+            "word": "systemically ",
+            "start": 0.252,
+            "end": 0.784
+          },
+          {
+            "word": "important ",
+            "start": 0.795,
+            "end": 1.219
+          },
+          {
+            "word": "financial ",
+            "start": 1.23,
+            "end": 1.741
+          },
+          {
+            "word": "institutions ",
+            "start": 1.752,
+            "end": 2.415
+          },
+          {
+            "word": "were ",
+            "start": 2.426,
+            "end": 2.578
+          },
+          {
+            "word": "identified ",
+            "start": 2.589,
+            "end": 3.165
+          },
+          {
+            "word": "and ",
+            "start": 3.176,
+            "end": 3.263
+          },
+          {
+            "word": "subjected ",
+            "start": 3.273,
+            "end": 3.773
+          },
+          {
+            "word": "to ",
+            "start": 3.784,
+            "end": 3.86
+          },
+          {
+            "word": "enhanced ",
+            "start": 3.871,
+            "end": 4.263
+          },
+          {
+            "word": "supervision. ",
+            "start": 4.273,
+            "end": 4.828
+          },
+          {
+            "word": "But ",
+            "start": 5.571,
+            "end": 5.723
+          },
+          {
+            "word": "the ",
+            "start": 5.734,
+            "end": 5.821
+          },
+          {
+            "word": "distributional ",
+            "start": 5.832,
+            "end": 6.539
+          },
+          {
+            "word": "reckoning ",
+            "start": 6.55,
+            "end": 6.908
+          },
+          {
+            "word": "did ",
+            "start": 6.919,
+            "end": 7.06
+          },
+          {
+            "word": "not ",
+            "start": 7.071,
+            "end": 7.245
+          },
+          {
+            "word": "occur.",
+            "start": 7.256,
+            "end": 7.593
+          }
+        ],
+        "start": 1937
       },
       {
         "type": "quote",
         "chunk_id": "ep4_results_6",
         "audio_exists": true,
+        "audioPath": "episodes/ep4/audio/ep4_results_6.wav",
         "text": "Zero senior bankers were prosecuted for conduct related to the crisis — compared to over eight hundred prosecutions following the Savings and Loan crisis of the 1980s.",
-        "duration": 324,
-        "bgImage": "bg_lifestyle.jpg",
-        "wordTimings": null,
-        "start": 2280
+        "duration": 281,
+        "bgImage": "bg_interest_chart.jpg",
+        "wordTimings": [
+          {
+            "word": "Zero ",
+            "start": 0.1,
+            "end": 0.491
+          },
+          {
+            "word": "senior ",
+            "start": 0.502,
+            "end": 0.849
+          },
+          {
+            "word": "bankers ",
+            "start": 0.86,
+            "end": 1.208
+          },
+          {
+            "word": "were ",
+            "start": 1.219,
+            "end": 1.317
+          },
+          {
+            "word": "prosecuted ",
+            "start": 1.328,
+            "end": 1.871
+          },
+          {
+            "word": "for ",
+            "start": 1.882,
+            "end": 1.969
+          },
+          {
+            "word": "conduct ",
+            "start": 1.98,
+            "end": 2.339
+          },
+          {
+            "word": "related ",
+            "start": 2.35,
+            "end": 2.719
+          },
+          {
+            "word": "to ",
+            "start": 2.73,
+            "end": 2.784
+          },
+          {
+            "word": "the ",
+            "start": 2.795,
+            "end": 2.871
+          },
+          {
+            "word": "crisis — ",
+            "start": 2.882,
+            "end": 3.404
+          },
+          {
+            "word": "compared ",
+            "start": 3.556,
+            "end": 3.926
+          },
+          {
+            "word": "to ",
+            "start": 3.936,
+            "end": 4.013
+          },
+          {
+            "word": "over ",
+            "start": 4.023,
+            "end": 4.306
+          },
+          {
+            "word": "eight ",
+            "start": 4.317,
+            "end": 4.513
+          },
+          {
+            "word": "hundred ",
+            "start": 4.523,
+            "end": 4.806
+          },
+          {
+            "word": "prosecutions ",
+            "start": 4.817,
+            "end": 5.458
+          },
+          {
+            "word": "following ",
+            "start": 5.469,
+            "end": 5.773
+          },
+          {
+            "word": "the ",
+            "start": 5.784,
+            "end": 5.849
+          },
+          {
+            "word": "Savings ",
+            "start": 5.86,
+            "end": 6.284
+          },
+          {
+            "word": "and ",
+            "start": 6.295,
+            "end": 6.426
+          },
+          {
+            "word": "Loan ",
+            "start": 6.436,
+            "end": 6.676
+          },
+          {
+            "word": "crisis ",
+            "start": 6.686,
+            "end": 7.099
+          },
+          {
+            "word": "of ",
+            "start": 7.11,
+            "end": 7.186
+          },
+          {
+            "word": "the ",
+            "start": 7.197,
+            "end": 7.263
+          },
+          {
+            "word": "1980s.",
+            "start": 7.273,
+            "end": 8.208
+          }
+        ],
+        "start": 2200
       },
       {
         "type": "quote",
         "chunk_id": "ep4_results_7",
         "audio_exists": true,
+        "audioPath": "episodes/ep4/audio/ep4_results_7.wav",
         "text": "Foreclosure relief for struggling homeowners was underfunded and poorly administered. The political consequence was a decade of populist anger directed at institutions that had been bailed out while households were not.",
-        "duration": 390,
-        "bgImage": "bg_lifestyle.jpg",
-        "wordTimings": null,
-        "start": 2604
+        "duration": 336,
+        "bgImage": "bg_wallstreet.jpg",
+        "wordTimings": [
+          {
+            "word": "Foreclosure ",
+            "start": 0.1,
+            "end": 0.6
+          },
+          {
+            "word": "relief ",
+            "start": 0.61,
+            "end": 0.936
+          },
+          {
+            "word": "for ",
+            "start": 0.947,
+            "end": 1.034
+          },
+          {
+            "word": "struggling ",
+            "start": 1.045,
+            "end": 1.426
+          },
+          {
+            "word": "homeowners ",
+            "start": 1.436,
+            "end": 1.882
+          },
+          {
+            "word": "was ",
+            "start": 1.893,
+            "end": 2.034
+          },
+          {
+            "word": "underfunded ",
+            "start": 2.045,
+            "end": 2.578
+          },
+          {
+            "word": "and ",
+            "start": 2.589,
+            "end": 2.697
+          },
+          {
+            "word": "poorly ",
+            "start": 2.708,
+            "end": 3.023
+          },
+          {
+            "word": "administered. ",
+            "start": 3.034,
+            "end": 3.589
+          },
+          {
+            "word": "The ",
+            "start": 4.332,
+            "end": 4.463
+          },
+          {
+            "word": "political ",
+            "start": 4.473,
+            "end": 4.908
+          },
+          {
+            "word": "consequence ",
+            "start": 4.919,
+            "end": 5.386
+          },
+          {
+            "word": "was ",
+            "start": 5.397,
+            "end": 5.517
+          },
+          {
+            "word": "a ",
+            "start": 5.528,
+            "end": 5.593
+          },
+          {
+            "word": "decade ",
+            "start": 5.604,
+            "end": 5.963
+          },
+          {
+            "word": "of ",
+            "start": 5.973,
+            "end": 6.049
+          },
+          {
+            "word": "populist ",
+            "start": 6.06,
+            "end": 6.506
+          },
+          {
+            "word": "anger ",
+            "start": 6.517,
+            "end": 6.734
+          },
+          {
+            "word": "directed ",
+            "start": 6.745,
+            "end": 7.158
+          },
+          {
+            "word": "at ",
+            "start": 7.169,
+            "end": 7.267
+          },
+          {
+            "word": "institutions ",
+            "start": 7.278,
+            "end": 7.919
+          },
+          {
+            "word": "that ",
+            "start": 7.93,
+            "end": 8.06
+          },
+          {
+            "word": "had ",
+            "start": 8.071,
+            "end": 8.191
+          },
+          {
+            "word": "been ",
+            "start": 8.202,
+            "end": 8.343
+          },
+          {
+            "word": "bailed ",
+            "start": 8.354,
+            "end": 8.615
+          },
+          {
+            "word": "out ",
+            "start": 8.626,
+            "end": 8.789
+          },
+          {
+            "word": "while ",
+            "start": 8.8,
+            "end": 9.017
+          },
+          {
+            "word": "households ",
+            "start": 9.028,
+            "end": 9.539
+          },
+          {
+            "word": "were ",
+            "start": 9.55,
+            "end": 9.658
+          },
+          {
+            "word": "not.",
+            "start": 9.669,
+            "end": 10.049
+          }
+        ],
+        "start": 2481
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep4_results_8",
+        "audio_exists": true,
+        "audioPath": "episodes/ep4/audio/ep4_results_8.wav",
+        "text": "The housing bubble that produced the GFC was inflated, in part, by the interest rates cut to contain the dot-com recession (Episode 12). Every policy tool that successfully addresses one crisis contains within it the mechanism for the next. This is not a failure of policy. It is the structure of financial history.",
+        "duration": 554,
+        "bgImage": "bg_recovery.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.208
+          },
+          {
+            "word": "housing ",
+            "start": 0.219,
+            "end": 0.556
+          },
+          {
+            "word": "bubble ",
+            "start": 0.567,
+            "end": 0.784
+          },
+          {
+            "word": "that ",
+            "start": 0.795,
+            "end": 0.915
+          },
+          {
+            "word": "produced ",
+            "start": 0.926,
+            "end": 1.284
+          },
+          {
+            "word": "the ",
+            "start": 1.295,
+            "end": 1.36
+          },
+          {
+            "word": "GFC ",
+            "start": 1.371,
+            "end": 1.882
+          },
+          {
+            "word": "was ",
+            "start": 1.893,
+            "end": 2.023
+          },
+          {
+            "word": "inflated, ",
+            "start": 2.034,
+            "end": 2.534
+          },
+          {
+            "word": "in ",
+            "start": 2.741,
+            "end": 2.849
+          },
+          {
+            "word": "part, ",
+            "start": 2.86,
+            "end": 3.252
+          },
+          {
+            "word": "by ",
+            "start": 3.415,
+            "end": 3.523
+          },
+          {
+            "word": "the ",
+            "start": 3.534,
+            "end": 3.643
+          },
+          {
+            "word": "interest ",
+            "start": 3.654,
+            "end": 4.045
+          },
+          {
+            "word": "rates ",
+            "start": 4.056,
+            "end": 4.273
+          },
+          {
+            "word": "cut ",
+            "start": 4.284,
+            "end": 4.491
+          },
+          {
+            "word": "to ",
+            "start": 4.502,
+            "end": 4.556
+          },
+          {
+            "word": "contain ",
+            "start": 4.567,
+            "end": 4.947
+          },
+          {
+            "word": "the ",
+            "start": 4.958,
+            "end": 5.045
+          },
+          {
+            "word": "dot-com ",
+            "start": 5.056,
+            "end": 5.447
+          },
+          {
+            "word": "recession (",
+            "start": 5.458,
+            "end": 5.926
+          },
+          {
+            "word": "Episode ",
+            "start": 6.1,
+            "end": 6.447
+          },
+          {
+            "word": "12). ",
+            "start": 6.458,
+            "end": 6.98
+          },
+          {
+            "word": "Every ",
+            "start": 7.723,
+            "end": 7.984
+          },
+          {
+            "word": "policy ",
+            "start": 7.995,
+            "end": 8.354
+          },
+          {
+            "word": "tool ",
+            "start": 8.365,
+            "end": 8.571
+          },
+          {
+            "word": "that ",
+            "start": 8.582,
+            "end": 8.723
+          },
+          {
+            "word": "successfully ",
+            "start": 8.734,
+            "end": 9.267
+          },
+          {
+            "word": "addresses ",
+            "start": 9.278,
+            "end": 9.669
+          },
+          {
+            "word": "one ",
+            "start": 9.68,
+            "end": 9.941
+          },
+          {
+            "word": "crisis ",
+            "start": 9.952,
+            "end": 10.332
+          },
+          {
+            "word": "contains ",
+            "start": 10.343,
+            "end": 10.854
+          },
+          {
+            "word": "within ",
+            "start": 10.865,
+            "end": 11.093
+          },
+          {
+            "word": "it ",
+            "start": 11.104,
+            "end": 11.169
+          },
+          {
+            "word": "the ",
+            "start": 11.18,
+            "end": 11.245
+          },
+          {
+            "word": "mechanism ",
+            "start": 11.256,
+            "end": 11.756
+          },
+          {
+            "word": "for ",
+            "start": 11.767,
+            "end": 11.854
+          },
+          {
+            "word": "the ",
+            "start": 11.865,
+            "end": 11.941
+          },
+          {
+            "word": "next. ",
+            "start": 11.952,
+            "end": 12.354
+          },
+          {
+            "word": "This ",
+            "start": 13.104,
+            "end": 13.31
+          },
+          {
+            "word": "is ",
+            "start": 13.321,
+            "end": 13.419
+          },
+          {
+            "word": "not ",
+            "start": 13.43,
+            "end": 13.604
+          },
+          {
+            "word": "a ",
+            "start": 13.615,
+            "end": 13.669
+          },
+          {
+            "word": "failure ",
+            "start": 13.68,
+            "end": 14.082
+          },
+          {
+            "word": "of ",
+            "start": 14.093,
+            "end": 14.18
+          },
+          {
+            "word": "policy. ",
+            "start": 14.191,
+            "end": 14.669
+          },
+          {
+            "word": "It ",
+            "start": 15.419,
+            "end": 15.593
+          },
+          {
+            "word": "is ",
+            "start": 15.604,
+            "end": 15.691
+          },
+          {
+            "word": "the ",
+            "start": 15.702,
+            "end": 15.789
+          },
+          {
+            "word": "structure ",
+            "start": 15.8,
+            "end": 16.245
+          },
+          {
+            "word": "of ",
+            "start": 16.256,
+            "end": 16.343
+          },
+          {
+            "word": "financial ",
+            "start": 16.354,
+            "end": 16.865
+          },
+          {
+            "word": "history.",
+            "start": 16.876,
+            "end": 17.299
+          }
+        ],
+        "start": 2817
       }
     ]
   },
   {
     "id": "credits",
     "title": "Credits",
-    "globalStart": 13495,
-    "duration": 1375,
+    "globalStart": 12180,
+    "duration": 440,
     "subSlides": [
       {
         "type": "credits",
         "start": 0,
-        "duration": 1375,
+        "duration": 440,
         "audioSrc": "audio/outro_narration.wav"
       }
     ]

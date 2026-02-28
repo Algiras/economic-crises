@@ -1,0 +1,33 @@
+# The Problems
+
+## The Paradox of Thrift at Institutional Scale
+
+The core economic problem Japan faced after the bubble burst was what economists call the paradox of thrift — a concept first identified by Keynes but now operating at a scale that exceeded anything Keynes had analyzed. The paradox is simple: what is rational for an individual saver is destructive for the aggregate economy. When every household, every corporation, and every bank simultaneously attempts to reduce debt and increase savings, the collective result is that income falls faster than debt can be repaid.
+
+In Japan after 1990, this dynamic operated with brutal consistency. Households that had borrowed to buy equities or real estate were selling assets to repay loans. Corporations that had pledged their land as collateral for acquisitions were selling assets to reduce leverage. Banks that recognized, even informally, the deteriorating quality of their loan books were pulling back on new lending. Every individual balance sheet decision was rational; the aggregate effect was to drain demand from the economy continuously.
+
+This was not simply a negative wealth effect from falling asset prices — though that effect was real and substantial, reducing household wealth in ways that suppressed consumption for years. It was a structural shift in the behavior of the private sector: from net borrower to net saver, from credit-financed expansion to credit-financed contraction. Richard Koo, an economist at the Nomura Research Institute, would later name this phenomenon the "balance sheet recession" — a recession driven not by inadequate monetary stimulus but by the private sector's overwhelming desire to reduce debt regardless of the price of borrowing.
+
+## The Broken Monetary Transmission Mechanism
+
+The Bank of Japan's standard response — cutting interest rates to stimulate borrowing and investment — failed to produce recovery because the transmission mechanism through which monetary policy normally works was broken. In a normal economy, lower interest rates reduce the cost of borrowing, incentivizing businesses to invest in new projects and households to purchase homes and durable goods. The credit thus extended flows through the banking system into productive activity.
+
+In Japan, this mechanism failed at multiple points. Businesses did not want to borrow at any interest rate — they were using every available cash flow to reduce existing debt. Banks did not want to lend — they were quietly absorbing losses on existing portfolios and had limited appetite for new exposure. And the balance sheets of both the banking sector and the corporate sector were so impaired that lower interest rates did not change the fundamental calculation: the first priority was not new investment but debt reduction.
+
+By 1995, the Bank of Japan had lowered its policy rate to effectively zero — a condition unprecedented in the postwar era for any major central bank. Japan had reached what economists called the "zero lower bound" — the point at which nominal interest rates cannot fall further without becoming negative. The liquidity trap that Keynes had theorized in the abstract in the 1930s was operating in concrete form in a major modern economy. Cheap money was available; no one would borrow it.
+
+## The Political Economy of Denial
+
+The political economy of banking reform was dysfunctional in ways that extended the crisis by nearly a decade beyond its economically necessary duration. The Ministry of Finance, the ruling Liberal Democratic Party (LDP), and Japan's major banks were deeply intertwined through a system of relationships — the "iron triangle" — that had governed Japanese economic policy since the postwar reconstruction. The same institutional relationships that had coordinated Japan's postwar economic miracle now prevented the honest accounting of failure.
+
+Forcing banks to recognize their losses would have required recapitalizing them through government injection of public funds — acknowledging both the scale of the failure and the need for taxpayer support. In Japan's political culture, this was extraordinarily difficult. Admitting that the banks were insolvent would trigger political crisis for the ministry officials who had supervised them. The LDP governments that relied on banking sector support could not easily legislate against the interests of their principal financiers. And the banks themselves had every incentive to extend and pretend — to continue carrying impaired loans at par, rolling over non-performing credits, and hoping that rising asset prices would eventually restore solvency.
+
+The result was a decade of zombie banking: institutions that appeared to function but had stopped performing their core economic purpose of channeling savings to productive investment. Credit growth remained persistently below the levels needed for economic recovery. New businesses could not get loans; existing zombies absorbed the limited credit available. Japan had an expensive banking system that was providing the services of a free one.
+
+## The Deflationary Spiral
+
+Deflation compounded every other problem. Japan's GDP deflator — the broadest measure of economy-wide prices — began falling in the late 1990s and would continue falling for fifteen years. Consumer prices fell persistently through the first decade of the twenty-first century.
+
+Deflation is particularly dangerous because it creates a rational incentive to postpone spending. A household contemplating a major purchase — a car, home appliance, electronic equipment — knows that the same purchase will be cheaper next year. A business considering capital investment knows that its costs and revenues will both be lower in the future. This rational postponement reduces current demand, which reduces prices further, which reinforces the incentive to postpone. The dynamic is self-reinforcing and has no natural floor.
+
+Japan's deflation interacted with the debt overhang in the same way that deflation had interacted with debt in the Great Depression: it increased the real burden of existing debt even as nominal interest rates fell. A company carrying nominal debt at two percent interest faced an effective real interest rate of four or five percent when prices were falling at two or three percent annually. The cost of carrying the debt, in real terms, exceeded the returns available on any safe investment. Debt repayment remained the dominant priority regardless of the nominal interest rate.

@@ -1,0 +1,29 @@
+# The Solutions
+
+## Extend and Pretend
+
+The initial response to Mexico's August 1982 announcement was what would later be characterized as "extend and pretend": banks would roll over existing loans, the IMF would provide bridge financing, debtor countries would implement austerity programs, and the crisis — diagnosed as a liquidity problem rather than a solvency crisis — would resolve as growth returned and debt service ratios improved.
+
+This diagnosis was incorrect but politically convenient. Acknowledging that the debt was unsustainable would require banks to write down the value of their loan portfolios — recognizing losses that would have rendered many major American banks technically insolvent. Regulators had a strong incentive to avoid forcing that recognition. The IMF and the US Treasury had a strong incentive to avoid the political and financial implications of declaring the major American banks insolvent. The debtors had a strong incentive to keep receiving new loans, even at the cost of continued austerity. Everyone had an incentive to pretend that the problem was temporary.
+
+The IMF's initial program for Mexico, negotiated in November 1982, required Mexico to reduce its fiscal deficit from seventeen percent of GDP to five point five percent in a single year — a contractionary adjustment of staggering magnitude in an economy already in deep recession. In exchange, the Fund provided three point nine billion dollars in loans and arranged a debt rescheduling with the commercial banks. Similar programs were negotiated with Brazil, Argentina, and other debtors.
+
+The programs stabilized the immediate crisis. They did not produce recovery. Mexico's GDP contracted in 1982 and 1983. Brazil's manufacturing output fell sharply. Unemployment and poverty rose across the region. The austerity was being delivered; the growth that was supposed to follow was not materializing.
+
+## The Baker Plan
+
+By 1985, the failure of extend-and-pretend was sufficiently obvious that a new approach was required. Treasury Secretary James Baker unveiled the Baker Plan at the IMF and World Bank annual meeting in Seoul in October 1985. The plan acknowledged, at least implicitly, that growth rather than just austerity was needed to resolve the crisis.
+
+Baker proposed that the fifteen major debtor countries would receive fifteen billion dollars in new lending from commercial banks over three years, in exchange for implementing structural economic reforms. The reforms — trade liberalization, privatization of state enterprises, deregulation of domestic markets — reflected the emerging "Washington Consensus" on development economics that would define the 1980s and 1990s.
+
+The Baker Plan failed to generate the commercial bank lending it proposed. Banks, which were already recognizing their Latin American loans as non-performing in their internal accounting, had no appetite for additional exposure to countries that had demonstrated inability to service existing debt. The plan's failure demonstrated the fundamental problem that extend-and-pretend had created: by maintaining the fiction that the old loans would be repaid in full, no one was willing to extend new credit on normal terms. The market had figured out that the loans were impaired even if the official architecture had not.
+
+## The Brady Plan
+
+The genuine turning point came in March 1989, when Treasury Secretary Nicholas Brady unveiled the Brady Plan — an approach that acknowledged, for the first time at the official level, that the debt burden was too large to be repaid in full and that some degree of debt reduction was necessary.
+
+The Brady Plan's mechanism was elegant. Existing commercial bank loans to sovereign debtors would be exchanged for new securities — "Brady bonds" — that were partially backed by US Treasury zero-coupon bonds purchased specifically for this purpose. The zero-coupon bonds, which required no interest payments until maturity, guaranteed repayment of principal at the bond's maturity date; the interest payments in the interim were guaranteed by a separate reserve fund. In exchange for these collateral protections, the face value of the debt was reduced — typically by thirty to thirty-five percent — and interest rates were set at levels that reflected the debtor's actual capacity to service.
+
+The Brady bonds achieved what extend-and-pretend could not: they transformed illiquid bank loans — assets that banks were unable to sell or mark to market accurately — into tradeable securities that could be valued, sold, and diversified. Banks could book their losses, remove the assets from their balance sheets, and stop having their capital constrained by the non-performing exposure. Investors who believed Latin American economies would recover could buy the bonds in secondary markets at prices reflecting distressed levels. The mechanism allowed the banking system to end its crisis exposure while creating a market-based mechanism for pricing and holding the residual debt.
+
+Mexico's Brady deal, concluded in July 1990, was the template. Mexico exchanged approximately forty-eight billion dollars in bank debt for new bonds at a face value reduction of approximately thirty-five percent, with the principal guaranteed by US Treasury zero-coupon bonds. Venezuela, Costa Rica, Uruguay, Argentina, and Brazil followed with their own deals through 1990–1994. The crisis formally ended not through repayment of the original debt but through restructuring that acknowledged its partial impairment.

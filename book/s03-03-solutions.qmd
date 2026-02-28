@@ -1,0 +1,35 @@
+# The Solutions
+
+## Morgan's Private Intervention
+
+J.P. Morgan's response to the Panic of 1907 was the most remarkable exercise of private financial authority in American history. At seventy years old, already in declining health, Morgan operated as a one-man central bank for six weeks — assessing which institutions were solvent and worth saving, which were not and should be allowed to fail, and organizing the pools of capital needed to support the former.
+
+The most famous episode came in the first days of November, when the crisis spread from banks and trust companies to the broader financial system. Several major brokerage houses were on the verge of failure. Moore and Schley, a significant securities firm, faced calls it could not meet. Its failure threatened to propagate through the interconnected web of securities lending and margin financing. Morgan convened the presidents of the major trust companies in his private library at his East 36th Street mansion.
+
+He locked the doors. The trust company presidents spent the night of November 2nd in that library while Morgan worked through the situation. He identified which institutions were solvent — and therefore worth rescuing — and which were not. He then told the solvent trust company presidents that they would contribute to a rescue pool for the weaker institutions. Those who objected found that the door remained locked. By the early morning hours of November 3rd, Morgan had the commitments he needed. The rescue pool was assembled.
+
+The technique was essentially the same Bagehot had prescribed for central banks: distinguish between liquidity and insolvency, support the liquid institutions, let the insolvent ones fail, and act decisively enough to stop the panic from consuming everything. Morgan applied this logic with complete authority — the authority of a man whose own financial stake and whose reputation were entirely aligned with getting the analysis right.
+
+## Government Improvisation
+
+The official government response was improvised and secondary to Morgan's private intervention. Secretary of the Treasury George Cortelyou traveled to New York and deposited twenty-five million dollars in government funds in New York commercial banks — providing additional liquidity to institutions that were supporting the trust company rescues. He authorized further deposits as the crisis continued. The total government injection reached approximately thirty-five million dollars.
+
+Cortelyou's action was legally questionable and institutionally unprecedented. There was no clear legal authority for the Treasury to use public funds to stabilize private banks. Cortelyou acted on the emergency reasoning that the alternative — a generalized banking collapse — was worse. President Theodore Roosevelt, receiving telegrams from Morgan and Cortelyou as the crisis unfolded, authorized what was needed. The legal framework was invented to fit the emergency.
+
+The New York Clearing House also intervened through its established mechanism: it issued clearinghouse loan certificates, allowing member banks to settle their interbank obligations without using actual cash reserves. This effectively expanded the money supply within the clearinghouse system during the crisis. The Clearing House issued approximately one hundred million dollars in certificates during the panic — a substantial liquidity injection that helped prevent the crisis from propagating further through the interbank settlement system.
+
+## The Legislative Response
+
+The crisis was contained by November 1907. Its political afterlife proved more consequential than the crisis itself. Congress, alarmed by the demonstration that the American financial system depended on the personal intervention of one private citizen, moved — with unusual dispatch — to create a legislative remedy.
+
+The Aldrich-Vreeland Act of 1908, passed within eight months of the panic, did two things. It authorized emergency currency issuance by banks — allowing them to expand their note circulation during crises by depositing a broader range of assets with the Treasury, addressing the currency inelasticity problem that the 1907 panic had exposed. And it created the National Monetary Commission, chaired by Senator Nelson Aldrich of Rhode Island, to study the banking systems of the major industrial economies and recommend reforms.
+
+The commission's work was deliberate and thorough. Aldrich spent years studying European central banking systems, meeting with economists and bankers in Britain, France, and Germany. The intellectual case for a central bank — which had been politically toxic in the United States since Andrew Jackson's war on the Second Bank in the 1830s — was assembled systematically from evidence and institutional comparison.
+
+The commission's recommendations, developed in part through a secret meeting of leading bankers and Aldrich at a hunting lodge on Jekyll Island, Georgia in November 1910, became the blueprint for the Federal Reserve System. The political challenge was to create a central bank that was not perceived as a creature of Wall Street — the Jacksonian critique that had killed the previous central banks. The Federal Reserve's compromise solution — twelve regional reserve banks coordinated by a central board, giving regional representation to counter the New York-centric perception of financial power — was a response to this political constraint as much as an economic design.
+
+## The Federal Reserve Act
+
+The Federal Reserve Act was signed by President Woodrow Wilson on December 23, 1913 — a date selected to ensure that skeptical members of Congress had left Washington for the Christmas recess. The Federal Reserve System opened for business in November 1914. The United States finally had a lender of last resort.
+
+The institution J.P. Morgan had made necessary through his indispensability replaced him. Morgan had died in March 1913, eight months before the act was signed. The institution that emerged from his demonstration of indispensability was designed to make such indispensability impossible — or at least less necessary — in future.

@@ -3,37 +3,37 @@
     "id": "intro",
     "title": "Intro",
     "globalStart": 0,
-    "duration": 1421,
+    "duration": 184,
+    "episode": 17,
+    "episodeMeta": {
+      "title": "The Great Inflation",
+      "subtitle": "2021–2023"
+    },
     "subSlides": [
       {
         "type": "intro",
         "start": 0,
-        "duration": 1421,
-        "audioSrc": "audio/intro_narration.wav"
+        "duration": 184,
+        "audioSrc": "episodes/ep6/intro.wav"
       }
-    ],
-    "episode": 6,
-    "episodeMeta": {
-      "title": "The Great Inflation",
-      "subtitle": "2021–2023"
-    }
+    ]
   },
   {
     "id": "ep6_event",
-    "title": "Episode 6 · Event",
-    "globalStart": 1421,
-    "duration": 3801,
+    "title": "Event",
+    "globalStart": 184,
+    "duration": 3831,
     "subSlides": [
       {
         "type": "bumper",
         "start": 0,
         "duration": 90,
-        "title": "Episode 6 · Event"
+        "title": "Event"
       },
       {
         "type": "chart",
         "start": 90,
-        "duration": 720,
+        "duration": 912,
         "chartSrc": "inflation_target.png",
         "title": "Inflation vs Central Bank Target (US, 2018–2023)",
         "audioSrc": "audio/charts/chart_inflation_target.wav"
@@ -42,396 +42,5551 @@
         "type": "quote",
         "chunk_id": "ep6_event_0",
         "audio_exists": true,
+        "audioPath": "episodes/ep6/audio/ep6_event_0.wav",
         "text": "In January 2022, Sharon Kowalski, a retired Pittsburgh school administrator living on a fixed pension of twenty-eight hundred dollars a month, watched her weekly grocery bill rise from eighty-seven to one-hundred-and-twenty-four dollars.",
-        "duration": 420,
-        "bgImage": "bg_abstract.jpg",
-        "wordTimings": null,
-        "start": 810
+        "duration": 364,
+        "bgImage": "bg_supermarket.jpg",
+        "wordTimings": [
+          {
+            "word": "In ",
+            "start": 0.1,
+            "end": 0.295
+          },
+          {
+            "word": "January 2022, ",
+            "start": 0.306,
+            "end": 1.513
+          },
+          {
+            "word": "Sharon ",
+            "start": 1.708,
+            "end": 2.002
+          },
+          {
+            "word": "Kowalski, ",
+            "start": 2.013,
+            "end": 2.447
+          },
+          {
+            "word": "a ",
+            "start": 2.6,
+            "end": 2.643
+          },
+          {
+            "word": "retired ",
+            "start": 2.654,
+            "end": 3.099
+          },
+          {
+            "word": "Pittsburgh ",
+            "start": 3.11,
+            "end": 3.578
+          },
+          {
+            "word": "school ",
+            "start": 3.589,
+            "end": 3.893
+          },
+          {
+            "word": "administrator ",
+            "start": 3.904,
+            "end": 4.436
+          },
+          {
+            "word": "living ",
+            "start": 4.447,
+            "end": 4.708
+          },
+          {
+            "word": "on ",
+            "start": 4.719,
+            "end": 4.795
+          },
+          {
+            "word": "a ",
+            "start": 4.806,
+            "end": 4.849
+          },
+          {
+            "word": "fixed ",
+            "start": 4.86,
+            "end": 5.154
+          },
+          {
+            "word": "pension ",
+            "start": 5.165,
+            "end": 5.426
+          },
+          {
+            "word": "of ",
+            "start": 5.436,
+            "end": 5.513
+          },
+          {
+            "word": "twenty-eight ",
+            "start": 5.523,
+            "end": 5.947
+          },
+          {
+            "word": "hundred ",
+            "start": 5.958,
+            "end": 6.23
+          },
+          {
+            "word": "dollars ",
+            "start": 6.241,
+            "end": 6.48
+          },
+          {
+            "word": "a ",
+            "start": 6.491,
+            "end": 6.534
+          },
+          {
+            "word": "month, ",
+            "start": 6.545,
+            "end": 6.882
+          },
+          {
+            "word": "watched ",
+            "start": 7.067,
+            "end": 7.306
+          },
+          {
+            "word": "her ",
+            "start": 7.317,
+            "end": 7.404
+          },
+          {
+            "word": "weekly ",
+            "start": 7.415,
+            "end": 7.752
+          },
+          {
+            "word": "grocery ",
+            "start": 7.763,
+            "end": 8.186
+          },
+          {
+            "word": "bill ",
+            "start": 8.197,
+            "end": 8.426
+          },
+          {
+            "word": "rise ",
+            "start": 8.436,
+            "end": 8.741
+          },
+          {
+            "word": "from ",
+            "start": 8.752,
+            "end": 8.893
+          },
+          {
+            "word": "eighty-seven ",
+            "start": 8.904,
+            "end": 9.393
+          },
+          {
+            "word": "to ",
+            "start": 9.404,
+            "end": 9.491
+          },
+          {
+            "word": "one-hundred-and-twenty-four ",
+            "start": 9.502,
+            "end": 10.491
+          },
+          {
+            "word": "dollars.",
+            "start": 10.502,
+            "end": 10.958
+          }
+        ],
+        "start": 1002
       },
       {
         "type": "quote",
         "chunk_id": "ep6_event_1",
         "audio_exists": true,
+        "audioPath": "episodes/ep6/audio/ep6_event_1.wav",
         "text": "Eggs had gone from a dollar thirty-nine to three dollars and eighty-nine cents. She had not had a pay rise in three years. She would not get one. The Great Inflation of 2021 to 2023 returned after thirty years of near-absence.",
-        "duration": 430,
-        "bgImage": "bg_demographics.jpg",
-        "wordTimings": null,
-        "start": 1230
+        "duration": 442,
+        "bgImage": "bg_inflation_cash.jpg",
+        "wordTimings": [
+          {
+            "word": "Eggs ",
+            "start": 0.1,
+            "end": 0.371
+          },
+          {
+            "word": "had ",
+            "start": 0.382,
+            "end": 0.491
+          },
+          {
+            "word": "gone ",
+            "start": 0.502,
+            "end": 0.697
+          },
+          {
+            "word": "from ",
+            "start": 0.708,
+            "end": 0.849
+          },
+          {
+            "word": "a ",
+            "start": 0.86,
+            "end": 0.915
+          },
+          {
+            "word": "dollar ",
+            "start": 0.926,
+            "end": 1.154
+          },
+          {
+            "word": "thirty-nine ",
+            "start": 1.165,
+            "end": 1.697
+          },
+          {
+            "word": "to ",
+            "start": 1.708,
+            "end": 1.784
+          },
+          {
+            "word": "three ",
+            "start": 1.795,
+            "end": 2.034
+          },
+          {
+            "word": "dollars ",
+            "start": 2.045,
+            "end": 2.382
+          },
+          {
+            "word": "and ",
+            "start": 2.393,
+            "end": 2.491
+          },
+          {
+            "word": "eighty-nine ",
+            "start": 2.502,
+            "end": 3.023
+          },
+          {
+            "word": "cents. ",
+            "start": 3.034,
+            "end": 3.502
+          },
+          {
+            "word": "She ",
+            "start": 4.245,
+            "end": 4.452
+          },
+          {
+            "word": "had ",
+            "start": 4.463,
+            "end": 4.615
+          },
+          {
+            "word": "not ",
+            "start": 4.626,
+            "end": 4.778
+          },
+          {
+            "word": "had ",
+            "start": 4.789,
+            "end": 4.908
+          },
+          {
+            "word": "a ",
+            "start": 4.919,
+            "end": 4.973
+          },
+          {
+            "word": "pay ",
+            "start": 4.984,
+            "end": 5.191
+          },
+          {
+            "word": "rise ",
+            "start": 5.202,
+            "end": 5.56
+          },
+          {
+            "word": "in ",
+            "start": 5.571,
+            "end": 5.68
+          },
+          {
+            "word": "three ",
+            "start": 5.691,
+            "end": 5.941
+          },
+          {
+            "word": "years. ",
+            "start": 5.952,
+            "end": 6.463
+          },
+          {
+            "word": "She ",
+            "start": 7.213,
+            "end": 7.386
+          },
+          {
+            "word": "would ",
+            "start": 7.397,
+            "end": 7.517
+          },
+          {
+            "word": "not ",
+            "start": 7.528,
+            "end": 7.702
+          },
+          {
+            "word": "get ",
+            "start": 7.713,
+            "end": 7.886
+          },
+          {
+            "word": "one. ",
+            "start": 7.897,
+            "end": 8.169
+          },
+          {
+            "word": "The ",
+            "start": 8.919,
+            "end": 9.06
+          },
+          {
+            "word": "Great ",
+            "start": 9.071,
+            "end": 9.321
+          },
+          {
+            "word": "Inflation ",
+            "start": 9.332,
+            "end": 9.767
+          },
+          {
+            "word": "of ",
+            "start": 9.778,
+            "end": 9.854
+          },
+          {
+            "word": "2021 to 2023 ",
+            "start": 9.865,
+            "end": 11.517
+          },
+          {
+            "word": "returned ",
+            "start": 11.528,
+            "end": 11.963
+          },
+          {
+            "word": "after ",
+            "start": 11.973,
+            "end": 12.191
+          },
+          {
+            "word": "thirty ",
+            "start": 12.202,
+            "end": 12.517
+          },
+          {
+            "word": "years ",
+            "start": 12.528,
+            "end": 12.789
+          },
+          {
+            "word": "of ",
+            "start": 12.8,
+            "end": 12.865
+          },
+          {
+            "word": "near-absence.",
+            "start": 12.876,
+            "end": 13.56
+          }
+        ],
+        "start": 1366
       },
       {
         "type": "quote",
         "chunk_id": "ep6_event_2",
         "audio_exists": true,
+        "audioPath": "episodes/ep6/audio/ep6_event_2.wav",
         "text": "American CPI reached nine-point-one percent in June 2022 — the highest reading since November 1981. Inflation in the United Kingdom hit eleven-point-one percent. The Eurozone reached ten-point-six percent. Four factors converged simultaneously.",
-        "duration": 503,
-        "bgImage": "bg_abstract.jpg",
-        "wordTimings": null,
-        "start": 1660
+        "duration": 493,
+        "bgImage": "bg_supply_chain.jpg",
+        "wordTimings": [
+          {
+            "word": "American ",
+            "start": 0.1,
+            "end": 0.567
+          },
+          {
+            "word": "CPI ",
+            "start": 0.578,
+            "end": 1.078
+          },
+          {
+            "word": "reached ",
+            "start": 1.089,
+            "end": 1.393
+          },
+          {
+            "word": "nine-point-one ",
+            "start": 1.404,
+            "end": 2.013
+          },
+          {
+            "word": "percent ",
+            "start": 2.023,
+            "end": 2.382
+          },
+          {
+            "word": "in ",
+            "start": 2.393,
+            "end": 2.556
+          },
+          {
+            "word": "June 2022 — ",
+            "start": 2.567,
+            "end": 3.621
+          },
+          {
+            "word": "the ",
+            "start": 3.839,
+            "end": 3.915
+          },
+          {
+            "word": "highest ",
+            "start": 3.926,
+            "end": 4.273
+          },
+          {
+            "word": "reading ",
+            "start": 4.284,
+            "end": 4.567
+          },
+          {
+            "word": "since ",
+            "start": 4.578,
+            "end": 4.784
+          },
+          {
+            "word": "November 1981. ",
+            "start": 4.795,
+            "end": 6.219
+          },
+          {
+            "word": "Inflation ",
+            "start": 6.963,
+            "end": 7.517
+          },
+          {
+            "word": "in ",
+            "start": 7.528,
+            "end": 7.604
+          },
+          {
+            "word": "the ",
+            "start": 7.615,
+            "end": 7.669
+          },
+          {
+            "word": "United ",
+            "start": 7.68,
+            "end": 8.082
+          },
+          {
+            "word": "Kingdom ",
+            "start": 8.093,
+            "end": 8.397
+          },
+          {
+            "word": "hit ",
+            "start": 8.408,
+            "end": 8.549
+          },
+          {
+            "word": "eleven-point-one ",
+            "start": 8.56,
+            "end": 9.256
+          },
+          {
+            "word": "percent. ",
+            "start": 9.267,
+            "end": 9.745
+          },
+          {
+            "word": "The ",
+            "start": 10.495,
+            "end": 10.636
+          },
+          {
+            "word": "Eurozone ",
+            "start": 10.647,
+            "end": 11.169
+          },
+          {
+            "word": "reached ",
+            "start": 11.18,
+            "end": 11.484
+          },
+          {
+            "word": "ten-point-six ",
+            "start": 11.495,
+            "end": 12.158
+          },
+          {
+            "word": "percent. ",
+            "start": 12.169,
+            "end": 12.658
+          },
+          {
+            "word": "Four ",
+            "start": 13.408,
+            "end": 13.549
+          },
+          {
+            "word": "factors ",
+            "start": 13.56,
+            "end": 13.93
+          },
+          {
+            "word": "converged ",
+            "start": 13.941,
+            "end": 14.419
+          },
+          {
+            "word": "simultaneously.",
+            "start": 14.43,
+            "end": 15.278
+          }
+        ],
+        "start": 1808
       },
       {
         "type": "quote",
         "chunk_id": "ep6_event_3",
         "audio_exists": true,
+        "audioPath": "episodes/ep6/audio/ep6_event_3.wav",
         "text": "First, excess savings accumulated during lockdowns — two-point-five trillion dollars across US households — were deployed into a reopening economy. Second, global supply chains, stressed by the pandemic, could not respond to this surge in demand.",
-        "duration": 464,
-        "bgImage": "bg_abstract.jpg",
-        "wordTimings": null,
-        "start": 2163
+        "duration": 441,
+        "bgImage": "bg_gas_queue.jpg",
+        "wordTimings": [
+          {
+            "word": "First, ",
+            "start": 0.1,
+            "end": 0.567
+          },
+          {
+            "word": "excess ",
+            "start": 0.763,
+            "end": 1.099
+          },
+          {
+            "word": "savings ",
+            "start": 1.11,
+            "end": 1.469
+          },
+          {
+            "word": "accumulated ",
+            "start": 1.48,
+            "end": 2.099
+          },
+          {
+            "word": "during ",
+            "start": 2.11,
+            "end": 2.36
+          },
+          {
+            "word": "lockdowns — ",
+            "start": 2.371,
+            "end": 2.926
+          },
+          {
+            "word": "two-point-five ",
+            "start": 3.121,
+            "end": 3.828
+          },
+          {
+            "word": "trillion ",
+            "start": 3.839,
+            "end": 4.208
+          },
+          {
+            "word": "dollars ",
+            "start": 4.219,
+            "end": 4.523
+          },
+          {
+            "word": "across ",
+            "start": 4.534,
+            "end": 4.839
+          },
+          {
+            "word": "US ",
+            "start": 4.85,
+            "end": 5.154
+          },
+          {
+            "word": "households — ",
+            "start": 5.165,
+            "end": 5.752
+          },
+          {
+            "word": "were ",
+            "start": 5.926,
+            "end": 6.023
+          },
+          {
+            "word": "deployed ",
+            "start": 6.034,
+            "end": 6.426
+          },
+          {
+            "word": "into ",
+            "start": 6.436,
+            "end": 6.676
+          },
+          {
+            "word": "a ",
+            "start": 6.686,
+            "end": 6.741
+          },
+          {
+            "word": "reopening ",
+            "start": 6.752,
+            "end": 7.284
+          },
+          {
+            "word": "economy. ",
+            "start": 7.295,
+            "end": 7.708
+          },
+          {
+            "word": "Second, ",
+            "start": 8.452,
+            "end": 8.93
+          },
+          {
+            "word": "global ",
+            "start": 9.082,
+            "end": 9.419
+          },
+          {
+            "word": "supply ",
+            "start": 9.43,
+            "end": 9.745
+          },
+          {
+            "word": "chains, ",
+            "start": 9.756,
+            "end": 10.213
+          },
+          {
+            "word": "stressed ",
+            "start": 10.354,
+            "end": 10.691
+          },
+          {
+            "word": "by ",
+            "start": 10.702,
+            "end": 10.81
+          },
+          {
+            "word": "the ",
+            "start": 10.821,
+            "end": 10.908
+          },
+          {
+            "word": "pandemic, ",
+            "start": 10.919,
+            "end": 11.463
+          },
+          {
+            "word": "could ",
+            "start": 11.636,
+            "end": 11.767
+          },
+          {
+            "word": "not ",
+            "start": 11.778,
+            "end": 11.973
+          },
+          {
+            "word": "respond ",
+            "start": 11.984,
+            "end": 12.321
+          },
+          {
+            "word": "to ",
+            "start": 12.332,
+            "end": 12.397
+          },
+          {
+            "word": "this ",
+            "start": 12.408,
+            "end": 12.56
+          },
+          {
+            "word": "surge ",
+            "start": 12.571,
+            "end": 12.843
+          },
+          {
+            "word": "in ",
+            "start": 12.854,
+            "end": 12.952
+          },
+          {
+            "word": "demand.",
+            "start": 12.963,
+            "end": 13.517
+          }
+        ],
+        "start": 2301
       },
       {
         "type": "quote",
         "chunk_id": "ep6_event_4",
         "audio_exists": true,
+        "audioPath": "episodes/ep6/audio/ep6_event_4.wav",
         "text": "Container shipping costs rose nine hundred percent. Semiconductor shortages rippled through automotive and electronics manufacturing. Third, Russia's invasion of Ukraine in February 2022 sent energy prices surging.",
-        "duration": 435,
-        "bgImage": "bg_demographics.jpg",
-        "wordTimings": null,
-        "start": 2627
+        "duration": 404,
+        "bgImage": "bg_supermarket.jpg",
+        "wordTimings": [
+          {
+            "word": "Container ",
+            "start": 0.1,
+            "end": 0.589
+          },
+          {
+            "word": "shipping ",
+            "start": 0.6,
+            "end": 0.904
+          },
+          {
+            "word": "costs ",
+            "start": 0.915,
+            "end": 1.23
+          },
+          {
+            "word": "rose ",
+            "start": 1.241,
+            "end": 1.556
+          },
+          {
+            "word": "nine ",
+            "start": 1.567,
+            "end": 1.817
+          },
+          {
+            "word": "hundred ",
+            "start": 1.828,
+            "end": 2.078
+          },
+          {
+            "word": "percent. ",
+            "start": 2.089,
+            "end": 2.545
+          },
+          {
+            "word": "Semiconductor ",
+            "start": 3.289,
+            "end": 4.039
+          },
+          {
+            "word": "shortages ",
+            "start": 4.05,
+            "end": 4.56
+          },
+          {
+            "word": "rippled ",
+            "start": 4.571,
+            "end": 4.908
+          },
+          {
+            "word": "through ",
+            "start": 4.919,
+            "end": 5.158
+          },
+          {
+            "word": "automotive ",
+            "start": 5.169,
+            "end": 5.756
+          },
+          {
+            "word": "and ",
+            "start": 5.767,
+            "end": 5.865
+          },
+          {
+            "word": "electronics ",
+            "start": 5.876,
+            "end": 6.365
+          },
+          {
+            "word": "manufacturing. ",
+            "start": 6.376,
+            "end": 7.18
+          },
+          {
+            "word": "Third, ",
+            "start": 7.93,
+            "end": 8.343
+          },
+          {
+            "word": "Russia's ",
+            "start": 8.463,
+            "end": 8.734
+          },
+          {
+            "word": "invasion ",
+            "start": 8.745,
+            "end": 9.136
+          },
+          {
+            "word": "of ",
+            "start": 9.147,
+            "end": 9.202
+          },
+          {
+            "word": "Ukraine ",
+            "start": 9.213,
+            "end": 9.626
+          },
+          {
+            "word": "in ",
+            "start": 9.636,
+            "end": 9.756
+          },
+          {
+            "word": "February 2022 ",
+            "start": 9.767,
+            "end": 10.952
+          },
+          {
+            "word": "sent ",
+            "start": 10.963,
+            "end": 11.18
+          },
+          {
+            "word": "energy ",
+            "start": 11.191,
+            "end": 11.452
+          },
+          {
+            "word": "prices ",
+            "start": 11.463,
+            "end": 11.832
+          },
+          {
+            "word": "surging.",
+            "start": 11.843,
+            "end": 12.299
+          }
+        ],
+        "start": 2742
       },
       {
         "type": "quote",
         "chunk_id": "ep6_event_5",
         "audio_exists": true,
+        "audioPath": "episodes/ep6/audio/ep6_event_5.wav",
         "text": "Brent crude rose from seventy-eight to one-hundred-and-twenty-eight dollars per barrel. Russian gas, which supplied forty percent of European heating, was weaponised.",
-        "duration": 297,
-        "bgImage": "bg_toxicology.jpg",
-        "wordTimings": null,
-        "start": 3062
+        "duration": 282,
+        "bgImage": "bg_inflation_cash.jpg",
+        "wordTimings": [
+          {
+            "word": "Brent ",
+            "start": 0.1,
+            "end": 0.415
+          },
+          {
+            "word": "crude ",
+            "start": 0.426,
+            "end": 0.686
+          },
+          {
+            "word": "rose ",
+            "start": 0.697,
+            "end": 1.013
+          },
+          {
+            "word": "from ",
+            "start": 1.023,
+            "end": 1.165
+          },
+          {
+            "word": "seventy-eight ",
+            "start": 1.176,
+            "end": 1.697
+          },
+          {
+            "word": "to ",
+            "start": 1.708,
+            "end": 1.784
+          },
+          {
+            "word": "one-hundred-and-twenty-eight ",
+            "start": 1.795,
+            "end": 2.763
+          },
+          {
+            "word": "dollars ",
+            "start": 2.773,
+            "end": 3.045
+          },
+          {
+            "word": "per ",
+            "start": 3.056,
+            "end": 3.176
+          },
+          {
+            "word": "barrel. ",
+            "start": 3.186,
+            "end": 3.523
+          },
+          {
+            "word": "Russian ",
+            "start": 4.267,
+            "end": 4.626
+          },
+          {
+            "word": "gas, ",
+            "start": 4.636,
+            "end": 4.995
+          },
+          {
+            "word": "which ",
+            "start": 5.104,
+            "end": 5.256
+          },
+          {
+            "word": "supplied ",
+            "start": 5.267,
+            "end": 5.626
+          },
+          {
+            "word": "forty ",
+            "start": 5.636,
+            "end": 5.963
+          },
+          {
+            "word": "percent ",
+            "start": 5.973,
+            "end": 6.31
+          },
+          {
+            "word": "of ",
+            "start": 6.321,
+            "end": 6.408
+          },
+          {
+            "word": "European ",
+            "start": 6.419,
+            "end": 6.886
+          },
+          {
+            "word": "heating, ",
+            "start": 6.897,
+            "end": 7.267
+          },
+          {
+            "word": "was ",
+            "start": 7.441,
+            "end": 7.56
+          },
+          {
+            "word": "weaponised.",
+            "start": 7.571,
+            "end": 8.234
+          }
+        ],
+        "start": 3146
       },
       {
         "type": "quote",
         "chunk_id": "ep6_event_6",
         "audio_exists": true,
+        "audioPath": "episodes/ep6/audio/ep6_event_6.wav",
         "text": "Fourth — and most consequentially for the policy response that followed — the Federal Reserve held interest rates at zero through the end of 2021. In May of that year, Chair Powell had used a single word to describe the inflation: transitory.",
-        "duration": 442,
-        "bgImage": "bg_demographics.jpg",
-        "wordTimings": null,
-        "start": 3359
+        "duration": 403,
+        "bgImage": "bg_supply_chain.jpg",
+        "wordTimings": [
+          {
+            "word": "Fourth — ",
+            "start": 0.1,
+            "end": 0.556
+          },
+          {
+            "word": "and ",
+            "start": 0.73,
+            "end": 0.828
+          },
+          {
+            "word": "most ",
+            "start": 0.839,
+            "end": 1.078
+          },
+          {
+            "word": "consequentially ",
+            "start": 1.089,
+            "end": 1.719
+          },
+          {
+            "word": "for ",
+            "start": 1.73,
+            "end": 1.817
+          },
+          {
+            "word": "the ",
+            "start": 1.828,
+            "end": 1.915
+          },
+          {
+            "word": "policy ",
+            "start": 1.926,
+            "end": 2.241
+          },
+          {
+            "word": "response ",
+            "start": 2.252,
+            "end": 2.686
+          },
+          {
+            "word": "that ",
+            "start": 2.697,
+            "end": 2.839
+          },
+          {
+            "word": "followed — ",
+            "start": 2.85,
+            "end": 3.197
+          },
+          {
+            "word": "the ",
+            "start": 3.371,
+            "end": 3.436
+          },
+          {
+            "word": "Federal ",
+            "start": 3.447,
+            "end": 3.773
+          },
+          {
+            "word": "Reserve ",
+            "start": 3.784,
+            "end": 4.154
+          },
+          {
+            "word": "held ",
+            "start": 4.165,
+            "end": 4.404
+          },
+          {
+            "word": "interest ",
+            "start": 4.415,
+            "end": 4.817
+          },
+          {
+            "word": "rates ",
+            "start": 4.828,
+            "end": 5.089
+          },
+          {
+            "word": "at ",
+            "start": 5.1,
+            "end": 5.208
+          },
+          {
+            "word": "zero ",
+            "start": 5.219,
+            "end": 5.534
+          },
+          {
+            "word": "through ",
+            "start": 5.545,
+            "end": 5.806
+          },
+          {
+            "word": "the ",
+            "start": 5.817,
+            "end": 5.947
+          },
+          {
+            "word": "end ",
+            "start": 5.958,
+            "end": 6.121
+          },
+          {
+            "word": "of ",
+            "start": 6.132,
+            "end": 6.219
+          },
+          {
+            "word": "2021. ",
+            "start": 6.23,
+            "end": 7.143
+          },
+          {
+            "word": "In ",
+            "start": 7.886,
+            "end": 8.06
+          },
+          {
+            "word": "May ",
+            "start": 8.071,
+            "end": 8.223
+          },
+          {
+            "word": "of ",
+            "start": 8.234,
+            "end": 8.332
+          },
+          {
+            "word": "that ",
+            "start": 8.343,
+            "end": 8.506
+          },
+          {
+            "word": "year, ",
+            "start": 8.517,
+            "end": 8.832
+          },
+          {
+            "word": "Chair ",
+            "start": 8.919,
+            "end": 9.147
+          },
+          {
+            "word": "Powell ",
+            "start": 9.158,
+            "end": 9.473
+          },
+          {
+            "word": "had ",
+            "start": 9.484,
+            "end": 9.604
+          },
+          {
+            "word": "used ",
+            "start": 9.615,
+            "end": 9.832
+          },
+          {
+            "word": "a ",
+            "start": 9.843,
+            "end": 9.886
+          },
+          {
+            "word": "single ",
+            "start": 9.897,
+            "end": 10.213
+          },
+          {
+            "word": "word ",
+            "start": 10.223,
+            "end": 10.419
+          },
+          {
+            "word": "to ",
+            "start": 10.43,
+            "end": 10.484
+          },
+          {
+            "word": "describe ",
+            "start": 10.495,
+            "end": 10.908
+          },
+          {
+            "word": "the ",
+            "start": 10.919,
+            "end": 10.995
+          },
+          {
+            "word": "inflation: ",
+            "start": 11.006,
+            "end": 11.495
+          },
+          {
+            "word": "transitory.",
+            "start": 11.647,
+            "end": 12.278
+          }
+        ],
+        "start": 3428
       }
     ]
   },
   {
     "id": "ep6_problems",
-    "title": "Episode 6 · Problems",
-    "globalStart": 5222,
-    "duration": 3469,
+    "title": "Problems",
+    "globalStart": 4015,
+    "duration": 3071,
     "subSlides": [
       {
         "type": "bumper",
         "start": 0,
         "duration": 90,
-        "title": "Episode 6 · Problems"
+        "title": "Problems"
       },
       {
         "type": "quote",
         "chunk_id": "ep6_problems_0",
         "audio_exists": true,
+        "audioPath": "episodes/ep6/audio/ep6_problems_0.wav",
         "text": "The Great Inflation of 2021 to 2023 was not a single phenomenon. It was three or four overlapping inflation processes operating simultaneously — making it extraordinarily difficult to diagnose correctly and correspondingly difficult to treat.",
-        "duration": 479,
-        "bgImage": "bg_demographics.jpg",
-        "wordTimings": null,
+        "duration": 426,
+        "bgImage": "bg_inflation_cash.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "Great ",
+            "start": 0.241,
+            "end": 0.491
+          },
+          {
+            "word": "Inflation ",
+            "start": 0.502,
+            "end": 0.936
+          },
+          {
+            "word": "of ",
+            "start": 0.947,
+            "end": 1.023
+          },
+          {
+            "word": "2021 to 2023 ",
+            "start": 1.034,
+            "end": 2.773
+          },
+          {
+            "word": "was ",
+            "start": 2.784,
+            "end": 2.958
+          },
+          {
+            "word": "not ",
+            "start": 2.969,
+            "end": 3.143
+          },
+          {
+            "word": "a ",
+            "start": 3.154,
+            "end": 3.208
+          },
+          {
+            "word": "single ",
+            "start": 3.219,
+            "end": 3.556
+          },
+          {
+            "word": "phenomenon. ",
+            "start": 3.567,
+            "end": 4.056
+          },
+          {
+            "word": "It ",
+            "start": 4.8,
+            "end": 4.941
+          },
+          {
+            "word": "was ",
+            "start": 4.952,
+            "end": 5.104
+          },
+          {
+            "word": "three ",
+            "start": 5.115,
+            "end": 5.408
+          },
+          {
+            "word": "or ",
+            "start": 5.419,
+            "end": 5.56
+          },
+          {
+            "word": "four ",
+            "start": 5.571,
+            "end": 5.723
+          },
+          {
+            "word": "overlapping ",
+            "start": 5.734,
+            "end": 6.256
+          },
+          {
+            "word": "inflation ",
+            "start": 6.267,
+            "end": 6.723
+          },
+          {
+            "word": "processes ",
+            "start": 6.734,
+            "end": 7.267
+          },
+          {
+            "word": "operating ",
+            "start": 7.278,
+            "end": 7.723
+          },
+          {
+            "word": "simultaneously — ",
+            "start": 7.734,
+            "end": 8.517
+          },
+          {
+            "word": "making ",
+            "start": 8.691,
+            "end": 8.984
+          },
+          {
+            "word": "it ",
+            "start": 8.995,
+            "end": 9.082
+          },
+          {
+            "word": "extraordinarily ",
+            "start": 9.093,
+            "end": 9.843
+          },
+          {
+            "word": "difficult ",
+            "start": 9.854,
+            "end": 10.245
+          },
+          {
+            "word": "to ",
+            "start": 10.256,
+            "end": 10.321
+          },
+          {
+            "word": "diagnose ",
+            "start": 10.332,
+            "end": 10.876
+          },
+          {
+            "word": "correctly ",
+            "start": 10.886,
+            "end": 11.31
+          },
+          {
+            "word": "and ",
+            "start": 11.321,
+            "end": 11.43
+          },
+          {
+            "word": "correspondingly ",
+            "start": 11.441,
+            "end": 12.126
+          },
+          {
+            "word": "difficult ",
+            "start": 12.136,
+            "end": 12.517
+          },
+          {
+            "word": "to ",
+            "start": 12.528,
+            "end": 12.604
+          },
+          {
+            "word": "treat.",
+            "start": 12.615,
+            "end": 13.028
+          }
+        ],
         "start": 90
       },
       {
         "type": "quote",
         "chunk_id": "ep6_problems_1",
         "audio_exists": true,
+        "audioPath": "episodes/ep6/audio/ep6_problems_1.wav",
         "text": "Demand inflation from excess savings collided with supply inflation from disrupted production chains. Energy inflation from Russia's war compounded both.",
-        "duration": 306,
-        "bgImage": "bg_lab.jpg",
-        "wordTimings": null,
-        "start": 569
+        "duration": 275,
+        "bgImage": "bg_interest_chart.jpg",
+        "wordTimings": [
+          {
+            "word": "Demand ",
+            "start": 0.1,
+            "end": 0.469
+          },
+          {
+            "word": "inflation ",
+            "start": 0.48,
+            "end": 0.936
+          },
+          {
+            "word": "from ",
+            "start": 0.947,
+            "end": 1.089
+          },
+          {
+            "word": "excess ",
+            "start": 1.1,
+            "end": 1.436
+          },
+          {
+            "word": "savings ",
+            "start": 1.447,
+            "end": 1.828
+          },
+          {
+            "word": "collided ",
+            "start": 1.839,
+            "end": 2.23
+          },
+          {
+            "word": "with ",
+            "start": 2.241,
+            "end": 2.36
+          },
+          {
+            "word": "supply ",
+            "start": 2.371,
+            "end": 2.719
+          },
+          {
+            "word": "inflation ",
+            "start": 2.73,
+            "end": 3.252
+          },
+          {
+            "word": "from ",
+            "start": 3.263,
+            "end": 3.404
+          },
+          {
+            "word": "disrupted ",
+            "start": 3.415,
+            "end": 3.871
+          },
+          {
+            "word": "production ",
+            "start": 3.882,
+            "end": 4.317
+          },
+          {
+            "word": "chains. ",
+            "start": 4.328,
+            "end": 4.839
+          },
+          {
+            "word": "Energy ",
+            "start": 5.582,
+            "end": 5.919
+          },
+          {
+            "word": "inflation ",
+            "start": 5.93,
+            "end": 6.397
+          },
+          {
+            "word": "from ",
+            "start": 6.408,
+            "end": 6.56
+          },
+          {
+            "word": "Russia's ",
+            "start": 6.571,
+            "end": 6.886
+          },
+          {
+            "word": "war ",
+            "start": 6.897,
+            "end": 7.049
+          },
+          {
+            "word": "compounded ",
+            "start": 7.06,
+            "end": 7.571
+          },
+          {
+            "word": "both.",
+            "start": 7.582,
+            "end": 7.984
+          }
+        ],
+        "start": 516
       },
       {
         "type": "quote",
         "chunk_id": "ep6_problems_2",
         "audio_exists": true,
+        "audioPath": "episodes/ep6/audio/ep6_problems_2.wav",
         "text": "And monetary inflation — the consequence of holding rates at zero while injecting trillions in fiscal stimulus — was the medium in which all of it propagated. The Federal Reserve's two-year trajectory was striking.",
-        "duration": 383,
-        "bgImage": "bg_lifestyle.jpg",
-        "wordTimings": null,
-        "start": 875
+        "duration": 350,
+        "bgImage": "bg_fed_building.jpg",
+        "wordTimings": [
+          {
+            "word": "And ",
+            "start": 0.1,
+            "end": 0.284
+          },
+          {
+            "word": "monetary ",
+            "start": 0.295,
+            "end": 0.676
+          },
+          {
+            "word": "inflation — ",
+            "start": 0.686,
+            "end": 1.23
+          },
+          {
+            "word": "the ",
+            "start": 1.404,
+            "end": 1.48
+          },
+          {
+            "word": "consequence ",
+            "start": 1.491,
+            "end": 2.002
+          },
+          {
+            "word": "of ",
+            "start": 2.013,
+            "end": 2.078
+          },
+          {
+            "word": "holding ",
+            "start": 2.089,
+            "end": 2.404
+          },
+          {
+            "word": "rates ",
+            "start": 2.415,
+            "end": 2.676
+          },
+          {
+            "word": "at ",
+            "start": 2.686,
+            "end": 2.806
+          },
+          {
+            "word": "zero ",
+            "start": 2.817,
+            "end": 3.11
+          },
+          {
+            "word": "while ",
+            "start": 3.121,
+            "end": 3.35
+          },
+          {
+            "word": "injecting ",
+            "start": 3.36,
+            "end": 3.817
+          },
+          {
+            "word": "trillions ",
+            "start": 3.828,
+            "end": 4.219
+          },
+          {
+            "word": "in ",
+            "start": 4.23,
+            "end": 4.349
+          },
+          {
+            "word": "fiscal ",
+            "start": 4.36,
+            "end": 4.708
+          },
+          {
+            "word": "stimulus — ",
+            "start": 4.719,
+            "end": 5.208
+          },
+          {
+            "word": "was ",
+            "start": 5.382,
+            "end": 5.491
+          },
+          {
+            "word": "the ",
+            "start": 5.502,
+            "end": 5.578
+          },
+          {
+            "word": "medium ",
+            "start": 5.589,
+            "end": 5.969
+          },
+          {
+            "word": "in ",
+            "start": 5.98,
+            "end": 6.067
+          },
+          {
+            "word": "which ",
+            "start": 6.078,
+            "end": 6.219
+          },
+          {
+            "word": "all ",
+            "start": 6.23,
+            "end": 6.447
+          },
+          {
+            "word": "of ",
+            "start": 6.458,
+            "end": 6.523
+          },
+          {
+            "word": "it ",
+            "start": 6.534,
+            "end": 6.621
+          },
+          {
+            "word": "propagated. ",
+            "start": 6.632,
+            "end": 7.284
+          },
+          {
+            "word": "The ",
+            "start": 8.028,
+            "end": 8.158
+          },
+          {
+            "word": "Federal ",
+            "start": 8.169,
+            "end": 8.517
+          },
+          {
+            "word": "Reserve's ",
+            "start": 8.528,
+            "end": 8.919
+          },
+          {
+            "word": "two-year ",
+            "start": 8.93,
+            "end": 9.299
+          },
+          {
+            "word": "trajectory ",
+            "start": 9.31,
+            "end": 9.8
+          },
+          {
+            "word": "was ",
+            "start": 9.81,
+            "end": 9.952
+          },
+          {
+            "word": "striking.",
+            "start": 9.963,
+            "end": 10.484
+          }
+        ],
+        "start": 791
       },
       {
         "type": "quote",
         "chunk_id": "ep6_problems_3",
         "audio_exists": true,
+        "audioPath": "episodes/ep6/audio/ep6_problems_3.wav",
         "text": "In 2021, it maintained the position that inflation was transitory — a temporary consequence of supply chain disruptions that would resolve without requiring a monetary response. This assessment was wrong.",
-        "duration": 408,
-        "bgImage": "bg_lab.jpg",
-        "wordTimings": null,
-        "start": 1258
+        "duration": 350,
+        "bgImage": "bg_supermarket.jpg",
+        "wordTimings": [
+          {
+            "word": "In 2021, ",
+            "start": 0.1,
+            "end": 1.11
+          },
+          {
+            "word": "it ",
+            "start": 1.263,
+            "end": 1.328
+          },
+          {
+            "word": "maintained ",
+            "start": 1.339,
+            "end": 1.773
+          },
+          {
+            "word": "the ",
+            "start": 1.784,
+            "end": 1.849
+          },
+          {
+            "word": "position ",
+            "start": 1.86,
+            "end": 2.219
+          },
+          {
+            "word": "that ",
+            "start": 2.23,
+            "end": 2.393
+          },
+          {
+            "word": "inflation ",
+            "start": 2.404,
+            "end": 2.882
+          },
+          {
+            "word": "was ",
+            "start": 2.893,
+            "end": 3.023
+          },
+          {
+            "word": "transitory — ",
+            "start": 3.034,
+            "end": 3.61
+          },
+          {
+            "word": "a ",
+            "start": 3.773,
+            "end": 3.828
+          },
+          {
+            "word": "temporary ",
+            "start": 3.839,
+            "end": 4.197
+          },
+          {
+            "word": "consequence ",
+            "start": 4.208,
+            "end": 4.719
+          },
+          {
+            "word": "of ",
+            "start": 4.73,
+            "end": 4.806
+          },
+          {
+            "word": "supply ",
+            "start": 4.817,
+            "end": 5.143
+          },
+          {
+            "word": "chain ",
+            "start": 5.154,
+            "end": 5.404
+          },
+          {
+            "word": "disruptions ",
+            "start": 5.415,
+            "end": 5.98
+          },
+          {
+            "word": "that ",
+            "start": 5.991,
+            "end": 6.089
+          },
+          {
+            "word": "would ",
+            "start": 6.1,
+            "end": 6.197
+          },
+          {
+            "word": "resolve ",
+            "start": 6.208,
+            "end": 6.578
+          },
+          {
+            "word": "without ",
+            "start": 6.589,
+            "end": 6.871
+          },
+          {
+            "word": "requiring ",
+            "start": 6.882,
+            "end": 7.382
+          },
+          {
+            "word": "a ",
+            "start": 7.393,
+            "end": 7.426
+          },
+          {
+            "word": "monetary ",
+            "start": 7.436,
+            "end": 7.817
+          },
+          {
+            "word": "response. ",
+            "start": 7.828,
+            "end": 8.469
+          },
+          {
+            "word": "This ",
+            "start": 9.213,
+            "end": 9.43
+          },
+          {
+            "word": "assessment ",
+            "start": 9.441,
+            "end": 9.897
+          },
+          {
+            "word": "was ",
+            "start": 9.908,
+            "end": 10.06
+          },
+          {
+            "word": "wrong.",
+            "start": 10.071,
+            "end": 10.506
+          }
+        ],
+        "start": 1141
       },
       {
         "type": "quote",
         "chunk_id": "ep6_problems_4",
         "audio_exists": true,
+        "audioPath": "episodes/ep6/audio/ep6_problems_4.wav",
         "text": "Its internal forecasting models, built during the low-inflation era, had no mechanism to capture the combined supply and demand dynamics of the post-pandemic environment.",
-        "duration": 321,
-        "bgImage": "bg_lifestyle.jpg",
-        "wordTimings": null,
-        "start": 1666
+        "duration": 278,
+        "bgImage": "bg_inflation_cash.jpg",
+        "wordTimings": [
+          {
+            "word": "Its ",
+            "start": 0.1,
+            "end": 0.295
+          },
+          {
+            "word": "internal ",
+            "start": 0.306,
+            "end": 0.708
+          },
+          {
+            "word": "forecasting ",
+            "start": 0.719,
+            "end": 1.252
+          },
+          {
+            "word": "models, ",
+            "start": 1.263,
+            "end": 1.665
+          },
+          {
+            "word": "built ",
+            "start": 1.763,
+            "end": 1.98
+          },
+          {
+            "word": "during ",
+            "start": 1.991,
+            "end": 2.252
+          },
+          {
+            "word": "the ",
+            "start": 2.263,
+            "end": 2.339
+          },
+          {
+            "word": "low-inflation ",
+            "start": 2.35,
+            "end": 3.002
+          },
+          {
+            "word": "era, ",
+            "start": 3.013,
+            "end": 3.349
+          },
+          {
+            "word": "had ",
+            "start": 3.556,
+            "end": 3.654
+          },
+          {
+            "word": "no ",
+            "start": 3.665,
+            "end": 3.871
+          },
+          {
+            "word": "mechanism ",
+            "start": 3.882,
+            "end": 4.35
+          },
+          {
+            "word": "to ",
+            "start": 4.36,
+            "end": 4.426
+          },
+          {
+            "word": "capture ",
+            "start": 4.436,
+            "end": 4.752
+          },
+          {
+            "word": "the ",
+            "start": 4.763,
+            "end": 4.839
+          },
+          {
+            "word": "combined ",
+            "start": 4.85,
+            "end": 5.252
+          },
+          {
+            "word": "supply ",
+            "start": 5.263,
+            "end": 5.589
+          },
+          {
+            "word": "and ",
+            "start": 5.6,
+            "end": 5.665
+          },
+          {
+            "word": "demand ",
+            "start": 5.676,
+            "end": 5.98
+          },
+          {
+            "word": "dynamics ",
+            "start": 5.991,
+            "end": 6.447
+          },
+          {
+            "word": "of ",
+            "start": 6.458,
+            "end": 6.534
+          },
+          {
+            "word": "the ",
+            "start": 6.545,
+            "end": 6.621
+          },
+          {
+            "word": "post-pandemic ",
+            "start": 6.632,
+            "end": 7.382
+          },
+          {
+            "word": "environment.",
+            "start": 7.393,
+            "end": 8.099
+          }
+        ],
+        "start": 1491
       },
       {
         "type": "quote",
         "chunk_id": "ep6_problems_5",
         "audio_exists": true,
+        "audioPath": "episodes/ep6/audio/ep6_problems_5.wav",
         "text": "When the error became undeniable — inflation at nine-point-one percent, wages rising but not keeping pace, real incomes falling for twenty-four consecutive months — the Fed pivoted with equivalent force in the opposite direction.",
-        "duration": 430,
-        "bgImage": "bg_lab.jpg",
-        "wordTimings": null,
-        "start": 1987
+        "duration": 357,
+        "bgImage": "bg_interest_chart.jpg",
+        "wordTimings": [
+          {
+            "word": "When ",
+            "start": 0.1,
+            "end": 0.306
+          },
+          {
+            "word": "the ",
+            "start": 0.317,
+            "end": 0.426
+          },
+          {
+            "word": "error ",
+            "start": 0.436,
+            "end": 0.665
+          },
+          {
+            "word": "became ",
+            "start": 0.676,
+            "end": 0.991
+          },
+          {
+            "word": "undeniable — ",
+            "start": 1.002,
+            "end": 1.632
+          },
+          {
+            "word": "inflation ",
+            "start": 1.806,
+            "end": 2.273
+          },
+          {
+            "word": "at ",
+            "start": 2.284,
+            "end": 2.393
+          },
+          {
+            "word": "nine-point-one ",
+            "start": 2.404,
+            "end": 3.023
+          },
+          {
+            "word": "percent, ",
+            "start": 3.034,
+            "end": 3.469
+          },
+          {
+            "word": "wages ",
+            "start": 3.567,
+            "end": 3.904
+          },
+          {
+            "word": "rising ",
+            "start": 3.915,
+            "end": 4.284
+          },
+          {
+            "word": "but ",
+            "start": 4.295,
+            "end": 4.404
+          },
+          {
+            "word": "not ",
+            "start": 4.415,
+            "end": 4.567
+          },
+          {
+            "word": "keeping ",
+            "start": 4.578,
+            "end": 4.882
+          },
+          {
+            "word": "pace, ",
+            "start": 4.893,
+            "end": 5.252
+          },
+          {
+            "word": "real ",
+            "start": 5.436,
+            "end": 5.763
+          },
+          {
+            "word": "incomes ",
+            "start": 5.773,
+            "end": 6.143
+          },
+          {
+            "word": "falling ",
+            "start": 6.154,
+            "end": 6.447
+          },
+          {
+            "word": "for ",
+            "start": 6.458,
+            "end": 6.556
+          },
+          {
+            "word": "twenty-four ",
+            "start": 6.567,
+            "end": 7.023
+          },
+          {
+            "word": "consecutive ",
+            "start": 7.034,
+            "end": 7.578
+          },
+          {
+            "word": "months — ",
+            "start": 7.589,
+            "end": 7.969
+          },
+          {
+            "word": "the ",
+            "start": 8.132,
+            "end": 8.219
+          },
+          {
+            "word": "Fed ",
+            "start": 8.23,
+            "end": 8.447
+          },
+          {
+            "word": "pivoted ",
+            "start": 8.458,
+            "end": 8.773
+          },
+          {
+            "word": "with ",
+            "start": 8.784,
+            "end": 8.893
+          },
+          {
+            "word": "equivalent ",
+            "start": 8.904,
+            "end": 9.328
+          },
+          {
+            "word": "force ",
+            "start": 9.339,
+            "end": 9.643
+          },
+          {
+            "word": "in ",
+            "start": 9.654,
+            "end": 9.741
+          },
+          {
+            "word": "the ",
+            "start": 9.752,
+            "end": 9.839
+          },
+          {
+            "word": "opposite ",
+            "start": 9.85,
+            "end": 10.219
+          },
+          {
+            "word": "direction.",
+            "start": 10.23,
+            "end": 10.741
+          }
+        ],
+        "start": 1769
       },
       {
         "type": "quote",
         "chunk_id": "ep6_problems_6",
         "audio_exists": true,
+        "audioPath": "episodes/ep6/audio/ep6_problems_6.wav",
         "text": "Eleven rate hikes from March 2022 to July 2023. Four consecutive seventy-five basis point increases — the most aggressive tightening since the Volcker era.",
-        "duration": 345,
-        "bgImage": "bg_demographics.jpg",
-        "wordTimings": null,
-        "start": 2417
+        "duration": 314,
+        "bgImage": "bg_fed_building.jpg",
+        "wordTimings": [
+          {
+            "word": "Eleven ",
+            "start": 0.1,
+            "end": 0.491
+          },
+          {
+            "word": "rate ",
+            "start": 0.502,
+            "end": 0.697
+          },
+          {
+            "word": "hikes ",
+            "start": 0.708,
+            "end": 0.991
+          },
+          {
+            "word": "from ",
+            "start": 1.002,
+            "end": 1.143
+          },
+          {
+            "word": "March 2022 to July 2023. ",
+            "start": 1.154,
+            "end": 3.839
+          },
+          {
+            "word": "Four ",
+            "start": 4.582,
+            "end": 4.734
+          },
+          {
+            "word": "consecutive ",
+            "start": 4.745,
+            "end": 5.267
+          },
+          {
+            "word": "seventy-five ",
+            "start": 5.278,
+            "end": 5.854
+          },
+          {
+            "word": "basis ",
+            "start": 5.865,
+            "end": 6.169
+          },
+          {
+            "word": "point ",
+            "start": 6.18,
+            "end": 6.408
+          },
+          {
+            "word": "increases — ",
+            "start": 6.419,
+            "end": 6.952
+          },
+          {
+            "word": "the ",
+            "start": 7.115,
+            "end": 7.191
+          },
+          {
+            "word": "most ",
+            "start": 7.202,
+            "end": 7.463
+          },
+          {
+            "word": "aggressive ",
+            "start": 7.473,
+            "end": 7.854
+          },
+          {
+            "word": "tightening ",
+            "start": 7.865,
+            "end": 8.256
+          },
+          {
+            "word": "since ",
+            "start": 8.267,
+            "end": 8.495
+          },
+          {
+            "word": "the ",
+            "start": 8.506,
+            "end": 8.56
+          },
+          {
+            "word": "Volcker ",
+            "start": 8.571,
+            "end": 8.886
+          },
+          {
+            "word": "era.",
+            "start": 8.897,
+            "end": 9.289
+          }
+        ],
+        "start": 2126
       },
       {
         "type": "quote",
         "chunk_id": "ep6_problems_7",
         "audio_exists": true,
+        "audioPath": "episodes/ep6/audio/ep6_problems_7.wav",
         "text": "The instrument that had been held at zero to support the recovery became the source of the acute pain required to restore stability. For households like Sharon Kowalski's, the error and the correction were equally damaging.",
-        "duration": 384,
-        "bgImage": "bg_lab.jpg",
-        "wordTimings": null,
-        "start": 2762
+        "duration": 343,
+        "bgImage": "bg_supermarket.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.219
+          },
+          {
+            "word": "instrument ",
+            "start": 0.23,
+            "end": 0.654
+          },
+          {
+            "word": "that ",
+            "start": 0.665,
+            "end": 0.763
+          },
+          {
+            "word": "had ",
+            "start": 0.773,
+            "end": 0.882
+          },
+          {
+            "word": "been ",
+            "start": 0.893,
+            "end": 1.013
+          },
+          {
+            "word": "held ",
+            "start": 1.023,
+            "end": 1.263
+          },
+          {
+            "word": "at ",
+            "start": 1.273,
+            "end": 1.36
+          },
+          {
+            "word": "zero ",
+            "start": 1.371,
+            "end": 1.697
+          },
+          {
+            "word": "to ",
+            "start": 1.708,
+            "end": 1.795
+          },
+          {
+            "word": "support ",
+            "start": 1.806,
+            "end": 2.132
+          },
+          {
+            "word": "the ",
+            "start": 2.143,
+            "end": 2.208
+          },
+          {
+            "word": "recovery ",
+            "start": 2.219,
+            "end": 2.621
+          },
+          {
+            "word": "became ",
+            "start": 2.632,
+            "end": 2.915
+          },
+          {
+            "word": "the ",
+            "start": 2.926,
+            "end": 2.991
+          },
+          {
+            "word": "source ",
+            "start": 3.002,
+            "end": 3.263
+          },
+          {
+            "word": "of ",
+            "start": 3.273,
+            "end": 3.339
+          },
+          {
+            "word": "the ",
+            "start": 3.35,
+            "end": 3.436
+          },
+          {
+            "word": "acute ",
+            "start": 3.447,
+            "end": 3.763
+          },
+          {
+            "word": "pain ",
+            "start": 3.773,
+            "end": 4.002
+          },
+          {
+            "word": "required ",
+            "start": 4.013,
+            "end": 4.404
+          },
+          {
+            "word": "to ",
+            "start": 4.415,
+            "end": 4.48
+          },
+          {
+            "word": "restore ",
+            "start": 4.491,
+            "end": 4.849
+          },
+          {
+            "word": "stability. ",
+            "start": 4.86,
+            "end": 5.382
+          },
+          {
+            "word": "For ",
+            "start": 6.126,
+            "end": 6.299
+          },
+          {
+            "word": "households ",
+            "start": 6.31,
+            "end": 6.832
+          },
+          {
+            "word": "like ",
+            "start": 6.843,
+            "end": 7.006
+          },
+          {
+            "word": "Sharon ",
+            "start": 7.017,
+            "end": 7.354
+          },
+          {
+            "word": "Kowalski's, ",
+            "start": 7.365,
+            "end": 7.984
+          },
+          {
+            "word": "the ",
+            "start": 8.126,
+            "end": 8.256
+          },
+          {
+            "word": "error ",
+            "start": 8.267,
+            "end": 8.56
+          },
+          {
+            "word": "and ",
+            "start": 8.647,
+            "end": 8.734
+          },
+          {
+            "word": "the ",
+            "start": 8.745,
+            "end": 8.81
+          },
+          {
+            "word": "correction ",
+            "start": 8.821,
+            "end": 9.256
+          },
+          {
+            "word": "were ",
+            "start": 9.267,
+            "end": 9.365
+          },
+          {
+            "word": "equally ",
+            "start": 9.376,
+            "end": 9.723
+          },
+          {
+            "word": "damaging.",
+            "start": 9.734,
+            "end": 10.245
+          }
+        ],
+        "start": 2440
       },
       {
         "type": "quote",
         "chunk_id": "ep6_problems_8",
         "audio_exists": true,
+        "audioPath": "episodes/ep6/audio/ep6_problems_8.wav",
         "text": "The inflation eroded savings. The rate hikes increased mortgage costs and triggered the collapse of banks that had loaded up on long-duration bonds purchased when rates were zero.",
-        "duration": 323,
-        "bgImage": "bg_lifestyle.jpg",
-        "wordTimings": null,
-        "start": 3146
+        "duration": 288,
+        "bgImage": "bg_inflation_cash.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.263
+          },
+          {
+            "word": "inflation ",
+            "start": 0.273,
+            "end": 0.719
+          },
+          {
+            "word": "eroded ",
+            "start": 0.73,
+            "end": 1.11
+          },
+          {
+            "word": "savings. ",
+            "start": 1.121,
+            "end": 1.708
+          },
+          {
+            "word": "The ",
+            "start": 2.452,
+            "end": 2.582
+          },
+          {
+            "word": "rate ",
+            "start": 2.593,
+            "end": 2.789
+          },
+          {
+            "word": "hikes ",
+            "start": 2.8,
+            "end": 3.071
+          },
+          {
+            "word": "increased ",
+            "start": 3.082,
+            "end": 3.484
+          },
+          {
+            "word": "mortgage ",
+            "start": 3.495,
+            "end": 3.821
+          },
+          {
+            "word": "costs ",
+            "start": 3.832,
+            "end": 4.169
+          },
+          {
+            "word": "and ",
+            "start": 4.18,
+            "end": 4.278
+          },
+          {
+            "word": "triggered ",
+            "start": 4.289,
+            "end": 4.55
+          },
+          {
+            "word": "the ",
+            "start": 4.56,
+            "end": 4.615
+          },
+          {
+            "word": "collapse ",
+            "start": 4.626,
+            "end": 4.963
+          },
+          {
+            "word": "of ",
+            "start": 4.973,
+            "end": 5.071
+          },
+          {
+            "word": "banks ",
+            "start": 5.082,
+            "end": 5.354
+          },
+          {
+            "word": "that ",
+            "start": 5.365,
+            "end": 5.463
+          },
+          {
+            "word": "had ",
+            "start": 5.473,
+            "end": 5.571
+          },
+          {
+            "word": "loaded ",
+            "start": 5.582,
+            "end": 5.854
+          },
+          {
+            "word": "up ",
+            "start": 5.865,
+            "end": 5.984
+          },
+          {
+            "word": "on ",
+            "start": 5.995,
+            "end": 6.115
+          },
+          {
+            "word": "long-duration ",
+            "start": 6.126,
+            "end": 6.691
+          },
+          {
+            "word": "bonds ",
+            "start": 6.702,
+            "end": 6.963
+          },
+          {
+            "word": "purchased ",
+            "start": 6.973,
+            "end": 7.43
+          },
+          {
+            "word": "when ",
+            "start": 7.441,
+            "end": 7.604
+          },
+          {
+            "word": "rates ",
+            "start": 7.615,
+            "end": 7.854
+          },
+          {
+            "word": "were ",
+            "start": 7.865,
+            "end": 7.963
+          },
+          {
+            "word": "zero.",
+            "start": 7.973,
+            "end": 8.397
+          }
+        ],
+        "start": 2783
       }
     ]
   },
   {
     "id": "ep6_solutions",
-    "title": "Episode 6 · Solutions",
-    "globalStart": 8691,
-    "duration": 3343,
+    "title": "Solutions",
+    "globalStart": 7086,
+    "duration": 3073,
     "subSlides": [
       {
         "type": "bumper",
         "start": 0,
         "duration": 90,
-        "title": "Episode 6 · Solutions"
+        "title": "Solutions"
       },
       {
         "type": "quote",
         "chunk_id": "ep6_solutions_0",
         "audio_exists": true,
+        "audioPath": "episodes/ep6/audio/ep6_solutions_0.wav",
         "text": "On August 26, 2022, Jerome Powell delivered a thirteen-hundred-word speech at the Federal Reserve's annual Jackson Hole symposium. The S&P 500 lost one-point-three trillion dollars in value that afternoon.",
-        "duration": 433,
-        "bgImage": "bg_toxicology.jpg",
-        "wordTimings": null,
+        "duration": 393,
+        "bgImage": "bg_fed_building.jpg",
+        "wordTimings": [
+          {
+            "word": "On ",
+            "start": 0.1,
+            "end": 0.306
+          },
+          {
+            "word": "August 26, 2022, ",
+            "start": 0.317,
+            "end": 2.121
+          },
+          {
+            "word": "Jerome ",
+            "start": 2.328,
+            "end": 2.676
+          },
+          {
+            "word": "Powell ",
+            "start": 2.686,
+            "end": 2.926
+          },
+          {
+            "word": "delivered ",
+            "start": 2.936,
+            "end": 3.23
+          },
+          {
+            "word": "a ",
+            "start": 3.241,
+            "end": 3.284
+          },
+          {
+            "word": "thirteen-hundred-word ",
+            "start": 3.295,
+            "end": 4.197
+          },
+          {
+            "word": "speech ",
+            "start": 4.208,
+            "end": 4.523
+          },
+          {
+            "word": "at ",
+            "start": 4.534,
+            "end": 4.589
+          },
+          {
+            "word": "the ",
+            "start": 4.6,
+            "end": 4.665
+          },
+          {
+            "word": "Federal ",
+            "start": 4.676,
+            "end": 5.013
+          },
+          {
+            "word": "Reserve's ",
+            "start": 5.023,
+            "end": 5.458
+          },
+          {
+            "word": "annual ",
+            "start": 5.469,
+            "end": 5.817
+          },
+          {
+            "word": "Jackson ",
+            "start": 5.828,
+            "end": 6.197
+          },
+          {
+            "word": "Hole ",
+            "start": 6.208,
+            "end": 6.415
+          },
+          {
+            "word": "symposium. ",
+            "start": 6.426,
+            "end": 7.089
+          },
+          {
+            "word": "The ",
+            "start": 7.832,
+            "end": 8.006
+          },
+          {
+            "word": "S&P ",
+            "start": 8.017,
+            "end": 8.484
+          },
+          {
+            "word": "500 ",
+            "start": 8.495,
+            "end": 9.05
+          },
+          {
+            "word": "lost ",
+            "start": 9.06,
+            "end": 9.3
+          },
+          {
+            "word": "one-point-three ",
+            "start": 9.31,
+            "end": 10.017
+          },
+          {
+            "word": "trillion ",
+            "start": 10.028,
+            "end": 10.386
+          },
+          {
+            "word": "dollars ",
+            "start": 10.397,
+            "end": 10.702
+          },
+          {
+            "word": "in ",
+            "start": 10.713,
+            "end": 10.821
+          },
+          {
+            "word": "value ",
+            "start": 10.832,
+            "end": 11.136
+          },
+          {
+            "word": "that ",
+            "start": 11.147,
+            "end": 11.332
+          },
+          {
+            "word": "afternoon.",
+            "start": 11.343,
+            "end": 11.93
+          }
+        ],
         "start": 90
       },
       {
         "type": "quote",
         "chunk_id": "ep6_solutions_1",
         "audio_exists": true,
+        "audioPath": "episodes/ep6/audio/ep6_solutions_1.wav",
         "text": "The key sentence read: 'Higher interest rates, slower growth, and softer labor market conditions will bring down inflation, they will also bring some pain to households and businesses.",
-        "duration": 328,
-        "bgImage": "bg_abstract.jpg",
-        "wordTimings": null,
-        "start": 523
+        "duration": 291,
+        "bgImage": "bg_interest_chart.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "key ",
+            "start": 0.241,
+            "end": 0.404
+          },
+          {
+            "word": "sentence ",
+            "start": 0.415,
+            "end": 0.763
+          },
+          {
+            "word": "read: '",
+            "start": 0.773,
+            "end": 1.002
+          },
+          {
+            "word": "Higher ",
+            "start": 1.176,
+            "end": 1.426
+          },
+          {
+            "word": "interest ",
+            "start": 1.436,
+            "end": 1.839
+          },
+          {
+            "word": "rates, ",
+            "start": 1.85,
+            "end": 2.165
+          },
+          {
+            "word": "slower ",
+            "start": 2.306,
+            "end": 2.599
+          },
+          {
+            "word": "growth, ",
+            "start": 2.61,
+            "end": 2.991
+          },
+          {
+            "word": "and ",
+            "start": 3.143,
+            "end": 3.23
+          },
+          {
+            "word": "softer ",
+            "start": 3.241,
+            "end": 3.556
+          },
+          {
+            "word": "labor ",
+            "start": 3.567,
+            "end": 3.839
+          },
+          {
+            "word": "market ",
+            "start": 3.85,
+            "end": 4.197
+          },
+          {
+            "word": "conditions ",
+            "start": 4.208,
+            "end": 4.665
+          },
+          {
+            "word": "will ",
+            "start": 4.676,
+            "end": 4.817
+          },
+          {
+            "word": "bring ",
+            "start": 4.828,
+            "end": 5.034
+          },
+          {
+            "word": "down ",
+            "start": 5.045,
+            "end": 5.263
+          },
+          {
+            "word": "inflation, ",
+            "start": 5.273,
+            "end": 5.752
+          },
+          {
+            "word": "they ",
+            "start": 5.98,
+            "end": 6.067
+          },
+          {
+            "word": "will ",
+            "start": 6.078,
+            "end": 6.23
+          },
+          {
+            "word": "also ",
+            "start": 6.241,
+            "end": 6.502
+          },
+          {
+            "word": "bring ",
+            "start": 6.513,
+            "end": 6.752
+          },
+          {
+            "word": "some ",
+            "start": 6.763,
+            "end": 6.969
+          },
+          {
+            "word": "pain ",
+            "start": 6.98,
+            "end": 7.219
+          },
+          {
+            "word": "to ",
+            "start": 7.23,
+            "end": 7.306
+          },
+          {
+            "word": "households ",
+            "start": 7.317,
+            "end": 7.85
+          },
+          {
+            "word": "and ",
+            "start": 7.86,
+            "end": 7.947
+          },
+          {
+            "word": "businesses.",
+            "start": 7.958,
+            "end": 8.534
+          }
+        ],
+        "start": 483
       },
       {
         "type": "quote",
         "chunk_id": "ep6_solutions_2",
         "audio_exists": true,
+        "audioPath": "episodes/ep6/audio/ep6_solutions_2.wav",
         "text": "These are the unfortunate costs of reducing inflation.'\n\nPowrell explicitly invoked Volcker. The speech was a signal that the Fed understood the error of the previous eighteen months and intended to correct it, whatever the economic cost.",
-        "duration": 415,
-        "bgImage": "bg_lab.jpg",
-        "wordTimings": null,
-        "start": 851
+        "duration": 388,
+        "bgImage": "bg_wallstreet.jpg",
+        "wordTimings": [
+          {
+            "word": "These ",
+            "start": 0.1,
+            "end": 0.415
+          },
+          {
+            "word": "are ",
+            "start": 0.426,
+            "end": 0.447
+          },
+          {
+            "word": "the ",
+            "start": 0.458,
+            "end": 0.578
+          },
+          {
+            "word": "unfortunate ",
+            "start": 0.589,
+            "end": 1.121
+          },
+          {
+            "word": "costs ",
+            "start": 1.132,
+            "end": 1.491
+          },
+          {
+            "word": "of ",
+            "start": 1.502,
+            "end": 1.578
+          },
+          {
+            "word": "reducing ",
+            "start": 1.589,
+            "end": 2.023
+          },
+          {
+            "word": "inflation.'",
+            "start": 2.034,
+            "end": 2.599
+          },
+          {
+            "word": "Powrell ",
+            "start": 4.061,
+            "end": 4.408
+          },
+          {
+            "word": "explicitly ",
+            "start": 4.419,
+            "end": 4.941
+          },
+          {
+            "word": "invoked ",
+            "start": 4.952,
+            "end": 5.31
+          },
+          {
+            "word": "Volcker. ",
+            "start": 5.321,
+            "end": 5.767
+          },
+          {
+            "word": "The ",
+            "start": 6.511,
+            "end": 6.641
+          },
+          {
+            "word": "speech ",
+            "start": 6.652,
+            "end": 6.934
+          },
+          {
+            "word": "was ",
+            "start": 6.945,
+            "end": 7.065
+          },
+          {
+            "word": "a ",
+            "start": 7.076,
+            "end": 7.13
+          },
+          {
+            "word": "signal ",
+            "start": 7.141,
+            "end": 7.424
+          },
+          {
+            "word": "that ",
+            "start": 7.434,
+            "end": 7.543
+          },
+          {
+            "word": "the ",
+            "start": 7.554,
+            "end": 7.619
+          },
+          {
+            "word": "Fed ",
+            "start": 7.63,
+            "end": 7.837
+          },
+          {
+            "word": "understood ",
+            "start": 7.847,
+            "end": 8.174
+          },
+          {
+            "word": "the ",
+            "start": 8.184,
+            "end": 8.293
+          },
+          {
+            "word": "error ",
+            "start": 8.304,
+            "end": 8.554
+          },
+          {
+            "word": "of ",
+            "start": 8.565,
+            "end": 8.641
+          },
+          {
+            "word": "the ",
+            "start": 8.652,
+            "end": 8.739
+          },
+          {
+            "word": "previous ",
+            "start": 8.75,
+            "end": 9.152
+          },
+          {
+            "word": "eighteen ",
+            "start": 9.163,
+            "end": 9.521
+          },
+          {
+            "word": "months ",
+            "start": 9.532,
+            "end": 9.804
+          },
+          {
+            "word": "and ",
+            "start": 9.815,
+            "end": 9.891
+          },
+          {
+            "word": "intended ",
+            "start": 9.902,
+            "end": 10.282
+          },
+          {
+            "word": "to ",
+            "start": 10.293,
+            "end": 10.347
+          },
+          {
+            "word": "correct ",
+            "start": 10.358,
+            "end": 10.706
+          },
+          {
+            "word": "it, ",
+            "start": 10.717,
+            "end": 10.858
+          },
+          {
+            "word": "whatever ",
+            "start": 11.054,
+            "end": 11.402
+          },
+          {
+            "word": "the ",
+            "start": 11.413,
+            "end": 11.51
+          },
+          {
+            "word": "economic ",
+            "start": 11.521,
+            "end": 11.945
+          },
+          {
+            "word": "cost.",
+            "start": 11.956,
+            "end": 12.456
+          }
+        ],
+        "start": 774
       },
       {
         "type": "quote",
         "chunk_id": "ep6_solutions_3",
         "audio_exists": true,
+        "audioPath": "episodes/ep6/audio/ep6_solutions_3.wav",
         "text": "The rate cycle was the most aggressive in four decades. From twenty-five basis points in March 2022 to five-point-five percent in July 2023 — five-hundred-and-twenty-five basis points in sixteen months.",
-        "duration": 411,
-        "bgImage": "bg_demographics.jpg",
-        "wordTimings": null,
-        "start": 1266
+        "duration": 380,
+        "bgImage": "bg_city_night.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.241
+          },
+          {
+            "word": "rate ",
+            "start": 0.252,
+            "end": 0.48
+          },
+          {
+            "word": "cycle ",
+            "start": 0.491,
+            "end": 0.828
+          },
+          {
+            "word": "was ",
+            "start": 0.839,
+            "end": 0.947
+          },
+          {
+            "word": "the ",
+            "start": 0.958,
+            "end": 1.023
+          },
+          {
+            "word": "most ",
+            "start": 1.034,
+            "end": 1.295
+          },
+          {
+            "word": "aggressive ",
+            "start": 1.306,
+            "end": 1.676
+          },
+          {
+            "word": "in ",
+            "start": 1.686,
+            "end": 1.784
+          },
+          {
+            "word": "four ",
+            "start": 1.795,
+            "end": 1.947
+          },
+          {
+            "word": "decades. ",
+            "start": 1.958,
+            "end": 2.534
+          },
+          {
+            "word": "From ",
+            "start": 3.278,
+            "end": 3.528
+          },
+          {
+            "word": "twenty-five ",
+            "start": 3.539,
+            "end": 4.082
+          },
+          {
+            "word": "basis ",
+            "start": 4.093,
+            "end": 4.408
+          },
+          {
+            "word": "points ",
+            "start": 4.419,
+            "end": 4.691
+          },
+          {
+            "word": "in ",
+            "start": 4.702,
+            "end": 4.821
+          },
+          {
+            "word": "March 2022 ",
+            "start": 4.832,
+            "end": 5.897
+          },
+          {
+            "word": "to ",
+            "start": 5.908,
+            "end": 5.995
+          },
+          {
+            "word": "five-point-five ",
+            "start": 6.006,
+            "end": 6.734
+          },
+          {
+            "word": "percent ",
+            "start": 6.745,
+            "end": 7.104
+          },
+          {
+            "word": "in ",
+            "start": 7.115,
+            "end": 7.245
+          },
+          {
+            "word": "July 2023 — ",
+            "start": 7.256,
+            "end": 8.484
+          },
+          {
+            "word": "five-hundred-and-twenty-five ",
+            "start": 8.702,
+            "end": 9.799
+          },
+          {
+            "word": "basis ",
+            "start": 9.81,
+            "end": 10.136
+          },
+          {
+            "word": "points ",
+            "start": 10.147,
+            "end": 10.452
+          },
+          {
+            "word": "in ",
+            "start": 10.463,
+            "end": 10.593
+          },
+          {
+            "word": "sixteen ",
+            "start": 10.604,
+            "end": 11.049
+          },
+          {
+            "word": "months.",
+            "start": 11.06,
+            "end": 11.506
+          }
+        ],
+        "start": 1162
       },
       {
         "type": "quote",
         "chunk_id": "ep6_solutions_4",
         "audio_exists": true,
+        "audioPath": "episodes/ep6/audio/ep6_solutions_4.wav",
         "text": "The Fed then held rates at that level through 2023 and into 2024, maintaining the pressure until inflation fell clearly and sustainably toward target. The European Central Bank raised rates from negative fifty basis points to four percent.",
-        "duration": 464,
-        "bgImage": "bg_lifestyle.jpg",
-        "wordTimings": null,
-        "start": 1677
+        "duration": 423,
+        "bgImage": "bg_fed_building.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.219
+          },
+          {
+            "word": "Fed ",
+            "start": 0.23,
+            "end": 0.469
+          },
+          {
+            "word": "then ",
+            "start": 0.48,
+            "end": 0.621
+          },
+          {
+            "word": "held ",
+            "start": 0.632,
+            "end": 0.871
+          },
+          {
+            "word": "rates ",
+            "start": 0.882,
+            "end": 1.186
+          },
+          {
+            "word": "at ",
+            "start": 1.197,
+            "end": 1.273
+          },
+          {
+            "word": "that ",
+            "start": 1.284,
+            "end": 1.415
+          },
+          {
+            "word": "level ",
+            "start": 1.426,
+            "end": 1.676
+          },
+          {
+            "word": "through ",
+            "start": 1.686,
+            "end": 1.904
+          },
+          {
+            "word": "2023 ",
+            "start": 1.915,
+            "end": 2.828
+          },
+          {
+            "word": "and ",
+            "start": 2.839,
+            "end": 2.958
+          },
+          {
+            "word": "into ",
+            "start": 2.969,
+            "end": 3.197
+          },
+          {
+            "word": "2024, ",
+            "start": 3.208,
+            "end": 4.121
+          },
+          {
+            "word": "maintaining ",
+            "start": 4.371,
+            "end": 4.839
+          },
+          {
+            "word": "the ",
+            "start": 4.85,
+            "end": 4.926
+          },
+          {
+            "word": "pressure ",
+            "start": 4.936,
+            "end": 5.219
+          },
+          {
+            "word": "until ",
+            "start": 5.23,
+            "end": 5.469
+          },
+          {
+            "word": "inflation ",
+            "start": 5.48,
+            "end": 5.926
+          },
+          {
+            "word": "fell ",
+            "start": 5.936,
+            "end": 6.197
+          },
+          {
+            "word": "clearly ",
+            "start": 6.208,
+            "end": 6.545
+          },
+          {
+            "word": "and ",
+            "start": 6.556,
+            "end": 6.686
+          },
+          {
+            "word": "sustainably ",
+            "start": 6.697,
+            "end": 7.263
+          },
+          {
+            "word": "toward ",
+            "start": 7.273,
+            "end": 7.632
+          },
+          {
+            "word": "target. ",
+            "start": 7.643,
+            "end": 8.121
+          },
+          {
+            "word": "The ",
+            "start": 8.865,
+            "end": 8.984
+          },
+          {
+            "word": "European ",
+            "start": 8.995,
+            "end": 9.452
+          },
+          {
+            "word": "Central ",
+            "start": 9.463,
+            "end": 9.821
+          },
+          {
+            "word": "Bank ",
+            "start": 9.832,
+            "end": 10.071
+          },
+          {
+            "word": "raised ",
+            "start": 10.082,
+            "end": 10.365
+          },
+          {
+            "word": "rates ",
+            "start": 10.376,
+            "end": 10.615
+          },
+          {
+            "word": "from ",
+            "start": 10.626,
+            "end": 10.767
+          },
+          {
+            "word": "negative ",
+            "start": 10.778,
+            "end": 11.147
+          },
+          {
+            "word": "fifty ",
+            "start": 11.158,
+            "end": 11.452
+          },
+          {
+            "word": "basis ",
+            "start": 11.463,
+            "end": 11.81
+          },
+          {
+            "word": "points ",
+            "start": 11.821,
+            "end": 12.136
+          },
+          {
+            "word": "to ",
+            "start": 12.147,
+            "end": 12.234
+          },
+          {
+            "word": "four ",
+            "start": 12.245,
+            "end": 12.43
+          },
+          {
+            "word": "percent.",
+            "start": 12.441,
+            "end": 12.919
+          }
+        ],
+        "start": 1542
       },
       {
         "type": "quote",
         "chunk_id": "ep6_solutions_5",
         "audio_exists": true,
+        "audioPath": "episodes/ep6/audio/ep6_solutions_5.wav",
         "text": "The Bank of England from ten basis points to five-point-two-five.",
-        "duration": 138,
-        "bgImage": "bg_abstract.jpg",
-        "wordTimings": null,
-        "start": 2141
+        "duration": 133,
+        "bgImage": "bg_interest_chart.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.241
+          },
+          {
+            "word": "Bank ",
+            "start": 0.252,
+            "end": 0.469
+          },
+          {
+            "word": "of ",
+            "start": 0.48,
+            "end": 0.556
+          },
+          {
+            "word": "England ",
+            "start": 0.567,
+            "end": 0.871
+          },
+          {
+            "word": "from ",
+            "start": 0.882,
+            "end": 1.034
+          },
+          {
+            "word": "ten ",
+            "start": 1.045,
+            "end": 1.295
+          },
+          {
+            "word": "basis ",
+            "start": 1.306,
+            "end": 1.621
+          },
+          {
+            "word": "points ",
+            "start": 1.632,
+            "end": 1.936
+          },
+          {
+            "word": "to ",
+            "start": 1.947,
+            "end": 2.023
+          },
+          {
+            "word": "five-point-two-five.",
+            "start": 2.034,
+            "end": 3.252
+          }
+        ],
+        "start": 1965
       },
       {
         "type": "quote",
         "chunk_id": "ep6_solutions_6",
         "audio_exists": true,
+        "audioPath": "episodes/ep6/audio/ep6_solutions_6.wav",
         "text": "Central banks globally coordinated the most synchronised tightening cycle in history — with consequences for emerging market economies and highly indebted nations that played out over subsequent years.",
-        "duration": 365,
-        "bgImage": "bg_abstract.jpg",
-        "wordTimings": null,
-        "start": 2279
+        "duration": 301,
+        "bgImage": "bg_wallstreet.jpg",
+        "wordTimings": [
+          {
+            "word": "Central ",
+            "start": 0.1,
+            "end": 0.523
+          },
+          {
+            "word": "banks ",
+            "start": 0.534,
+            "end": 0.795
+          },
+          {
+            "word": "globally ",
+            "start": 0.806,
+            "end": 1.186
+          },
+          {
+            "word": "coordinated ",
+            "start": 1.197,
+            "end": 1.817
+          },
+          {
+            "word": "the ",
+            "start": 1.828,
+            "end": 1.893
+          },
+          {
+            "word": "most ",
+            "start": 1.904,
+            "end": 2.121
+          },
+          {
+            "word": "synchronised ",
+            "start": 2.132,
+            "end": 2.61
+          },
+          {
+            "word": "tightening ",
+            "start": 2.621,
+            "end": 3.002
+          },
+          {
+            "word": "cycle ",
+            "start": 3.013,
+            "end": 3.382
+          },
+          {
+            "word": "in ",
+            "start": 3.393,
+            "end": 3.458
+          },
+          {
+            "word": "history — ",
+            "start": 3.469,
+            "end": 3.849
+          },
+          {
+            "word": "with ",
+            "start": 4.013,
+            "end": 4.132
+          },
+          {
+            "word": "consequences ",
+            "start": 4.143,
+            "end": 4.741
+          },
+          {
+            "word": "for ",
+            "start": 4.752,
+            "end": 4.849
+          },
+          {
+            "word": "emerging ",
+            "start": 4.86,
+            "end": 5.252
+          },
+          {
+            "word": "market ",
+            "start": 5.263,
+            "end": 5.556
+          },
+          {
+            "word": "economies ",
+            "start": 5.567,
+            "end": 6.034
+          },
+          {
+            "word": "and ",
+            "start": 6.045,
+            "end": 6.11
+          },
+          {
+            "word": "highly ",
+            "start": 6.121,
+            "end": 6.458
+          },
+          {
+            "word": "indebted ",
+            "start": 6.469,
+            "end": 6.784
+          },
+          {
+            "word": "nations ",
+            "start": 6.795,
+            "end": 7.154
+          },
+          {
+            "word": "that ",
+            "start": 7.165,
+            "end": 7.284
+          },
+          {
+            "word": "played ",
+            "start": 7.295,
+            "end": 7.534
+          },
+          {
+            "word": "out ",
+            "start": 7.545,
+            "end": 7.752
+          },
+          {
+            "word": "over ",
+            "start": 7.763,
+            "end": 7.915
+          },
+          {
+            "word": "subsequent ",
+            "start": 7.926,
+            "end": 8.436
+          },
+          {
+            "word": "years.",
+            "start": 8.447,
+            "end": 8.86
+          }
+        ],
+        "start": 2098
       },
       {
         "type": "quote",
         "chunk_id": "ep6_solutions_7",
         "audio_exists": true,
+        "audioPath": "episodes/ep6/audio/ep6_solutions_7.wav",
         "text": "In the United States, the outcome was exceptional by historical standards. Inflation fell from nine-point-one to two-point-four percent.",
         "duration": 262,
-        "bgImage": "bg_demographics.jpg",
-        "wordTimings": null,
-        "start": 2644
+        "bgImage": "bg_city_night.jpg",
+        "wordTimings": [
+          {
+            "word": "In ",
+            "start": 0.1,
+            "end": 0.263
+          },
+          {
+            "word": "the ",
+            "start": 0.273,
+            "end": 0.328
+          },
+          {
+            "word": "United ",
+            "start": 0.339,
+            "end": 0.752
+          },
+          {
+            "word": "States, ",
+            "start": 0.763,
+            "end": 1.143
+          },
+          {
+            "word": "the ",
+            "start": 1.328,
+            "end": 1.436
+          },
+          {
+            "word": "outcome ",
+            "start": 1.447,
+            "end": 1.806
+          },
+          {
+            "word": "was ",
+            "start": 1.817,
+            "end": 1.926
+          },
+          {
+            "word": "exceptional ",
+            "start": 1.936,
+            "end": 2.469
+          },
+          {
+            "word": "by ",
+            "start": 2.48,
+            "end": 2.654
+          },
+          {
+            "word": "historical ",
+            "start": 2.665,
+            "end": 3.219
+          },
+          {
+            "word": "standards. ",
+            "start": 3.23,
+            "end": 3.784
+          },
+          {
+            "word": "Inflation ",
+            "start": 4.528,
+            "end": 5.082
+          },
+          {
+            "word": "fell ",
+            "start": 5.093,
+            "end": 5.365
+          },
+          {
+            "word": "from ",
+            "start": 5.376,
+            "end": 5.528
+          },
+          {
+            "word": "nine-point-one ",
+            "start": 5.539,
+            "end": 6.223
+          },
+          {
+            "word": "to ",
+            "start": 6.234,
+            "end": 6.332
+          },
+          {
+            "word": "two-point-four ",
+            "start": 6.343,
+            "end": 6.941
+          },
+          {
+            "word": "percent.",
+            "start": 6.952,
+            "end": 7.441
+          }
+        ],
+        "start": 2399
       },
       {
         "type": "quote",
         "chunk_id": "ep6_solutions_8",
         "audio_exists": true,
+        "audioPath": "episodes/ep6/audio/ep6_solutions_8.wav",
         "text": "Unemployment peaked at four-point-three percent — well below the levels seen in any previous serious tightening cycle — and then fell again. GDP remained positive throughout. The soft landing that Volcker had never achieved appeared to have occurred.",
-        "duration": 437,
-        "bgImage": "bg_toxicology.jpg",
-        "wordTimings": null,
-        "start": 2906
+        "duration": 412,
+        "bgImage": "bg_fed_building.jpg",
+        "wordTimings": [
+          {
+            "word": "Unemployment ",
+            "start": 0.1,
+            "end": 0.73
+          },
+          {
+            "word": "peaked ",
+            "start": 0.741,
+            "end": 0.98
+          },
+          {
+            "word": "at ",
+            "start": 0.991,
+            "end": 1.067
+          },
+          {
+            "word": "four-point-three ",
+            "start": 1.078,
+            "end": 1.741
+          },
+          {
+            "word": "percent — ",
+            "start": 1.752,
+            "end": 2.143
+          },
+          {
+            "word": "well ",
+            "start": 2.328,
+            "end": 2.502
+          },
+          {
+            "word": "below ",
+            "start": 2.513,
+            "end": 2.741
+          },
+          {
+            "word": "the ",
+            "start": 2.752,
+            "end": 2.839
+          },
+          {
+            "word": "levels ",
+            "start": 2.85,
+            "end": 3.154
+          },
+          {
+            "word": "seen ",
+            "start": 3.165,
+            "end": 3.349
+          },
+          {
+            "word": "in ",
+            "start": 3.36,
+            "end": 3.469
+          },
+          {
+            "word": "any ",
+            "start": 3.48,
+            "end": 3.632
+          },
+          {
+            "word": "previous ",
+            "start": 3.643,
+            "end": 4.045
+          },
+          {
+            "word": "serious ",
+            "start": 4.056,
+            "end": 4.404
+          },
+          {
+            "word": "tightening ",
+            "start": 4.415,
+            "end": 4.817
+          },
+          {
+            "word": "cycle — ",
+            "start": 4.828,
+            "end": 5.219
+          },
+          {
+            "word": "and ",
+            "start": 5.436,
+            "end": 5.502
+          },
+          {
+            "word": "then ",
+            "start": 5.513,
+            "end": 5.697
+          },
+          {
+            "word": "fell ",
+            "start": 5.708,
+            "end": 5.882
+          },
+          {
+            "word": "again. ",
+            "start": 5.893,
+            "end": 6.252
+          },
+          {
+            "word": "GDP ",
+            "start": 6.995,
+            "end": 7.549
+          },
+          {
+            "word": "remained ",
+            "start": 7.56,
+            "end": 7.93
+          },
+          {
+            "word": "positive ",
+            "start": 7.941,
+            "end": 8.31
+          },
+          {
+            "word": "throughout. ",
+            "start": 8.321,
+            "end": 8.854
+          },
+          {
+            "word": "The ",
+            "start": 9.604,
+            "end": 9.745
+          },
+          {
+            "word": "soft ",
+            "start": 9.756,
+            "end": 10.06
+          },
+          {
+            "word": "landing ",
+            "start": 10.071,
+            "end": 10.354
+          },
+          {
+            "word": "that ",
+            "start": 10.365,
+            "end": 10.517
+          },
+          {
+            "word": "Volcker ",
+            "start": 10.528,
+            "end": 10.8
+          },
+          {
+            "word": "had ",
+            "start": 10.81,
+            "end": 10.963
+          },
+          {
+            "word": "never ",
+            "start": 10.973,
+            "end": 11.202
+          },
+          {
+            "word": "achieved ",
+            "start": 11.213,
+            "end": 11.56
+          },
+          {
+            "word": "appeared ",
+            "start": 11.571,
+            "end": 11.832
+          },
+          {
+            "word": "to ",
+            "start": 11.843,
+            "end": 11.919
+          },
+          {
+            "word": "have ",
+            "start": 11.93,
+            "end": 12.06
+          },
+          {
+            "word": "occurred.",
+            "start": 12.071,
+            "end": 12.56
+          }
+        ],
+        "start": 2661
       }
     ]
   },
   {
     "id": "ep6_results",
-    "title": "Episode 6 · Results",
-    "globalStart": 12034,
-    "duration": 3333,
+    "title": "Results",
+    "globalStart": 10159,
+    "duration": 3490,
     "subSlides": [
       {
         "type": "bumper",
         "start": 0,
         "duration": 90,
-        "title": "Episode 6 · Results"
+        "title": "Results"
       },
       {
         "type": "quote",
         "chunk_id": "ep6_results_0",
         "audio_exists": true,
+        "audioPath": "episodes/ep6/audio/ep6_results_0.wav",
         "text": "Of the fourteen Federal Reserve tightening cycles since 1965, eleven produced recessions. The 2022 to 2024 cycle, the most aggressive in forty years, did not — or at least had not produced one by the time this series was completed.",
-        "duration": 477,
-        "bgImage": "bg_lab.jpg",
-        "wordTimings": null,
+        "duration": 439,
+        "bgImage": "bg_recovery.jpg",
+        "wordTimings": [
+          {
+            "word": "Of ",
+            "start": 0.1,
+            "end": 0.263
+          },
+          {
+            "word": "the ",
+            "start": 0.273,
+            "end": 0.349
+          },
+          {
+            "word": "fourteen ",
+            "start": 0.36,
+            "end": 0.795
+          },
+          {
+            "word": "Federal ",
+            "start": 0.806,
+            "end": 1.121
+          },
+          {
+            "word": "Reserve ",
+            "start": 1.132,
+            "end": 1.491
+          },
+          {
+            "word": "tightening ",
+            "start": 1.502,
+            "end": 1.871
+          },
+          {
+            "word": "cycles ",
+            "start": 1.882,
+            "end": 2.263
+          },
+          {
+            "word": "since 1965, ",
+            "start": 2.273,
+            "end": 3.502
+          },
+          {
+            "word": "eleven ",
+            "start": 3.676,
+            "end": 3.969
+          },
+          {
+            "word": "produced ",
+            "start": 3.98,
+            "end": 4.328
+          },
+          {
+            "word": "recessions. ",
+            "start": 4.339,
+            "end": 5.013
+          },
+          {
+            "word": "The ",
+            "start": 5.756,
+            "end": 5.886
+          },
+          {
+            "word": "2022 to 2024 ",
+            "start": 5.897,
+            "end": 7.517
+          },
+          {
+            "word": "cycle, ",
+            "start": 7.528,
+            "end": 7.941
+          },
+          {
+            "word": "the ",
+            "start": 8.071,
+            "end": 8.147
+          },
+          {
+            "word": "most ",
+            "start": 8.158,
+            "end": 8.419
+          },
+          {
+            "word": "aggressive ",
+            "start": 8.43,
+            "end": 8.778
+          },
+          {
+            "word": "in ",
+            "start": 8.789,
+            "end": 8.897
+          },
+          {
+            "word": "forty ",
+            "start": 8.908,
+            "end": 9.213
+          },
+          {
+            "word": "years, ",
+            "start": 9.223,
+            "end": 9.636
+          },
+          {
+            "word": "did ",
+            "start": 9.734,
+            "end": 9.865
+          },
+          {
+            "word": "not — ",
+            "start": 9.876,
+            "end": 10.158
+          },
+          {
+            "word": "or ",
+            "start": 10.332,
+            "end": 10.452
+          },
+          {
+            "word": "at ",
+            "start": 10.463,
+            "end": 10.549
+          },
+          {
+            "word": "least ",
+            "start": 10.56,
+            "end": 10.778
+          },
+          {
+            "word": "had ",
+            "start": 10.789,
+            "end": 10.886
+          },
+          {
+            "word": "not ",
+            "start": 10.897,
+            "end": 11.093
+          },
+          {
+            "word": "produced ",
+            "start": 11.104,
+            "end": 11.463
+          },
+          {
+            "word": "one ",
+            "start": 11.473,
+            "end": 11.713
+          },
+          {
+            "word": "by ",
+            "start": 11.723,
+            "end": 11.854
+          },
+          {
+            "word": "the ",
+            "start": 11.865,
+            "end": 11.952
+          },
+          {
+            "word": "time ",
+            "start": 11.963,
+            "end": 12.223
+          },
+          {
+            "word": "this ",
+            "start": 12.234,
+            "end": 12.397
+          },
+          {
+            "word": "series ",
+            "start": 12.408,
+            "end": 12.756
+          },
+          {
+            "word": "was ",
+            "start": 12.767,
+            "end": 12.908
+          },
+          {
+            "word": "completed.",
+            "start": 12.919,
+            "end": 13.484
+          }
+        ],
         "start": 90
       },
       {
         "type": "quote",
         "chunk_id": "ep6_results_1",
         "audio_exists": true,
+        "audioPath": "episodes/ep6/audio/ep6_results_1.wav",
         "text": "The positive results were significant. US inflation fell from nine-point-one to two-point-four percent without the unemployment cost that previous tightening episodes had imposed.",
-        "duration": 333,
-        "bgImage": "bg_lifestyle.jpg",
-        "wordTimings": null,
-        "start": 567
+        "duration": 300,
+        "bgImage": "bg_city_night.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.241
+          },
+          {
+            "word": "positive ",
+            "start": 0.252,
+            "end": 0.599
+          },
+          {
+            "word": "results ",
+            "start": 0.61,
+            "end": 0.936
+          },
+          {
+            "word": "were ",
+            "start": 0.947,
+            "end": 1.034
+          },
+          {
+            "word": "significant. ",
+            "start": 1.045,
+            "end": 1.741
+          },
+          {
+            "word": "US ",
+            "start": 2.484,
+            "end": 2.876
+          },
+          {
+            "word": "inflation ",
+            "start": 2.886,
+            "end": 3.365
+          },
+          {
+            "word": "fell ",
+            "start": 3.376,
+            "end": 3.636
+          },
+          {
+            "word": "from ",
+            "start": 3.647,
+            "end": 3.789
+          },
+          {
+            "word": "nine-point-one ",
+            "start": 3.8,
+            "end": 4.43
+          },
+          {
+            "word": "to ",
+            "start": 4.441,
+            "end": 4.528
+          },
+          {
+            "word": "two-point-four ",
+            "start": 4.539,
+            "end": 5.115
+          },
+          {
+            "word": "percent ",
+            "start": 5.126,
+            "end": 5.473
+          },
+          {
+            "word": "without ",
+            "start": 5.484,
+            "end": 5.745
+          },
+          {
+            "word": "the ",
+            "start": 5.756,
+            "end": 5.854
+          },
+          {
+            "word": "unemployment ",
+            "start": 5.865,
+            "end": 6.408
+          },
+          {
+            "word": "cost ",
+            "start": 6.419,
+            "end": 6.691
+          },
+          {
+            "word": "that ",
+            "start": 6.702,
+            "end": 6.832
+          },
+          {
+            "word": "previous ",
+            "start": 6.843,
+            "end": 7.223
+          },
+          {
+            "word": "tightening ",
+            "start": 7.234,
+            "end": 7.658
+          },
+          {
+            "word": "episodes ",
+            "start": 7.669,
+            "end": 8.071
+          },
+          {
+            "word": "had ",
+            "start": 8.082,
+            "end": 8.213
+          },
+          {
+            "word": "imposed.",
+            "start": 8.223,
+            "end": 8.821
+          }
+        ],
+        "start": 529
       },
       {
         "type": "quote",
         "chunk_id": "ep6_results_2",
         "audio_exists": true,
+        "audioPath": "episodes/ep6/audio/ep6_results_2.wav",
         "text": "Inflation expectations remained anchored throughout — the critical difference from the 1970s, when expectations became self-fulfilling.",
-        "duration": 268,
-        "bgImage": "bg_abstract.jpg",
-        "wordTimings": null,
-        "start": 900
+        "duration": 236,
+        "bgImage": "bg_interest_chart.jpg",
+        "wordTimings": [
+          {
+            "word": "Inflation ",
+            "start": 0.1,
+            "end": 0.643
+          },
+          {
+            "word": "expectations ",
+            "start": 0.654,
+            "end": 1.317
+          },
+          {
+            "word": "remained ",
+            "start": 1.328,
+            "end": 1.665
+          },
+          {
+            "word": "anchored ",
+            "start": 1.676,
+            "end": 1.98
+          },
+          {
+            "word": "throughout — ",
+            "start": 1.991,
+            "end": 2.426
+          },
+          {
+            "word": "the ",
+            "start": 2.578,
+            "end": 2.654
+          },
+          {
+            "word": "critical ",
+            "start": 2.665,
+            "end": 3.023
+          },
+          {
+            "word": "difference ",
+            "start": 3.034,
+            "end": 3.393
+          },
+          {
+            "word": "from ",
+            "start": 3.404,
+            "end": 3.534
+          },
+          {
+            "word": "the ",
+            "start": 3.545,
+            "end": 3.61
+          },
+          {
+            "word": "1970s, ",
+            "start": 3.621,
+            "end": 4.567
+          },
+          {
+            "word": "when ",
+            "start": 4.784,
+            "end": 4.904
+          },
+          {
+            "word": "expectations ",
+            "start": 4.915,
+            "end": 5.599
+          },
+          {
+            "word": "became ",
+            "start": 5.61,
+            "end": 5.958
+          },
+          {
+            "word": "self-fulfilling.",
+            "start": 5.969,
+            "end": 6.708
+          }
+        ],
+        "start": 829
       },
       {
         "type": "quote",
         "chunk_id": "ep6_results_3",
         "audio_exists": true,
+        "audioPath": "episodes/ep6/audio/ep6_results_3.wav",
         "text": "The Inflation Reduction Act, passed in the middle of the inflation surge, accelerated the transition to domestic energy production and clean energy — a structural response to the energy vulnerability that the Ukraine shock had exposed.",
-        "duration": 416,
-        "bgImage": "bg_toxicology.jpg",
-        "wordTimings": null,
-        "start": 1168
+        "duration": 355,
+        "bgImage": "bg_inflation_cash.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.263
+          },
+          {
+            "word": "Inflation ",
+            "start": 0.273,
+            "end": 0.73
+          },
+          {
+            "word": "Reduction ",
+            "start": 0.741,
+            "end": 1.154
+          },
+          {
+            "word": "Act, ",
+            "start": 1.165,
+            "end": 1.426
+          },
+          {
+            "word": "passed ",
+            "start": 1.61,
+            "end": 1.926
+          },
+          {
+            "word": "in ",
+            "start": 1.936,
+            "end": 1.991
+          },
+          {
+            "word": "the ",
+            "start": 2.002,
+            "end": 2.056
+          },
+          {
+            "word": "middle ",
+            "start": 2.067,
+            "end": 2.306
+          },
+          {
+            "word": "of ",
+            "start": 2.317,
+            "end": 2.371
+          },
+          {
+            "word": "the ",
+            "start": 2.382,
+            "end": 2.469
+          },
+          {
+            "word": "inflation ",
+            "start": 2.48,
+            "end": 2.936
+          },
+          {
+            "word": "surge, ",
+            "start": 2.947,
+            "end": 3.295
+          },
+          {
+            "word": "accelerated ",
+            "start": 3.502,
+            "end": 4.089
+          },
+          {
+            "word": "the ",
+            "start": 4.1,
+            "end": 4.165
+          },
+          {
+            "word": "transition ",
+            "start": 4.176,
+            "end": 4.665
+          },
+          {
+            "word": "to ",
+            "start": 4.676,
+            "end": 4.752
+          },
+          {
+            "word": "domestic ",
+            "start": 4.763,
+            "end": 5.165
+          },
+          {
+            "word": "energy ",
+            "start": 5.176,
+            "end": 5.436
+          },
+          {
+            "word": "production ",
+            "start": 5.447,
+            "end": 5.893
+          },
+          {
+            "word": "and ",
+            "start": 5.904,
+            "end": 6.013
+          },
+          {
+            "word": "clean ",
+            "start": 6.023,
+            "end": 6.306
+          },
+          {
+            "word": "energy — ",
+            "start": 6.317,
+            "end": 6.654
+          },
+          {
+            "word": "a ",
+            "start": 6.828,
+            "end": 6.871
+          },
+          {
+            "word": "structural ",
+            "start": 6.882,
+            "end": 7.36
+          },
+          {
+            "word": "response ",
+            "start": 7.371,
+            "end": 7.741
+          },
+          {
+            "word": "to ",
+            "start": 7.752,
+            "end": 7.839
+          },
+          {
+            "word": "the ",
+            "start": 7.85,
+            "end": 7.947
+          },
+          {
+            "word": "energy ",
+            "start": 7.958,
+            "end": 8.252
+          },
+          {
+            "word": "vulnerability ",
+            "start": 8.263,
+            "end": 8.947
+          },
+          {
+            "word": "that ",
+            "start": 8.958,
+            "end": 9.078
+          },
+          {
+            "word": "the ",
+            "start": 9.089,
+            "end": 9.154
+          },
+          {
+            "word": "Ukraine ",
+            "start": 9.165,
+            "end": 9.61
+          },
+          {
+            "word": "shock ",
+            "start": 9.621,
+            "end": 9.882
+          },
+          {
+            "word": "had ",
+            "start": 9.893,
+            "end": 10.002
+          },
+          {
+            "word": "exposed.",
+            "start": 10.013,
+            "end": 10.665
+          }
+        ],
+        "start": 1065
       },
       {
         "type": "quote",
         "chunk_id": "ep6_results_4",
         "audio_exists": true,
+        "audioPath": "episodes/ep6/audio/ep6_results_4.wav",
         "text": "The negative results were distributed with characteristic unevenness. In the United Kingdom, real wages fell three-point-five percent in 2022 — the largest decline since the 1970s. Food bank parcels distributed in Britain rose thirty-seven percent.",
-        "duration": 485,
-        "bgImage": "bg_lifestyle.jpg",
-        "wordTimings": null,
-        "start": 1584
+        "duration": 460,
+        "bgImage": "bg_recovery.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "negative ",
+            "start": 0.241,
+            "end": 0.621
+          },
+          {
+            "word": "results ",
+            "start": 0.632,
+            "end": 0.98
+          },
+          {
+            "word": "were ",
+            "start": 0.991,
+            "end": 1.067
+          },
+          {
+            "word": "distributed ",
+            "start": 1.078,
+            "end": 1.61
+          },
+          {
+            "word": "with ",
+            "start": 1.621,
+            "end": 1.752
+          },
+          {
+            "word": "characteristic ",
+            "start": 1.763,
+            "end": 2.426
+          },
+          {
+            "word": "unevenness. ",
+            "start": 2.436,
+            "end": 3.099
+          },
+          {
+            "word": "In ",
+            "start": 3.843,
+            "end": 3.995
+          },
+          {
+            "word": "the ",
+            "start": 4.006,
+            "end": 4.06
+          },
+          {
+            "word": "United ",
+            "start": 4.071,
+            "end": 4.463
+          },
+          {
+            "word": "Kingdom, ",
+            "start": 4.473,
+            "end": 4.821
+          },
+          {
+            "word": "real ",
+            "start": 4.984,
+            "end": 5.234
+          },
+          {
+            "word": "wages ",
+            "start": 5.245,
+            "end": 5.582
+          },
+          {
+            "word": "fell ",
+            "start": 5.593,
+            "end": 5.81
+          },
+          {
+            "word": "three-point-five ",
+            "start": 5.821,
+            "end": 6.506
+          },
+          {
+            "word": "percent ",
+            "start": 6.517,
+            "end": 6.876
+          },
+          {
+            "word": "in 2022 — ",
+            "start": 6.886,
+            "end": 7.832
+          },
+          {
+            "word": "the ",
+            "start": 8.028,
+            "end": 8.093
+          },
+          {
+            "word": "largest ",
+            "start": 8.104,
+            "end": 8.495
+          },
+          {
+            "word": "decline ",
+            "start": 8.506,
+            "end": 8.919
+          },
+          {
+            "word": "since ",
+            "start": 8.93,
+            "end": 9.126
+          },
+          {
+            "word": "the ",
+            "start": 9.136,
+            "end": 9.213
+          },
+          {
+            "word": "1970s. ",
+            "start": 9.223,
+            "end": 10.202
+          },
+          {
+            "word": "Food ",
+            "start": 10.952,
+            "end": 11.278
+          },
+          {
+            "word": "bank ",
+            "start": 11.289,
+            "end": 11.506
+          },
+          {
+            "word": "parcels ",
+            "start": 11.517,
+            "end": 11.897
+          },
+          {
+            "word": "distributed ",
+            "start": 11.908,
+            "end": 12.397
+          },
+          {
+            "word": "in ",
+            "start": 12.408,
+            "end": 12.517
+          },
+          {
+            "word": "Britain ",
+            "start": 12.528,
+            "end": 12.832
+          },
+          {
+            "word": "rose ",
+            "start": 12.843,
+            "end": 13.104
+          },
+          {
+            "word": "thirty-seven ",
+            "start": 13.115,
+            "end": 13.658
+          },
+          {
+            "word": "percent.",
+            "start": 13.669,
+            "end": 14.136
+          }
+        ],
+        "start": 1420
       },
       {
         "type": "quote",
         "chunk_id": "ep6_results_5",
         "audio_exists": true,
+        "audioPath": "episodes/ep6/audio/ep6_results_5.wav",
         "text": "Germany entered technical recession in 2023, its dependency on cheap Russian gas having proved to be a structural vulnerability that forty years of policy had failed to address.",
-        "duration": 342,
-        "bgImage": "bg_toxicology.jpg",
-        "wordTimings": null,
-        "start": 2069
+        "duration": 296,
+        "bgImage": "bg_city_night.jpg",
+        "wordTimings": [
+          {
+            "word": "Germany ",
+            "start": 0.1,
+            "end": 0.469
+          },
+          {
+            "word": "entered ",
+            "start": 0.48,
+            "end": 0.773
+          },
+          {
+            "word": "technical ",
+            "start": 0.784,
+            "end": 1.143
+          },
+          {
+            "word": "recession ",
+            "start": 1.154,
+            "end": 1.556
+          },
+          {
+            "word": "in 2023, ",
+            "start": 1.567,
+            "end": 2.534
+          },
+          {
+            "word": "its ",
+            "start": 2.73,
+            "end": 2.849
+          },
+          {
+            "word": "dependency ",
+            "start": 2.86,
+            "end": 3.436
+          },
+          {
+            "word": "on ",
+            "start": 3.447,
+            "end": 3.599
+          },
+          {
+            "word": "cheap ",
+            "start": 3.61,
+            "end": 3.839
+          },
+          {
+            "word": "Russian ",
+            "start": 3.85,
+            "end": 4.121
+          },
+          {
+            "word": "gas ",
+            "start": 4.132,
+            "end": 4.426
+          },
+          {
+            "word": "having ",
+            "start": 4.436,
+            "end": 4.719
+          },
+          {
+            "word": "proved ",
+            "start": 4.73,
+            "end": 5.013
+          },
+          {
+            "word": "to ",
+            "start": 5.023,
+            "end": 5.078
+          },
+          {
+            "word": "be ",
+            "start": 5.089,
+            "end": 5.208
+          },
+          {
+            "word": "a ",
+            "start": 5.219,
+            "end": 5.263
+          },
+          {
+            "word": "structural ",
+            "start": 5.273,
+            "end": 5.763
+          },
+          {
+            "word": "vulnerability ",
+            "start": 5.773,
+            "end": 6.371
+          },
+          {
+            "word": "that ",
+            "start": 6.382,
+            "end": 6.534
+          },
+          {
+            "word": "forty ",
+            "start": 6.545,
+            "end": 6.849
+          },
+          {
+            "word": "years ",
+            "start": 6.86,
+            "end": 7.165
+          },
+          {
+            "word": "of ",
+            "start": 7.176,
+            "end": 7.273
+          },
+          {
+            "word": "policy ",
+            "start": 7.284,
+            "end": 7.654
+          },
+          {
+            "word": "had ",
+            "start": 7.665,
+            "end": 7.806
+          },
+          {
+            "word": "failed ",
+            "start": 7.817,
+            "end": 8.11
+          },
+          {
+            "word": "to ",
+            "start": 8.121,
+            "end": 8.208
+          },
+          {
+            "word": "address.",
+            "start": 8.219,
+            "end": 8.697
+          }
+        ],
+        "start": 1880
       },
       {
         "type": "quote",
         "chunk_id": "ep6_results_6",
         "audio_exists": true,
+        "audioPath": "episodes/ep6/audio/ep6_results_6.wav",
         "text": "Globally, the tightening cycle pushed seventy million additional people toward acute food insecurity as dollar-denominated commodity prices rose and emerging market currencies fell against the rising dollar.",
-        "duration": 375,
-        "bgImage": "bg_lab.jpg",
-        "wordTimings": null,
-        "start": 2411
+        "duration": 313,
+        "bgImage": "bg_interest_chart.jpg",
+        "wordTimings": [
+          {
+            "word": "Globally, ",
+            "start": 0.1,
+            "end": 0.589
+          },
+          {
+            "word": "the ",
+            "start": 0.719,
+            "end": 0.795
+          },
+          {
+            "word": "tightening ",
+            "start": 0.806,
+            "end": 1.23
+          },
+          {
+            "word": "cycle ",
+            "start": 1.241,
+            "end": 1.578
+          },
+          {
+            "word": "pushed ",
+            "start": 1.589,
+            "end": 1.839
+          },
+          {
+            "word": "seventy ",
+            "start": 1.85,
+            "end": 2.186
+          },
+          {
+            "word": "million ",
+            "start": 2.197,
+            "end": 2.523
+          },
+          {
+            "word": "additional ",
+            "start": 2.534,
+            "end": 2.936
+          },
+          {
+            "word": "people ",
+            "start": 2.947,
+            "end": 3.208
+          },
+          {
+            "word": "toward ",
+            "start": 3.219,
+            "end": 3.523
+          },
+          {
+            "word": "acute ",
+            "start": 3.534,
+            "end": 3.839
+          },
+          {
+            "word": "food ",
+            "start": 3.85,
+            "end": 4.078
+          },
+          {
+            "word": "insecurity ",
+            "start": 4.089,
+            "end": 4.697
+          },
+          {
+            "word": "as ",
+            "start": 4.708,
+            "end": 4.806
+          },
+          {
+            "word": "dollar-denominated ",
+            "start": 4.817,
+            "end": 5.589
+          },
+          {
+            "word": "commodity ",
+            "start": 5.6,
+            "end": 6.002
+          },
+          {
+            "word": "prices ",
+            "start": 6.013,
+            "end": 6.382
+          },
+          {
+            "word": "rose ",
+            "start": 6.393,
+            "end": 6.73
+          },
+          {
+            "word": "and ",
+            "start": 6.741,
+            "end": 6.817
+          },
+          {
+            "word": "emerging ",
+            "start": 6.828,
+            "end": 7.23
+          },
+          {
+            "word": "market ",
+            "start": 7.241,
+            "end": 7.556
+          },
+          {
+            "word": "currencies ",
+            "start": 7.567,
+            "end": 8.002
+          },
+          {
+            "word": "fell ",
+            "start": 8.013,
+            "end": 8.186
+          },
+          {
+            "word": "against ",
+            "start": 8.197,
+            "end": 8.469
+          },
+          {
+            "word": "the ",
+            "start": 8.48,
+            "end": 8.556
+          },
+          {
+            "word": "rising ",
+            "start": 8.567,
+            "end": 8.936
+          },
+          {
+            "word": "dollar.",
+            "start": 8.947,
+            "end": 9.252
+          }
+        ],
+        "start": 2176
       },
       {
         "type": "quote",
         "chunk_id": "ep6_results_7",
         "audio_exists": true,
+        "audioPath": "episodes/ep6/audio/ep6_results_7.wav",
         "text": "The Silicon Valley Bank collapse in March 2023 — caused by exactly the interest rate risk that the stress tests were supposed to catch — was a reminder that crises do not wait for the previous one to be fully resolved.",
-        "duration": 405,
-        "bgImage": "bg_lifestyle.jpg",
-        "wordTimings": null,
-        "start": 2786
+        "duration": 346,
+        "bgImage": "bg_inflation_cash.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "Silicon ",
+            "start": 0.241,
+            "end": 0.621
+          },
+          {
+            "word": "Valley ",
+            "start": 0.632,
+            "end": 0.839
+          },
+          {
+            "word": "Bank ",
+            "start": 0.85,
+            "end": 1.089
+          },
+          {
+            "word": "collapse ",
+            "start": 1.1,
+            "end": 1.491
+          },
+          {
+            "word": "in ",
+            "start": 1.502,
+            "end": 1.61
+          },
+          {
+            "word": "March 2023 — ",
+            "start": 1.621,
+            "end": 2.806
+          },
+          {
+            "word": "caused ",
+            "start": 2.969,
+            "end": 3.241
+          },
+          {
+            "word": "by ",
+            "start": 3.252,
+            "end": 3.393
+          },
+          {
+            "word": "exactly ",
+            "start": 3.404,
+            "end": 3.817
+          },
+          {
+            "word": "the ",
+            "start": 3.828,
+            "end": 3.936
+          },
+          {
+            "word": "interest ",
+            "start": 3.947,
+            "end": 4.306
+          },
+          {
+            "word": "rate ",
+            "start": 4.317,
+            "end": 4.567
+          },
+          {
+            "word": "risk ",
+            "start": 4.578,
+            "end": 4.839
+          },
+          {
+            "word": "that ",
+            "start": 4.85,
+            "end": 4.936
+          },
+          {
+            "word": "the ",
+            "start": 4.947,
+            "end": 5.013
+          },
+          {
+            "word": "stress ",
+            "start": 5.023,
+            "end": 5.339
+          },
+          {
+            "word": "tests ",
+            "start": 5.35,
+            "end": 5.665
+          },
+          {
+            "word": "were ",
+            "start": 5.676,
+            "end": 5.763
+          },
+          {
+            "word": "supposed ",
+            "start": 5.773,
+            "end": 6.154
+          },
+          {
+            "word": "to ",
+            "start": 6.165,
+            "end": 6.219
+          },
+          {
+            "word": "catch — ",
+            "start": 6.23,
+            "end": 6.589
+          },
+          {
+            "word": "was ",
+            "start": 6.763,
+            "end": 6.871
+          },
+          {
+            "word": "a ",
+            "start": 6.882,
+            "end": 6.926
+          },
+          {
+            "word": "reminder ",
+            "start": 6.936,
+            "end": 7.317
+          },
+          {
+            "word": "that ",
+            "start": 7.328,
+            "end": 7.469
+          },
+          {
+            "word": "crises ",
+            "start": 7.48,
+            "end": 7.904
+          },
+          {
+            "word": "do ",
+            "start": 7.915,
+            "end": 8.013
+          },
+          {
+            "word": "not ",
+            "start": 8.023,
+            "end": 8.23
+          },
+          {
+            "word": "wait ",
+            "start": 8.241,
+            "end": 8.48
+          },
+          {
+            "word": "for ",
+            "start": 8.491,
+            "end": 8.567
+          },
+          {
+            "word": "the ",
+            "start": 8.578,
+            "end": 8.665
+          },
+          {
+            "word": "previous ",
+            "start": 8.676,
+            "end": 9.056
+          },
+          {
+            "word": "one ",
+            "start": 9.067,
+            "end": 9.306
+          },
+          {
+            "word": "to ",
+            "start": 9.317,
+            "end": 9.393
+          },
+          {
+            "word": "be ",
+            "start": 9.404,
+            "end": 9.513
+          },
+          {
+            "word": "fully ",
+            "start": 9.523,
+            "end": 9.752
+          },
+          {
+            "word": "resolved.",
+            "start": 9.763,
+            "end": 10.36
+          }
+        ],
+        "start": 2489
       },
       {
         "type": "quote",
         "chunk_id": "ep6_results_8",
         "audio_exists": true,
+        "audioPath": "episodes/ep6/audio/ep6_results_8.wav",
         "text": "They find the vulnerability that the last set of reforms did not address.",
-        "duration": 142,
-        "bgImage": "bg_lab.jpg",
-        "wordTimings": null,
-        "start": 3191
+        "duration": 132,
+        "bgImage": "bg_recovery.jpg",
+        "wordTimings": [
+          {
+            "word": "They ",
+            "start": 0.1,
+            "end": 0.273
+          },
+          {
+            "word": "find ",
+            "start": 0.284,
+            "end": 0.545
+          },
+          {
+            "word": "the ",
+            "start": 0.556,
+            "end": 0.61
+          },
+          {
+            "word": "vulnerability ",
+            "start": 0.621,
+            "end": 1.263
+          },
+          {
+            "word": "that ",
+            "start": 1.273,
+            "end": 1.382
+          },
+          {
+            "word": "the ",
+            "start": 1.393,
+            "end": 1.458
+          },
+          {
+            "word": "last ",
+            "start": 1.469,
+            "end": 1.719
+          },
+          {
+            "word": "set ",
+            "start": 1.73,
+            "end": 1.882
+          },
+          {
+            "word": "of ",
+            "start": 1.893,
+            "end": 1.958
+          },
+          {
+            "word": "reforms ",
+            "start": 1.969,
+            "end": 2.404
+          },
+          {
+            "word": "did ",
+            "start": 2.415,
+            "end": 2.545
+          },
+          {
+            "word": "not ",
+            "start": 2.556,
+            "end": 2.73
+          },
+          {
+            "word": "address.",
+            "start": 2.741,
+            "end": 3.23
+          }
+        ],
+        "start": 2835
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep6_results_9",
+        "audio_exists": true,
+        "audioPath": "episodes/ep6/audio/ep6_results_9.wav",
+        "text": "The inflation of 2021 to 2023 was, in its origins, inseparable from the pandemic response traced in Episode 16. And the rate cycle that tamed it — the most aggressive since Volcker's shock (Episode 6) — demonstrated, once again, that the tools for fighting one crisis can become the seeds of the next.",
+        "duration": 523,
+        "bgImage": "bg_city_night.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.252
+          },
+          {
+            "word": "inflation ",
+            "start": 0.263,
+            "end": 0.697
+          },
+          {
+            "word": "of ",
+            "start": 0.708,
+            "end": 0.784
+          },
+          {
+            "word": "2021 to 2023 ",
+            "start": 0.795,
+            "end": 2.491
+          },
+          {
+            "word": "was, ",
+            "start": 2.502,
+            "end": 2.719
+          },
+          {
+            "word": "in ",
+            "start": 2.904,
+            "end": 2.98
+          },
+          {
+            "word": "its ",
+            "start": 2.991,
+            "end": 3.099
+          },
+          {
+            "word": "origins, ",
+            "start": 3.11,
+            "end": 3.61
+          },
+          {
+            "word": "inseparable ",
+            "start": 3.784,
+            "end": 4.328
+          },
+          {
+            "word": "from ",
+            "start": 4.339,
+            "end": 4.469
+          },
+          {
+            "word": "the ",
+            "start": 4.48,
+            "end": 4.545
+          },
+          {
+            "word": "pandemic ",
+            "start": 4.556,
+            "end": 5.045
+          },
+          {
+            "word": "response ",
+            "start": 5.056,
+            "end": 5.48
+          },
+          {
+            "word": "traced ",
+            "start": 5.491,
+            "end": 5.817
+          },
+          {
+            "word": "in ",
+            "start": 5.828,
+            "end": 5.936
+          },
+          {
+            "word": "Episode ",
+            "start": 5.947,
+            "end": 6.306
+          },
+          {
+            "word": "16. ",
+            "start": 6.317,
+            "end": 6.882
+          },
+          {
+            "word": "And ",
+            "start": 7.626,
+            "end": 7.778
+          },
+          {
+            "word": "the ",
+            "start": 7.789,
+            "end": 7.865
+          },
+          {
+            "word": "rate ",
+            "start": 7.876,
+            "end": 8.104
+          },
+          {
+            "word": "cycle ",
+            "start": 8.115,
+            "end": 8.408
+          },
+          {
+            "word": "that ",
+            "start": 8.419,
+            "end": 8.539
+          },
+          {
+            "word": "tamed ",
+            "start": 8.55,
+            "end": 8.8
+          },
+          {
+            "word": "it — ",
+            "start": 8.81,
+            "end": 8.963
+          },
+          {
+            "word": "the ",
+            "start": 9.126,
+            "end": 9.191
+          },
+          {
+            "word": "most ",
+            "start": 9.202,
+            "end": 9.484
+          },
+          {
+            "word": "aggressive ",
+            "start": 9.495,
+            "end": 9.854
+          },
+          {
+            "word": "since ",
+            "start": 9.865,
+            "end": 10.071
+          },
+          {
+            "word": "Volcker's ",
+            "start": 10.082,
+            "end": 10.43
+          },
+          {
+            "word": "shock (",
+            "start": 10.441,
+            "end": 10.745
+          },
+          {
+            "word": "Episode ",
+            "start": 10.919,
+            "end": 11.278
+          },
+          {
+            "word": "6) — ",
+            "start": 11.289,
+            "end": 11.56
+          },
+          {
+            "word": "demonstrated, ",
+            "start": 11.713,
+            "end": 12.354
+          },
+          {
+            "word": "once ",
+            "start": 12.55,
+            "end": 12.756
+          },
+          {
+            "word": "again, ",
+            "start": 12.767,
+            "end": 13.104
+          },
+          {
+            "word": "that ",
+            "start": 13.332,
+            "end": 13.419
+          },
+          {
+            "word": "the ",
+            "start": 13.43,
+            "end": 13.506
+          },
+          {
+            "word": "tools ",
+            "start": 13.517,
+            "end": 13.821
+          },
+          {
+            "word": "for ",
+            "start": 13.832,
+            "end": 13.919
+          },
+          {
+            "word": "fighting ",
+            "start": 13.93,
+            "end": 14.321
+          },
+          {
+            "word": "one ",
+            "start": 14.332,
+            "end": 14.528
+          },
+          {
+            "word": "crisis ",
+            "start": 14.539,
+            "end": 14.93
+          },
+          {
+            "word": "can ",
+            "start": 14.941,
+            "end": 15.071
+          },
+          {
+            "word": "become ",
+            "start": 15.082,
+            "end": 15.332
+          },
+          {
+            "word": "the ",
+            "start": 15.343,
+            "end": 15.408
+          },
+          {
+            "word": "seeds ",
+            "start": 15.419,
+            "end": 15.691
+          },
+          {
+            "word": "of ",
+            "start": 15.702,
+            "end": 15.767
+          },
+          {
+            "word": "the ",
+            "start": 15.778,
+            "end": 15.843
+          },
+          {
+            "word": "next.",
+            "start": 15.854,
+            "end": 16.267
+          }
+        ],
+        "start": 2967
       }
     ]
   },
   {
     "id": "credits",
     "title": "Credits",
-    "globalStart": 15367,
-    "duration": 1375,
+    "globalStart": 13649,
+    "duration": 440,
     "subSlides": [
       {
         "type": "credits",
         "start": 0,
-        "duration": 1375,
+        "duration": 440,
         "audioSrc": "audio/outro_narration.wav"
       }
     ]

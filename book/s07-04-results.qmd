@@ -1,0 +1,31 @@
+# The Results
+
+## The Human Ledger
+
+Latin America's "lost decade" is documented in statistics that, while dry in presentation, encode enormous human suffering. Per capita income across the region fell approximately eight percent between 1980 and 1990. In some countries the decline was far more severe: Bolivia's per capita income fell by more than thirty percent. Poverty rates rose from roughly forty percent to nearly fifty percent of the Latin American population over the decade. These aggregate figures mask the variation in experience: Mexico's per capita income declined approximately ten percent in real terms; Argentina's fell even further.
+
+Health indicators deteriorated alongside economic ones. Child mortality rates, which had been falling steadily through the 1970s, stagnated or reversed in the early 1980s across much of the region. School enrollment fell as families pulled children out of education for work or could not afford fees and materials. Nutritional status among children under five deteriorated measurably in the countries most severely affected by austerity. The costs of the adjustment were borne asymmetrically by those least able to bear them.
+
+## The Brady Plan's Success
+
+The Brady Plan's implementation through 1990–1994 enabled the recovery that the preceding seven years of extend-and-pretend had failed to produce. Once debt was restructured to sustainable levels — face value reductions of roughly thirty to thirty-five percent, combined with interest rate adjustments — capital flows resumed, domestic investment recovered, and growth returned.
+
+Mexico grew at an average of three percent annually through the early 1990s. Brazil's stabilization, culminating in the Plano Real of 1994, finally defeated the hyperinflation that had plagued it through the crisis decade and launched a period of growth that continued through the commodity boom of the 2000s. Argentina recovered through the late 1980s and early 1990s, though its subsequent dollarization experiment would produce a further crisis in 2001–2002.
+
+The mechanism of recovery — debt relief rather than structural adjustment alone — became central to subsequent IMF doctrine, though the institution was slow and resistant to fully incorporate the lesson. The World Bank's subsequent work on debt relief for heavily indebted poor countries, culminating in the HIPC Initiative of 1996, applied the Brady Plan logic to a broader category of sovereign debtors.
+
+## The Washington Consensus and Its Aftermath
+
+The Latin American debt crisis generated a specific policy framework that dominated development economics through the 1990s: the Washington Consensus, a term coined by economist John Williamson in 1989 to describe the package of policies that Washington-based institutions — the IMF, the World Bank, and the US Treasury — recommended for developing economies in crisis.
+
+The Washington Consensus prescribed fiscal discipline, tax reform, trade liberalization, privatization of state enterprises, deregulation, and protection of property rights. These prescriptions reflected the diagnosis that Latin American governments had borrowed excessively, spent inefficiently, and protected industries from competition in ways that reduced productivity. Some elements of the consensus were well-founded: fiscal discipline was genuinely necessary; some privatizations improved efficiency. Others proved more ambiguous: financial liberalization without adequate regulatory frameworks contributed to the Mexican peso crisis of 1994 and the Asian financial crisis of 1997–1998.
+
+The post-Washington Consensus debate of the 1990s and 2000s was, in substantial part, a reckoning with what the consensus had gotten wrong. The Latin American debt crisis was its origin point.
+
+## The Emerging Market Bond Market
+
+The Brady Plan's financial innovation had an unintended consequence that proved more durable than the crisis resolution itself: it created the emerging market bond market. By transforming illiquid bank loans into tradeable securities, Brady bonds established the infrastructure — pricing conventions, settlement mechanisms, legal documentation — for sovereign bond markets in developing economies.
+
+By the late 1990s, dozens of developing countries were accessing international capital markets directly through bond issuance rather than through bank lending. This democratization of sovereign finance was, on balance, beneficial: it provided access to capital at competitive rates, created market-based discipline on sovereign borrowers through real-time bond pricing, and gave developing economies a more diversified funding base than exclusive dependence on bank lending.
+
+It also created moral hazard. The Brady Plan's implicit message — that sovereign debts, when they became clearly unsustainable, would eventually be restructured rather than repaid in full — reduced the incentive for prudent borrowing. This tension between the demonstrated willingness to provide debt relief in extremis and the incentive effects of that willingness has never been resolved in international finance. It remains the unresolved core of the IMF's debt crisis mandate.

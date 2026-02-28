@@ -1,0 +1,5025 @@
+[
+  {
+    "id": "intro",
+    "title": "Intro",
+    "globalStart": 0,
+    "duration": 176,
+    "episode": 1,
+    "episodeMeta": {
+      "title": "The South Sea Bubble",
+      "subtitle": "1720"
+    },
+    "subSlides": [
+      {
+        "type": "intro",
+        "start": 0,
+        "duration": 176,
+        "audioSrc": "episodes/ep17/intro.wav"
+      }
+    ]
+  },
+  {
+    "id": "ep17_event",
+    "title": "Event",
+    "globalStart": 176,
+    "duration": 3181,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Event"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep17_event_0",
+        "audio_exists": true,
+        "audioPath": "episodes/ep17/audio/ep17_event_0.wav",
+        "text": "In the summer of 1720, shares of the South Sea Company — a British joint-stock corporation holding a monopoly on trade with Spanish South America — rose from one hundred pounds to one thousand pounds in eight months. Then they fell back to one hundred pounds in eight weeks. Thousands of investors, including members of Parliament and the aristocracy, were ruined. The South Sea Bubble remains the archetype of speculative mania.",
+        "duration": 690,
+        "bgImage": "bg_parliament.jpg",
+        "wordTimings": [
+          {
+            "word": "In ",
+            "start": 0.1,
+            "end": 0.241
+          },
+          {
+            "word": "the ",
+            "start": 0.252,
+            "end": 0.328
+          },
+          {
+            "word": "summer ",
+            "start": 0.339,
+            "end": 0.6
+          },
+          {
+            "word": "of ",
+            "start": 0.61,
+            "end": 0.676
+          },
+          {
+            "word": "1720, ",
+            "start": 0.686,
+            "end": 1.513
+          },
+          {
+            "word": "shares ",
+            "start": 1.654,
+            "end": 1.893
+          },
+          {
+            "word": "of ",
+            "start": 1.904,
+            "end": 1.969
+          },
+          {
+            "word": "the ",
+            "start": 1.98,
+            "end": 2.045
+          },
+          {
+            "word": "South ",
+            "start": 2.056,
+            "end": 2.339
+          },
+          {
+            "word": "Sea ",
+            "start": 2.35,
+            "end": 2.513
+          },
+          {
+            "word": "Company — ",
+            "start": 2.523,
+            "end": 2.915
+          },
+          {
+            "word": "a ",
+            "start": 3.089,
+            "end": 3.154
+          },
+          {
+            "word": "British ",
+            "start": 3.165,
+            "end": 3.491
+          },
+          {
+            "word": "joint-stock ",
+            "start": 3.502,
+            "end": 4.034
+          },
+          {
+            "word": "corporation ",
+            "start": 4.045,
+            "end": 4.545
+          },
+          {
+            "word": "holding ",
+            "start": 4.556,
+            "end": 4.849
+          },
+          {
+            "word": "a ",
+            "start": 4.86,
+            "end": 4.893
+          },
+          {
+            "word": "monopoly ",
+            "start": 4.904,
+            "end": 5.295
+          },
+          {
+            "word": "on ",
+            "start": 5.306,
+            "end": 5.436
+          },
+          {
+            "word": "trade ",
+            "start": 5.447,
+            "end": 5.741
+          },
+          {
+            "word": "with ",
+            "start": 5.752,
+            "end": 5.871
+          },
+          {
+            "word": "Spanish ",
+            "start": 5.882,
+            "end": 6.208
+          },
+          {
+            "word": "South ",
+            "start": 6.219,
+            "end": 6.458
+          },
+          {
+            "word": "America — ",
+            "start": 6.469,
+            "end": 6.86
+          },
+          {
+            "word": "rose ",
+            "start": 7.023,
+            "end": 7.284
+          },
+          {
+            "word": "from ",
+            "start": 7.295,
+            "end": 7.447
+          },
+          {
+            "word": "one ",
+            "start": 7.458,
+            "end": 7.643
+          },
+          {
+            "word": "hundred ",
+            "start": 7.654,
+            "end": 7.926
+          },
+          {
+            "word": "pounds ",
+            "start": 7.936,
+            "end": 8.263
+          },
+          {
+            "word": "to ",
+            "start": 8.273,
+            "end": 8.36
+          },
+          {
+            "word": "one ",
+            "start": 8.371,
+            "end": 8.621
+          },
+          {
+            "word": "thousand ",
+            "start": 8.632,
+            "end": 9.034
+          },
+          {
+            "word": "pounds ",
+            "start": 9.045,
+            "end": 9.382
+          },
+          {
+            "word": "in ",
+            "start": 9.393,
+            "end": 9.48
+          },
+          {
+            "word": "eight ",
+            "start": 9.491,
+            "end": 9.643
+          },
+          {
+            "word": "months. ",
+            "start": 9.654,
+            "end": 10.067
+          },
+          {
+            "word": "Then ",
+            "start": 10.81,
+            "end": 11.017
+          },
+          {
+            "word": "they ",
+            "start": 11.028,
+            "end": 11.136
+          },
+          {
+            "word": "fell ",
+            "start": 11.147,
+            "end": 11.43
+          },
+          {
+            "word": "back ",
+            "start": 11.441,
+            "end": 11.636
+          },
+          {
+            "word": "to ",
+            "start": 11.647,
+            "end": 11.713
+          },
+          {
+            "word": "one ",
+            "start": 11.723,
+            "end": 11.919
+          },
+          {
+            "word": "hundred ",
+            "start": 11.93,
+            "end": 12.202
+          },
+          {
+            "word": "pounds ",
+            "start": 12.213,
+            "end": 12.517
+          },
+          {
+            "word": "in ",
+            "start": 12.528,
+            "end": 12.615
+          },
+          {
+            "word": "eight ",
+            "start": 12.626,
+            "end": 12.789
+          },
+          {
+            "word": "weeks. ",
+            "start": 12.8,
+            "end": 13.234
+          },
+          {
+            "word": "Thousands ",
+            "start": 13.984,
+            "end": 14.441
+          },
+          {
+            "word": "of ",
+            "start": 14.452,
+            "end": 14.506
+          },
+          {
+            "word": "investors, ",
+            "start": 14.517,
+            "end": 15.039
+          },
+          {
+            "word": "including ",
+            "start": 15.223,
+            "end": 15.669
+          },
+          {
+            "word": "members ",
+            "start": 15.68,
+            "end": 15.952
+          },
+          {
+            "word": "of ",
+            "start": 15.963,
+            "end": 16.049
+          },
+          {
+            "word": "Parliament ",
+            "start": 16.06,
+            "end": 16.517
+          },
+          {
+            "word": "and ",
+            "start": 16.528,
+            "end": 16.593
+          },
+          {
+            "word": "the ",
+            "start": 16.604,
+            "end": 16.713
+          },
+          {
+            "word": "aristocracy, ",
+            "start": 16.723,
+            "end": 17.43
+          },
+          {
+            "word": "were ",
+            "start": 17.56,
+            "end": 17.669
+          },
+          {
+            "word": "ruined. ",
+            "start": 17.68,
+            "end": 18.158
+          },
+          {
+            "word": "The ",
+            "start": 18.908,
+            "end": 19.049
+          },
+          {
+            "word": "South ",
+            "start": 19.06,
+            "end": 19.321
+          },
+          {
+            "word": "Sea ",
+            "start": 19.332,
+            "end": 19.528
+          },
+          {
+            "word": "Bubble ",
+            "start": 19.539,
+            "end": 19.821
+          },
+          {
+            "word": "remains ",
+            "start": 19.832,
+            "end": 20.191
+          },
+          {
+            "word": "the ",
+            "start": 20.202,
+            "end": 20.299
+          },
+          {
+            "word": "archetype ",
+            "start": 20.31,
+            "end": 20.778
+          },
+          {
+            "word": "of ",
+            "start": 20.789,
+            "end": 20.865
+          },
+          {
+            "word": "speculative ",
+            "start": 20.876,
+            "end": 21.376
+          },
+          {
+            "word": "mania.",
+            "start": 21.386,
+            "end": 21.821
+          }
+        ],
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep17_event_1",
+        "audio_exists": true,
+        "audioPath": "episodes/ep17/audio/ep17_event_1.wav",
+        "text": "The South Sea Company had been created in 1711 not primarily as a trading company but as a mechanism for managing Britain's national debt. It assumed responsibility for approximately ten million pounds of government debt, receiving an annuity from the government in return. In 1720, it proposed an elaborate scheme: it would take over virtually all of Britain's national debt in exchange for shares.",
+        "duration": 640,
+        "bgImage": "bg_vintage_market.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "South ",
+            "start": 0.241,
+            "end": 0.513
+          },
+          {
+            "word": "Sea ",
+            "start": 0.523,
+            "end": 0.686
+          },
+          {
+            "word": "Company ",
+            "start": 0.697,
+            "end": 1.034
+          },
+          {
+            "word": "had ",
+            "start": 1.045,
+            "end": 1.186
+          },
+          {
+            "word": "been ",
+            "start": 1.197,
+            "end": 1.339
+          },
+          {
+            "word": "created ",
+            "start": 1.35,
+            "end": 1.741
+          },
+          {
+            "word": "in 1711 ",
+            "start": 1.752,
+            "end": 2.589
+          },
+          {
+            "word": "not ",
+            "start": 2.6,
+            "end": 2.817
+          },
+          {
+            "word": "primarily ",
+            "start": 2.828,
+            "end": 3.317
+          },
+          {
+            "word": "as ",
+            "start": 3.328,
+            "end": 3.404
+          },
+          {
+            "word": "a ",
+            "start": 3.415,
+            "end": 3.469
+          },
+          {
+            "word": "trading ",
+            "start": 3.48,
+            "end": 3.806
+          },
+          {
+            "word": "company ",
+            "start": 3.817,
+            "end": 4.186
+          },
+          {
+            "word": "but ",
+            "start": 4.197,
+            "end": 4.317
+          },
+          {
+            "word": "as ",
+            "start": 4.328,
+            "end": 4.404
+          },
+          {
+            "word": "a ",
+            "start": 4.415,
+            "end": 4.458
+          },
+          {
+            "word": "mechanism ",
+            "start": 4.469,
+            "end": 4.947
+          },
+          {
+            "word": "for ",
+            "start": 4.958,
+            "end": 5.056
+          },
+          {
+            "word": "managing ",
+            "start": 5.067,
+            "end": 5.469
+          },
+          {
+            "word": "Britain's ",
+            "start": 5.48,
+            "end": 5.817
+          },
+          {
+            "word": "national ",
+            "start": 5.828,
+            "end": 6.186
+          },
+          {
+            "word": "debt. ",
+            "start": 6.197,
+            "end": 6.523
+          },
+          {
+            "word": "It ",
+            "start": 7.267,
+            "end": 7.43
+          },
+          {
+            "word": "assumed ",
+            "start": 7.441,
+            "end": 7.789
+          },
+          {
+            "word": "responsibility ",
+            "start": 7.8,
+            "end": 8.528
+          },
+          {
+            "word": "for ",
+            "start": 8.539,
+            "end": 8.658
+          },
+          {
+            "word": "approximately ",
+            "start": 8.669,
+            "end": 9.234
+          },
+          {
+            "word": "ten ",
+            "start": 9.245,
+            "end": 9.517
+          },
+          {
+            "word": "million ",
+            "start": 9.528,
+            "end": 9.843
+          },
+          {
+            "word": "pounds ",
+            "start": 9.854,
+            "end": 10.136
+          },
+          {
+            "word": "of ",
+            "start": 10.147,
+            "end": 10.213
+          },
+          {
+            "word": "government ",
+            "start": 10.223,
+            "end": 10.593
+          },
+          {
+            "word": "debt, ",
+            "start": 10.604,
+            "end": 10.854
+          },
+          {
+            "word": "receiving ",
+            "start": 11.082,
+            "end": 11.473
+          },
+          {
+            "word": "an ",
+            "start": 11.484,
+            "end": 11.549
+          },
+          {
+            "word": "annuity ",
+            "start": 11.56,
+            "end": 11.963
+          },
+          {
+            "word": "from ",
+            "start": 11.973,
+            "end": 12.126
+          },
+          {
+            "word": "the ",
+            "start": 12.136,
+            "end": 12.202
+          },
+          {
+            "word": "government ",
+            "start": 12.213,
+            "end": 12.615
+          },
+          {
+            "word": "in ",
+            "start": 12.626,
+            "end": 12.723
+          },
+          {
+            "word": "return. ",
+            "start": 12.734,
+            "end": 13.213
+          },
+          {
+            "word": "In 1720, ",
+            "start": 13.963,
+            "end": 14.919
+          },
+          {
+            "word": "it ",
+            "start": 15.071,
+            "end": 15.147
+          },
+          {
+            "word": "proposed ",
+            "start": 15.158,
+            "end": 15.549
+          },
+          {
+            "word": "an ",
+            "start": 15.56,
+            "end": 15.636
+          },
+          {
+            "word": "elaborate ",
+            "start": 15.647,
+            "end": 16.06
+          },
+          {
+            "word": "scheme: ",
+            "start": 16.071,
+            "end": 16.441
+          },
+          {
+            "word": "it ",
+            "start": 16.647,
+            "end": 16.713
+          },
+          {
+            "word": "would ",
+            "start": 16.723,
+            "end": 16.854
+          },
+          {
+            "word": "take ",
+            "start": 16.865,
+            "end": 17.093
+          },
+          {
+            "word": "over ",
+            "start": 17.104,
+            "end": 17.278
+          },
+          {
+            "word": "virtually ",
+            "start": 17.289,
+            "end": 17.723
+          },
+          {
+            "word": "all ",
+            "start": 17.734,
+            "end": 17.984
+          },
+          {
+            "word": "of ",
+            "start": 17.995,
+            "end": 18.093
+          },
+          {
+            "word": "Britain's ",
+            "start": 18.104,
+            "end": 18.452
+          },
+          {
+            "word": "national ",
+            "start": 18.463,
+            "end": 18.81
+          },
+          {
+            "word": "debt ",
+            "start": 18.821,
+            "end": 19.028
+          },
+          {
+            "word": "in ",
+            "start": 19.039,
+            "end": 19.126
+          },
+          {
+            "word": "exchange ",
+            "start": 19.136,
+            "end": 19.571
+          },
+          {
+            "word": "for ",
+            "start": 19.582,
+            "end": 19.658
+          },
+          {
+            "word": "shares.",
+            "start": 19.669,
+            "end": 20.169
+          }
+        ],
+        "start": 780
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep17_event_2",
+        "audio_exists": true,
+        "audioPath": "episodes/ep17/audio/ep17_event_2.wav",
+        "text": "The scheme required convincing debt holders to exchange their government bonds for South Sea shares — at prices that were rising rapidly. To sustain the price rise that made the exchange attractive, the company used its own capital to buy its own shares, bribed government ministers, and issued shares on credit, allowing purchasers to buy with minimal down payments.",
+        "duration": 558,
+        "bgImage": "bg_gold_bars.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "scheme ",
+            "start": 0.241,
+            "end": 0.545
+          },
+          {
+            "word": "required ",
+            "start": 0.556,
+            "end": 0.947
+          },
+          {
+            "word": "convincing ",
+            "start": 0.958,
+            "end": 1.447
+          },
+          {
+            "word": "debt ",
+            "start": 1.458,
+            "end": 1.621
+          },
+          {
+            "word": "holders ",
+            "start": 1.632,
+            "end": 1.958
+          },
+          {
+            "word": "to ",
+            "start": 1.969,
+            "end": 2.067
+          },
+          {
+            "word": "exchange ",
+            "start": 2.078,
+            "end": 2.491
+          },
+          {
+            "word": "their ",
+            "start": 2.502,
+            "end": 2.621
+          },
+          {
+            "word": "government ",
+            "start": 2.632,
+            "end": 3.023
+          },
+          {
+            "word": "bonds ",
+            "start": 3.034,
+            "end": 3.284
+          },
+          {
+            "word": "for ",
+            "start": 3.295,
+            "end": 3.382
+          },
+          {
+            "word": "South ",
+            "start": 3.393,
+            "end": 3.686
+          },
+          {
+            "word": "Sea ",
+            "start": 3.697,
+            "end": 3.882
+          },
+          {
+            "word": "shares — ",
+            "start": 3.893,
+            "end": 4.328
+          },
+          {
+            "word": "at ",
+            "start": 4.523,
+            "end": 4.654
+          },
+          {
+            "word": "prices ",
+            "start": 4.665,
+            "end": 5.023
+          },
+          {
+            "word": "that ",
+            "start": 5.034,
+            "end": 5.132
+          },
+          {
+            "word": "were ",
+            "start": 5.143,
+            "end": 5.23
+          },
+          {
+            "word": "rising ",
+            "start": 5.241,
+            "end": 5.654
+          },
+          {
+            "word": "rapidly. ",
+            "start": 5.665,
+            "end": 6.11
+          },
+          {
+            "word": "To ",
+            "start": 6.854,
+            "end": 6.973
+          },
+          {
+            "word": "sustain ",
+            "start": 6.984,
+            "end": 7.397
+          },
+          {
+            "word": "the ",
+            "start": 7.408,
+            "end": 7.473
+          },
+          {
+            "word": "price ",
+            "start": 7.484,
+            "end": 7.767
+          },
+          {
+            "word": "rise ",
+            "start": 7.778,
+            "end": 8.093
+          },
+          {
+            "word": "that ",
+            "start": 8.104,
+            "end": 8.202
+          },
+          {
+            "word": "made ",
+            "start": 8.213,
+            "end": 8.408
+          },
+          {
+            "word": "the ",
+            "start": 8.419,
+            "end": 8.517
+          },
+          {
+            "word": "exchange ",
+            "start": 8.528,
+            "end": 8.908
+          },
+          {
+            "word": "attractive, ",
+            "start": 8.919,
+            "end": 9.419
+          },
+          {
+            "word": "the ",
+            "start": 9.615,
+            "end": 9.68
+          },
+          {
+            "word": "company ",
+            "start": 9.691,
+            "end": 10.028
+          },
+          {
+            "word": "used ",
+            "start": 10.039,
+            "end": 10.354
+          },
+          {
+            "word": "its ",
+            "start": 10.365,
+            "end": 10.473
+          },
+          {
+            "word": "own ",
+            "start": 10.484,
+            "end": 10.658
+          },
+          {
+            "word": "capital ",
+            "start": 10.669,
+            "end": 11.039
+          },
+          {
+            "word": "to ",
+            "start": 11.05,
+            "end": 11.147
+          },
+          {
+            "word": "buy ",
+            "start": 11.158,
+            "end": 11.354
+          },
+          {
+            "word": "its ",
+            "start": 11.365,
+            "end": 11.528
+          },
+          {
+            "word": "own ",
+            "start": 11.539,
+            "end": 11.713
+          },
+          {
+            "word": "shares, ",
+            "start": 11.723,
+            "end": 12.18
+          },
+          {
+            "word": "bribed ",
+            "start": 12.354,
+            "end": 12.68
+          },
+          {
+            "word": "government ",
+            "start": 12.691,
+            "end": 13.028
+          },
+          {
+            "word": "ministers, ",
+            "start": 13.039,
+            "end": 13.463
+          },
+          {
+            "word": "and ",
+            "start": 13.68,
+            "end": 13.81
+          },
+          {
+            "word": "issued ",
+            "start": 13.821,
+            "end": 14.06
+          },
+          {
+            "word": "shares ",
+            "start": 14.071,
+            "end": 14.397
+          },
+          {
+            "word": "on ",
+            "start": 14.408,
+            "end": 14.517
+          },
+          {
+            "word": "credit, ",
+            "start": 14.528,
+            "end": 14.886
+          },
+          {
+            "word": "allowing ",
+            "start": 15.071,
+            "end": 15.376
+          },
+          {
+            "word": "purchasers ",
+            "start": 15.386,
+            "end": 15.854
+          },
+          {
+            "word": "to ",
+            "start": 15.865,
+            "end": 15.952
+          },
+          {
+            "word": "buy ",
+            "start": 15.963,
+            "end": 16.191
+          },
+          {
+            "word": "with ",
+            "start": 16.202,
+            "end": 16.343
+          },
+          {
+            "word": "minimal ",
+            "start": 16.354,
+            "end": 16.658
+          },
+          {
+            "word": "down ",
+            "start": 16.669,
+            "end": 16.908
+          },
+          {
+            "word": "payments.",
+            "start": 16.919,
+            "end": 17.43
+          }
+        ],
+        "start": 1420
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep17_event_3",
+        "audio_exists": true,
+        "audioPath": "episodes/ep17/audio/ep17_event_3.wav",
+        "text": "The mania spread. Dozens of other bubble companies appeared, selling shares in projects to drain the Red Sea, to import jackasses from Spain, to make square cannon balls. One prospectus simply offered shares in 'an undertaking of great advantage, but nobody to know what it is.' It raised two thousand pounds in one morning before the promoter disappeared.",
+        "duration": 594,
+        "bgImage": "bg_city_night.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "mania ",
+            "start": 0.241,
+            "end": 0.589
+          },
+          {
+            "word": "spread. ",
+            "start": 0.6,
+            "end": 1.034
+          },
+          {
+            "word": "Dozens ",
+            "start": 1.778,
+            "end": 2.136
+          },
+          {
+            "word": "of ",
+            "start": 2.147,
+            "end": 2.245
+          },
+          {
+            "word": "other ",
+            "start": 2.256,
+            "end": 2.419
+          },
+          {
+            "word": "bubble ",
+            "start": 2.43,
+            "end": 2.647
+          },
+          {
+            "word": "companies ",
+            "start": 2.658,
+            "end": 3.071
+          },
+          {
+            "word": "appeared, ",
+            "start": 3.082,
+            "end": 3.495
+          },
+          {
+            "word": "selling ",
+            "start": 3.68,
+            "end": 3.93
+          },
+          {
+            "word": "shares ",
+            "start": 3.941,
+            "end": 4.245
+          },
+          {
+            "word": "in ",
+            "start": 4.256,
+            "end": 4.343
+          },
+          {
+            "word": "projects ",
+            "start": 4.354,
+            "end": 4.723
+          },
+          {
+            "word": "to ",
+            "start": 4.734,
+            "end": 4.821
+          },
+          {
+            "word": "drain ",
+            "start": 4.832,
+            "end": 5.115
+          },
+          {
+            "word": "the ",
+            "start": 5.126,
+            "end": 5.191
+          },
+          {
+            "word": "Red ",
+            "start": 5.202,
+            "end": 5.419
+          },
+          {
+            "word": "Sea, ",
+            "start": 5.43,
+            "end": 5.745
+          },
+          {
+            "word": "to ",
+            "start": 5.93,
+            "end": 6.017
+          },
+          {
+            "word": "import ",
+            "start": 6.028,
+            "end": 6.397
+          },
+          {
+            "word": "jackasses ",
+            "start": 6.408,
+            "end": 6.908
+          },
+          {
+            "word": "from ",
+            "start": 6.919,
+            "end": 7.049
+          },
+          {
+            "word": "Spain, ",
+            "start": 7.06,
+            "end": 7.408
+          },
+          {
+            "word": "to ",
+            "start": 7.582,
+            "end": 7.669
+          },
+          {
+            "word": "make ",
+            "start": 7.68,
+            "end": 7.876
+          },
+          {
+            "word": "square ",
+            "start": 7.886,
+            "end": 8.191
+          },
+          {
+            "word": "cannon ",
+            "start": 8.202,
+            "end": 8.517
+          },
+          {
+            "word": "balls. ",
+            "start": 8.528,
+            "end": 8.984
+          },
+          {
+            "word": "One ",
+            "start": 9.734,
+            "end": 9.995
+          },
+          {
+            "word": "prospectus ",
+            "start": 10.006,
+            "end": 10.463
+          },
+          {
+            "word": "simply ",
+            "start": 10.473,
+            "end": 10.756
+          },
+          {
+            "word": "offered ",
+            "start": 10.767,
+            "end": 11.039
+          },
+          {
+            "word": "shares ",
+            "start": 11.05,
+            "end": 11.354
+          },
+          {
+            "word": "in '",
+            "start": 11.365,
+            "end": 11.441
+          },
+          {
+            "word": "an ",
+            "start": 11.506,
+            "end": 11.582
+          },
+          {
+            "word": "undertaking ",
+            "start": 11.593,
+            "end": 12.071
+          },
+          {
+            "word": "of ",
+            "start": 12.082,
+            "end": 12.158
+          },
+          {
+            "word": "great ",
+            "start": 12.169,
+            "end": 12.408
+          },
+          {
+            "word": "advantage, ",
+            "start": 12.419,
+            "end": 12.984
+          },
+          {
+            "word": "but ",
+            "start": 13.158,
+            "end": 13.267
+          },
+          {
+            "word": "nobody ",
+            "start": 13.278,
+            "end": 13.658
+          },
+          {
+            "word": "to ",
+            "start": 13.669,
+            "end": 13.778
+          },
+          {
+            "word": "know ",
+            "start": 13.789,
+            "end": 13.919
+          },
+          {
+            "word": "what ",
+            "start": 13.93,
+            "end": 14.104
+          },
+          {
+            "word": "it ",
+            "start": 14.115,
+            "end": 14.191
+          },
+          {
+            "word": "is.' ",
+            "start": 14.202,
+            "end": 14.506
+          },
+          {
+            "word": "It ",
+            "start": 15.256,
+            "end": 15.419
+          },
+          {
+            "word": "raised ",
+            "start": 15.43,
+            "end": 15.68
+          },
+          {
+            "word": "two ",
+            "start": 15.691,
+            "end": 15.821
+          },
+          {
+            "word": "thousand ",
+            "start": 15.832,
+            "end": 16.18
+          },
+          {
+            "word": "pounds ",
+            "start": 16.191,
+            "end": 16.506
+          },
+          {
+            "word": "in ",
+            "start": 16.517,
+            "end": 16.615
+          },
+          {
+            "word": "one ",
+            "start": 16.626,
+            "end": 16.876
+          },
+          {
+            "word": "morning ",
+            "start": 16.886,
+            "end": 17.234
+          },
+          {
+            "word": "before ",
+            "start": 17.245,
+            "end": 17.484
+          },
+          {
+            "word": "the ",
+            "start": 17.495,
+            "end": 17.593
+          },
+          {
+            "word": "promoter ",
+            "start": 17.604,
+            "end": 17.963
+          },
+          {
+            "word": "disappeared.",
+            "start": 17.973,
+            "end": 18.615
+          }
+        ],
+        "start": 1978
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep17_event_4",
+        "audio_exists": true,
+        "audioPath": "episodes/ep17/audio/ep17_event_4.wav",
+        "text": "The collapse came when confidence broke. In August 1720, the company moved to suppress the other bubble companies under the Bubble Act — partly to protect its own position, partly because they were diverting capital. When those companies collapsed, investors who had borrowed to buy South Sea shares needed to sell to repay loans. Selling cascaded into collapse.",
+        "duration": 609,
+        "bgImage": "bg_parliament.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.241
+          },
+          {
+            "word": "collapse ",
+            "start": 0.252,
+            "end": 0.632
+          },
+          {
+            "word": "came ",
+            "start": 0.643,
+            "end": 0.893
+          },
+          {
+            "word": "when ",
+            "start": 0.904,
+            "end": 1.045
+          },
+          {
+            "word": "confidence ",
+            "start": 1.056,
+            "end": 1.491
+          },
+          {
+            "word": "broke. ",
+            "start": 1.502,
+            "end": 1.871
+          },
+          {
+            "word": "In ",
+            "start": 2.615,
+            "end": 2.799
+          },
+          {
+            "word": "August 1720, ",
+            "start": 2.81,
+            "end": 3.843
+          },
+          {
+            "word": "the ",
+            "start": 3.973,
+            "end": 4.06
+          },
+          {
+            "word": "company ",
+            "start": 4.071,
+            "end": 4.419
+          },
+          {
+            "word": "moved ",
+            "start": 4.43,
+            "end": 4.68
+          },
+          {
+            "word": "to ",
+            "start": 4.691,
+            "end": 4.745
+          },
+          {
+            "word": "suppress ",
+            "start": 4.756,
+            "end": 5.18
+          },
+          {
+            "word": "the ",
+            "start": 5.191,
+            "end": 5.299
+          },
+          {
+            "word": "other ",
+            "start": 5.31,
+            "end": 5.506
+          },
+          {
+            "word": "bubble ",
+            "start": 5.517,
+            "end": 5.778
+          },
+          {
+            "word": "companies ",
+            "start": 5.789,
+            "end": 6.256
+          },
+          {
+            "word": "under ",
+            "start": 6.267,
+            "end": 6.452
+          },
+          {
+            "word": "the ",
+            "start": 6.463,
+            "end": 6.56
+          },
+          {
+            "word": "Bubble ",
+            "start": 6.571,
+            "end": 6.832
+          },
+          {
+            "word": "Act — ",
+            "start": 6.843,
+            "end": 7.06
+          },
+          {
+            "word": "partly ",
+            "start": 7.223,
+            "end": 7.549
+          },
+          {
+            "word": "to ",
+            "start": 7.56,
+            "end": 7.647
+          },
+          {
+            "word": "protect ",
+            "start": 7.658,
+            "end": 8.017
+          },
+          {
+            "word": "its ",
+            "start": 8.028,
+            "end": 8.136
+          },
+          {
+            "word": "own ",
+            "start": 8.147,
+            "end": 8.299
+          },
+          {
+            "word": "position, ",
+            "start": 8.31,
+            "end": 8.734
+          },
+          {
+            "word": "partly ",
+            "start": 8.93,
+            "end": 9.245
+          },
+          {
+            "word": "because ",
+            "start": 9.256,
+            "end": 9.473
+          },
+          {
+            "word": "they ",
+            "start": 9.484,
+            "end": 9.582
+          },
+          {
+            "word": "were ",
+            "start": 9.593,
+            "end": 9.68
+          },
+          {
+            "word": "diverting ",
+            "start": 9.691,
+            "end": 10.202
+          },
+          {
+            "word": "capital. ",
+            "start": 10.213,
+            "end": 10.658
+          },
+          {
+            "word": "When ",
+            "start": 11.408,
+            "end": 11.636
+          },
+          {
+            "word": "those ",
+            "start": 11.647,
+            "end": 11.876
+          },
+          {
+            "word": "companies ",
+            "start": 11.886,
+            "end": 12.289
+          },
+          {
+            "word": "collapsed, ",
+            "start": 12.3,
+            "end": 12.767
+          },
+          {
+            "word": "investors ",
+            "start": 12.952,
+            "end": 13.408
+          },
+          {
+            "word": "who ",
+            "start": 13.419,
+            "end": 13.539
+          },
+          {
+            "word": "had ",
+            "start": 13.55,
+            "end": 13.691
+          },
+          {
+            "word": "borrowed ",
+            "start": 13.702,
+            "end": 13.984
+          },
+          {
+            "word": "to ",
+            "start": 13.995,
+            "end": 14.049
+          },
+          {
+            "word": "buy ",
+            "start": 14.06,
+            "end": 14.223
+          },
+          {
+            "word": "South ",
+            "start": 14.234,
+            "end": 14.571
+          },
+          {
+            "word": "Sea ",
+            "start": 14.582,
+            "end": 14.767
+          },
+          {
+            "word": "shares ",
+            "start": 14.778,
+            "end": 15.136
+          },
+          {
+            "word": "needed ",
+            "start": 15.147,
+            "end": 15.419
+          },
+          {
+            "word": "to ",
+            "start": 15.43,
+            "end": 15.484
+          },
+          {
+            "word": "sell ",
+            "start": 15.495,
+            "end": 15.767
+          },
+          {
+            "word": "to ",
+            "start": 15.778,
+            "end": 15.843
+          },
+          {
+            "word": "repay ",
+            "start": 15.854,
+            "end": 16.147
+          },
+          {
+            "word": "loans. ",
+            "start": 16.158,
+            "end": 16.713
+          },
+          {
+            "word": "Selling ",
+            "start": 17.463,
+            "end": 17.789
+          },
+          {
+            "word": "cascaded ",
+            "start": 17.8,
+            "end": 18.31
+          },
+          {
+            "word": "into ",
+            "start": 18.321,
+            "end": 18.571
+          },
+          {
+            "word": "collapse.",
+            "start": 18.582,
+            "end": 19.147
+          }
+        ],
+        "start": 2572
+      }
+    ]
+  },
+  {
+    "id": "ep17_problems",
+    "title": "Problems",
+    "globalStart": 3357,
+    "duration": 2374,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Problems"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep17_problems_0",
+        "audio_exists": true,
+        "audioPath": "episodes/ep17/audio/ep17_problems_0.wav",
+        "text": "The South Sea Bubble exposed a problem at the heart of joint-stock company finance: the separation of ownership from information. Shareholders had no way to verify the company's actual trading operations, revenues, or prospects. The company's value rested entirely on expectations — expectations that the company and its promoters had strong incentives to manipulate upward.",
+        "duration": 612,
+        "bgImage": "bg_gold_bars.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.241
+          },
+          {
+            "word": "South ",
+            "start": 0.252,
+            "end": 0.534
+          },
+          {
+            "word": "Sea ",
+            "start": 0.545,
+            "end": 0.752
+          },
+          {
+            "word": "Bubble ",
+            "start": 0.763,
+            "end": 1.045
+          },
+          {
+            "word": "exposed ",
+            "start": 1.056,
+            "end": 1.447
+          },
+          {
+            "word": "a ",
+            "start": 1.458,
+            "end": 1.502
+          },
+          {
+            "word": "problem ",
+            "start": 1.513,
+            "end": 1.839
+          },
+          {
+            "word": "at ",
+            "start": 1.85,
+            "end": 1.904
+          },
+          {
+            "word": "the ",
+            "start": 1.915,
+            "end": 1.969
+          },
+          {
+            "word": "heart ",
+            "start": 1.98,
+            "end": 2.219
+          },
+          {
+            "word": "of ",
+            "start": 2.23,
+            "end": 2.317
+          },
+          {
+            "word": "joint-stock ",
+            "start": 2.328,
+            "end": 2.871
+          },
+          {
+            "word": "company ",
+            "start": 2.882,
+            "end": 3.208
+          },
+          {
+            "word": "finance: ",
+            "start": 3.219,
+            "end": 3.752
+          },
+          {
+            "word": "the ",
+            "start": 3.915,
+            "end": 3.991
+          },
+          {
+            "word": "separation ",
+            "start": 4.002,
+            "end": 4.513
+          },
+          {
+            "word": "of ",
+            "start": 4.523,
+            "end": 4.599
+          },
+          {
+            "word": "ownership ",
+            "start": 4.61,
+            "end": 5.002
+          },
+          {
+            "word": "from ",
+            "start": 5.013,
+            "end": 5.143
+          },
+          {
+            "word": "information. ",
+            "start": 5.154,
+            "end": 5.719
+          },
+          {
+            "word": "Shareholders ",
+            "start": 6.463,
+            "end": 7.071
+          },
+          {
+            "word": "had ",
+            "start": 7.082,
+            "end": 7.202
+          },
+          {
+            "word": "no ",
+            "start": 7.213,
+            "end": 7.397
+          },
+          {
+            "word": "way ",
+            "start": 7.408,
+            "end": 7.636
+          },
+          {
+            "word": "to ",
+            "start": 7.647,
+            "end": 7.756
+          },
+          {
+            "word": "verify ",
+            "start": 7.767,
+            "end": 8.158
+          },
+          {
+            "word": "the ",
+            "start": 8.169,
+            "end": 8.245
+          },
+          {
+            "word": "company's ",
+            "start": 8.256,
+            "end": 8.713
+          },
+          {
+            "word": "actual ",
+            "start": 8.723,
+            "end": 9.071
+          },
+          {
+            "word": "trading ",
+            "start": 9.082,
+            "end": 9.43
+          },
+          {
+            "word": "operations, ",
+            "start": 9.441,
+            "end": 10.06
+          },
+          {
+            "word": "revenues, ",
+            "start": 10.256,
+            "end": 10.81
+          },
+          {
+            "word": "or ",
+            "start": 10.963,
+            "end": 11.071
+          },
+          {
+            "word": "prospects. ",
+            "start": 11.082,
+            "end": 11.745
+          },
+          {
+            "word": "The ",
+            "start": 12.495,
+            "end": 12.615
+          },
+          {
+            "word": "company's ",
+            "start": 12.626,
+            "end": 13.028
+          },
+          {
+            "word": "value ",
+            "start": 13.039,
+            "end": 13.376
+          },
+          {
+            "word": "rested ",
+            "start": 13.386,
+            "end": 13.669
+          },
+          {
+            "word": "entirely ",
+            "start": 13.68,
+            "end": 14.147
+          },
+          {
+            "word": "on ",
+            "start": 14.158,
+            "end": 14.278
+          },
+          {
+            "word": "expectations — ",
+            "start": 14.289,
+            "end": 15.05
+          },
+          {
+            "word": "expectations ",
+            "start": 15.245,
+            "end": 15.952
+          },
+          {
+            "word": "that ",
+            "start": 15.963,
+            "end": 16.06
+          },
+          {
+            "word": "the ",
+            "start": 16.071,
+            "end": 16.136
+          },
+          {
+            "word": "company ",
+            "start": 16.147,
+            "end": 16.539
+          },
+          {
+            "word": "and ",
+            "start": 16.55,
+            "end": 16.658
+          },
+          {
+            "word": "its ",
+            "start": 16.669,
+            "end": 16.778
+          },
+          {
+            "word": "promoters ",
+            "start": 16.789,
+            "end": 17.256
+          },
+          {
+            "word": "had ",
+            "start": 17.267,
+            "end": 17.386
+          },
+          {
+            "word": "strong ",
+            "start": 17.397,
+            "end": 17.767
+          },
+          {
+            "word": "incentives ",
+            "start": 17.778,
+            "end": 18.256
+          },
+          {
+            "word": "to ",
+            "start": 18.267,
+            "end": 18.343
+          },
+          {
+            "word": "manipulate ",
+            "start": 18.354,
+            "end": 18.865
+          },
+          {
+            "word": "upward.",
+            "start": 18.876,
+            "end": 19.234
+          }
+        ],
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep17_problems_1",
+        "audio_exists": true,
+        "audioPath": "episodes/ep17/audio/ep17_problems_1.wav",
+        "text": "The debt-for-equity conversion scheme was mathematically incoherent. It could only work if share prices kept rising. Rising prices attracted more buyers. More buyers further inflated prices. The scheme required that the stock price never fall — which is to say, it required that it always fall eventually.",
+        "duration": 552,
+        "bgImage": "bg_vintage_market.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.252
+          },
+          {
+            "word": "debt-for-equity ",
+            "start": 0.263,
+            "end": 0.904
+          },
+          {
+            "word": "conversion ",
+            "start": 0.915,
+            "end": 1.349
+          },
+          {
+            "word": "scheme ",
+            "start": 1.36,
+            "end": 1.697
+          },
+          {
+            "word": "was ",
+            "start": 1.708,
+            "end": 1.839
+          },
+          {
+            "word": "mathematically ",
+            "start": 1.85,
+            "end": 2.48
+          },
+          {
+            "word": "incoherent. ",
+            "start": 2.491,
+            "end": 3.176
+          },
+          {
+            "word": "It ",
+            "start": 3.919,
+            "end": 4.06
+          },
+          {
+            "word": "could ",
+            "start": 4.071,
+            "end": 4.191
+          },
+          {
+            "word": "only ",
+            "start": 4.202,
+            "end": 4.397
+          },
+          {
+            "word": "work ",
+            "start": 4.408,
+            "end": 4.68
+          },
+          {
+            "word": "if ",
+            "start": 4.691,
+            "end": 4.789
+          },
+          {
+            "word": "share ",
+            "start": 4.8,
+            "end": 4.973
+          },
+          {
+            "word": "prices ",
+            "start": 4.984,
+            "end": 5.386
+          },
+          {
+            "word": "kept ",
+            "start": 5.397,
+            "end": 5.658
+          },
+          {
+            "word": "rising. ",
+            "start": 5.669,
+            "end": 6.136
+          },
+          {
+            "word": "Rising ",
+            "start": 6.886,
+            "end": 7.299
+          },
+          {
+            "word": "prices ",
+            "start": 7.31,
+            "end": 7.658
+          },
+          {
+            "word": "attracted ",
+            "start": 7.669,
+            "end": 8.071
+          },
+          {
+            "word": "more ",
+            "start": 8.082,
+            "end": 8.278
+          },
+          {
+            "word": "buyers. ",
+            "start": 8.289,
+            "end": 8.832
+          },
+          {
+            "word": "More ",
+            "start": 9.582,
+            "end": 9.821
+          },
+          {
+            "word": "buyers ",
+            "start": 9.832,
+            "end": 10.202
+          },
+          {
+            "word": "further ",
+            "start": 10.213,
+            "end": 10.528
+          },
+          {
+            "word": "inflated ",
+            "start": 10.539,
+            "end": 10.984
+          },
+          {
+            "word": "prices. ",
+            "start": 10.995,
+            "end": 11.571
+          },
+          {
+            "word": "The ",
+            "start": 12.321,
+            "end": 12.452
+          },
+          {
+            "word": "scheme ",
+            "start": 12.463,
+            "end": 12.767
+          },
+          {
+            "word": "required ",
+            "start": 12.778,
+            "end": 13.147
+          },
+          {
+            "word": "that ",
+            "start": 13.158,
+            "end": 13.245
+          },
+          {
+            "word": "the ",
+            "start": 13.256,
+            "end": 13.321
+          },
+          {
+            "word": "stock ",
+            "start": 13.332,
+            "end": 13.582
+          },
+          {
+            "word": "price ",
+            "start": 13.593,
+            "end": 13.865
+          },
+          {
+            "word": "never ",
+            "start": 13.876,
+            "end": 14.104
+          },
+          {
+            "word": "fall — ",
+            "start": 14.115,
+            "end": 14.386
+          },
+          {
+            "word": "which ",
+            "start": 14.56,
+            "end": 14.713
+          },
+          {
+            "word": "is ",
+            "start": 14.723,
+            "end": 14.799
+          },
+          {
+            "word": "to ",
+            "start": 14.81,
+            "end": 14.886
+          },
+          {
+            "word": "say, ",
+            "start": 14.897,
+            "end": 15.234
+          },
+          {
+            "word": "it ",
+            "start": 15.473,
+            "end": 15.549
+          },
+          {
+            "word": "required ",
+            "start": 15.56,
+            "end": 15.919
+          },
+          {
+            "word": "that ",
+            "start": 15.93,
+            "end": 16.028
+          },
+          {
+            "word": "it ",
+            "start": 16.039,
+            "end": 16.136
+          },
+          {
+            "word": "always ",
+            "start": 16.147,
+            "end": 16.463
+          },
+          {
+            "word": "fall ",
+            "start": 16.473,
+            "end": 16.702
+          },
+          {
+            "word": "eventually.",
+            "start": 16.713,
+            "end": 17.213
+          }
+        ],
+        "start": 702
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep17_problems_2",
+        "audio_exists": true,
+        "audioPath": "episodes/ep17/audio/ep17_problems_2.wav",
+        "text": "Government corruption was central to the bubble. The company's directors had bribed ministers and members of Parliament with shares allocated at below-market prices. When the bubble collapsed and Parliament investigated, the resulting scandal implicated some of the most senior figures in government. The First Lord of the Treasury was imprisoned in the Tower of London.",
+        "duration": 565,
+        "bgImage": "bg_breadline.jpg",
+        "wordTimings": [
+          {
+            "word": "Government ",
+            "start": 0.1,
+            "end": 0.491
+          },
+          {
+            "word": "corruption ",
+            "start": 0.502,
+            "end": 0.958
+          },
+          {
+            "word": "was ",
+            "start": 0.969,
+            "end": 1.089
+          },
+          {
+            "word": "central ",
+            "start": 1.1,
+            "end": 1.436
+          },
+          {
+            "word": "to ",
+            "start": 1.447,
+            "end": 1.523
+          },
+          {
+            "word": "the ",
+            "start": 1.534,
+            "end": 1.61
+          },
+          {
+            "word": "bubble. ",
+            "start": 1.621,
+            "end": 1.969
+          },
+          {
+            "word": "The ",
+            "start": 2.713,
+            "end": 2.843
+          },
+          {
+            "word": "company's ",
+            "start": 2.854,
+            "end": 3.278
+          },
+          {
+            "word": "directors ",
+            "start": 3.289,
+            "end": 3.723
+          },
+          {
+            "word": "had ",
+            "start": 3.734,
+            "end": 3.876
+          },
+          {
+            "word": "bribed ",
+            "start": 3.886,
+            "end": 4.18
+          },
+          {
+            "word": "ministers ",
+            "start": 4.191,
+            "end": 4.615
+          },
+          {
+            "word": "and ",
+            "start": 4.626,
+            "end": 4.734
+          },
+          {
+            "word": "members ",
+            "start": 4.745,
+            "end": 5.028
+          },
+          {
+            "word": "of ",
+            "start": 5.039,
+            "end": 5.126
+          },
+          {
+            "word": "Parliament ",
+            "start": 5.136,
+            "end": 5.571
+          },
+          {
+            "word": "with ",
+            "start": 5.582,
+            "end": 5.713
+          },
+          {
+            "word": "shares ",
+            "start": 5.723,
+            "end": 6.104
+          },
+          {
+            "word": "allocated ",
+            "start": 6.115,
+            "end": 6.604
+          },
+          {
+            "word": "at ",
+            "start": 6.615,
+            "end": 6.713
+          },
+          {
+            "word": "below-market ",
+            "start": 6.723,
+            "end": 7.321
+          },
+          {
+            "word": "prices. ",
+            "start": 7.332,
+            "end": 7.865
+          },
+          {
+            "word": "When ",
+            "start": 8.615,
+            "end": 8.821
+          },
+          {
+            "word": "the ",
+            "start": 8.832,
+            "end": 8.919
+          },
+          {
+            "word": "bubble ",
+            "start": 8.93,
+            "end": 9.169
+          },
+          {
+            "word": "collapsed ",
+            "start": 9.18,
+            "end": 9.56
+          },
+          {
+            "word": "and ",
+            "start": 9.571,
+            "end": 9.658
+          },
+          {
+            "word": "Parliament ",
+            "start": 9.669,
+            "end": 10.06
+          },
+          {
+            "word": "investigated, ",
+            "start": 10.071,
+            "end": 10.745
+          },
+          {
+            "word": "the ",
+            "start": 10.93,
+            "end": 11.017
+          },
+          {
+            "word": "resulting ",
+            "start": 11.028,
+            "end": 11.506
+          },
+          {
+            "word": "scandal ",
+            "start": 11.517,
+            "end": 11.93
+          },
+          {
+            "word": "implicated ",
+            "start": 11.941,
+            "end": 12.441
+          },
+          {
+            "word": "some ",
+            "start": 12.452,
+            "end": 12.604
+          },
+          {
+            "word": "of ",
+            "start": 12.615,
+            "end": 12.669
+          },
+          {
+            "word": "the ",
+            "start": 12.68,
+            "end": 12.745
+          },
+          {
+            "word": "most ",
+            "start": 12.756,
+            "end": 13.017
+          },
+          {
+            "word": "senior ",
+            "start": 13.028,
+            "end": 13.321
+          },
+          {
+            "word": "figures ",
+            "start": 13.332,
+            "end": 13.636
+          },
+          {
+            "word": "in ",
+            "start": 13.647,
+            "end": 13.734
+          },
+          {
+            "word": "government. ",
+            "start": 13.745,
+            "end": 14.256
+          },
+          {
+            "word": "The ",
+            "start": 15.006,
+            "end": 15.136
+          },
+          {
+            "word": "First ",
+            "start": 15.147,
+            "end": 15.43
+          },
+          {
+            "word": "Lord ",
+            "start": 15.441,
+            "end": 15.626
+          },
+          {
+            "word": "of ",
+            "start": 15.636,
+            "end": 15.691
+          },
+          {
+            "word": "the ",
+            "start": 15.702,
+            "end": 15.767
+          },
+          {
+            "word": "Treasury ",
+            "start": 15.778,
+            "end": 16.126
+          },
+          {
+            "word": "was ",
+            "start": 16.136,
+            "end": 16.278
+          },
+          {
+            "word": "imprisoned ",
+            "start": 16.289,
+            "end": 16.658
+          },
+          {
+            "word": "in ",
+            "start": 16.669,
+            "end": 16.723
+          },
+          {
+            "word": "the ",
+            "start": 16.734,
+            "end": 16.81
+          },
+          {
+            "word": "Tower ",
+            "start": 16.821,
+            "end": 17.158
+          },
+          {
+            "word": "of ",
+            "start": 17.169,
+            "end": 17.234
+          },
+          {
+            "word": "London.",
+            "start": 17.245,
+            "end": 17.647
+          }
+        ],
+        "start": 1254
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep17_problems_3",
+        "audio_exists": true,
+        "audioPath": "episodes/ep17/audio/ep17_problems_3.wav",
+        "text": "The deeper problem was the absence of any framework for corporate disclosure. Investors were buying claims on future profits from an enterprise they could not inspect, based on projections they could not verify, from promoters whose interests were diametrically opposed to theirs. The legal and informational infrastructure of financial markets did not yet exist.",
+        "duration": 555,
+        "bgImage": "bg_parliament.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.241
+          },
+          {
+            "word": "deeper ",
+            "start": 0.252,
+            "end": 0.523
+          },
+          {
+            "word": "problem ",
+            "start": 0.534,
+            "end": 0.86
+          },
+          {
+            "word": "was ",
+            "start": 0.871,
+            "end": 1.002
+          },
+          {
+            "word": "the ",
+            "start": 1.013,
+            "end": 1.11
+          },
+          {
+            "word": "absence ",
+            "start": 1.121,
+            "end": 1.502
+          },
+          {
+            "word": "of ",
+            "start": 1.513,
+            "end": 1.599
+          },
+          {
+            "word": "any ",
+            "start": 1.61,
+            "end": 1.763
+          },
+          {
+            "word": "framework ",
+            "start": 1.773,
+            "end": 2.252
+          },
+          {
+            "word": "for ",
+            "start": 2.263,
+            "end": 2.349
+          },
+          {
+            "word": "corporate ",
+            "start": 2.36,
+            "end": 2.73
+          },
+          {
+            "word": "disclosure. ",
+            "start": 2.741,
+            "end": 3.328
+          },
+          {
+            "word": "Investors ",
+            "start": 4.071,
+            "end": 4.626
+          },
+          {
+            "word": "were ",
+            "start": 4.636,
+            "end": 4.734
+          },
+          {
+            "word": "buying ",
+            "start": 4.745,
+            "end": 5.017
+          },
+          {
+            "word": "claims ",
+            "start": 5.028,
+            "end": 5.354
+          },
+          {
+            "word": "on ",
+            "start": 5.365,
+            "end": 5.484
+          },
+          {
+            "word": "future ",
+            "start": 5.495,
+            "end": 5.843
+          },
+          {
+            "word": "profits ",
+            "start": 5.854,
+            "end": 6.202
+          },
+          {
+            "word": "from ",
+            "start": 6.213,
+            "end": 6.343
+          },
+          {
+            "word": "an ",
+            "start": 6.354,
+            "end": 6.43
+          },
+          {
+            "word": "enterprise ",
+            "start": 6.441,
+            "end": 6.919
+          },
+          {
+            "word": "they ",
+            "start": 6.93,
+            "end": 7.006
+          },
+          {
+            "word": "could ",
+            "start": 7.017,
+            "end": 7.158
+          },
+          {
+            "word": "not ",
+            "start": 7.169,
+            "end": 7.365
+          },
+          {
+            "word": "inspect, ",
+            "start": 7.376,
+            "end": 7.81
+          },
+          {
+            "word": "based ",
+            "start": 7.995,
+            "end": 8.223
+          },
+          {
+            "word": "on ",
+            "start": 8.234,
+            "end": 8.332
+          },
+          {
+            "word": "projections ",
+            "start": 8.343,
+            "end": 8.843
+          },
+          {
+            "word": "they ",
+            "start": 8.854,
+            "end": 8.93
+          },
+          {
+            "word": "could ",
+            "start": 8.941,
+            "end": 9.115
+          },
+          {
+            "word": "not ",
+            "start": 9.126,
+            "end": 9.299
+          },
+          {
+            "word": "verify, ",
+            "start": 9.31,
+            "end": 9.767
+          },
+          {
+            "word": "from ",
+            "start": 9.952,
+            "end": 10.093
+          },
+          {
+            "word": "promoters ",
+            "start": 10.104,
+            "end": 10.549
+          },
+          {
+            "word": "whose ",
+            "start": 10.56,
+            "end": 10.723
+          },
+          {
+            "word": "interests ",
+            "start": 10.734,
+            "end": 11.191
+          },
+          {
+            "word": "were ",
+            "start": 11.202,
+            "end": 11.289
+          },
+          {
+            "word": "diametrically ",
+            "start": 11.3,
+            "end": 11.952
+          },
+          {
+            "word": "opposed ",
+            "start": 11.963,
+            "end": 12.289
+          },
+          {
+            "word": "to ",
+            "start": 12.3,
+            "end": 12.354
+          },
+          {
+            "word": "theirs. ",
+            "start": 12.365,
+            "end": 12.767
+          },
+          {
+            "word": "The ",
+            "start": 13.517,
+            "end": 13.658
+          },
+          {
+            "word": "legal ",
+            "start": 13.669,
+            "end": 14.006
+          },
+          {
+            "word": "and ",
+            "start": 14.017,
+            "end": 14.093
+          },
+          {
+            "word": "informational ",
+            "start": 14.104,
+            "end": 14.647
+          },
+          {
+            "word": "infrastructure ",
+            "start": 14.658,
+            "end": 15.289
+          },
+          {
+            "word": "of ",
+            "start": 15.3,
+            "end": 15.397
+          },
+          {
+            "word": "financial ",
+            "start": 15.408,
+            "end": 15.908
+          },
+          {
+            "word": "markets ",
+            "start": 15.919,
+            "end": 16.289
+          },
+          {
+            "word": "did ",
+            "start": 16.3,
+            "end": 16.43
+          },
+          {
+            "word": "not ",
+            "start": 16.441,
+            "end": 16.647
+          },
+          {
+            "word": "yet ",
+            "start": 16.658,
+            "end": 16.832
+          },
+          {
+            "word": "exist.",
+            "start": 16.843,
+            "end": 17.321
+          }
+        ],
+        "start": 1819
+      }
+    ]
+  },
+  {
+    "id": "ep17_solutions",
+    "title": "Solutions",
+    "globalStart": 5731,
+    "duration": 2379,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Solutions"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep17_solutions_0",
+        "audio_exists": true,
+        "audioPath": "episodes/ep17/audio/ep17_solutions_0.wav",
+        "text": "The immediate response was the Bubble Act of 1720, which prohibited the creation of joint-stock companies without a royal charter. The act was passed, ironically, at the peak of the mania — partly as an attempt by the South Sea Company to suppress its competitors. It remained in force for over a century, retarding the development of corporate enterprise in Britain.",
+        "duration": 576,
+        "bgImage": "bg_parliament.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.241
+          },
+          {
+            "word": "immediate ",
+            "start": 0.252,
+            "end": 0.654
+          },
+          {
+            "word": "response ",
+            "start": 0.665,
+            "end": 1.045
+          },
+          {
+            "word": "was ",
+            "start": 1.056,
+            "end": 1.186
+          },
+          {
+            "word": "the ",
+            "start": 1.197,
+            "end": 1.284
+          },
+          {
+            "word": "Bubble ",
+            "start": 1.295,
+            "end": 1.567
+          },
+          {
+            "word": "Act ",
+            "start": 1.578,
+            "end": 1.741
+          },
+          {
+            "word": "of ",
+            "start": 1.752,
+            "end": 1.828
+          },
+          {
+            "word": "1720, ",
+            "start": 1.839,
+            "end": 2.61
+          },
+          {
+            "word": "which ",
+            "start": 2.763,
+            "end": 2.904
+          },
+          {
+            "word": "prohibited ",
+            "start": 2.915,
+            "end": 3.36
+          },
+          {
+            "word": "the ",
+            "start": 3.371,
+            "end": 3.436
+          },
+          {
+            "word": "creation ",
+            "start": 3.447,
+            "end": 3.871
+          },
+          {
+            "word": "of ",
+            "start": 3.882,
+            "end": 3.969
+          },
+          {
+            "word": "joint-stock ",
+            "start": 3.98,
+            "end": 4.545
+          },
+          {
+            "word": "companies ",
+            "start": 4.556,
+            "end": 4.98
+          },
+          {
+            "word": "without ",
+            "start": 4.991,
+            "end": 5.317
+          },
+          {
+            "word": "a ",
+            "start": 5.328,
+            "end": 5.382
+          },
+          {
+            "word": "royal ",
+            "start": 5.393,
+            "end": 5.719
+          },
+          {
+            "word": "charter. ",
+            "start": 5.73,
+            "end": 6.165
+          },
+          {
+            "word": "The ",
+            "start": 6.908,
+            "end": 7.06
+          },
+          {
+            "word": "act ",
+            "start": 7.071,
+            "end": 7.256
+          },
+          {
+            "word": "was ",
+            "start": 7.267,
+            "end": 7.386
+          },
+          {
+            "word": "passed, ",
+            "start": 7.397,
+            "end": 7.767
+          },
+          {
+            "word": "ironically, ",
+            "start": 7.93,
+            "end": 8.441
+          },
+          {
+            "word": "at ",
+            "start": 8.593,
+            "end": 8.691
+          },
+          {
+            "word": "the ",
+            "start": 8.702,
+            "end": 8.778
+          },
+          {
+            "word": "peak ",
+            "start": 8.789,
+            "end": 8.984
+          },
+          {
+            "word": "of ",
+            "start": 8.995,
+            "end": 9.06
+          },
+          {
+            "word": "the ",
+            "start": 9.071,
+            "end": 9.126
+          },
+          {
+            "word": "mania — ",
+            "start": 9.136,
+            "end": 9.56
+          },
+          {
+            "word": "partly ",
+            "start": 9.745,
+            "end": 10.06
+          },
+          {
+            "word": "as ",
+            "start": 10.071,
+            "end": 10.169
+          },
+          {
+            "word": "an ",
+            "start": 10.18,
+            "end": 10.245
+          },
+          {
+            "word": "attempt ",
+            "start": 10.256,
+            "end": 10.571
+          },
+          {
+            "word": "by ",
+            "start": 10.582,
+            "end": 10.691
+          },
+          {
+            "word": "the ",
+            "start": 10.702,
+            "end": 10.789
+          },
+          {
+            "word": "South ",
+            "start": 10.8,
+            "end": 11.093
+          },
+          {
+            "word": "Sea ",
+            "start": 11.104,
+            "end": 11.267
+          },
+          {
+            "word": "Company ",
+            "start": 11.278,
+            "end": 11.636
+          },
+          {
+            "word": "to ",
+            "start": 11.647,
+            "end": 11.734
+          },
+          {
+            "word": "suppress ",
+            "start": 11.745,
+            "end": 12.115
+          },
+          {
+            "word": "its ",
+            "start": 12.126,
+            "end": 12.256
+          },
+          {
+            "word": "competitors. ",
+            "start": 12.267,
+            "end": 12.941
+          },
+          {
+            "word": "It ",
+            "start": 13.691,
+            "end": 13.854
+          },
+          {
+            "word": "remained ",
+            "start": 13.865,
+            "end": 14.147
+          },
+          {
+            "word": "in ",
+            "start": 14.158,
+            "end": 14.256
+          },
+          {
+            "word": "force ",
+            "start": 14.267,
+            "end": 14.582
+          },
+          {
+            "word": "for ",
+            "start": 14.593,
+            "end": 14.713
+          },
+          {
+            "word": "over ",
+            "start": 14.723,
+            "end": 14.963
+          },
+          {
+            "word": "a ",
+            "start": 14.973,
+            "end": 15.017
+          },
+          {
+            "word": "century, ",
+            "start": 15.028,
+            "end": 15.43
+          },
+          {
+            "word": "retarding ",
+            "start": 15.615,
+            "end": 16.006
+          },
+          {
+            "word": "the ",
+            "start": 16.017,
+            "end": 16.093
+          },
+          {
+            "word": "development ",
+            "start": 16.104,
+            "end": 16.549
+          },
+          {
+            "word": "of ",
+            "start": 16.56,
+            "end": 16.636
+          },
+          {
+            "word": "corporate ",
+            "start": 16.647,
+            "end": 16.995
+          },
+          {
+            "word": "enterprise ",
+            "start": 17.006,
+            "end": 17.495
+          },
+          {
+            "word": "in ",
+            "start": 17.506,
+            "end": 17.615
+          },
+          {
+            "word": "Britain.",
+            "start": 17.626,
+            "end": 18.006
+          }
+        ],
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep17_solutions_1",
+        "audio_exists": true,
+        "audioPath": "episodes/ep17/audio/ep17_solutions_1.wav",
+        "text": "Robert Walpole, brought in as First Lord of the Treasury to manage the aftermath, refused to cancel the fraudulent conversions or fully restore investors' losses. He negotiated a compromise: the Bank of England and the East India Company absorbed some of the South Sea Company's obligations, and a partial restitution was made from the estates of the directors.",
+        "duration": 542,
+        "bgImage": "bg_fed_building.jpg",
+        "wordTimings": [
+          {
+            "word": "Robert ",
+            "start": 0.1,
+            "end": 0.404
+          },
+          {
+            "word": "Walpole, ",
+            "start": 0.415,
+            "end": 0.817
+          },
+          {
+            "word": "brought ",
+            "start": 0.969,
+            "end": 1.219
+          },
+          {
+            "word": "in ",
+            "start": 1.23,
+            "end": 1.328
+          },
+          {
+            "word": "as ",
+            "start": 1.339,
+            "end": 1.415
+          },
+          {
+            "word": "First ",
+            "start": 1.426,
+            "end": 1.741
+          },
+          {
+            "word": "Lord ",
+            "start": 1.752,
+            "end": 1.958
+          },
+          {
+            "word": "of ",
+            "start": 1.969,
+            "end": 2.023
+          },
+          {
+            "word": "the ",
+            "start": 2.034,
+            "end": 2.099
+          },
+          {
+            "word": "Treasury ",
+            "start": 2.11,
+            "end": 2.436
+          },
+          {
+            "word": "to ",
+            "start": 2.447,
+            "end": 2.545
+          },
+          {
+            "word": "manage ",
+            "start": 2.556,
+            "end": 2.849
+          },
+          {
+            "word": "the ",
+            "start": 2.86,
+            "end": 2.958
+          },
+          {
+            "word": "aftermath, ",
+            "start": 2.969,
+            "end": 3.491
+          },
+          {
+            "word": "refused ",
+            "start": 3.686,
+            "end": 4.045
+          },
+          {
+            "word": "to ",
+            "start": 4.056,
+            "end": 4.11
+          },
+          {
+            "word": "cancel ",
+            "start": 4.121,
+            "end": 4.447
+          },
+          {
+            "word": "the ",
+            "start": 4.458,
+            "end": 4.523
+          },
+          {
+            "word": "fraudulent ",
+            "start": 4.534,
+            "end": 4.991
+          },
+          {
+            "word": "conversions ",
+            "start": 5.002,
+            "end": 5.589
+          },
+          {
+            "word": "or ",
+            "start": 5.6,
+            "end": 5.708
+          },
+          {
+            "word": "fully ",
+            "start": 5.719,
+            "end": 5.969
+          },
+          {
+            "word": "restore ",
+            "start": 5.98,
+            "end": 6.349
+          },
+          {
+            "word": "investors' ",
+            "start": 6.36,
+            "end": 6.795
+          },
+          {
+            "word": "losses. ",
+            "start": 6.806,
+            "end": 7.273
+          },
+          {
+            "word": "He ",
+            "start": 8.017,
+            "end": 8.191
+          },
+          {
+            "word": "negotiated ",
+            "start": 8.202,
+            "end": 8.821
+          },
+          {
+            "word": "a ",
+            "start": 8.832,
+            "end": 8.865
+          },
+          {
+            "word": "compromise: ",
+            "start": 8.876,
+            "end": 9.517
+          },
+          {
+            "word": "the ",
+            "start": 9.658,
+            "end": 9.745
+          },
+          {
+            "word": "Bank ",
+            "start": 9.756,
+            "end": 9.995
+          },
+          {
+            "word": "of ",
+            "start": 10.006,
+            "end": 10.082
+          },
+          {
+            "word": "England ",
+            "start": 10.093,
+            "end": 10.408
+          },
+          {
+            "word": "and ",
+            "start": 10.419,
+            "end": 10.506
+          },
+          {
+            "word": "the ",
+            "start": 10.517,
+            "end": 10.593
+          },
+          {
+            "word": "East ",
+            "start": 10.604,
+            "end": 10.886
+          },
+          {
+            "word": "India ",
+            "start": 10.897,
+            "end": 11.213
+          },
+          {
+            "word": "Company ",
+            "start": 11.223,
+            "end": 11.571
+          },
+          {
+            "word": "absorbed ",
+            "start": 11.582,
+            "end": 11.941
+          },
+          {
+            "word": "some ",
+            "start": 11.952,
+            "end": 12.082
+          },
+          {
+            "word": "of ",
+            "start": 12.093,
+            "end": 12.147
+          },
+          {
+            "word": "the ",
+            "start": 12.158,
+            "end": 12.223
+          },
+          {
+            "word": "South ",
+            "start": 12.234,
+            "end": 12.528
+          },
+          {
+            "word": "Sea ",
+            "start": 12.539,
+            "end": 12.713
+          },
+          {
+            "word": "Company's ",
+            "start": 12.723,
+            "end": 13.158
+          },
+          {
+            "word": "obligations, ",
+            "start": 13.169,
+            "end": 13.799
+          },
+          {
+            "word": "and ",
+            "start": 13.995,
+            "end": 14.115
+          },
+          {
+            "word": "a ",
+            "start": 14.126,
+            "end": 14.18
+          },
+          {
+            "word": "partial ",
+            "start": 14.191,
+            "end": 14.549
+          },
+          {
+            "word": "restitution ",
+            "start": 14.56,
+            "end": 15.147
+          },
+          {
+            "word": "was ",
+            "start": 15.158,
+            "end": 15.278
+          },
+          {
+            "word": "made ",
+            "start": 15.289,
+            "end": 15.517
+          },
+          {
+            "word": "from ",
+            "start": 15.528,
+            "end": 15.658
+          },
+          {
+            "word": "the ",
+            "start": 15.669,
+            "end": 15.756
+          },
+          {
+            "word": "estates ",
+            "start": 15.767,
+            "end": 16.136
+          },
+          {
+            "word": "of ",
+            "start": 16.147,
+            "end": 16.213
+          },
+          {
+            "word": "the ",
+            "start": 16.223,
+            "end": 16.299
+          },
+          {
+            "word": "directors.",
+            "start": 16.31,
+            "end": 16.876
+          }
+        ],
+        "start": 666
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep17_solutions_2",
+        "audio_exists": true,
+        "audioPath": "episodes/ep17/audio/ep17_solutions_2.wav",
+        "text": "Walpole's political genius was in managing the investigation. He limited the inquiry sufficiently to protect the most senior political figures — including, apparently, some members of the royal family who had also profited — while providing enough accountability to satisfy public anger. The settlement was widely seen as inadequate.",
+        "duration": 546,
+        "bgImage": "bg_gold_bars.jpg",
+        "wordTimings": [
+          {
+            "word": "Walpole's ",
+            "start": 0.1,
+            "end": 0.567
+          },
+          {
+            "word": "political ",
+            "start": 0.578,
+            "end": 0.991
+          },
+          {
+            "word": "genius ",
+            "start": 1.002,
+            "end": 1.371
+          },
+          {
+            "word": "was ",
+            "start": 1.382,
+            "end": 1.523
+          },
+          {
+            "word": "in ",
+            "start": 1.534,
+            "end": 1.621
+          },
+          {
+            "word": "managing ",
+            "start": 1.632,
+            "end": 1.969
+          },
+          {
+            "word": "the ",
+            "start": 1.98,
+            "end": 2.067
+          },
+          {
+            "word": "investigation. ",
+            "start": 2.078,
+            "end": 2.882
+          },
+          {
+            "word": "He ",
+            "start": 3.626,
+            "end": 3.778
+          },
+          {
+            "word": "limited ",
+            "start": 3.789,
+            "end": 4.126
+          },
+          {
+            "word": "the ",
+            "start": 4.136,
+            "end": 4.223
+          },
+          {
+            "word": "inquiry ",
+            "start": 4.234,
+            "end": 4.723
+          },
+          {
+            "word": "sufficiently ",
+            "start": 4.734,
+            "end": 5.234
+          },
+          {
+            "word": "to ",
+            "start": 5.245,
+            "end": 5.332
+          },
+          {
+            "word": "protect ",
+            "start": 5.343,
+            "end": 5.658
+          },
+          {
+            "word": "the ",
+            "start": 5.669,
+            "end": 5.723
+          },
+          {
+            "word": "most ",
+            "start": 5.734,
+            "end": 5.984
+          },
+          {
+            "word": "senior ",
+            "start": 5.995,
+            "end": 6.289
+          },
+          {
+            "word": "political ",
+            "start": 6.3,
+            "end": 6.723
+          },
+          {
+            "word": "figures — ",
+            "start": 6.734,
+            "end": 7.115
+          },
+          {
+            "word": "including, ",
+            "start": 7.3,
+            "end": 7.778
+          },
+          {
+            "word": "apparently, ",
+            "start": 7.952,
+            "end": 8.473
+          },
+          {
+            "word": "some ",
+            "start": 8.669,
+            "end": 8.832
+          },
+          {
+            "word": "members ",
+            "start": 8.843,
+            "end": 9.136
+          },
+          {
+            "word": "of ",
+            "start": 9.147,
+            "end": 9.213
+          },
+          {
+            "word": "the ",
+            "start": 9.223,
+            "end": 9.31
+          },
+          {
+            "word": "royal ",
+            "start": 9.321,
+            "end": 9.604
+          },
+          {
+            "word": "family ",
+            "start": 9.615,
+            "end": 9.963
+          },
+          {
+            "word": "who ",
+            "start": 9.973,
+            "end": 10.126
+          },
+          {
+            "word": "had ",
+            "start": 10.136,
+            "end": 10.256
+          },
+          {
+            "word": "also ",
+            "start": 10.267,
+            "end": 10.539
+          },
+          {
+            "word": "profited — ",
+            "start": 10.55,
+            "end": 11.006
+          },
+          {
+            "word": "while ",
+            "start": 11.223,
+            "end": 11.397
+          },
+          {
+            "word": "providing ",
+            "start": 11.408,
+            "end": 11.821
+          },
+          {
+            "word": "enough ",
+            "start": 11.832,
+            "end": 12.071
+          },
+          {
+            "word": "accountability ",
+            "start": 12.082,
+            "end": 12.767
+          },
+          {
+            "word": "to ",
+            "start": 12.778,
+            "end": 12.865
+          },
+          {
+            "word": "satisfy ",
+            "start": 12.876,
+            "end": 13.386
+          },
+          {
+            "word": "public ",
+            "start": 13.397,
+            "end": 13.734
+          },
+          {
+            "word": "anger. ",
+            "start": 13.745,
+            "end": 14.115
+          },
+          {
+            "word": "The ",
+            "start": 14.865,
+            "end": 15.017
+          },
+          {
+            "word": "settlement ",
+            "start": 15.028,
+            "end": 15.441
+          },
+          {
+            "word": "was ",
+            "start": 15.452,
+            "end": 15.582
+          },
+          {
+            "word": "widely ",
+            "start": 15.593,
+            "end": 16.006
+          },
+          {
+            "word": "seen ",
+            "start": 16.017,
+            "end": 16.278
+          },
+          {
+            "word": "as ",
+            "start": 16.289,
+            "end": 16.419
+          },
+          {
+            "word": "inadequate.",
+            "start": 16.43,
+            "end": 17.028
+          }
+        ],
+        "start": 1208
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep17_solutions_3",
+        "audio_exists": true,
+        "audioPath": "episodes/ep17/audio/ep17_solutions_3.wav",
+        "text": "The longer-term solution was institutional: over the following century, corporate law developed to require disclosure, limit liability, and clarify the rights of shareholders. The Financial Revolution that accompanied the South Sea Bubble — the development of government debt markets, joint-stock companies, and financial intermediaries — continued despite the crash, but on a more regulated basis.",
+        "duration": 625,
+        "bgImage": "bg_city_night.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.219
+          },
+          {
+            "word": "longer-term ",
+            "start": 0.23,
+            "end": 0.73
+          },
+          {
+            "word": "solution ",
+            "start": 0.741,
+            "end": 1.186
+          },
+          {
+            "word": "was ",
+            "start": 1.197,
+            "end": 1.328
+          },
+          {
+            "word": "institutional: ",
+            "start": 1.339,
+            "end": 2.023
+          },
+          {
+            "word": "over ",
+            "start": 2.241,
+            "end": 2.404
+          },
+          {
+            "word": "the ",
+            "start": 2.415,
+            "end": 2.491
+          },
+          {
+            "word": "following ",
+            "start": 2.502,
+            "end": 2.849
+          },
+          {
+            "word": "century, ",
+            "start": 2.86,
+            "end": 3.263
+          },
+          {
+            "word": "corporate ",
+            "start": 3.415,
+            "end": 3.763
+          },
+          {
+            "word": "law ",
+            "start": 3.773,
+            "end": 3.936
+          },
+          {
+            "word": "developed ",
+            "start": 3.947,
+            "end": 4.36
+          },
+          {
+            "word": "to ",
+            "start": 4.371,
+            "end": 4.426
+          },
+          {
+            "word": "require ",
+            "start": 4.436,
+            "end": 4.806
+          },
+          {
+            "word": "disclosure, ",
+            "start": 4.817,
+            "end": 5.382
+          },
+          {
+            "word": "limit ",
+            "start": 5.589,
+            "end": 5.817
+          },
+          {
+            "word": "liability, ",
+            "start": 5.828,
+            "end": 6.393
+          },
+          {
+            "word": "and ",
+            "start": 6.589,
+            "end": 6.686
+          },
+          {
+            "word": "clarify ",
+            "start": 6.697,
+            "end": 7.143
+          },
+          {
+            "word": "the ",
+            "start": 7.154,
+            "end": 7.252
+          },
+          {
+            "word": "rights ",
+            "start": 7.263,
+            "end": 7.589
+          },
+          {
+            "word": "of ",
+            "start": 7.6,
+            "end": 7.676
+          },
+          {
+            "word": "shareholders. ",
+            "start": 7.686,
+            "end": 8.339
+          },
+          {
+            "word": "The ",
+            "start": 9.082,
+            "end": 9.202
+          },
+          {
+            "word": "Financial ",
+            "start": 9.213,
+            "end": 9.723
+          },
+          {
+            "word": "Revolution ",
+            "start": 9.734,
+            "end": 10.245
+          },
+          {
+            "word": "that ",
+            "start": 10.256,
+            "end": 10.397
+          },
+          {
+            "word": "accompanied ",
+            "start": 10.408,
+            "end": 10.799
+          },
+          {
+            "word": "the ",
+            "start": 10.81,
+            "end": 10.876
+          },
+          {
+            "word": "South ",
+            "start": 10.886,
+            "end": 11.191
+          },
+          {
+            "word": "Sea ",
+            "start": 11.202,
+            "end": 11.419
+          },
+          {
+            "word": "Bubble — ",
+            "start": 11.43,
+            "end": 11.745
+          },
+          {
+            "word": "the ",
+            "start": 11.908,
+            "end": 11.995
+          },
+          {
+            "word": "development ",
+            "start": 12.006,
+            "end": 12.43
+          },
+          {
+            "word": "of ",
+            "start": 12.441,
+            "end": 12.528
+          },
+          {
+            "word": "government ",
+            "start": 12.539,
+            "end": 12.897
+          },
+          {
+            "word": "debt ",
+            "start": 12.908,
+            "end": 13.093
+          },
+          {
+            "word": "markets, ",
+            "start": 13.104,
+            "end": 13.582
+          },
+          {
+            "word": "joint-stock ",
+            "start": 13.778,
+            "end": 14.354
+          },
+          {
+            "word": "companies, ",
+            "start": 14.365,
+            "end": 14.886
+          },
+          {
+            "word": "and ",
+            "start": 15.082,
+            "end": 15.202
+          },
+          {
+            "word": "financial ",
+            "start": 15.213,
+            "end": 15.745
+          },
+          {
+            "word": "intermediaries — ",
+            "start": 15.756,
+            "end": 16.452
+          },
+          {
+            "word": "continued ",
+            "start": 16.615,
+            "end": 17.06
+          },
+          {
+            "word": "despite ",
+            "start": 17.071,
+            "end": 17.441
+          },
+          {
+            "word": "the ",
+            "start": 17.452,
+            "end": 17.517
+          },
+          {
+            "word": "crash, ",
+            "start": 17.528,
+            "end": 17.952
+          },
+          {
+            "word": "but ",
+            "start": 18.126,
+            "end": 18.245
+          },
+          {
+            "word": "on ",
+            "start": 18.256,
+            "end": 18.354
+          },
+          {
+            "word": "a ",
+            "start": 18.365,
+            "end": 18.397
+          },
+          {
+            "word": "more ",
+            "start": 18.408,
+            "end": 18.593
+          },
+          {
+            "word": "regulated ",
+            "start": 18.604,
+            "end": 19.147
+          },
+          {
+            "word": "basis.",
+            "start": 19.158,
+            "end": 19.669
+          }
+        ],
+        "start": 1754
+      }
+    ]
+  },
+  {
+    "id": "ep17_results",
+    "title": "Results",
+    "globalStart": 8110,
+    "duration": 2575,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Results"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep17_results_0",
+        "audio_exists": true,
+        "audioPath": "episodes/ep17/audio/ep17_results_0.wav",
+        "text": "The immediate economic damage was concentrated among investors — many of whom had borrowed to buy shares. The credit contraction following the collapse caused a brief but severe recession in Britain. But Britain's underlying economy — its manufacturing, trade, and agricultural base — was not fundamentally damaged. Recovery was relatively swift.",
+        "duration": 599,
+        "bgImage": "bg_recovery.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.241
+          },
+          {
+            "word": "immediate ",
+            "start": 0.252,
+            "end": 0.676
+          },
+          {
+            "word": "economic ",
+            "start": 0.686,
+            "end": 1.154
+          },
+          {
+            "word": "damage ",
+            "start": 1.165,
+            "end": 1.458
+          },
+          {
+            "word": "was ",
+            "start": 1.469,
+            "end": 1.599
+          },
+          {
+            "word": "concentrated ",
+            "start": 1.61,
+            "end": 2.23
+          },
+          {
+            "word": "among ",
+            "start": 2.241,
+            "end": 2.458
+          },
+          {
+            "word": "investors — ",
+            "start": 2.469,
+            "end": 2.969
+          },
+          {
+            "word": "many ",
+            "start": 3.121,
+            "end": 3.36
+          },
+          {
+            "word": "of ",
+            "start": 3.371,
+            "end": 3.447
+          },
+          {
+            "word": "whom ",
+            "start": 3.458,
+            "end": 3.665
+          },
+          {
+            "word": "had ",
+            "start": 3.676,
+            "end": 3.806
+          },
+          {
+            "word": "borrowed ",
+            "start": 3.817,
+            "end": 4.11
+          },
+          {
+            "word": "to ",
+            "start": 4.121,
+            "end": 4.197
+          },
+          {
+            "word": "buy ",
+            "start": 4.208,
+            "end": 4.371
+          },
+          {
+            "word": "shares. ",
+            "start": 4.382,
+            "end": 4.915
+          },
+          {
+            "word": "The ",
+            "start": 5.658,
+            "end": 5.789
+          },
+          {
+            "word": "credit ",
+            "start": 5.8,
+            "end": 6.082
+          },
+          {
+            "word": "contraction ",
+            "start": 6.093,
+            "end": 6.604
+          },
+          {
+            "word": "following ",
+            "start": 6.615,
+            "end": 6.908
+          },
+          {
+            "word": "the ",
+            "start": 6.919,
+            "end": 6.984
+          },
+          {
+            "word": "collapse ",
+            "start": 6.995,
+            "end": 7.343
+          },
+          {
+            "word": "caused ",
+            "start": 7.354,
+            "end": 7.626
+          },
+          {
+            "word": "a ",
+            "start": 7.636,
+            "end": 7.691
+          },
+          {
+            "word": "brief ",
+            "start": 7.702,
+            "end": 8.039
+          },
+          {
+            "word": "but ",
+            "start": 8.05,
+            "end": 8.18
+          },
+          {
+            "word": "severe ",
+            "start": 8.191,
+            "end": 8.539
+          },
+          {
+            "word": "recession ",
+            "start": 8.55,
+            "end": 8.984
+          },
+          {
+            "word": "in ",
+            "start": 8.995,
+            "end": 9.093
+          },
+          {
+            "word": "Britain. ",
+            "start": 9.104,
+            "end": 9.484
+          },
+          {
+            "word": "But ",
+            "start": 10.234,
+            "end": 10.419
+          },
+          {
+            "word": "Britain's ",
+            "start": 10.43,
+            "end": 10.767
+          },
+          {
+            "word": "underlying ",
+            "start": 10.778,
+            "end": 11.234
+          },
+          {
+            "word": "economy — ",
+            "start": 11.245,
+            "end": 11.647
+          },
+          {
+            "word": "its ",
+            "start": 11.897,
+            "end": 12.028
+          },
+          {
+            "word": "manufacturing, ",
+            "start": 12.039,
+            "end": 12.81
+          },
+          {
+            "word": "trade, ",
+            "start": 13.017,
+            "end": 13.419
+          },
+          {
+            "word": "and ",
+            "start": 13.604,
+            "end": 13.713
+          },
+          {
+            "word": "agricultural ",
+            "start": 13.723,
+            "end": 14.321
+          },
+          {
+            "word": "base — ",
+            "start": 14.332,
+            "end": 14.702
+          },
+          {
+            "word": "was ",
+            "start": 14.865,
+            "end": 14.995
+          },
+          {
+            "word": "not ",
+            "start": 15.006,
+            "end": 15.213
+          },
+          {
+            "word": "fundamentally ",
+            "start": 15.223,
+            "end": 15.843
+          },
+          {
+            "word": "damaged. ",
+            "start": 15.854,
+            "end": 16.386
+          },
+          {
+            "word": "Recovery ",
+            "start": 17.136,
+            "end": 17.615
+          },
+          {
+            "word": "was ",
+            "start": 17.626,
+            "end": 17.789
+          },
+          {
+            "word": "relatively ",
+            "start": 17.8,
+            "end": 18.3
+          },
+          {
+            "word": "swift.",
+            "start": 18.31,
+            "end": 18.789
+          }
+        ],
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep17_results_1",
+        "audio_exists": true,
+        "audioPath": "episodes/ep17/audio/ep17_results_1.wav",
+        "text": "The political consequences were more lasting. The Bubble Act suppressed joint-stock company formation for a century, forcing British businesses to operate as partnerships. This may have slowed the mobilization of capital for large-scale industrial enterprise during the early Industrial Revolution, though historians debate the magnitude of this effect.",
+        "duration": 547,
+        "bgImage": "bg_parliament.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.219
+          },
+          {
+            "word": "political ",
+            "start": 0.23,
+            "end": 0.632
+          },
+          {
+            "word": "consequences ",
+            "start": 0.643,
+            "end": 1.263
+          },
+          {
+            "word": "were ",
+            "start": 1.273,
+            "end": 1.371
+          },
+          {
+            "word": "more ",
+            "start": 1.382,
+            "end": 1.567
+          },
+          {
+            "word": "lasting. ",
+            "start": 1.578,
+            "end": 2.11
+          },
+          {
+            "word": "The ",
+            "start": 2.854,
+            "end": 2.984
+          },
+          {
+            "word": "Bubble ",
+            "start": 2.995,
+            "end": 3.256
+          },
+          {
+            "word": "Act ",
+            "start": 3.267,
+            "end": 3.419
+          },
+          {
+            "word": "suppressed ",
+            "start": 3.43,
+            "end": 3.799
+          },
+          {
+            "word": "joint-stock ",
+            "start": 3.81,
+            "end": 4.354
+          },
+          {
+            "word": "company ",
+            "start": 4.365,
+            "end": 4.669
+          },
+          {
+            "word": "formation ",
+            "start": 4.68,
+            "end": 5.136
+          },
+          {
+            "word": "for ",
+            "start": 5.147,
+            "end": 5.256
+          },
+          {
+            "word": "a ",
+            "start": 5.267,
+            "end": 5.321
+          },
+          {
+            "word": "century, ",
+            "start": 5.332,
+            "end": 5.756
+          },
+          {
+            "word": "forcing ",
+            "start": 5.973,
+            "end": 6.376
+          },
+          {
+            "word": "British ",
+            "start": 6.386,
+            "end": 6.691
+          },
+          {
+            "word": "businesses ",
+            "start": 6.702,
+            "end": 7.158
+          },
+          {
+            "word": "to ",
+            "start": 7.169,
+            "end": 7.234
+          },
+          {
+            "word": "operate ",
+            "start": 7.245,
+            "end": 7.636
+          },
+          {
+            "word": "as ",
+            "start": 7.647,
+            "end": 7.723
+          },
+          {
+            "word": "partnerships. ",
+            "start": 7.734,
+            "end": 8.452
+          },
+          {
+            "word": "This ",
+            "start": 9.202,
+            "end": 9.419
+          },
+          {
+            "word": "may ",
+            "start": 9.43,
+            "end": 9.582
+          },
+          {
+            "word": "have ",
+            "start": 9.593,
+            "end": 9.723
+          },
+          {
+            "word": "slowed ",
+            "start": 9.734,
+            "end": 10.028
+          },
+          {
+            "word": "the ",
+            "start": 10.039,
+            "end": 10.093
+          },
+          {
+            "word": "mobilization ",
+            "start": 10.104,
+            "end": 10.821
+          },
+          {
+            "word": "of ",
+            "start": 10.832,
+            "end": 10.897
+          },
+          {
+            "word": "capital ",
+            "start": 10.908,
+            "end": 11.278
+          },
+          {
+            "word": "for ",
+            "start": 11.289,
+            "end": 11.376
+          },
+          {
+            "word": "large-scale ",
+            "start": 11.386,
+            "end": 11.919
+          },
+          {
+            "word": "industrial ",
+            "start": 11.93,
+            "end": 12.43
+          },
+          {
+            "word": "enterprise ",
+            "start": 12.441,
+            "end": 12.886
+          },
+          {
+            "word": "during ",
+            "start": 12.897,
+            "end": 13.158
+          },
+          {
+            "word": "the ",
+            "start": 13.169,
+            "end": 13.278
+          },
+          {
+            "word": "early ",
+            "start": 13.289,
+            "end": 13.506
+          },
+          {
+            "word": "Industrial ",
+            "start": 13.517,
+            "end": 14.039
+          },
+          {
+            "word": "Revolution, ",
+            "start": 14.05,
+            "end": 14.56
+          },
+          {
+            "word": "though ",
+            "start": 14.8,
+            "end": 14.897
+          },
+          {
+            "word": "historians ",
+            "start": 14.908,
+            "end": 15.506
+          },
+          {
+            "word": "debate ",
+            "start": 15.517,
+            "end": 15.789
+          },
+          {
+            "word": "the ",
+            "start": 15.8,
+            "end": 15.865
+          },
+          {
+            "word": "magnitude ",
+            "start": 15.876,
+            "end": 16.376
+          },
+          {
+            "word": "of ",
+            "start": 16.386,
+            "end": 16.452
+          },
+          {
+            "word": "this ",
+            "start": 16.463,
+            "end": 16.626
+          },
+          {
+            "word": "effect.",
+            "start": 16.636,
+            "end": 17.039
+          }
+        ],
+        "start": 689
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep17_results_2",
+        "audio_exists": true,
+        "audioPath": "episodes/ep17/audio/ep17_results_2.wav",
+        "text": "The South Sea Bubble entered cultural history as a warning against speculative excess. Charles Mackay's 'Extraordinary Popular Delusions and the Madness of Crowds,' published in 1841, made it the exemplary case of mass financial hysteria. But the bubble also demonstrated that financial innovation — the joint-stock company, tradeable shares, the national debt — survived its own worst excesses and continued to develop.",
+        "duration": 689,
+        "bgImage": "bg_city_night.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "South ",
+            "start": 0.241,
+            "end": 0.534
+          },
+          {
+            "word": "Sea ",
+            "start": 0.545,
+            "end": 0.752
+          },
+          {
+            "word": "Bubble ",
+            "start": 0.763,
+            "end": 1.067
+          },
+          {
+            "word": "entered ",
+            "start": 1.078,
+            "end": 1.306
+          },
+          {
+            "word": "cultural ",
+            "start": 1.317,
+            "end": 1.73
+          },
+          {
+            "word": "history ",
+            "start": 1.741,
+            "end": 2.089
+          },
+          {
+            "word": "as ",
+            "start": 2.1,
+            "end": 2.186
+          },
+          {
+            "word": "a ",
+            "start": 2.197,
+            "end": 2.252
+          },
+          {
+            "word": "warning ",
+            "start": 2.263,
+            "end": 2.643
+          },
+          {
+            "word": "against ",
+            "start": 2.654,
+            "end": 2.904
+          },
+          {
+            "word": "speculative ",
+            "start": 2.915,
+            "end": 3.382
+          },
+          {
+            "word": "excess. ",
+            "start": 3.393,
+            "end": 3.926
+          },
+          {
+            "word": "Charles ",
+            "start": 4.669,
+            "end": 5.071
+          },
+          {
+            "word": "Mackay's '",
+            "start": 5.082,
+            "end": 5.452
+          },
+          {
+            "word": "Extraordinary ",
+            "start": 5.528,
+            "end": 6.147
+          },
+          {
+            "word": "Popular ",
+            "start": 6.158,
+            "end": 6.506
+          },
+          {
+            "word": "Delusions ",
+            "start": 6.517,
+            "end": 7.006
+          },
+          {
+            "word": "and ",
+            "start": 7.017,
+            "end": 7.104
+          },
+          {
+            "word": "the ",
+            "start": 7.115,
+            "end": 7.169
+          },
+          {
+            "word": "Madness ",
+            "start": 7.18,
+            "end": 7.56
+          },
+          {
+            "word": "of ",
+            "start": 7.571,
+            "end": 7.647
+          },
+          {
+            "word": "Crowds,' ",
+            "start": 7.658,
+            "end": 8.147
+          },
+          {
+            "word": "published ",
+            "start": 8.332,
+            "end": 8.669
+          },
+          {
+            "word": "in 1841, ",
+            "start": 8.68,
+            "end": 9.713
+          },
+          {
+            "word": "made ",
+            "start": 9.908,
+            "end": 10.104
+          },
+          {
+            "word": "it ",
+            "start": 10.115,
+            "end": 10.18
+          },
+          {
+            "word": "the ",
+            "start": 10.191,
+            "end": 10.299
+          },
+          {
+            "word": "exemplary ",
+            "start": 10.31,
+            "end": 10.81
+          },
+          {
+            "word": "case ",
+            "start": 10.821,
+            "end": 11.093
+          },
+          {
+            "word": "of ",
+            "start": 11.104,
+            "end": 11.18
+          },
+          {
+            "word": "mass ",
+            "start": 11.191,
+            "end": 11.441
+          },
+          {
+            "word": "financial ",
+            "start": 11.452,
+            "end": 11.941
+          },
+          {
+            "word": "hysteria. ",
+            "start": 11.952,
+            "end": 12.517
+          },
+          {
+            "word": "But ",
+            "start": 13.267,
+            "end": 13.397
+          },
+          {
+            "word": "the ",
+            "start": 13.408,
+            "end": 13.495
+          },
+          {
+            "word": "bubble ",
+            "start": 13.506,
+            "end": 13.789
+          },
+          {
+            "word": "also ",
+            "start": 13.8,
+            "end": 14.082
+          },
+          {
+            "word": "demonstrated ",
+            "start": 14.093,
+            "end": 14.68
+          },
+          {
+            "word": "that ",
+            "start": 14.691,
+            "end": 14.81
+          },
+          {
+            "word": "financial ",
+            "start": 14.821,
+            "end": 15.365
+          },
+          {
+            "word": "innovation — ",
+            "start": 15.376,
+            "end": 15.886
+          },
+          {
+            "word": "the ",
+            "start": 16.05,
+            "end": 16.136
+          },
+          {
+            "word": "joint-stock ",
+            "start": 16.147,
+            "end": 16.713
+          },
+          {
+            "word": "company, ",
+            "start": 16.723,
+            "end": 17.104
+          },
+          {
+            "word": "tradeable ",
+            "start": 17.267,
+            "end": 17.68
+          },
+          {
+            "word": "shares, ",
+            "start": 17.691,
+            "end": 18.126
+          },
+          {
+            "word": "the ",
+            "start": 18.3,
+            "end": 18.376
+          },
+          {
+            "word": "national ",
+            "start": 18.386,
+            "end": 18.756
+          },
+          {
+            "word": "debt — ",
+            "start": 18.767,
+            "end": 19.039
+          },
+          {
+            "word": "survived ",
+            "start": 19.191,
+            "end": 19.593
+          },
+          {
+            "word": "its ",
+            "start": 19.604,
+            "end": 19.723
+          },
+          {
+            "word": "own ",
+            "start": 19.734,
+            "end": 19.941
+          },
+          {
+            "word": "worst ",
+            "start": 19.952,
+            "end": 20.234
+          },
+          {
+            "word": "excesses ",
+            "start": 20.245,
+            "end": 20.68
+          },
+          {
+            "word": "and ",
+            "start": 20.691,
+            "end": 20.767
+          },
+          {
+            "word": "continued ",
+            "start": 20.778,
+            "end": 21.234
+          },
+          {
+            "word": "to ",
+            "start": 21.245,
+            "end": 21.299
+          },
+          {
+            "word": "develop.",
+            "start": 21.31,
+            "end": 21.778
+          }
+        ],
+        "start": 1236
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep17_results_3",
+        "audio_exists": true,
+        "audioPath": "episodes/ep17/audio/ep17_results_3.wav",
+        "text": "The pattern the South Sea Bubble established has recurred in every subsequent financial mania: a genuine innovation or opportunity, followed by speculative excess that disconnects price from value, followed by collapse, followed by regulation that attempts to prevent recurrence of the specific failure while leaving the underlying dynamics intact. Three centuries of financial history are, in part, variations on this theme.",
+        "duration": 650,
+        "bgImage": "bg_gold_bars.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "pattern ",
+            "start": 0.241,
+            "end": 0.534
+          },
+          {
+            "word": "the ",
+            "start": 0.545,
+            "end": 0.61
+          },
+          {
+            "word": "South ",
+            "start": 0.621,
+            "end": 0.926
+          },
+          {
+            "word": "Sea ",
+            "start": 0.936,
+            "end": 1.143
+          },
+          {
+            "word": "Bubble ",
+            "start": 1.154,
+            "end": 1.415
+          },
+          {
+            "word": "established ",
+            "start": 1.426,
+            "end": 1.86
+          },
+          {
+            "word": "has ",
+            "start": 1.871,
+            "end": 2.002
+          },
+          {
+            "word": "recurred ",
+            "start": 2.013,
+            "end": 2.371
+          },
+          {
+            "word": "in ",
+            "start": 2.382,
+            "end": 2.491
+          },
+          {
+            "word": "every ",
+            "start": 2.502,
+            "end": 2.697
+          },
+          {
+            "word": "subsequent ",
+            "start": 2.708,
+            "end": 3.186
+          },
+          {
+            "word": "financial ",
+            "start": 3.197,
+            "end": 3.676
+          },
+          {
+            "word": "mania: ",
+            "start": 3.686,
+            "end": 4.089
+          },
+          {
+            "word": "a ",
+            "start": 4.284,
+            "end": 4.339
+          },
+          {
+            "word": "genuine ",
+            "start": 4.35,
+            "end": 4.741
+          },
+          {
+            "word": "innovation ",
+            "start": 4.752,
+            "end": 5.219
+          },
+          {
+            "word": "or ",
+            "start": 5.23,
+            "end": 5.36
+          },
+          {
+            "word": "opportunity, ",
+            "start": 5.371,
+            "end": 5.936
+          },
+          {
+            "word": "followed ",
+            "start": 6.132,
+            "end": 6.436
+          },
+          {
+            "word": "by ",
+            "start": 6.447,
+            "end": 6.567
+          },
+          {
+            "word": "speculative ",
+            "start": 6.578,
+            "end": 7.1
+          },
+          {
+            "word": "excess ",
+            "start": 7.11,
+            "end": 7.436
+          },
+          {
+            "word": "that ",
+            "start": 7.447,
+            "end": 7.599
+          },
+          {
+            "word": "disconnects ",
+            "start": 7.61,
+            "end": 8.089
+          },
+          {
+            "word": "price ",
+            "start": 8.1,
+            "end": 8.404
+          },
+          {
+            "word": "from ",
+            "start": 8.415,
+            "end": 8.578
+          },
+          {
+            "word": "value, ",
+            "start": 8.589,
+            "end": 8.958
+          },
+          {
+            "word": "followed ",
+            "start": 9.165,
+            "end": 9.447
+          },
+          {
+            "word": "by ",
+            "start": 9.458,
+            "end": 9.578
+          },
+          {
+            "word": "collapse, ",
+            "start": 9.589,
+            "end": 10.089
+          },
+          {
+            "word": "followed ",
+            "start": 10.263,
+            "end": 10.556
+          },
+          {
+            "word": "by ",
+            "start": 10.567,
+            "end": 10.676
+          },
+          {
+            "word": "regulation ",
+            "start": 10.686,
+            "end": 11.284
+          },
+          {
+            "word": "that ",
+            "start": 11.295,
+            "end": 11.426
+          },
+          {
+            "word": "attempts ",
+            "start": 11.436,
+            "end": 11.806
+          },
+          {
+            "word": "to ",
+            "start": 11.817,
+            "end": 11.893
+          },
+          {
+            "word": "prevent ",
+            "start": 11.904,
+            "end": 12.219
+          },
+          {
+            "word": "recurrence ",
+            "start": 12.23,
+            "end": 12.632
+          },
+          {
+            "word": "of ",
+            "start": 12.643,
+            "end": 12.719
+          },
+          {
+            "word": "the ",
+            "start": 12.73,
+            "end": 12.795
+          },
+          {
+            "word": "specific ",
+            "start": 12.806,
+            "end": 13.252
+          },
+          {
+            "word": "failure ",
+            "start": 13.263,
+            "end": 13.621
+          },
+          {
+            "word": "while ",
+            "start": 13.632,
+            "end": 13.806
+          },
+          {
+            "word": "leaving ",
+            "start": 13.817,
+            "end": 14.078
+          },
+          {
+            "word": "the ",
+            "start": 14.089,
+            "end": 14.176
+          },
+          {
+            "word": "underlying ",
+            "start": 14.186,
+            "end": 14.643
+          },
+          {
+            "word": "dynamics ",
+            "start": 14.654,
+            "end": 15.099
+          },
+          {
+            "word": "intact. ",
+            "start": 15.11,
+            "end": 15.621
+          },
+          {
+            "word": "Three ",
+            "start": 16.365,
+            "end": 16.636
+          },
+          {
+            "word": "centuries ",
+            "start": 16.647,
+            "end": 17.082
+          },
+          {
+            "word": "of ",
+            "start": 17.093,
+            "end": 17.158
+          },
+          {
+            "word": "financial ",
+            "start": 17.169,
+            "end": 17.713
+          },
+          {
+            "word": "history ",
+            "start": 17.723,
+            "end": 18.093
+          },
+          {
+            "word": "are, ",
+            "start": 18.104,
+            "end": 18.321
+          },
+          {
+            "word": "in ",
+            "start": 18.55,
+            "end": 18.658
+          },
+          {
+            "word": "part, ",
+            "start": 18.669,
+            "end": 19.049
+          },
+          {
+            "word": "variations ",
+            "start": 19.191,
+            "end": 19.832
+          },
+          {
+            "word": "on ",
+            "start": 19.843,
+            "end": 19.941
+          },
+          {
+            "word": "this ",
+            "start": 19.952,
+            "end": 20.136
+          },
+          {
+            "word": "theme.",
+            "start": 20.147,
+            "end": 20.506
+          }
+        ],
+        "start": 1925
+      }
+    ]
+  },
+  {
+    "id": "credits",
+    "title": "Credits",
+    "globalStart": 10685,
+    "duration": 440,
+    "subSlides": [
+      {
+        "type": "credits",
+        "start": 0,
+        "duration": 440,
+        "audioSrc": "audio/outro_narration.wav"
+      }
+    ]
+  }
+]

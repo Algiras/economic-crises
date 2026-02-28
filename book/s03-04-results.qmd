@@ -1,0 +1,33 @@
+# The Results
+
+## The Economic Aftermath
+
+The Panic of 1907 lasted six weeks as an acute crisis. The American economy contracted sharply in 1907 and 1908, with unemployment rising to approximately eight percent — painful but not catastrophic by the standards of subsequent downturns. The New York stock market recovered substantially within a year. The banks and trust companies that survived the panic resumed normal operations within months, and the credit markets that had seized in October had thawed by the end of the year.
+
+The relatively swift recovery distinguished the 1907 panic from the longer contractions that preceded and followed it. The Long Depression of 1873–1896 had lasted two decades. The Great Depression that would begin in 1929 would consume the better part of a decade. The 1907 panic was severe but contained — severe enough to kill a recession, not severe enough to become a depression.
+
+The reasons for this relative containment were, paradoxically, the same factors that made the panic so dangerous while it was occurring. The American economy of 1907, despite its size, was still primarily industrial and agricultural rather than financial. The banking system's failures, while extensive, did not destroy the productive capacity of mines, factories, and farms. When credit conditions eased, the economy could resume producing because the underlying industrial infrastructure remained intact.
+
+## The Institutional Legacy: The Federal Reserve
+
+The lasting result of the Panic of 1907 was institutional: the Federal Reserve System, established six years later, was the direct product of the crisis. The chain of causation is unusually direct and well-documented. Morgan's intervention demonstrated conclusively that a modern financial system could not depend on the authority of a single private individual. The Aldrich Commission's work produced the blueprint for the central bank. The Federal Reserve Act incorporated that blueprint into law. The institution opened in 1914.
+
+The Federal Reserve's founding design reflected the political constraints imposed by American hostility to concentrated financial power. Rather than a single central bank on the European model — such as the Bank of England or the Banque de France — the Federal Reserve consisted of twelve regional Federal Reserve Banks coordinated by a central board in Washington. The regional structure gave representation to agricultural and industrial regions outside New York, addressing the Jacksonian critique that a single central bank would be captured by Wall Street interests.
+
+Whether this design was optimal was contested from the beginning and remains contested. The Federal Reserve's response to the Great Depression — allowing the money supply to contract by thirty-three percent between 1929 and 1933 — demonstrated that the institution created to prevent panics was capable of catastrophic failure. But its existence as an institution capable of learning and reform meant that the failures of the 1930s eventually produced better policy frameworks than the United States had possessed before 1914.
+
+## The Shadow Banking Lesson Deferred
+
+The 1907 panic demonstrated the systemic risk posed by lightly regulated deposit-taking institutions outside the formal banking system. Trust companies had grown by exploiting a regulatory gap — offering higher rates and making riskier loans than commercial banks — and their collapse threatened to bring down the regulated sector with them.
+
+This lesson — that regulatory perimeter matters as much as regulatory quality — was incorporated into subsequent legislation. The Federal Reserve Act imposed reserve requirements on member banks and provided the Fed with supervisory authority. The Banking Act of 1933 went further, creating deposit insurance and separating commercial from investment banking. The regulatory framework was hardened against the specific vulnerabilities that 1907 had exposed.
+
+But the underlying dynamic was not eliminated. Every subsequent generation of financial regulation created gaps that shadow banking would exploit. The savings-and-loan industry in the 1980s, hedge funds in the 1990s, money market funds and structured investment vehicles in the 2000s — each represented a new generation of deposit-taking or deposit-like instruments outside the regulated sector that posed systemic risk. The 2008 financial crisis was, in part, a replay of the 1907 trust company problem at enormously larger scale. The lesson had to be relearned.
+
+## Morgan's Memorial
+
+J.P. Morgan died on March 31, 1913 — eight months before the Federal Reserve Act was signed. He was seventy-five years old. His estate, when the figures became public, proved considerably smaller than the legends of his wealth had suggested: roughly eighty million dollars, a substantial fortune for an individual but trivial compared to the financial system he had temporarily sustained.
+
+The Federal Reserve was, in one sense, Morgan's memorial — an institution created by his indispensability and designed to make that indispensability unnecessary. Central banking's fundamental insight, that the stability of a financial system depends on institutional credibility rather than the personal authority of individuals, was the lesson the 1907 panic had taught in the most dramatic possible way. The institution that followed was designed to embody that insight in durable form.
+
+That the Federal Reserve succeeded only intermittently in embodying it — that the institution's subsequent history included both the catastrophic failure of the 1930s and the heroic interventions of 2008 — reflects the difficulty of the underlying problem rather than the inadequacy of the solution. Systemic financial risk does not disappear when a lender of last resort is created. It takes new forms, grows in new directions, and demands responses that the lender of last resort's founding design did not anticipate.

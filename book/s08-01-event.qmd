@@ -1,0 +1,37 @@
+# The Event
+
+## Five Hundred and Eight Points
+
+On Monday, October 19, 1987, the Dow Jones Industrial Average opened with a cascade of selling that did not stop. By the closing bell, the index had fallen five hundred and eight points — a decline of twenty-two and a half percent in a single trading session. It remains the largest single-day percentage decline in American stock market history, larger even than the crashes of October 1929. The trading volume was also without precedent: over six hundred million shares changed hands on the New York Stock Exchange, nearly double the previous record.
+
+The crash was not confined to the United States. Markets in Hong Kong had fallen forty-five percent over the preceding week as Asian markets led the global decline. London fell eleven percent on Black Monday, Frankfurt fell ten percent. When Asian markets opened Tuesday morning, the Hong Kong Stock Exchange suspended trading entirely — it remained closed for four days. The crash was the first truly simultaneous global market event, enabled by the international integration of capital markets that had proceeded rapidly through the 1980s.
+
+By the end of Monday's session, approximately one trillion dollars in market value had been erased from American equities alone. The number was difficult to comprehend in absolute terms; it represented roughly a quarter of the US gross domestic product for the entire year 1987.
+
+## The Proximate Causes
+
+No single cause has ever been established for the crash's timing or magnitude, and historians and economists continue to debate the relative importance of various contributing factors. Several were clearly relevant.
+
+The macroeconomic backdrop had been deteriorating through the summer and fall of 1987. The United States trade deficit, which had widened substantially through the mid-1980s as the strong dollar made American exports expensive and imports cheap, remained a source of market anxiety. When the Commerce Department released worse-than-expected trade deficit data in mid-October, it reinforced concerns that the dollar was headed for a sharp devaluation. Treasury Secretary James Baker had publicly threatened currency intervention and indicated willingness to allow the dollar to weaken — comments that unnerved markets already sensitive to international financial stability.
+
+Interest rates had been rising. The Federal Reserve, under its new chairman Alan Greenspan who had taken office in August, had raised the discount rate in early September to cool what appeared to be an overheating economy. Ten-year Treasury yields had risen above nine percent. Rising rates implied lower present values for future earnings — mechanically compressing equity valuations.
+
+The market was also expensive by historical standards. The price-to-earnings ratio of the S&P 500 had reached levels that, in prior historical contexts, had been followed by poor subsequent returns. The level of valuation alone was not a trigger, but it made the market vulnerable to negative catalysts.
+
+## The Portfolio Insurance Mechanism
+
+The mechanism that transformed a market decline into a crash was portfolio insurance — a hedging strategy developed by academics Hayne Leland and Mark Rubinstein at the University of California Berkeley. Portfolio insurance was designed to protect institutional investors against large losses by systematically selling stock index futures as prices fell, dynamically replicating the payoff of a put option.
+
+The strategy was theoretically elegant and individually rational: an institution that owned a large equity portfolio could limit its downside exposure by programmatically selling futures contracts as the market fell, reducing its effective equity exposure as prices declined. The hedge was "self-financing" in the sense that it required no upfront premium — it simply required the capacity to execute the required trades.
+
+By October 1987, approximately sixty billion dollars in institutional portfolios were protected by portfolio insurance strategies. The strategies had been backtested using historical data and validated through a period in which the market had not experienced a significant decline. The backtests assumed that futures markets would remain sufficiently liquid to execute the required sell orders without materially moving prices.
+
+This assumption was wrong in ways that the backtests could not detect, because the liquidity that the backtests measured was pre-portfolio-insurance liquidity. When markets fell on Monday, October 19, the portfolio insurance programs began selling futures automatically. Their selling moved futures prices down. This triggered further portfolio insurance selling from other programs, which moved prices further. The futures market, which was supposed to provide the liquidity for the hedge, was being consumed by the hedge itself.
+
+## Market Structure Failure
+
+The crash exposed a fundamental failure of market structure. The futures market and the underlying stock market disconnected from each other in ways that normally occur only during brief arbitrage opportunities and then quickly close. By Monday afternoon, futures were trading at discounts of fifteen to twenty points below the corresponding value of the underlying stocks. This gap was impossible under normal conditions: any investor who bought the cheaper futures while shorting the more expensive stocks would make a risk-free profit when the gap closed.
+
+But the arbitrage did not close the gap, because the mechanism of arbitrage had broken down. Arbitrageurs who would normally have stepped in to close the gap found that their computers could not execute trades fast enough, that broker-dealers were unwilling to extend the credit needed to maintain positions, and that the sheer volume of selling overwhelmed the normal market-making capacity of the NYSE specialists who were supposed to provide liquidity in their assigned stocks.
+
+The futures market effectively became disconnected from the stock market. This disconnection prevented the normal stabilizing mechanism — index arbitrage — from functioning. Without arbitrage, the futures decline did not translate into a signal to buy underlying stocks at the depressed futures-implied prices. Instead, the futures decline signaled further stock selling, which signaled more portfolio insurance selling, which moved prices further.

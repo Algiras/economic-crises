@@ -1,0 +1,4556 @@
+[
+  {
+    "id": "intro",
+    "title": "Intro",
+    "globalStart": 0,
+    "duration": 191,
+    "episode": 3,
+    "episodeMeta": {
+      "title": "The Panic of 1907",
+      "subtitle": "1907"
+    },
+    "subSlides": [
+      {
+        "type": "intro",
+        "start": 0,
+        "duration": 191,
+        "audioSrc": "episodes/ep11/intro.wav"
+      }
+    ]
+  },
+  {
+    "id": "ep11_event",
+    "title": "Event",
+    "globalStart": 191,
+    "duration": 2534,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Event"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep11_event_0",
+        "audio_exists": true,
+        "audioPath": "episodes/ep11/audio/ep11_event_0.wav",
+        "text": "On the morning of October 22, 1907, the Knickerbocker Trust Company of New York suspended payments to depositors. Within hours, crowds gathered outside. The panic that followed nearly collapsed the entire American banking system before the Federal Reserve existed to stop it.",
+        "duration": 487,
+        "bgImage": "bg_vintage_market.jpg",
+        "wordTimings": [
+          {
+            "word": "On ",
+            "start": 0.1,
+            "end": 0.263
+          },
+          {
+            "word": "the ",
+            "start": 0.273,
+            "end": 0.339
+          },
+          {
+            "word": "morning ",
+            "start": 0.35,
+            "end": 0.621
+          },
+          {
+            "word": "of ",
+            "start": 0.632,
+            "end": 0.708
+          },
+          {
+            "word": "October 22, 1907, ",
+            "start": 0.719,
+            "end": 2.817
+          },
+          {
+            "word": "the ",
+            "start": 2.991,
+            "end": 3.067
+          },
+          {
+            "word": "Knickerbocker ",
+            "start": 3.078,
+            "end": 3.534
+          },
+          {
+            "word": "Trust ",
+            "start": 3.545,
+            "end": 3.817
+          },
+          {
+            "word": "Company ",
+            "start": 3.828,
+            "end": 4.176
+          },
+          {
+            "word": "of ",
+            "start": 4.186,
+            "end": 4.273
+          },
+          {
+            "word": "New ",
+            "start": 4.284,
+            "end": 4.458
+          },
+          {
+            "word": "York ",
+            "start": 4.469,
+            "end": 4.708
+          },
+          {
+            "word": "suspended ",
+            "start": 4.719,
+            "end": 5.186
+          },
+          {
+            "word": "payments ",
+            "start": 5.197,
+            "end": 5.567
+          },
+          {
+            "word": "to ",
+            "start": 5.578,
+            "end": 5.654
+          },
+          {
+            "word": "depositors. ",
+            "start": 5.665,
+            "end": 6.317
+          },
+          {
+            "word": "Within ",
+            "start": 7.06,
+            "end": 7.354
+          },
+          {
+            "word": "hours, ",
+            "start": 7.365,
+            "end": 7.723
+          },
+          {
+            "word": "crowds ",
+            "start": 7.908,
+            "end": 8.267
+          },
+          {
+            "word": "gathered ",
+            "start": 8.278,
+            "end": 8.55
+          },
+          {
+            "word": "outside. ",
+            "start": 8.56,
+            "end": 9.202
+          },
+          {
+            "word": "The ",
+            "start": 9.952,
+            "end": 10.082
+          },
+          {
+            "word": "panic ",
+            "start": 10.093,
+            "end": 10.354
+          },
+          {
+            "word": "that ",
+            "start": 10.365,
+            "end": 10.484
+          },
+          {
+            "word": "followed ",
+            "start": 10.495,
+            "end": 10.778
+          },
+          {
+            "word": "nearly ",
+            "start": 10.789,
+            "end": 11.039
+          },
+          {
+            "word": "collapsed ",
+            "start": 11.05,
+            "end": 11.441
+          },
+          {
+            "word": "the ",
+            "start": 11.452,
+            "end": 11.528
+          },
+          {
+            "word": "entire ",
+            "start": 11.539,
+            "end": 11.941
+          },
+          {
+            "word": "American ",
+            "start": 11.952,
+            "end": 12.343
+          },
+          {
+            "word": "banking ",
+            "start": 12.354,
+            "end": 12.691
+          },
+          {
+            "word": "system ",
+            "start": 12.702,
+            "end": 13.039
+          },
+          {
+            "word": "before ",
+            "start": 13.05,
+            "end": 13.3
+          },
+          {
+            "word": "the ",
+            "start": 13.31,
+            "end": 13.397
+          },
+          {
+            "word": "Federal ",
+            "start": 13.408,
+            "end": 13.713
+          },
+          {
+            "word": "Reserve ",
+            "start": 13.723,
+            "end": 14.06
+          },
+          {
+            "word": "existed ",
+            "start": 14.071,
+            "end": 14.473
+          },
+          {
+            "word": "to ",
+            "start": 14.484,
+            "end": 14.549
+          },
+          {
+            "word": "stop ",
+            "start": 14.56,
+            "end": 14.832
+          },
+          {
+            "word": "it.",
+            "start": 14.843,
+            "end": 15.049
+          }
+        ],
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep11_event_1",
+        "audio_exists": true,
+        "audioPath": "episodes/ep11/audio/ep11_event_1.wav",
+        "text": "The crisis had roots in the San Francisco earthquake of 1906. Insurance claims drained gold from New York banks, tightening credit. Speculative schemes by copper magnate F. Augustus Heinze then ignited the fuse. When his attempt to corner the copper market collapsed, every bank connected to him came under suspicion.",
+        "duration": 568,
+        "bgImage": "bg_bank_run.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.219
+          },
+          {
+            "word": "crisis ",
+            "start": 0.23,
+            "end": 0.61
+          },
+          {
+            "word": "had ",
+            "start": 0.621,
+            "end": 0.752
+          },
+          {
+            "word": "roots ",
+            "start": 0.763,
+            "end": 1.034
+          },
+          {
+            "word": "in ",
+            "start": 1.045,
+            "end": 1.11
+          },
+          {
+            "word": "the ",
+            "start": 1.121,
+            "end": 1.176
+          },
+          {
+            "word": "San ",
+            "start": 1.186,
+            "end": 1.447
+          },
+          {
+            "word": "Francisco ",
+            "start": 1.458,
+            "end": 2.002
+          },
+          {
+            "word": "earthquake ",
+            "start": 2.013,
+            "end": 2.458
+          },
+          {
+            "word": "of ",
+            "start": 2.469,
+            "end": 2.556
+          },
+          {
+            "word": "1906. ",
+            "start": 2.567,
+            "end": 3.578
+          },
+          {
+            "word": "Insurance ",
+            "start": 4.321,
+            "end": 4.832
+          },
+          {
+            "word": "claims ",
+            "start": 4.843,
+            "end": 5.169
+          },
+          {
+            "word": "drained ",
+            "start": 5.18,
+            "end": 5.473
+          },
+          {
+            "word": "gold ",
+            "start": 5.484,
+            "end": 5.745
+          },
+          {
+            "word": "from ",
+            "start": 5.756,
+            "end": 5.908
+          },
+          {
+            "word": "New ",
+            "start": 5.919,
+            "end": 6.104
+          },
+          {
+            "word": "York ",
+            "start": 6.115,
+            "end": 6.408
+          },
+          {
+            "word": "banks, ",
+            "start": 6.419,
+            "end": 6.789
+          },
+          {
+            "word": "tightening ",
+            "start": 6.984,
+            "end": 7.376
+          },
+          {
+            "word": "credit. ",
+            "start": 7.386,
+            "end": 7.81
+          },
+          {
+            "word": "Speculative ",
+            "start": 8.56,
+            "end": 9.126
+          },
+          {
+            "word": "schemes ",
+            "start": 9.136,
+            "end": 9.506
+          },
+          {
+            "word": "by ",
+            "start": 9.517,
+            "end": 9.636
+          },
+          {
+            "word": "copper ",
+            "start": 9.647,
+            "end": 9.908
+          },
+          {
+            "word": "magnate ",
+            "start": 9.919,
+            "end": 10.289
+          },
+          {
+            "word": "F. ",
+            "start": 10.3,
+            "end": 10.484
+          },
+          {
+            "word": "Augustus ",
+            "start": 10.571,
+            "end": 10.952
+          },
+          {
+            "word": "Heinze ",
+            "start": 10.963,
+            "end": 11.289
+          },
+          {
+            "word": "then ",
+            "start": 11.3,
+            "end": 11.419
+          },
+          {
+            "word": "ignited ",
+            "start": 11.43,
+            "end": 11.843
+          },
+          {
+            "word": "the ",
+            "start": 11.854,
+            "end": 11.919
+          },
+          {
+            "word": "fuse. ",
+            "start": 11.93,
+            "end": 12.441
+          },
+          {
+            "word": "When ",
+            "start": 13.191,
+            "end": 13.397
+          },
+          {
+            "word": "his ",
+            "start": 13.408,
+            "end": 13.549
+          },
+          {
+            "word": "attempt ",
+            "start": 13.56,
+            "end": 13.886
+          },
+          {
+            "word": "to ",
+            "start": 13.897,
+            "end": 13.963
+          },
+          {
+            "word": "corner ",
+            "start": 13.973,
+            "end": 14.245
+          },
+          {
+            "word": "the ",
+            "start": 14.256,
+            "end": 14.332
+          },
+          {
+            "word": "copper ",
+            "start": 14.343,
+            "end": 14.604
+          },
+          {
+            "word": "market ",
+            "start": 14.615,
+            "end": 14.963
+          },
+          {
+            "word": "collapsed, ",
+            "start": 14.973,
+            "end": 15.441
+          },
+          {
+            "word": "every ",
+            "start": 15.626,
+            "end": 15.821
+          },
+          {
+            "word": "bank ",
+            "start": 15.832,
+            "end": 16.104
+          },
+          {
+            "word": "connected ",
+            "start": 16.115,
+            "end": 16.517
+          },
+          {
+            "word": "to ",
+            "start": 16.528,
+            "end": 16.593
+          },
+          {
+            "word": "him ",
+            "start": 16.604,
+            "end": 16.767
+          },
+          {
+            "word": "came ",
+            "start": 16.778,
+            "end": 17.028
+          },
+          {
+            "word": "under ",
+            "start": 17.039,
+            "end": 17.213
+          },
+          {
+            "word": "suspicion.",
+            "start": 17.223,
+            "end": 17.767
+          }
+        ],
+        "start": 577
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep11_event_2",
+        "audio_exists": true,
+        "audioPath": "episodes/ep11/audio/ep11_event_2.wav",
+        "text": "Trust companies — lightly regulated institutions that held deposits but were not subject to reserve requirements — had expanded recklessly. They borrowed short and lent long into speculative ventures. When confidence broke, depositors ran. The trusts had no reserves to meet them.",
+        "duration": 488,
+        "bgImage": "bg_gold_bars.jpg",
+        "wordTimings": [
+          {
+            "word": "Trust ",
+            "start": 0.1,
+            "end": 0.404
+          },
+          {
+            "word": "companies — ",
+            "start": 0.415,
+            "end": 0.86
+          },
+          {
+            "word": "lightly ",
+            "start": 1.034,
+            "end": 1.295
+          },
+          {
+            "word": "regulated ",
+            "start": 1.306,
+            "end": 1.817
+          },
+          {
+            "word": "institutions ",
+            "start": 1.828,
+            "end": 2.502
+          },
+          {
+            "word": "that ",
+            "start": 2.513,
+            "end": 2.621
+          },
+          {
+            "word": "held ",
+            "start": 2.632,
+            "end": 2.828
+          },
+          {
+            "word": "deposits ",
+            "start": 2.839,
+            "end": 3.252
+          },
+          {
+            "word": "but ",
+            "start": 3.263,
+            "end": 3.382
+          },
+          {
+            "word": "were ",
+            "start": 3.393,
+            "end": 3.48
+          },
+          {
+            "word": "not ",
+            "start": 3.491,
+            "end": 3.665
+          },
+          {
+            "word": "subject ",
+            "start": 3.676,
+            "end": 4.023
+          },
+          {
+            "word": "to ",
+            "start": 4.034,
+            "end": 4.089
+          },
+          {
+            "word": "reserve ",
+            "start": 4.1,
+            "end": 4.469
+          },
+          {
+            "word": "requirements — ",
+            "start": 4.48,
+            "end": 5.056
+          },
+          {
+            "word": "had ",
+            "start": 5.273,
+            "end": 5.36
+          },
+          {
+            "word": "expanded ",
+            "start": 5.371,
+            "end": 5.839
+          },
+          {
+            "word": "recklessly. ",
+            "start": 5.85,
+            "end": 6.371
+          },
+          {
+            "word": "They ",
+            "start": 7.115,
+            "end": 7.256
+          },
+          {
+            "word": "borrowed ",
+            "start": 7.267,
+            "end": 7.615
+          },
+          {
+            "word": "short ",
+            "start": 7.626,
+            "end": 7.908
+          },
+          {
+            "word": "and ",
+            "start": 7.919,
+            "end": 7.995
+          },
+          {
+            "word": "lent ",
+            "start": 8.006,
+            "end": 8.202
+          },
+          {
+            "word": "long ",
+            "start": 8.213,
+            "end": 8.419
+          },
+          {
+            "word": "into ",
+            "start": 8.43,
+            "end": 8.615
+          },
+          {
+            "word": "speculative ",
+            "start": 8.626,
+            "end": 9.158
+          },
+          {
+            "word": "ventures. ",
+            "start": 9.169,
+            "end": 9.691
+          },
+          {
+            "word": "When ",
+            "start": 10.441,
+            "end": 10.669
+          },
+          {
+            "word": "confidence ",
+            "start": 10.68,
+            "end": 11.136
+          },
+          {
+            "word": "broke, ",
+            "start": 11.147,
+            "end": 11.495
+          },
+          {
+            "word": "depositors ",
+            "start": 11.658,
+            "end": 12.202
+          },
+          {
+            "word": "ran. ",
+            "start": 12.213,
+            "end": 12.593
+          },
+          {
+            "word": "The ",
+            "start": 13.343,
+            "end": 13.473
+          },
+          {
+            "word": "trusts ",
+            "start": 13.484,
+            "end": 13.821
+          },
+          {
+            "word": "had ",
+            "start": 13.832,
+            "end": 13.952
+          },
+          {
+            "word": "no ",
+            "start": 13.963,
+            "end": 14.136
+          },
+          {
+            "word": "reserves ",
+            "start": 14.147,
+            "end": 14.528
+          },
+          {
+            "word": "to ",
+            "start": 14.539,
+            "end": 14.615
+          },
+          {
+            "word": "meet ",
+            "start": 14.626,
+            "end": 14.865
+          },
+          {
+            "word": "them.",
+            "start": 14.876,
+            "end": 15.104
+          }
+        ],
+        "start": 1145
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep11_event_3",
+        "audio_exists": true,
+        "audioPath": "episodes/ep11/audio/ep11_event_3.wav",
+        "text": "In three weeks, the New York Stock Exchange fell fifty percent from its January peak. Call money rates — the overnight lending rate for brokers — spiked to one hundred fifty percent. Hundreds of banks across the country suspended payments. Business activity seized.",
+        "duration": 487,
+        "bgImage": "bg_wallstreet.jpg",
+        "wordTimings": [
+          {
+            "word": "In ",
+            "start": 0.1,
+            "end": 0.252
+          },
+          {
+            "word": "three ",
+            "start": 0.263,
+            "end": 0.491
+          },
+          {
+            "word": "weeks, ",
+            "start": 0.502,
+            "end": 0.893
+          },
+          {
+            "word": "the ",
+            "start": 1.002,
+            "end": 1.089
+          },
+          {
+            "word": "New ",
+            "start": 1.1,
+            "end": 1.284
+          },
+          {
+            "word": "York ",
+            "start": 1.295,
+            "end": 1.545
+          },
+          {
+            "word": "Stock ",
+            "start": 1.556,
+            "end": 1.828
+          },
+          {
+            "word": "Exchange ",
+            "start": 1.839,
+            "end": 2.252
+          },
+          {
+            "word": "fell ",
+            "start": 2.263,
+            "end": 2.491
+          },
+          {
+            "word": "fifty ",
+            "start": 2.502,
+            "end": 2.806
+          },
+          {
+            "word": "percent ",
+            "start": 2.817,
+            "end": 3.176
+          },
+          {
+            "word": "from ",
+            "start": 3.186,
+            "end": 3.328
+          },
+          {
+            "word": "its ",
+            "start": 3.339,
+            "end": 3.469
+          },
+          {
+            "word": "January ",
+            "start": 3.48,
+            "end": 3.882
+          },
+          {
+            "word": "peak. ",
+            "start": 3.893,
+            "end": 4.263
+          },
+          {
+            "word": "Call ",
+            "start": 5.006,
+            "end": 5.289
+          },
+          {
+            "word": "money ",
+            "start": 5.3,
+            "end": 5.506
+          },
+          {
+            "word": "rates — ",
+            "start": 5.517,
+            "end": 5.897
+          },
+          {
+            "word": "the ",
+            "start": 6.05,
+            "end": 6.191
+          },
+          {
+            "word": "overnight ",
+            "start": 6.202,
+            "end": 6.604
+          },
+          {
+            "word": "lending ",
+            "start": 6.615,
+            "end": 6.952
+          },
+          {
+            "word": "rate ",
+            "start": 6.963,
+            "end": 7.18
+          },
+          {
+            "word": "for ",
+            "start": 7.191,
+            "end": 7.289
+          },
+          {
+            "word": "brokers — ",
+            "start": 7.3,
+            "end": 7.68
+          },
+          {
+            "word": "spiked ",
+            "start": 7.843,
+            "end": 8.169
+          },
+          {
+            "word": "to ",
+            "start": 8.18,
+            "end": 8.256
+          },
+          {
+            "word": "one ",
+            "start": 8.267,
+            "end": 8.484
+          },
+          {
+            "word": "hundred ",
+            "start": 8.495,
+            "end": 8.767
+          },
+          {
+            "word": "fifty ",
+            "start": 8.778,
+            "end": 9.082
+          },
+          {
+            "word": "percent. ",
+            "start": 9.093,
+            "end": 9.582
+          },
+          {
+            "word": "Hundreds ",
+            "start": 10.332,
+            "end": 10.745
+          },
+          {
+            "word": "of ",
+            "start": 10.756,
+            "end": 10.854
+          },
+          {
+            "word": "banks ",
+            "start": 10.865,
+            "end": 11.147
+          },
+          {
+            "word": "across ",
+            "start": 11.158,
+            "end": 11.473
+          },
+          {
+            "word": "the ",
+            "start": 11.484,
+            "end": 11.56
+          },
+          {
+            "word": "country ",
+            "start": 11.571,
+            "end": 11.897
+          },
+          {
+            "word": "suspended ",
+            "start": 11.908,
+            "end": 12.386
+          },
+          {
+            "word": "payments. ",
+            "start": 12.397,
+            "end": 12.93
+          },
+          {
+            "word": "Business ",
+            "start": 13.68,
+            "end": 14.071
+          },
+          {
+            "word": "activity ",
+            "start": 14.082,
+            "end": 14.506
+          },
+          {
+            "word": "seized.",
+            "start": 14.517,
+            "end": 15.05
+          }
+        ],
+        "start": 1633
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep11_event_4",
+        "audio_exists": true,
+        "audioPath": "episodes/ep11/audio/ep11_event_4.wav",
+        "text": "The United States had no central bank. There was no lender of last resort. What it had was J.P. Morgan — seventy years old, already a legend, and possessed of sufficient personal authority to do what no government institution could.",
+        "duration": 414,
+        "bgImage": "bg_vintage_market.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.208
+          },
+          {
+            "word": "United ",
+            "start": 0.219,
+            "end": 0.643
+          },
+          {
+            "word": "States ",
+            "start": 0.654,
+            "end": 0.936
+          },
+          {
+            "word": "had ",
+            "start": 0.947,
+            "end": 1.045
+          },
+          {
+            "word": "no ",
+            "start": 1.056,
+            "end": 1.273
+          },
+          {
+            "word": "central ",
+            "start": 1.284,
+            "end": 1.686
+          },
+          {
+            "word": "bank. ",
+            "start": 1.697,
+            "end": 2.034
+          },
+          {
+            "word": "There ",
+            "start": 2.778,
+            "end": 2.93
+          },
+          {
+            "word": "was ",
+            "start": 2.941,
+            "end": 3.093
+          },
+          {
+            "word": "no ",
+            "start": 3.104,
+            "end": 3.299
+          },
+          {
+            "word": "lender ",
+            "start": 3.31,
+            "end": 3.604
+          },
+          {
+            "word": "of ",
+            "start": 3.615,
+            "end": 3.68
+          },
+          {
+            "word": "last ",
+            "start": 3.691,
+            "end": 3.941
+          },
+          {
+            "word": "resort. ",
+            "start": 3.952,
+            "end": 4.419
+          },
+          {
+            "word": "What ",
+            "start": 5.169,
+            "end": 5.354
+          },
+          {
+            "word": "it ",
+            "start": 5.365,
+            "end": 5.43
+          },
+          {
+            "word": "had ",
+            "start": 5.441,
+            "end": 5.604
+          },
+          {
+            "word": "was ",
+            "start": 5.615,
+            "end": 5.756
+          },
+          {
+            "word": "J.P. ",
+            "start": 5.767,
+            "end": 6.147
+          },
+          {
+            "word": "Morgan — ",
+            "start": 6.158,
+            "end": 6.539
+          },
+          {
+            "word": "seventy ",
+            "start": 6.691,
+            "end": 6.995
+          },
+          {
+            "word": "years ",
+            "start": 7.006,
+            "end": 7.31
+          },
+          {
+            "word": "old, ",
+            "start": 7.321,
+            "end": 7.604
+          },
+          {
+            "word": "already ",
+            "start": 7.81,
+            "end": 8.202
+          },
+          {
+            "word": "a ",
+            "start": 8.213,
+            "end": 8.256
+          },
+          {
+            "word": "legend, ",
+            "start": 8.267,
+            "end": 8.691
+          },
+          {
+            "word": "and ",
+            "start": 8.886,
+            "end": 8.973
+          },
+          {
+            "word": "possessed ",
+            "start": 8.984,
+            "end": 9.354
+          },
+          {
+            "word": "of ",
+            "start": 9.365,
+            "end": 9.43
+          },
+          {
+            "word": "sufficient ",
+            "start": 9.441,
+            "end": 9.843
+          },
+          {
+            "word": "personal ",
+            "start": 9.854,
+            "end": 10.213
+          },
+          {
+            "word": "authority ",
+            "start": 10.223,
+            "end": 10.68
+          },
+          {
+            "word": "to ",
+            "start": 10.691,
+            "end": 10.778
+          },
+          {
+            "word": "do ",
+            "start": 10.789,
+            "end": 10.908
+          },
+          {
+            "word": "what ",
+            "start": 10.919,
+            "end": 11.115
+          },
+          {
+            "word": "no ",
+            "start": 11.126,
+            "end": 11.354
+          },
+          {
+            "word": "government ",
+            "start": 11.365,
+            "end": 11.745
+          },
+          {
+            "word": "institution ",
+            "start": 11.756,
+            "end": 12.321
+          },
+          {
+            "word": "could.",
+            "start": 12.332,
+            "end": 12.626
+          }
+        ],
+        "start": 2120
+      }
+    ]
+  },
+  {
+    "id": "ep11_problems",
+    "title": "Problems",
+    "globalStart": 2725,
+    "duration": 2489,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Problems"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep11_problems_0",
+        "audio_exists": true,
+        "audioPath": "episodes/ep11/audio/ep11_problems_0.wav",
+        "text": "The structural problem the Panic of 1907 exposed was the absence of a lender of last resort. Walter Bagehot had described the solution in 1873: lend freely, at a penalty rate, against good collateral. But the United States had no institution capable of following this rule.",
+        "duration": 492,
+        "bgImage": "bg_bank_run.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "structural ",
+            "start": 0.241,
+            "end": 0.719
+          },
+          {
+            "word": "problem ",
+            "start": 0.73,
+            "end": 1.056
+          },
+          {
+            "word": "the ",
+            "start": 1.067,
+            "end": 1.132
+          },
+          {
+            "word": "Panic ",
+            "start": 1.143,
+            "end": 1.393
+          },
+          {
+            "word": "of ",
+            "start": 1.404,
+            "end": 1.491
+          },
+          {
+            "word": "1907 ",
+            "start": 1.502,
+            "end": 2.35
+          },
+          {
+            "word": "exposed ",
+            "start": 2.36,
+            "end": 2.817
+          },
+          {
+            "word": "was ",
+            "start": 2.828,
+            "end": 2.947
+          },
+          {
+            "word": "the ",
+            "start": 2.958,
+            "end": 3.056
+          },
+          {
+            "word": "absence ",
+            "start": 3.067,
+            "end": 3.426
+          },
+          {
+            "word": "of ",
+            "start": 3.436,
+            "end": 3.513
+          },
+          {
+            "word": "a ",
+            "start": 3.523,
+            "end": 3.556
+          },
+          {
+            "word": "lender ",
+            "start": 3.567,
+            "end": 3.882
+          },
+          {
+            "word": "of ",
+            "start": 3.893,
+            "end": 3.969
+          },
+          {
+            "word": "last ",
+            "start": 3.98,
+            "end": 4.23
+          },
+          {
+            "word": "resort. ",
+            "start": 4.241,
+            "end": 4.686
+          },
+          {
+            "word": "Walter ",
+            "start": 5.43,
+            "end": 5.767
+          },
+          {
+            "word": "Bagehot ",
+            "start": 5.778,
+            "end": 6.136
+          },
+          {
+            "word": "had ",
+            "start": 6.147,
+            "end": 6.256
+          },
+          {
+            "word": "described ",
+            "start": 6.267,
+            "end": 6.658
+          },
+          {
+            "word": "the ",
+            "start": 6.669,
+            "end": 6.734
+          },
+          {
+            "word": "solution ",
+            "start": 6.745,
+            "end": 7.169
+          },
+          {
+            "word": "in 1873: ",
+            "start": 7.18,
+            "end": 8.289
+          },
+          {
+            "word": "lend ",
+            "start": 8.473,
+            "end": 8.658
+          },
+          {
+            "word": "freely, ",
+            "start": 8.669,
+            "end": 9.028
+          },
+          {
+            "word": "at ",
+            "start": 9.213,
+            "end": 9.321
+          },
+          {
+            "word": "a ",
+            "start": 9.332,
+            "end": 9.386
+          },
+          {
+            "word": "penalty ",
+            "start": 9.397,
+            "end": 9.713
+          },
+          {
+            "word": "rate, ",
+            "start": 9.723,
+            "end": 10.006
+          },
+          {
+            "word": "against ",
+            "start": 10.18,
+            "end": 10.473
+          },
+          {
+            "word": "good ",
+            "start": 10.484,
+            "end": 10.647
+          },
+          {
+            "word": "collateral. ",
+            "start": 10.658,
+            "end": 11.213
+          },
+          {
+            "word": "But ",
+            "start": 11.963,
+            "end": 12.093
+          },
+          {
+            "word": "the ",
+            "start": 12.104,
+            "end": 12.158
+          },
+          {
+            "word": "United ",
+            "start": 12.169,
+            "end": 12.571
+          },
+          {
+            "word": "States ",
+            "start": 12.582,
+            "end": 12.865
+          },
+          {
+            "word": "had ",
+            "start": 12.876,
+            "end": 12.984
+          },
+          {
+            "word": "no ",
+            "start": 12.995,
+            "end": 13.223
+          },
+          {
+            "word": "institution ",
+            "start": 13.234,
+            "end": 13.854
+          },
+          {
+            "word": "capable ",
+            "start": 13.865,
+            "end": 14.256
+          },
+          {
+            "word": "of ",
+            "start": 14.267,
+            "end": 14.321
+          },
+          {
+            "word": "following ",
+            "start": 14.332,
+            "end": 14.669
+          },
+          {
+            "word": "this ",
+            "start": 14.68,
+            "end": 14.854
+          },
+          {
+            "word": "rule.",
+            "start": 14.865,
+            "end": 15.223
+          }
+        ],
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep11_problems_1",
+        "audio_exists": true,
+        "audioPath": "episodes/ep11/audio/ep11_problems_1.wav",
+        "text": "The National Banking System, created during the Civil War, required banks to hold reserves in other banks — creating chains of dependency. When interior banks needed cash, they withdrew from their New York correspondents. New York banks then contracted lending to shore up their own reserves. The crisis amplified through every link in the chain.",
+        "duration": 592,
+        "bgImage": "bg_gold_bars.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.219
+          },
+          {
+            "word": "National ",
+            "start": 0.23,
+            "end": 0.621
+          },
+          {
+            "word": "Banking ",
+            "start": 0.632,
+            "end": 0.947
+          },
+          {
+            "word": "System, ",
+            "start": 0.958,
+            "end": 1.36
+          },
+          {
+            "word": "created ",
+            "start": 1.523,
+            "end": 1.926
+          },
+          {
+            "word": "during ",
+            "start": 1.936,
+            "end": 2.208
+          },
+          {
+            "word": "the ",
+            "start": 2.219,
+            "end": 2.284
+          },
+          {
+            "word": "Civil ",
+            "start": 2.295,
+            "end": 2.578
+          },
+          {
+            "word": "War, ",
+            "start": 2.589,
+            "end": 2.86
+          },
+          {
+            "word": "required ",
+            "start": 3.067,
+            "end": 3.48
+          },
+          {
+            "word": "banks ",
+            "start": 3.491,
+            "end": 3.719
+          },
+          {
+            "word": "to ",
+            "start": 3.73,
+            "end": 3.806
+          },
+          {
+            "word": "hold ",
+            "start": 3.817,
+            "end": 4.067
+          },
+          {
+            "word": "reserves ",
+            "start": 4.078,
+            "end": 4.491
+          },
+          {
+            "word": "in ",
+            "start": 4.502,
+            "end": 4.589
+          },
+          {
+            "word": "other ",
+            "start": 4.6,
+            "end": 4.784
+          },
+          {
+            "word": "banks — ",
+            "start": 4.795,
+            "end": 5.186
+          },
+          {
+            "word": "creating ",
+            "start": 5.36,
+            "end": 5.795
+          },
+          {
+            "word": "chains ",
+            "start": 5.806,
+            "end": 6.121
+          },
+          {
+            "word": "of ",
+            "start": 6.132,
+            "end": 6.208
+          },
+          {
+            "word": "dependency. ",
+            "start": 6.219,
+            "end": 6.849
+          },
+          {
+            "word": "When ",
+            "start": 7.593,
+            "end": 7.81
+          },
+          {
+            "word": "interior ",
+            "start": 7.821,
+            "end": 8.245
+          },
+          {
+            "word": "banks ",
+            "start": 8.256,
+            "end": 8.528
+          },
+          {
+            "word": "needed ",
+            "start": 8.539,
+            "end": 8.821
+          },
+          {
+            "word": "cash, ",
+            "start": 8.832,
+            "end": 9.202
+          },
+          {
+            "word": "they ",
+            "start": 9.43,
+            "end": 9.528
+          },
+          {
+            "word": "withdrew ",
+            "start": 9.539,
+            "end": 9.952
+          },
+          {
+            "word": "from ",
+            "start": 9.963,
+            "end": 10.126
+          },
+          {
+            "word": "their ",
+            "start": 10.136,
+            "end": 10.267
+          },
+          {
+            "word": "New ",
+            "start": 10.278,
+            "end": 10.495
+          },
+          {
+            "word": "York ",
+            "start": 10.506,
+            "end": 10.767
+          },
+          {
+            "word": "correspondents. ",
+            "start": 10.778,
+            "end": 11.626
+          },
+          {
+            "word": "New ",
+            "start": 12.376,
+            "end": 12.636
+          },
+          {
+            "word": "York ",
+            "start": 12.647,
+            "end": 12.908
+          },
+          {
+            "word": "banks ",
+            "start": 12.919,
+            "end": 13.169
+          },
+          {
+            "word": "then ",
+            "start": 13.18,
+            "end": 13.321
+          },
+          {
+            "word": "contracted ",
+            "start": 13.332,
+            "end": 13.832
+          },
+          {
+            "word": "lending ",
+            "start": 13.843,
+            "end": 14.136
+          },
+          {
+            "word": "to ",
+            "start": 14.147,
+            "end": 14.234
+          },
+          {
+            "word": "shore ",
+            "start": 14.245,
+            "end": 14.463
+          },
+          {
+            "word": "up ",
+            "start": 14.473,
+            "end": 14.582
+          },
+          {
+            "word": "their ",
+            "start": 14.593,
+            "end": 14.702
+          },
+          {
+            "word": "own ",
+            "start": 14.713,
+            "end": 14.908
+          },
+          {
+            "word": "reserves. ",
+            "start": 14.919,
+            "end": 15.528
+          },
+          {
+            "word": "The ",
+            "start": 16.278,
+            "end": 16.397
+          },
+          {
+            "word": "crisis ",
+            "start": 16.408,
+            "end": 16.799
+          },
+          {
+            "word": "amplified ",
+            "start": 16.81,
+            "end": 17.3
+          },
+          {
+            "word": "through ",
+            "start": 17.31,
+            "end": 17.55
+          },
+          {
+            "word": "every ",
+            "start": 17.56,
+            "end": 17.778
+          },
+          {
+            "word": "link ",
+            "start": 17.789,
+            "end": 18.006
+          },
+          {
+            "word": "in ",
+            "start": 18.017,
+            "end": 18.082
+          },
+          {
+            "word": "the ",
+            "start": 18.093,
+            "end": 18.147
+          },
+          {
+            "word": "chain.",
+            "start": 18.158,
+            "end": 18.571
+          }
+        ],
+        "start": 582
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep11_problems_2",
+        "audio_exists": true,
+        "audioPath": "episodes/ep11/audio/ep11_problems_2.wav",
+        "text": "Trust companies operated with no reserve requirements and no regulatory oversight. They had captured market share by offering higher deposit rates and broader lending. When panic struck, they had nothing to draw on. Their collapse threatened to pull down the entire banking system.",
+        "duration": 482,
+        "bgImage": "bg_wallstreet.jpg",
+        "wordTimings": [
+          {
+            "word": "Trust ",
+            "start": 0.1,
+            "end": 0.404
+          },
+          {
+            "word": "companies ",
+            "start": 0.415,
+            "end": 0.817
+          },
+          {
+            "word": "operated ",
+            "start": 0.828,
+            "end": 1.273
+          },
+          {
+            "word": "with ",
+            "start": 1.284,
+            "end": 1.415
+          },
+          {
+            "word": "no ",
+            "start": 1.426,
+            "end": 1.643
+          },
+          {
+            "word": "reserve ",
+            "start": 1.654,
+            "end": 1.991
+          },
+          {
+            "word": "requirements ",
+            "start": 2.002,
+            "end": 2.502
+          },
+          {
+            "word": "and ",
+            "start": 2.513,
+            "end": 2.643
+          },
+          {
+            "word": "no ",
+            "start": 2.654,
+            "end": 2.828
+          },
+          {
+            "word": "regulatory ",
+            "start": 2.839,
+            "end": 3.436
+          },
+          {
+            "word": "oversight. ",
+            "start": 3.447,
+            "end": 4.013
+          },
+          {
+            "word": "They ",
+            "start": 4.756,
+            "end": 4.897
+          },
+          {
+            "word": "had ",
+            "start": 4.908,
+            "end": 5.082
+          },
+          {
+            "word": "captured ",
+            "start": 5.093,
+            "end": 5.43
+          },
+          {
+            "word": "market ",
+            "start": 5.441,
+            "end": 5.767
+          },
+          {
+            "word": "share ",
+            "start": 5.778,
+            "end": 5.995
+          },
+          {
+            "word": "by ",
+            "start": 6.006,
+            "end": 6.169
+          },
+          {
+            "word": "offering ",
+            "start": 6.18,
+            "end": 6.517
+          },
+          {
+            "word": "higher ",
+            "start": 6.528,
+            "end": 6.767
+          },
+          {
+            "word": "deposit ",
+            "start": 6.778,
+            "end": 7.158
+          },
+          {
+            "word": "rates ",
+            "start": 7.169,
+            "end": 7.452
+          },
+          {
+            "word": "and ",
+            "start": 7.463,
+            "end": 7.571
+          },
+          {
+            "word": "broader ",
+            "start": 7.582,
+            "end": 7.876
+          },
+          {
+            "word": "lending. ",
+            "start": 7.886,
+            "end": 8.278
+          },
+          {
+            "word": "When ",
+            "start": 9.028,
+            "end": 9.267
+          },
+          {
+            "word": "panic ",
+            "start": 9.278,
+            "end": 9.539
+          },
+          {
+            "word": "struck, ",
+            "start": 9.55,
+            "end": 9.908
+          },
+          {
+            "word": "they ",
+            "start": 10.104,
+            "end": 10.191
+          },
+          {
+            "word": "had ",
+            "start": 10.202,
+            "end": 10.365
+          },
+          {
+            "word": "nothing ",
+            "start": 10.376,
+            "end": 10.702
+          },
+          {
+            "word": "to ",
+            "start": 10.713,
+            "end": 10.799
+          },
+          {
+            "word": "draw ",
+            "start": 10.81,
+            "end": 11.126
+          },
+          {
+            "word": "on. ",
+            "start": 11.136,
+            "end": 11.452
+          },
+          {
+            "word": "Their ",
+            "start": 12.202,
+            "end": 12.376
+          },
+          {
+            "word": "collapse ",
+            "start": 12.386,
+            "end": 12.778
+          },
+          {
+            "word": "threatened ",
+            "start": 12.789,
+            "end": 13.104
+          },
+          {
+            "word": "to ",
+            "start": 13.115,
+            "end": 13.18
+          },
+          {
+            "word": "pull ",
+            "start": 13.191,
+            "end": 13.386
+          },
+          {
+            "word": "down ",
+            "start": 13.397,
+            "end": 13.615
+          },
+          {
+            "word": "the ",
+            "start": 13.626,
+            "end": 13.713
+          },
+          {
+            "word": "entire ",
+            "start": 13.723,
+            "end": 14.104
+          },
+          {
+            "word": "banking ",
+            "start": 14.115,
+            "end": 14.463
+          },
+          {
+            "word": "system.",
+            "start": 14.473,
+            "end": 14.886
+          }
+        ],
+        "start": 1174
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep11_problems_3",
+        "audio_exists": true,
+        "audioPath": "episodes/ep11/audio/ep11_problems_3.wav",
+        "text": "The inelasticity of the currency supply made everything worse. Banks could not expand money supply in response to a liquidity crisis. Clearinghouses could issue certificates among member banks, but this was an ad hoc patch on a structural hole.",
+        "duration": 416,
+        "bgImage": "bg_nyse_floor.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "inelasticity ",
+            "start": 0.241,
+            "end": 0.958
+          },
+          {
+            "word": "of ",
+            "start": 0.969,
+            "end": 1.045
+          },
+          {
+            "word": "the ",
+            "start": 1.056,
+            "end": 1.121
+          },
+          {
+            "word": "currency ",
+            "start": 1.132,
+            "end": 1.513
+          },
+          {
+            "word": "supply ",
+            "start": 1.523,
+            "end": 1.849
+          },
+          {
+            "word": "made ",
+            "start": 1.86,
+            "end": 2.078
+          },
+          {
+            "word": "everything ",
+            "start": 2.089,
+            "end": 2.426
+          },
+          {
+            "word": "worse. ",
+            "start": 2.436,
+            "end": 2.893
+          },
+          {
+            "word": "Banks ",
+            "start": 3.636,
+            "end": 3.952
+          },
+          {
+            "word": "could ",
+            "start": 3.963,
+            "end": 4.104
+          },
+          {
+            "word": "not ",
+            "start": 4.115,
+            "end": 4.289
+          },
+          {
+            "word": "expand ",
+            "start": 4.3,
+            "end": 4.702
+          },
+          {
+            "word": "money ",
+            "start": 4.713,
+            "end": 4.93
+          },
+          {
+            "word": "supply ",
+            "start": 4.941,
+            "end": 5.278
+          },
+          {
+            "word": "in ",
+            "start": 5.289,
+            "end": 5.408
+          },
+          {
+            "word": "response ",
+            "start": 5.419,
+            "end": 5.81
+          },
+          {
+            "word": "to ",
+            "start": 5.821,
+            "end": 5.93
+          },
+          {
+            "word": "a ",
+            "start": 5.941,
+            "end": 5.973
+          },
+          {
+            "word": "liquidity ",
+            "start": 5.984,
+            "end": 6.419
+          },
+          {
+            "word": "crisis. ",
+            "start": 6.43,
+            "end": 7.006
+          },
+          {
+            "word": "Clearinghouses ",
+            "start": 7.756,
+            "end": 8.473
+          },
+          {
+            "word": "could ",
+            "start": 8.484,
+            "end": 8.615
+          },
+          {
+            "word": "issue ",
+            "start": 8.626,
+            "end": 8.854
+          },
+          {
+            "word": "certificates ",
+            "start": 8.865,
+            "end": 9.365
+          },
+          {
+            "word": "among ",
+            "start": 9.376,
+            "end": 9.615
+          },
+          {
+            "word": "member ",
+            "start": 9.626,
+            "end": 9.854
+          },
+          {
+            "word": "banks, ",
+            "start": 9.865,
+            "end": 10.256
+          },
+          {
+            "word": "but ",
+            "start": 10.43,
+            "end": 10.539
+          },
+          {
+            "word": "this ",
+            "start": 10.55,
+            "end": 10.723
+          },
+          {
+            "word": "was ",
+            "start": 10.734,
+            "end": 10.865
+          },
+          {
+            "word": "an ",
+            "start": 10.876,
+            "end": 10.952
+          },
+          {
+            "word": "ad ",
+            "start": 10.963,
+            "end": 11.115
+          },
+          {
+            "word": "hoc ",
+            "start": 11.126,
+            "end": 11.343
+          },
+          {
+            "word": "patch ",
+            "start": 11.354,
+            "end": 11.604
+          },
+          {
+            "word": "on ",
+            "start": 11.615,
+            "end": 11.702
+          },
+          {
+            "word": "a ",
+            "start": 11.713,
+            "end": 11.745
+          },
+          {
+            "word": "structural ",
+            "start": 11.756,
+            "end": 12.245
+          },
+          {
+            "word": "hole.",
+            "start": 12.256,
+            "end": 12.669
+          }
+        ],
+        "start": 1656
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep11_problems_4",
+        "audio_exists": true,
+        "audioPath": "episodes/ep11/audio/ep11_problems_4.wav",
+        "text": "The deeper problem was political. American hostility to concentrated financial power — rooted in Jacksonian democracy — had killed two previous central banks. The country was ideologically opposed to the very institution it needed most.",
+        "duration": 417,
+        "bgImage": "bg_bank_run.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.241
+          },
+          {
+            "word": "deeper ",
+            "start": 0.252,
+            "end": 0.545
+          },
+          {
+            "word": "problem ",
+            "start": 0.556,
+            "end": 0.893
+          },
+          {
+            "word": "was ",
+            "start": 0.904,
+            "end": 1.034
+          },
+          {
+            "word": "political. ",
+            "start": 1.045,
+            "end": 1.589
+          },
+          {
+            "word": "American ",
+            "start": 2.332,
+            "end": 2.789
+          },
+          {
+            "word": "hostility ",
+            "start": 2.8,
+            "end": 3.278
+          },
+          {
+            "word": "to ",
+            "start": 3.289,
+            "end": 3.365
+          },
+          {
+            "word": "concentrated ",
+            "start": 3.376,
+            "end": 3.984
+          },
+          {
+            "word": "financial ",
+            "start": 3.995,
+            "end": 4.528
+          },
+          {
+            "word": "power — ",
+            "start": 4.539,
+            "end": 4.876
+          },
+          {
+            "word": "rooted ",
+            "start": 5.082,
+            "end": 5.332
+          },
+          {
+            "word": "in ",
+            "start": 5.343,
+            "end": 5.495
+          },
+          {
+            "word": "Jacksonian ",
+            "start": 5.506,
+            "end": 6.017
+          },
+          {
+            "word": "democracy — ",
+            "start": 6.028,
+            "end": 6.528
+          },
+          {
+            "word": "had ",
+            "start": 6.723,
+            "end": 6.832
+          },
+          {
+            "word": "killed ",
+            "start": 6.843,
+            "end": 7.147
+          },
+          {
+            "word": "two ",
+            "start": 7.158,
+            "end": 7.365
+          },
+          {
+            "word": "previous ",
+            "start": 7.376,
+            "end": 7.789
+          },
+          {
+            "word": "central ",
+            "start": 7.8,
+            "end": 8.136
+          },
+          {
+            "word": "banks. ",
+            "start": 8.147,
+            "end": 8.56
+          },
+          {
+            "word": "The ",
+            "start": 9.31,
+            "end": 9.441
+          },
+          {
+            "word": "country ",
+            "start": 9.452,
+            "end": 9.756
+          },
+          {
+            "word": "was ",
+            "start": 9.767,
+            "end": 9.941
+          },
+          {
+            "word": "ideologically ",
+            "start": 9.952,
+            "end": 10.615
+          },
+          {
+            "word": "opposed ",
+            "start": 10.626,
+            "end": 10.952
+          },
+          {
+            "word": "to ",
+            "start": 10.963,
+            "end": 11.017
+          },
+          {
+            "word": "the ",
+            "start": 11.028,
+            "end": 11.093
+          },
+          {
+            "word": "very ",
+            "start": 11.104,
+            "end": 11.365
+          },
+          {
+            "word": "institution ",
+            "start": 11.376,
+            "end": 11.919
+          },
+          {
+            "word": "it ",
+            "start": 11.93,
+            "end": 12.006
+          },
+          {
+            "word": "needed ",
+            "start": 12.017,
+            "end": 12.267
+          },
+          {
+            "word": "most.",
+            "start": 12.278,
+            "end": 12.734
+          }
+        ],
+        "start": 2072
+      }
+    ]
+  },
+  {
+    "id": "ep11_solutions",
+    "title": "Solutions",
+    "globalStart": 5214,
+    "duration": 2302,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Solutions"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep11_solutions_0",
+        "audio_exists": true,
+        "audioPath": "episodes/ep11/audio/ep11_solutions_0.wav",
+        "text": "J.P. Morgan convened the presidents of the major trust companies in his private library. He locked the doors. He then spent the night of November 2nd engineering a solution: the trusts would pool their resources to support one another. Morgan identified which trusts were solvent and which were not, and forced the solvent ones to contribute to a rescue fund.",
+        "duration": 578,
+        "bgImage": "bg_fed_building.jpg",
+        "wordTimings": [
+          {
+            "word": "J.P. ",
+            "start": 0.1,
+            "end": 0.523
+          },
+          {
+            "word": "Morgan ",
+            "start": 0.534,
+            "end": 0.871
+          },
+          {
+            "word": "convened ",
+            "start": 0.882,
+            "end": 1.317
+          },
+          {
+            "word": "the ",
+            "start": 1.328,
+            "end": 1.393
+          },
+          {
+            "word": "presidents ",
+            "start": 1.404,
+            "end": 1.806
+          },
+          {
+            "word": "of ",
+            "start": 1.817,
+            "end": 1.882
+          },
+          {
+            "word": "the ",
+            "start": 1.893,
+            "end": 1.958
+          },
+          {
+            "word": "major ",
+            "start": 1.969,
+            "end": 2.263
+          },
+          {
+            "word": "trust ",
+            "start": 2.273,
+            "end": 2.523
+          },
+          {
+            "word": "companies ",
+            "start": 2.534,
+            "end": 2.947
+          },
+          {
+            "word": "in ",
+            "start": 2.958,
+            "end": 3.045
+          },
+          {
+            "word": "his ",
+            "start": 3.056,
+            "end": 3.197
+          },
+          {
+            "word": "private ",
+            "start": 3.208,
+            "end": 3.567
+          },
+          {
+            "word": "library. ",
+            "start": 3.578,
+            "end": 4.002
+          },
+          {
+            "word": "He ",
+            "start": 4.745,
+            "end": 4.908
+          },
+          {
+            "word": "locked ",
+            "start": 4.919,
+            "end": 5.126
+          },
+          {
+            "word": "the ",
+            "start": 5.136,
+            "end": 5.213
+          },
+          {
+            "word": "doors. ",
+            "start": 5.223,
+            "end": 5.723
+          },
+          {
+            "word": "He ",
+            "start": 6.473,
+            "end": 6.626
+          },
+          {
+            "word": "then ",
+            "start": 6.636,
+            "end": 6.81
+          },
+          {
+            "word": "spent ",
+            "start": 6.821,
+            "end": 7.05
+          },
+          {
+            "word": "the ",
+            "start": 7.06,
+            "end": 7.126
+          },
+          {
+            "word": "night ",
+            "start": 7.136,
+            "end": 7.365
+          },
+          {
+            "word": "of ",
+            "start": 7.376,
+            "end": 7.452
+          },
+          {
+            "word": "November 2nd ",
+            "start": 7.463,
+            "end": 8.18
+          },
+          {
+            "word": "engineering ",
+            "start": 8.191,
+            "end": 8.68
+          },
+          {
+            "word": "a ",
+            "start": 8.691,
+            "end": 8.734
+          },
+          {
+            "word": "solution: ",
+            "start": 8.745,
+            "end": 9.191
+          },
+          {
+            "word": "the ",
+            "start": 9.365,
+            "end": 9.43
+          },
+          {
+            "word": "trusts ",
+            "start": 9.441,
+            "end": 9.778
+          },
+          {
+            "word": "would ",
+            "start": 9.789,
+            "end": 9.941
+          },
+          {
+            "word": "pool ",
+            "start": 9.952,
+            "end": 10.147
+          },
+          {
+            "word": "their ",
+            "start": 10.158,
+            "end": 10.245
+          },
+          {
+            "word": "resources ",
+            "start": 10.256,
+            "end": 10.767
+          },
+          {
+            "word": "to ",
+            "start": 10.778,
+            "end": 10.854
+          },
+          {
+            "word": "support ",
+            "start": 10.865,
+            "end": 11.234
+          },
+          {
+            "word": "one ",
+            "start": 11.245,
+            "end": 11.408
+          },
+          {
+            "word": "another. ",
+            "start": 11.419,
+            "end": 11.767
+          },
+          {
+            "word": "Morgan ",
+            "start": 12.517,
+            "end": 12.865
+          },
+          {
+            "word": "identified ",
+            "start": 12.876,
+            "end": 13.484
+          },
+          {
+            "word": "which ",
+            "start": 13.495,
+            "end": 13.658
+          },
+          {
+            "word": "trusts ",
+            "start": 13.669,
+            "end": 14.006
+          },
+          {
+            "word": "were ",
+            "start": 14.017,
+            "end": 14.115
+          },
+          {
+            "word": "solvent ",
+            "start": 14.126,
+            "end": 14.528
+          },
+          {
+            "word": "and ",
+            "start": 14.539,
+            "end": 14.626
+          },
+          {
+            "word": "which ",
+            "start": 14.636,
+            "end": 14.821
+          },
+          {
+            "word": "were ",
+            "start": 14.832,
+            "end": 14.952
+          },
+          {
+            "word": "not, ",
+            "start": 14.963,
+            "end": 15.278
+          },
+          {
+            "word": "and ",
+            "start": 15.484,
+            "end": 15.56
+          },
+          {
+            "word": "forced ",
+            "start": 15.571,
+            "end": 15.865
+          },
+          {
+            "word": "the ",
+            "start": 15.876,
+            "end": 15.941
+          },
+          {
+            "word": "solvent ",
+            "start": 15.952,
+            "end": 16.299
+          },
+          {
+            "word": "ones ",
+            "start": 16.31,
+            "end": 16.528
+          },
+          {
+            "word": "to ",
+            "start": 16.539,
+            "end": 16.615
+          },
+          {
+            "word": "contribute ",
+            "start": 16.626,
+            "end": 17.093
+          },
+          {
+            "word": "to ",
+            "start": 17.104,
+            "end": 17.213
+          },
+          {
+            "word": "a ",
+            "start": 17.223,
+            "end": 17.278
+          },
+          {
+            "word": "rescue ",
+            "start": 17.289,
+            "end": 17.647
+          },
+          {
+            "word": "fund.",
+            "start": 17.658,
+            "end": 18.093
+          }
+        ],
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep11_solutions_1",
+        "audio_exists": true,
+        "audioPath": "episodes/ep11/audio/ep11_solutions_1.wav",
+        "text": "Morgan also coordinated a rescue of the New York Stock Exchange, which was about to close for lack of funds on October 24th. He gathered twenty-five million dollars from the major banks in fifteen minutes and dispatched it to the exchange floor in time to prevent collapse.",
+        "duration": 433,
+        "bgImage": "bg_gold_bars.jpg",
+        "wordTimings": [
+          {
+            "word": "Morgan ",
+            "start": 0.1,
+            "end": 0.48
+          },
+          {
+            "word": "also ",
+            "start": 0.491,
+            "end": 0.763
+          },
+          {
+            "word": "coordinated ",
+            "start": 0.773,
+            "end": 1.371
+          },
+          {
+            "word": "a ",
+            "start": 1.382,
+            "end": 1.415
+          },
+          {
+            "word": "rescue ",
+            "start": 1.426,
+            "end": 1.828
+          },
+          {
+            "word": "of ",
+            "start": 1.839,
+            "end": 1.893
+          },
+          {
+            "word": "the ",
+            "start": 1.904,
+            "end": 1.98
+          },
+          {
+            "word": "New ",
+            "start": 1.991,
+            "end": 2.165
+          },
+          {
+            "word": "York ",
+            "start": 2.176,
+            "end": 2.415
+          },
+          {
+            "word": "Stock ",
+            "start": 2.426,
+            "end": 2.676
+          },
+          {
+            "word": "Exchange, ",
+            "start": 2.686,
+            "end": 3.219
+          },
+          {
+            "word": "which ",
+            "start": 3.404,
+            "end": 3.534
+          },
+          {
+            "word": "was ",
+            "start": 3.545,
+            "end": 3.676
+          },
+          {
+            "word": "about ",
+            "start": 3.686,
+            "end": 3.926
+          },
+          {
+            "word": "to ",
+            "start": 3.936,
+            "end": 4.002
+          },
+          {
+            "word": "close ",
+            "start": 4.013,
+            "end": 4.317
+          },
+          {
+            "word": "for ",
+            "start": 4.328,
+            "end": 4.404
+          },
+          {
+            "word": "lack ",
+            "start": 4.415,
+            "end": 4.61
+          },
+          {
+            "word": "of ",
+            "start": 4.621,
+            "end": 4.697
+          },
+          {
+            "word": "funds ",
+            "start": 4.708,
+            "end": 5.023
+          },
+          {
+            "word": "on ",
+            "start": 5.034,
+            "end": 5.154
+          },
+          {
+            "word": "October 24th. ",
+            "start": 5.165,
+            "end": 6.339
+          },
+          {
+            "word": "He ",
+            "start": 7.082,
+            "end": 7.223
+          },
+          {
+            "word": "gathered ",
+            "start": 7.234,
+            "end": 7.495
+          },
+          {
+            "word": "twenty-five ",
+            "start": 7.506,
+            "end": 8.028
+          },
+          {
+            "word": "million ",
+            "start": 8.039,
+            "end": 8.376
+          },
+          {
+            "word": "dollars ",
+            "start": 8.386,
+            "end": 8.702
+          },
+          {
+            "word": "from ",
+            "start": 8.713,
+            "end": 8.832
+          },
+          {
+            "word": "the ",
+            "start": 8.843,
+            "end": 8.908
+          },
+          {
+            "word": "major ",
+            "start": 8.919,
+            "end": 9.223
+          },
+          {
+            "word": "banks ",
+            "start": 9.234,
+            "end": 9.495
+          },
+          {
+            "word": "in ",
+            "start": 9.506,
+            "end": 9.615
+          },
+          {
+            "word": "fifteen ",
+            "start": 9.626,
+            "end": 10.049
+          },
+          {
+            "word": "minutes ",
+            "start": 10.06,
+            "end": 10.343
+          },
+          {
+            "word": "and ",
+            "start": 10.354,
+            "end": 10.408
+          },
+          {
+            "word": "dispatched ",
+            "start": 10.419,
+            "end": 10.832
+          },
+          {
+            "word": "it ",
+            "start": 10.843,
+            "end": 10.941
+          },
+          {
+            "word": "to ",
+            "start": 10.952,
+            "end": 11.006
+          },
+          {
+            "word": "the ",
+            "start": 11.017,
+            "end": 11.147
+          },
+          {
+            "word": "exchange ",
+            "start": 11.158,
+            "end": 11.571
+          },
+          {
+            "word": "floor ",
+            "start": 11.582,
+            "end": 11.832
+          },
+          {
+            "word": "in ",
+            "start": 11.843,
+            "end": 11.973
+          },
+          {
+            "word": "time ",
+            "start": 11.984,
+            "end": 12.289
+          },
+          {
+            "word": "to ",
+            "start": 12.3,
+            "end": 12.376
+          },
+          {
+            "word": "prevent ",
+            "start": 12.386,
+            "end": 12.723
+          },
+          {
+            "word": "collapse.",
+            "start": 12.734,
+            "end": 13.256
+          }
+        ],
+        "start": 668
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep11_solutions_2",
+        "audio_exists": true,
+        "audioPath": "episodes/ep11/audio/ep11_solutions_2.wav",
+        "text": "Secretary of the Treasury George Cortelyou deposited twenty-five million dollars of government funds in New York banks, providing additional liquidity. This was improvisation — there was no legal framework for systematic intervention.",
+        "duration": 388,
+        "bgImage": "bg_wallstreet.jpg",
+        "wordTimings": [
+          {
+            "word": "Secretary ",
+            "start": 0.1,
+            "end": 0.632
+          },
+          {
+            "word": "of ",
+            "start": 0.643,
+            "end": 0.708
+          },
+          {
+            "word": "the ",
+            "start": 0.719,
+            "end": 0.795
+          },
+          {
+            "word": "Treasury ",
+            "start": 0.806,
+            "end": 1.176
+          },
+          {
+            "word": "George ",
+            "start": 1.186,
+            "end": 1.545
+          },
+          {
+            "word": "Cortelyou ",
+            "start": 1.556,
+            "end": 2.013
+          },
+          {
+            "word": "deposited ",
+            "start": 2.023,
+            "end": 2.523
+          },
+          {
+            "word": "twenty-five ",
+            "start": 2.534,
+            "end": 3.078
+          },
+          {
+            "word": "million ",
+            "start": 3.089,
+            "end": 3.458
+          },
+          {
+            "word": "dollars ",
+            "start": 3.469,
+            "end": 3.752
+          },
+          {
+            "word": "of ",
+            "start": 3.763,
+            "end": 3.849
+          },
+          {
+            "word": "government ",
+            "start": 3.86,
+            "end": 4.197
+          },
+          {
+            "word": "funds ",
+            "start": 4.208,
+            "end": 4.502
+          },
+          {
+            "word": "in ",
+            "start": 4.513,
+            "end": 4.632
+          },
+          {
+            "word": "New ",
+            "start": 4.643,
+            "end": 4.806
+          },
+          {
+            "word": "York ",
+            "start": 4.817,
+            "end": 5.11
+          },
+          {
+            "word": "banks, ",
+            "start": 5.121,
+            "end": 5.513
+          },
+          {
+            "word": "providing ",
+            "start": 5.697,
+            "end": 6.099
+          },
+          {
+            "word": "additional ",
+            "start": 6.11,
+            "end": 6.534
+          },
+          {
+            "word": "liquidity. ",
+            "start": 6.545,
+            "end": 7.045
+          },
+          {
+            "word": "This ",
+            "start": 7.789,
+            "end": 8.028
+          },
+          {
+            "word": "was ",
+            "start": 8.039,
+            "end": 8.158
+          },
+          {
+            "word": "improvisation — ",
+            "start": 8.169,
+            "end": 8.963
+          },
+          {
+            "word": "there ",
+            "start": 9.147,
+            "end": 9.223
+          },
+          {
+            "word": "was ",
+            "start": 9.234,
+            "end": 9.408
+          },
+          {
+            "word": "no ",
+            "start": 9.419,
+            "end": 9.604
+          },
+          {
+            "word": "legal ",
+            "start": 9.615,
+            "end": 9.963
+          },
+          {
+            "word": "framework ",
+            "start": 9.973,
+            "end": 10.463
+          },
+          {
+            "word": "for ",
+            "start": 10.473,
+            "end": 10.571
+          },
+          {
+            "word": "systematic ",
+            "start": 10.582,
+            "end": 11.136
+          },
+          {
+            "word": "intervention.",
+            "start": 11.147,
+            "end": 11.756
+          }
+        ],
+        "start": 1101
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep11_solutions_3",
+        "audio_exists": true,
+        "audioPath": "episodes/ep11/audio/ep11_solutions_3.wav",
+        "text": "The crisis was contained, but the lesson was clear to Congress. No modern economy could depend on the personal authority and fortune of a single banker. The Aldrich-Vreeland Act of 1908 authorized emergency currency issuance and created the National Monetary Commission to study central banking.",
+        "duration": 492,
+        "bgImage": "bg_city_night.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.219
+          },
+          {
+            "word": "crisis ",
+            "start": 0.23,
+            "end": 0.632
+          },
+          {
+            "word": "was ",
+            "start": 0.643,
+            "end": 0.773
+          },
+          {
+            "word": "contained, ",
+            "start": 0.784,
+            "end": 1.317
+          },
+          {
+            "word": "but ",
+            "start": 1.436,
+            "end": 1.534
+          },
+          {
+            "word": "the ",
+            "start": 1.545,
+            "end": 1.61
+          },
+          {
+            "word": "lesson ",
+            "start": 1.621,
+            "end": 1.947
+          },
+          {
+            "word": "was ",
+            "start": 1.958,
+            "end": 2.078
+          },
+          {
+            "word": "clear ",
+            "start": 2.089,
+            "end": 2.382
+          },
+          {
+            "word": "to ",
+            "start": 2.393,
+            "end": 2.469
+          },
+          {
+            "word": "Congress. ",
+            "start": 2.48,
+            "end": 3.099
+          },
+          {
+            "word": "No ",
+            "start": 3.843,
+            "end": 4.104
+          },
+          {
+            "word": "modern ",
+            "start": 4.115,
+            "end": 4.376
+          },
+          {
+            "word": "economy ",
+            "start": 4.386,
+            "end": 4.756
+          },
+          {
+            "word": "could ",
+            "start": 4.767,
+            "end": 4.897
+          },
+          {
+            "word": "depend ",
+            "start": 4.908,
+            "end": 5.223
+          },
+          {
+            "word": "on ",
+            "start": 5.234,
+            "end": 5.31
+          },
+          {
+            "word": "the ",
+            "start": 5.321,
+            "end": 5.386
+          },
+          {
+            "word": "personal ",
+            "start": 5.397,
+            "end": 5.789
+          },
+          {
+            "word": "authority ",
+            "start": 5.8,
+            "end": 6.3
+          },
+          {
+            "word": "and ",
+            "start": 6.31,
+            "end": 6.43
+          },
+          {
+            "word": "fortune ",
+            "start": 6.441,
+            "end": 6.886
+          },
+          {
+            "word": "of ",
+            "start": 6.897,
+            "end": 6.963
+          },
+          {
+            "word": "a ",
+            "start": 6.973,
+            "end": 7.028
+          },
+          {
+            "word": "single ",
+            "start": 7.039,
+            "end": 7.365
+          },
+          {
+            "word": "banker. ",
+            "start": 7.376,
+            "end": 7.778
+          },
+          {
+            "word": "The ",
+            "start": 8.528,
+            "end": 8.669
+          },
+          {
+            "word": "Aldrich-Vreeland ",
+            "start": 8.68,
+            "end": 9.386
+          },
+          {
+            "word": "Act ",
+            "start": 9.397,
+            "end": 9.571
+          },
+          {
+            "word": "of ",
+            "start": 9.582,
+            "end": 9.658
+          },
+          {
+            "word": "1908 ",
+            "start": 9.669,
+            "end": 10.539
+          },
+          {
+            "word": "authorized ",
+            "start": 10.55,
+            "end": 11.017
+          },
+          {
+            "word": "emergency ",
+            "start": 11.028,
+            "end": 11.506
+          },
+          {
+            "word": "currency ",
+            "start": 11.517,
+            "end": 11.897
+          },
+          {
+            "word": "issuance ",
+            "start": 11.908,
+            "end": 12.299
+          },
+          {
+            "word": "and ",
+            "start": 12.31,
+            "end": 12.397
+          },
+          {
+            "word": "created ",
+            "start": 12.408,
+            "end": 12.789
+          },
+          {
+            "word": "the ",
+            "start": 12.8,
+            "end": 12.865
+          },
+          {
+            "word": "National ",
+            "start": 12.876,
+            "end": 13.245
+          },
+          {
+            "word": "Monetary ",
+            "start": 13.256,
+            "end": 13.615
+          },
+          {
+            "word": "Commission ",
+            "start": 13.626,
+            "end": 14.006
+          },
+          {
+            "word": "to ",
+            "start": 14.017,
+            "end": 14.115
+          },
+          {
+            "word": "study ",
+            "start": 14.126,
+            "end": 14.408
+          },
+          {
+            "word": "central ",
+            "start": 14.419,
+            "end": 14.778
+          },
+          {
+            "word": "banking.",
+            "start": 14.789,
+            "end": 15.223
+          }
+        ],
+        "start": 1489
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep11_solutions_4",
+        "audio_exists": true,
+        "audioPath": "episodes/ep11/audio/ep11_solutions_4.wav",
+        "text": "The commission's work, and the secret Jekyll Island conference of 1910, produced the blueprint for the Federal Reserve System. The Federal Reserve Act passed in December 1913.",
+        "duration": 321,
+        "bgImage": "bg_fed_building.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "commission's ",
+            "start": 0.241,
+            "end": 0.665
+          },
+          {
+            "word": "work, ",
+            "start": 0.676,
+            "end": 0.991
+          },
+          {
+            "word": "and ",
+            "start": 1.176,
+            "end": 1.252
+          },
+          {
+            "word": "the ",
+            "start": 1.263,
+            "end": 1.339
+          },
+          {
+            "word": "secret ",
+            "start": 1.35,
+            "end": 1.676
+          },
+          {
+            "word": "Jekyll ",
+            "start": 1.686,
+            "end": 2.013
+          },
+          {
+            "word": "Island ",
+            "start": 2.023,
+            "end": 2.317
+          },
+          {
+            "word": "conference ",
+            "start": 2.328,
+            "end": 2.697
+          },
+          {
+            "word": "of ",
+            "start": 2.708,
+            "end": 2.795
+          },
+          {
+            "word": "1910, ",
+            "start": 2.806,
+            "end": 3.556
+          },
+          {
+            "word": "produced ",
+            "start": 3.73,
+            "end": 4.089
+          },
+          {
+            "word": "the ",
+            "start": 4.1,
+            "end": 4.176
+          },
+          {
+            "word": "blueprint ",
+            "start": 4.186,
+            "end": 4.621
+          },
+          {
+            "word": "for ",
+            "start": 4.632,
+            "end": 4.708
+          },
+          {
+            "word": "the ",
+            "start": 4.719,
+            "end": 4.795
+          },
+          {
+            "word": "Federal ",
+            "start": 4.806,
+            "end": 5.165
+          },
+          {
+            "word": "Reserve ",
+            "start": 5.176,
+            "end": 5.523
+          },
+          {
+            "word": "System. ",
+            "start": 5.534,
+            "end": 5.958
+          },
+          {
+            "word": "The ",
+            "start": 6.702,
+            "end": 6.832
+          },
+          {
+            "word": "Federal ",
+            "start": 6.843,
+            "end": 7.202
+          },
+          {
+            "word": "Reserve ",
+            "start": 7.213,
+            "end": 7.549
+          },
+          {
+            "word": "Act ",
+            "start": 7.56,
+            "end": 7.756
+          },
+          {
+            "word": "passed ",
+            "start": 7.767,
+            "end": 8.06
+          },
+          {
+            "word": "in ",
+            "start": 8.071,
+            "end": 8.147
+          },
+          {
+            "word": "December 1913.",
+            "start": 8.158,
+            "end": 9.539
+          }
+        ],
+        "start": 1981
+      }
+    ]
+  },
+  {
+    "id": "ep11_results",
+    "title": "Results",
+    "globalStart": 7516,
+    "duration": 2647,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Results"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep11_results_0",
+        "audio_exists": true,
+        "audioPath": "episodes/ep11/audio/ep11_results_0.wav",
+        "text": "The Panic of 1907 lasted six weeks. The American economy contracted sharply in 1907 and 1908, with unemployment rising to eight percent. But recovery came relatively quickly, aided by the limited scope of bank failures compared to later crises.",
+        "duration": 479,
+        "bgImage": "bg_fed_building.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.252
+          },
+          {
+            "word": "Panic ",
+            "start": 0.263,
+            "end": 0.502
+          },
+          {
+            "word": "of ",
+            "start": 0.513,
+            "end": 0.599
+          },
+          {
+            "word": "1907 ",
+            "start": 0.61,
+            "end": 1.458
+          },
+          {
+            "word": "lasted ",
+            "start": 1.469,
+            "end": 1.806
+          },
+          {
+            "word": "six ",
+            "start": 1.817,
+            "end": 2.056
+          },
+          {
+            "word": "weeks. ",
+            "start": 2.067,
+            "end": 2.491
+          },
+          {
+            "word": "The ",
+            "start": 3.234,
+            "end": 3.408
+          },
+          {
+            "word": "American ",
+            "start": 3.419,
+            "end": 3.789
+          },
+          {
+            "word": "economy ",
+            "start": 3.8,
+            "end": 4.136
+          },
+          {
+            "word": "contracted ",
+            "start": 4.147,
+            "end": 4.626
+          },
+          {
+            "word": "sharply ",
+            "start": 4.636,
+            "end": 5.017
+          },
+          {
+            "word": "in 1907 and 1908, ",
+            "start": 5.028,
+            "end": 6.963
+          },
+          {
+            "word": "with ",
+            "start": 7.071,
+            "end": 7.18
+          },
+          {
+            "word": "unemployment ",
+            "start": 7.191,
+            "end": 7.81
+          },
+          {
+            "word": "rising ",
+            "start": 7.821,
+            "end": 8.147
+          },
+          {
+            "word": "to ",
+            "start": 8.158,
+            "end": 8.256
+          },
+          {
+            "word": "eight ",
+            "start": 8.267,
+            "end": 8.441
+          },
+          {
+            "word": "percent. ",
+            "start": 8.452,
+            "end": 8.93
+          },
+          {
+            "word": "But ",
+            "start": 9.68,
+            "end": 9.832
+          },
+          {
+            "word": "recovery ",
+            "start": 9.843,
+            "end": 10.234
+          },
+          {
+            "word": "came ",
+            "start": 10.245,
+            "end": 10.473
+          },
+          {
+            "word": "relatively ",
+            "start": 10.484,
+            "end": 10.919
+          },
+          {
+            "word": "quickly, ",
+            "start": 10.93,
+            "end": 11.289
+          },
+          {
+            "word": "aided ",
+            "start": 11.473,
+            "end": 11.713
+          },
+          {
+            "word": "by ",
+            "start": 11.723,
+            "end": 11.832
+          },
+          {
+            "word": "the ",
+            "start": 11.843,
+            "end": 11.93
+          },
+          {
+            "word": "limited ",
+            "start": 11.941,
+            "end": 12.299
+          },
+          {
+            "word": "scope ",
+            "start": 12.31,
+            "end": 12.582
+          },
+          {
+            "word": "of ",
+            "start": 12.593,
+            "end": 12.691
+          },
+          {
+            "word": "bank ",
+            "start": 12.702,
+            "end": 12.941
+          },
+          {
+            "word": "failures ",
+            "start": 12.952,
+            "end": 13.354
+          },
+          {
+            "word": "compared ",
+            "start": 13.365,
+            "end": 13.756
+          },
+          {
+            "word": "to ",
+            "start": 13.767,
+            "end": 13.843
+          },
+          {
+            "word": "later ",
+            "start": 13.854,
+            "end": 14.115
+          },
+          {
+            "word": "crises.",
+            "start": 14.126,
+            "end": 14.799
+          }
+        ],
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep11_results_1",
+        "audio_exists": true,
+        "audioPath": "episodes/ep11/audio/ep11_results_1.wav",
+        "text": "The lasting result was institutional: the Federal Reserve System, established six years later, was the direct product of the 1907 crisis. The United States finally had a central bank capable of acting as lender of last resort.",
+        "duration": 397,
+        "bgImage": "bg_recovery.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "lasting ",
+            "start": 0.241,
+            "end": 0.61
+          },
+          {
+            "word": "result ",
+            "start": 0.621,
+            "end": 0.926
+          },
+          {
+            "word": "was ",
+            "start": 0.936,
+            "end": 1.045
+          },
+          {
+            "word": "institutional: ",
+            "start": 1.056,
+            "end": 1.763
+          },
+          {
+            "word": "the ",
+            "start": 1.936,
+            "end": 2.013
+          },
+          {
+            "word": "Federal ",
+            "start": 2.023,
+            "end": 2.36
+          },
+          {
+            "word": "Reserve ",
+            "start": 2.371,
+            "end": 2.719
+          },
+          {
+            "word": "System, ",
+            "start": 2.73,
+            "end": 3.099
+          },
+          {
+            "word": "established ",
+            "start": 3.252,
+            "end": 3.719
+          },
+          {
+            "word": "six ",
+            "start": 3.73,
+            "end": 3.958
+          },
+          {
+            "word": "years ",
+            "start": 3.969,
+            "end": 4.186
+          },
+          {
+            "word": "later, ",
+            "start": 4.197,
+            "end": 4.513
+          },
+          {
+            "word": "was ",
+            "start": 4.697,
+            "end": 4.817
+          },
+          {
+            "word": "the ",
+            "start": 4.828,
+            "end": 4.915
+          },
+          {
+            "word": "direct ",
+            "start": 4.926,
+            "end": 5.252
+          },
+          {
+            "word": "product ",
+            "start": 5.263,
+            "end": 5.599
+          },
+          {
+            "word": "of ",
+            "start": 5.61,
+            "end": 5.676
+          },
+          {
+            "word": "the ",
+            "start": 5.686,
+            "end": 5.752
+          },
+          {
+            "word": "1907 ",
+            "start": 5.763,
+            "end": 6.654
+          },
+          {
+            "word": "crisis. ",
+            "start": 6.665,
+            "end": 7.241
+          },
+          {
+            "word": "The ",
+            "start": 7.984,
+            "end": 8.093
+          },
+          {
+            "word": "United ",
+            "start": 8.104,
+            "end": 8.506
+          },
+          {
+            "word": "States ",
+            "start": 8.517,
+            "end": 8.8
+          },
+          {
+            "word": "finally ",
+            "start": 8.81,
+            "end": 9.169
+          },
+          {
+            "word": "had ",
+            "start": 9.18,
+            "end": 9.343
+          },
+          {
+            "word": "a ",
+            "start": 9.354,
+            "end": 9.408
+          },
+          {
+            "word": "central ",
+            "start": 9.419,
+            "end": 9.799
+          },
+          {
+            "word": "bank ",
+            "start": 9.81,
+            "end": 10.039
+          },
+          {
+            "word": "capable ",
+            "start": 10.05,
+            "end": 10.419
+          },
+          {
+            "word": "of ",
+            "start": 10.43,
+            "end": 10.495
+          },
+          {
+            "word": "acting ",
+            "start": 10.506,
+            "end": 10.843
+          },
+          {
+            "word": "as ",
+            "start": 10.854,
+            "end": 10.963
+          },
+          {
+            "word": "lender ",
+            "start": 10.973,
+            "end": 11.256
+          },
+          {
+            "word": "of ",
+            "start": 11.267,
+            "end": 11.332
+          },
+          {
+            "word": "last ",
+            "start": 11.343,
+            "end": 11.593
+          },
+          {
+            "word": "resort.",
+            "start": 11.604,
+            "end": 12.049
+          }
+        ],
+        "start": 569
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep11_results_2",
+        "audio_exists": true,
+        "audioPath": "episodes/ep11/audio/ep11_results_2.wav",
+        "text": "The crisis also demonstrated the systemic risk posed by lightly regulated shadow banks. Trust companies had grown by exploiting regulatory gaps. The Panic revealed that deposit-taking institutions outside the regulated banking system posed risks to the entire financial system — a lesson that would need to be relearned in 2008.",
+        "duration": 562,
+        "bgImage": "bg_wallstreet.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.219
+          },
+          {
+            "word": "crisis ",
+            "start": 0.23,
+            "end": 0.621
+          },
+          {
+            "word": "also ",
+            "start": 0.632,
+            "end": 0.947
+          },
+          {
+            "word": "demonstrated ",
+            "start": 0.958,
+            "end": 1.523
+          },
+          {
+            "word": "the ",
+            "start": 1.534,
+            "end": 1.599
+          },
+          {
+            "word": "systemic ",
+            "start": 1.61,
+            "end": 2.056
+          },
+          {
+            "word": "risk ",
+            "start": 2.067,
+            "end": 2.35
+          },
+          {
+            "word": "posed ",
+            "start": 2.36,
+            "end": 2.697
+          },
+          {
+            "word": "by ",
+            "start": 2.708,
+            "end": 2.817
+          },
+          {
+            "word": "lightly ",
+            "start": 2.828,
+            "end": 3.165
+          },
+          {
+            "word": "regulated ",
+            "start": 3.176,
+            "end": 3.697
+          },
+          {
+            "word": "shadow ",
+            "start": 3.708,
+            "end": 4.002
+          },
+          {
+            "word": "banks. ",
+            "start": 4.013,
+            "end": 4.48
+          },
+          {
+            "word": "Trust ",
+            "start": 5.223,
+            "end": 5.506
+          },
+          {
+            "word": "companies ",
+            "start": 5.517,
+            "end": 5.908
+          },
+          {
+            "word": "had ",
+            "start": 5.919,
+            "end": 6.039
+          },
+          {
+            "word": "grown ",
+            "start": 6.05,
+            "end": 6.332
+          },
+          {
+            "word": "by ",
+            "start": 6.343,
+            "end": 6.495
+          },
+          {
+            "word": "exploiting ",
+            "start": 6.506,
+            "end": 7.049
+          },
+          {
+            "word": "regulatory ",
+            "start": 7.06,
+            "end": 7.604
+          },
+          {
+            "word": "gaps. ",
+            "start": 7.615,
+            "end": 8.071
+          },
+          {
+            "word": "The ",
+            "start": 8.821,
+            "end": 8.952
+          },
+          {
+            "word": "Panic ",
+            "start": 8.963,
+            "end": 9.223
+          },
+          {
+            "word": "revealed ",
+            "start": 9.234,
+            "end": 9.571
+          },
+          {
+            "word": "that ",
+            "start": 9.582,
+            "end": 9.691
+          },
+          {
+            "word": "deposit-taking ",
+            "start": 9.702,
+            "end": 10.365
+          },
+          {
+            "word": "institutions ",
+            "start": 10.376,
+            "end": 11.006
+          },
+          {
+            "word": "outside ",
+            "start": 11.017,
+            "end": 11.441
+          },
+          {
+            "word": "the ",
+            "start": 11.452,
+            "end": 11.517
+          },
+          {
+            "word": "regulated ",
+            "start": 11.528,
+            "end": 12.028
+          },
+          {
+            "word": "banking ",
+            "start": 12.039,
+            "end": 12.365
+          },
+          {
+            "word": "system ",
+            "start": 12.376,
+            "end": 12.723
+          },
+          {
+            "word": "posed ",
+            "start": 12.734,
+            "end": 13.071
+          },
+          {
+            "word": "risks ",
+            "start": 13.082,
+            "end": 13.408
+          },
+          {
+            "word": "to ",
+            "start": 13.419,
+            "end": 13.495
+          },
+          {
+            "word": "the ",
+            "start": 13.506,
+            "end": 13.604
+          },
+          {
+            "word": "entire ",
+            "start": 13.615,
+            "end": 14.006
+          },
+          {
+            "word": "financial ",
+            "start": 14.017,
+            "end": 14.506
+          },
+          {
+            "word": "system — ",
+            "start": 14.517,
+            "end": 14.897
+          },
+          {
+            "word": "a ",
+            "start": 15.093,
+            "end": 15.126
+          },
+          {
+            "word": "lesson ",
+            "start": 15.136,
+            "end": 15.419
+          },
+          {
+            "word": "that ",
+            "start": 15.43,
+            "end": 15.549
+          },
+          {
+            "word": "would ",
+            "start": 15.56,
+            "end": 15.669
+          },
+          {
+            "word": "need ",
+            "start": 15.68,
+            "end": 15.843
+          },
+          {
+            "word": "to ",
+            "start": 15.854,
+            "end": 15.897
+          },
+          {
+            "word": "be ",
+            "start": 15.908,
+            "end": 15.995
+          },
+          {
+            "word": "relearned ",
+            "start": 16.006,
+            "end": 16.452
+          },
+          {
+            "word": "in 2008.",
+            "start": 16.463,
+            "end": 17.56
+          }
+        ],
+        "start": 966
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep11_results_3",
+        "audio_exists": true,
+        "audioPath": "episodes/ep11/audio/ep11_results_3.wav",
+        "text": "J.P. Morgan died in 1913, the year the Federal Reserve opened. The institution he had made necessary through his indispensability replaced him. One man's authority had substituted for institutional design for too long. The modern central bank was, in part, his memorial.",
+        "duration": 527,
+        "bgImage": "bg_city_night.jpg",
+        "wordTimings": [
+          {
+            "word": "J.P. ",
+            "start": 0.1,
+            "end": 0.513
+          },
+          {
+            "word": "Morgan ",
+            "start": 0.523,
+            "end": 0.839
+          },
+          {
+            "word": "died ",
+            "start": 0.85,
+            "end": 1.11
+          },
+          {
+            "word": "in 1913, ",
+            "start": 1.121,
+            "end": 2.165
+          },
+          {
+            "word": "the ",
+            "start": 2.339,
+            "end": 2.415
+          },
+          {
+            "word": "year ",
+            "start": 2.426,
+            "end": 2.643
+          },
+          {
+            "word": "the ",
+            "start": 2.654,
+            "end": 2.73
+          },
+          {
+            "word": "Federal ",
+            "start": 2.741,
+            "end": 3.078
+          },
+          {
+            "word": "Reserve ",
+            "start": 3.089,
+            "end": 3.426
+          },
+          {
+            "word": "opened. ",
+            "start": 3.436,
+            "end": 3.926
+          },
+          {
+            "word": "The ",
+            "start": 4.669,
+            "end": 4.81
+          },
+          {
+            "word": "institution ",
+            "start": 4.821,
+            "end": 5.419
+          },
+          {
+            "word": "he ",
+            "start": 5.43,
+            "end": 5.56
+          },
+          {
+            "word": "had ",
+            "start": 5.571,
+            "end": 5.702
+          },
+          {
+            "word": "made ",
+            "start": 5.713,
+            "end": 5.941
+          },
+          {
+            "word": "necessary ",
+            "start": 5.952,
+            "end": 6.473
+          },
+          {
+            "word": "through ",
+            "start": 6.484,
+            "end": 6.669
+          },
+          {
+            "word": "his ",
+            "start": 6.68,
+            "end": 6.832
+          },
+          {
+            "word": "indispensability ",
+            "start": 6.843,
+            "end": 7.636
+          },
+          {
+            "word": "replaced ",
+            "start": 7.647,
+            "end": 8.039
+          },
+          {
+            "word": "him. ",
+            "start": 8.05,
+            "end": 8.289
+          },
+          {
+            "word": "One ",
+            "start": 9.039,
+            "end": 9.321
+          },
+          {
+            "word": "man's ",
+            "start": 9.332,
+            "end": 9.571
+          },
+          {
+            "word": "authority ",
+            "start": 9.582,
+            "end": 10.071
+          },
+          {
+            "word": "had ",
+            "start": 10.082,
+            "end": 10.234
+          },
+          {
+            "word": "substituted ",
+            "start": 10.245,
+            "end": 10.876
+          },
+          {
+            "word": "for ",
+            "start": 10.886,
+            "end": 10.984
+          },
+          {
+            "word": "institutional ",
+            "start": 10.995,
+            "end": 11.669
+          },
+          {
+            "word": "design ",
+            "start": 11.68,
+            "end": 12.049
+          },
+          {
+            "word": "for ",
+            "start": 12.06,
+            "end": 12.169
+          },
+          {
+            "word": "too ",
+            "start": 12.18,
+            "end": 12.408
+          },
+          {
+            "word": "long. ",
+            "start": 12.419,
+            "end": 12.832
+          },
+          {
+            "word": "The ",
+            "start": 13.582,
+            "end": 13.723
+          },
+          {
+            "word": "modern ",
+            "start": 13.734,
+            "end": 13.995
+          },
+          {
+            "word": "central ",
+            "start": 14.006,
+            "end": 14.354
+          },
+          {
+            "word": "bank ",
+            "start": 14.365,
+            "end": 14.593
+          },
+          {
+            "word": "was, ",
+            "start": 14.604,
+            "end": 14.789
+          },
+          {
+            "word": "in ",
+            "start": 14.963,
+            "end": 15.071
+          },
+          {
+            "word": "part, ",
+            "start": 15.082,
+            "end": 15.463
+          },
+          {
+            "word": "his ",
+            "start": 15.691,
+            "end": 15.799
+          },
+          {
+            "word": "memorial.",
+            "start": 15.81,
+            "end": 16.386
+          }
+        ],
+        "start": 1528
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep11_results_4",
+        "audio_exists": true,
+        "audioPath": "episodes/ep11/audio/ep11_results_4.wav",
+        "text": "The Panic of 1907 was, in one sense, the American counterpart to the Long Depression of 1873 (Episode 2): both crises exposed the absence of stabilising institutions that modern economies require. The 1907 crisis exposed it more dramatically, because it had a face — Morgan's — and a resolution that demanded an institutional replacement.",
+        "duration": 592,
+        "bgImage": "bg_fed_building.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "Panic ",
+            "start": 0.241,
+            "end": 0.48
+          },
+          {
+            "word": "of ",
+            "start": 0.491,
+            "end": 0.578
+          },
+          {
+            "word": "1907 ",
+            "start": 0.589,
+            "end": 1.404
+          },
+          {
+            "word": "was, ",
+            "start": 1.415,
+            "end": 1.632
+          },
+          {
+            "word": "in ",
+            "start": 1.806,
+            "end": 1.904
+          },
+          {
+            "word": "one ",
+            "start": 1.915,
+            "end": 2.165
+          },
+          {
+            "word": "sense, ",
+            "start": 2.176,
+            "end": 2.556
+          },
+          {
+            "word": "the ",
+            "start": 2.752,
+            "end": 2.849
+          },
+          {
+            "word": "American ",
+            "start": 2.86,
+            "end": 3.263
+          },
+          {
+            "word": "counterpart ",
+            "start": 3.273,
+            "end": 3.773
+          },
+          {
+            "word": "to ",
+            "start": 3.784,
+            "end": 3.839
+          },
+          {
+            "word": "the ",
+            "start": 3.85,
+            "end": 3.926
+          },
+          {
+            "word": "Long ",
+            "start": 3.936,
+            "end": 4.11
+          },
+          {
+            "word": "Depression ",
+            "start": 4.121,
+            "end": 4.523
+          },
+          {
+            "word": "of ",
+            "start": 4.534,
+            "end": 4.61
+          },
+          {
+            "word": "1873 (",
+            "start": 4.621,
+            "end": 5.589
+          },
+          {
+            "word": "Episode ",
+            "start": 5.763,
+            "end": 6.154
+          },
+          {
+            "word": "2): ",
+            "start": 6.165,
+            "end": 6.382
+          },
+          {
+            "word": "both ",
+            "start": 6.393,
+            "end": 6.654
+          },
+          {
+            "word": "crises ",
+            "start": 6.665,
+            "end": 7.056
+          },
+          {
+            "word": "exposed ",
+            "start": 7.067,
+            "end": 7.513
+          },
+          {
+            "word": "the ",
+            "start": 7.523,
+            "end": 7.632
+          },
+          {
+            "word": "absence ",
+            "start": 7.643,
+            "end": 8.023
+          },
+          {
+            "word": "of ",
+            "start": 8.034,
+            "end": 8.11
+          },
+          {
+            "word": "stabilising ",
+            "start": 8.121,
+            "end": 8.741
+          },
+          {
+            "word": "institutions ",
+            "start": 8.752,
+            "end": 9.382
+          },
+          {
+            "word": "that ",
+            "start": 9.393,
+            "end": 9.513
+          },
+          {
+            "word": "modern ",
+            "start": 9.523,
+            "end": 9.73
+          },
+          {
+            "word": "economies ",
+            "start": 9.741,
+            "end": 10.165
+          },
+          {
+            "word": "require. ",
+            "start": 10.176,
+            "end": 10.708
+          },
+          {
+            "word": "The ",
+            "start": 11.452,
+            "end": 11.582
+          },
+          {
+            "word": "1907 ",
+            "start": 11.593,
+            "end": 12.452
+          },
+          {
+            "word": "crisis ",
+            "start": 12.463,
+            "end": 12.843
+          },
+          {
+            "word": "exposed ",
+            "start": 12.854,
+            "end": 13.267
+          },
+          {
+            "word": "it ",
+            "start": 13.278,
+            "end": 13.354
+          },
+          {
+            "word": "more ",
+            "start": 13.365,
+            "end": 13.517
+          },
+          {
+            "word": "dramatically, ",
+            "start": 13.528,
+            "end": 14.071
+          },
+          {
+            "word": "because ",
+            "start": 14.278,
+            "end": 14.473
+          },
+          {
+            "word": "it ",
+            "start": 14.484,
+            "end": 14.56
+          },
+          {
+            "word": "had ",
+            "start": 14.571,
+            "end": 14.691
+          },
+          {
+            "word": "a ",
+            "start": 14.702,
+            "end": 14.745
+          },
+          {
+            "word": "face — ",
+            "start": 14.756,
+            "end": 15.115
+          },
+          {
+            "word": "Morgan's — ",
+            "start": 15.278,
+            "end": 15.789
+          },
+          {
+            "word": "and ",
+            "start": 15.995,
+            "end": 16.093
+          },
+          {
+            "word": "a ",
+            "start": 16.104,
+            "end": 16.147
+          },
+          {
+            "word": "resolution ",
+            "start": 16.158,
+            "end": 16.713
+          },
+          {
+            "word": "that ",
+            "start": 16.723,
+            "end": 16.821
+          },
+          {
+            "word": "demanded ",
+            "start": 16.832,
+            "end": 17.191
+          },
+          {
+            "word": "an ",
+            "start": 17.202,
+            "end": 17.278
+          },
+          {
+            "word": "institutional ",
+            "start": 17.289,
+            "end": 17.941
+          },
+          {
+            "word": "replacement.",
+            "start": 17.952,
+            "end": 18.56
+          }
+        ],
+        "start": 2055
+      }
+    ]
+  },
+  {
+    "id": "credits",
+    "title": "Credits",
+    "globalStart": 10163,
+    "duration": 440,
+    "subSlides": [
+      {
+        "type": "credits",
+        "start": 0,
+        "duration": 440,
+        "audioSrc": "audio/outro_narration.wav"
+      }
+    ]
+  }
+]

@@ -1,0 +1,33 @@
+# The Event
+
+## The Day the Prestigious House Fell
+
+On September 18, 1873, Jay Cooke and Company — the most prestigious banking house in the United States, the institution that had financed the Union's Civil War by selling government bonds to ordinary Americans for the first time in history — declared bankruptcy. The announcement was made at 11 in the morning. Within hours, the New York Stock Exchange suspended trading. It would remain closed for ten days, the longest closure in its history up to that point.
+
+In the weeks that followed, eighteen thousand businesses failed. Fifty-five of the country's railroads entered bankruptcy. Factory construction halted across the industrial Northeast. In what had been the boom regions of the Midwest, land prices collapsed and the farmers who had borrowed to buy equipment at peak prices found themselves trapped. The Long Depression had begun — though that name would only be applied retrospectively, once the 1930s crisis displaced it as history's primary reference point for economic catastrophe.
+
+The depression that followed was not a sharp crash followed by recovery. It was something more unsettling: a prolonged period of deflation and stagnation that persisted, in various forms, until 1896. For twenty-three years, the American economy lurched through cycles of partial recovery and renewed contraction, while prices fell continuously. The experience was so novel and so disorienting that contemporaries spent the entire period arguing about its causes and remedies without reaching agreement.
+
+## The Railroad Overexpansion
+
+Jay Cooke's failure was symptomatic rather than causal. The underlying problem was the transcontinental railroad boom that had consumed American capital — and European investment — throughout the 1860s and early 1870s. The railroads were genuinely transformative technology. By connecting agricultural regions to coastal markets, they created the first truly national American economy. The returns to successful railroad lines were real and substantial.
+
+But the capital markets of the early 1870s had no reliable mechanism for distinguishing promising railroad projects from fraudulent ones, or for pricing the risk that a given line might not generate sufficient traffic to service its bonds. Jay Cooke's firm was financing the Northern Pacific Railroad — a project more ambitious than anything yet attempted, spanning the northern tier of the continent from Duluth to Portland — when it simply ran out of buyers for the bonds at any price. The market for Northern Pacific securities had been exhausted. The firm, which had guaranteed the bonds it could not sell, was insolvent.
+
+The collapse triggered a cascade because American financial institutions were deeply interconnected through chains of correspondent banking relationships. New York banks held the reserve deposits of banks across the interior. When interior banks needed cash, they withdrew from New York. When New York banks came under pressure, they contracted lending across the board. The system had no shock absorber, no central institution capable of providing liquidity to arrest the cascade.
+
+## The Global Dimension
+
+What made the Panic of 1873 distinctive — and what earned it the historical distinction of being described as the first global financial crisis — was its simultaneity across multiple continents. Austria-Hungary had experienced its own financial crisis in May 1873, the Gründerkrach, as the investment boom that had followed the Franco-Prussian War of 1870–71 collapsed. Germany, which had received five billion gold francs in war reparations from France, had channeled those funds into a frenzied overinvestment in railroads, industrial enterprises, and urban real estate. When the Austrian markets broke in May, German markets followed within weeks.
+
+The connection between the American and European crises was partly direct — European investors held American railroad bonds that fell sharply in value — and partly the product of a shared global context of credit expansion followed by tightening. The Bank of England had been raising interest rates through 1873 to defend sterling's gold convertibility. When credit tightened globally, the investments that had been made on the assumption of cheap, abundant capital became suddenly untenable.
+
+Britain also experienced a severe contraction in 1873, though its established industrial base and diversified economy meant the immediate disruption was less dramatic than in the United States or Central Europe. The distinctive British experience would be a sustained decline in prices and profit margins that persisted through the 1870s and 1880s — a deflation that British manufacturers and farmers felt acutely even when the headline crisis had passed.
+
+## The Nature of the Depression That Followed
+
+What followed was not what contemporaries called a "crisis" in the traditional sense — a sharp panic with a clear beginning and end. It was something economists had no framework to analyze: a prolonged depression in which prices fell continuously, business activity remained below potential, and the standard prescriptions of the era — balanced budgets, sound money, patience — produced no recovery.
+
+Wheat prices fell by half between 1873 and 1896. Steel prices collapsed as new, more efficient production methods flooded the market with cheaper product. Agricultural land values in the Midwest remained depressed for decades. The mechanization of agriculture and the industrialization of manufacturing simultaneously drove down costs and drove down the prices those lower costs could sustain. Deflation was chronic and pervasive.
+
+For twenty-three years, the industrial world struggled with a problem it did not have the intellectual tools to diagnose, let alone solve. The remedies that would eventually prove effective — active monetary policy, counter-cyclical fiscal policy, lender-of-last-resort intervention — did not yet exist as coherent concepts. Governments watched, applied the tools available to them, and waited for the economy to correct itself. The wait lasted more than two decades.

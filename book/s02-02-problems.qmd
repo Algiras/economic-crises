@@ -1,0 +1,35 @@
+# The Problems
+
+## The Gold Standard's Deflationary Logic
+
+The Long Depression's most fundamental structural problem was one that no government of the era could easily address: the gold standard was generating chronic deflation, and deflation was systematically destroying debtors while benefiting creditors and cash-holders.
+
+The gold standard worked by fixing the value of a currency to a specific weight of gold. Countries that lost gold — through trade deficits or capital outflows — saw their money supplies contract. Countries that gained gold saw their money supplies expand. In theory, this mechanism would automatically correct trade imbalances: a deficit country would deflate, making its goods cheaper and imports more expensive, restoring balance.
+
+In practice, through the 1870s, 1880s, and 1890s, the supply of gold grew more slowly than the world economy. New discoveries had not kept pace with the expansion of commerce. As economic output grew faster than the gold stock, prices fell persistently. This was not the sharp, crisis-driven deflation of a panic but the slow, grinding deflation of a monetary system whose supply constraint was too tight for a growing economy.
+
+The consequences for different economic groups were sharply divergent. For holders of cash and government bonds, falling prices increased purchasing power. For farmers and other debtors who had borrowed in dollars to buy land and equipment, falling prices were catastrophic. A farmer who borrowed one thousand dollars in 1873 when wheat sold at one dollar per bushel owed the equivalent of a thousand bushels of wheat. When wheat fell to fifty cents by the mid-1880s, that same nominal debt represented two thousand bushels. The real burden of debt doubled while revenues fell.
+
+## The Absence of Policy Tools
+
+Governments of the 1870s and 1880s had no macroeconomic policy toolkit. Keynesian demand management did not exist as a concept. Counter-cyclical fiscal policy — the idea that governments should increase spending during economic contractions to maintain demand — had not been theorized. The Federal Reserve did not yet exist; the United States had no central bank capable of managing the money supply in response to economic conditions.
+
+What governments did have was tariff policy and monetary debates. The United States, the United Kingdom, Germany, and France all experimented with tariffs as a response to the deflation. The McKinley Tariff of 1890 raised American import duties to an average of nearly fifty percent, the highest level since the Civil War. The logic was to protect domestic industry from foreign competition during the deflationary squeeze. The effect was to reduce trade and provoke retaliatory measures from trading partners, compressing the international exchange that was itself one of the period's few growth engines.
+
+Central banking, where it existed, focused entirely on the objective of maintaining gold convertibility. The Bank of England raised and lowered its discount rate to manage gold flows, with no reference to the broader macroeconomic environment. The fiscal policy of governments of all political complexions was to balance budgets — which meant cutting spending during contractions, removing demand precisely when more demand was needed. The standard policy prescription made the deflation worse.
+
+## The Political Rupture
+
+The deflation's most visible political consequence was the agrarian revolt in the United States — a movement that produced the Farmers' Alliance, the Greenback Party, and ultimately the People's Party (known as Populists), which became one of the most significant third-party movements in American political history. These movements had a coherent, if contested, economic analysis: the gold standard was deflationary, deflation was destroying agricultural debtors, and the solution was monetary expansion through the free coinage of silver at a fixed ratio to gold.
+
+The demand for "free silver" — the right of anyone to bring silver to the mint and have it coined as legal tender at a ratio of sixteen silver ounces to one gold ounce — was not irrational. The silver-to-gold price ratio in world markets had shifted since the ratio's establishment: silver had become cheaper relative to gold, meaning that minting silver freely would increase the money supply. Farmers understood, without the vocabulary of monetary economics, that they needed inflation to reduce the real burden of their debts.
+
+William Jennings Bryan's "Cross of Gold" speech at the 1896 Democratic National Convention was the political apotheosis of twenty years of deflation experienced by American farmers. "You shall not press down upon the brow of labor this crown of thorns," Bryan declared. "You shall not crucify mankind upon a cross of gold." The speech earned him the nomination. The election it produced — one of the most consequential in American history — would determine the monetary framework for the following generation.
+
+## The Overcapacity That Could Not Adjust
+
+The specific trigger of the 1873 crisis — railroad overbuilding — illustrated a recurring dynamic that governments were equally ill-equipped to manage: the tendency of transformative infrastructure investment to produce overcapacity. Railroads were genuinely valuable technology. The returns to railroad networks were real and visible. Individual decisions to invest in new railroad lines were, in each case, defensible.
+
+Collectively, however, they produced a system with far more capacity than traffic to justify it. When revenues fell short of debt service requirements, failures cascaded. The value of railroad bonds, held by banks and insurance companies and pension funds across two continents, collapsed. Capital that had been locked into excess railroad capacity could not be redeployed. The economy had to absorb the losses of overinvestment through a prolonged period of below-potential activity.
+
+No policy tool existed to prevent this pattern, and no policy tool existed to accelerate recovery from it. The overinvestment had to work itself through the system through time, bankruptcy, and the slow writing-down of assets to realistic values. Canals in the 1830s, railroads in the 1870s, and — though no one in 1880 could have predicted this — dot-coms in the 1990s would all trace essentially the same arc.

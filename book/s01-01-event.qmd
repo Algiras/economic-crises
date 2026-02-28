@@ -1,0 +1,29 @@
+# The Event
+
+## A Company Worth More Than a Nation
+
+In the summer of 1720, shares of the South Sea Company traded at one thousand pounds sterling — ten times their value eight months earlier. The company held a royal monopoly on trade with Spanish South America, a patent that sounded lucrative to an England hungry for the commercial riches that Spain's colonial empire had accumulated over two centuries. Thousands of investors, from aristocrats to members of Parliament to the mistresses of courtiers, crowded into the company's offices in Threadneedle Street to subscribe. Within eight weeks of reaching that peak, the shares had collapsed back to one hundred pounds. The fortunes of a generation evaporated.
+
+The South Sea Company had been created in 1711 not primarily as a trading enterprise but as a mechanism for managing Britain's national debt, which the War of the Spanish Succession had expanded to a threatening level. The company assumed responsibility for approximately ten million pounds of government obligations, receiving an annuity in return. The trade concessions it nominally held — the asiento, the right to supply enslaved Africans to Spanish colonies, and a single annual trading ship — were far less commercially valuable than its founders implied. The company's actual business was finance, not commerce.
+
+## The Scheme
+
+In 1720, the South Sea Company proposed an audacious extension of its original function. It would convert virtually all of Britain's remaining national debt — nearly thirty million pounds — into company shares. Debt holders would exchange their government bonds for South Sea stock at prices that were rising rapidly. The rising share price made the exchange attractive: investors receiving shares at current market values appeared to be profiting from the transaction.
+
+But the scheme contained a fatal circularity. It could only work if the share price kept rising. A rising share price attracted more buyers, which further inflated prices, which attracted still more buyers. To sustain this upward momentum, the company's directors deployed a series of manipulations: they used company capital to purchase their own shares on the open market; they bribed government ministers — including the Chancellor of the Exchequer, John Aislabie — with shares allocated at below-market prices; and they sold shares on credit, requiring only minimal down payments, ensuring that buyers who lacked capital could nonetheless participate and drive prices higher.
+
+The management also made deliberate representations to investors about the company's trading prospects that had no basis in commercial reality. No audit of South Sea Company operations was possible, because no mechanism for such inspection existed. Investors were buying claims on future profits they could not verify, from promoters whose interests were diametrically opposed to theirs.
+
+## The Mania and Its Satellites
+
+The South Sea Company's success unleashed a broader speculative frenzy. Dozens of other joint-stock companies appeared during the spring and summer of 1720, many of them equally fraudulent. Their prospectuses offered shares in enterprises to drain the Red Sea, to import jackasses from Spain, to manufacture a wheel of perpetual motion, to trade in hair, and to make square cannon balls. One prospectus, which became famous in subsequent retellings, offered shares in "an undertaking of great advantage, but nobody to know what it is." It raised two thousand pounds in a single morning before the promoter vanished from London.
+
+These satellite companies competed with the South Sea Company for the available capital of the investing public. The South Sea directors, alarmed that the satellites were diverting funds that might otherwise have flowed into their own shares, moved against them. In August 1720, they invoked the Bubble Act — legislation they had themselves promoted and that King George I had signed into law in June — which prohibited the formation of joint-stock companies without a royal charter. The act was meant to suppress the competitors.
+
+## The Collapse
+
+The enforcement of the Bubble Act against several satellite companies in August 1720 triggered the collapse it was designed to prevent. Investors who had borrowed against their satellite company holdings to buy South Sea shares were forced to sell as those companies were wound up. Selling pressure on South Sea stock began. The price, which had briefly touched one thousand pounds in late June, slid to eight hundred in August, then fell precipitously through September. By the end of October it stood at one hundred and fifty pounds. By the close of the year it was near one hundred pounds — where it had begun the year.
+
+The collapse ruined thousands. Aristocrats, Members of Parliament, tradesmen, and servants who had invested their savings or borrowed against their property found themselves insolvent. Isaac Newton — who had initially sold his South Sea shares at a profit in April, then bought back in as the price continued to rise — lost approximately twenty thousand pounds, a sum that represented a substantial portion of his wealth. He is reported to have said afterward that he could calculate the motions of the heavenly bodies but not the madness of people.
+
+The government faced political catastrophe. The investigation that followed would reveal that corruption reached to the highest levels of the state. The crisis demanded a response, and a remarkably capable political operator was about to provide one.

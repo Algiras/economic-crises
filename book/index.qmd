@@ -6,7 +6,7 @@ In 1928, the president of the New York Federal Reserve Bank declared that "the F
 
 These were not random failures of individual prediction. They were expressions of a structural problem with how economies are understood, managed, and communicated about. And they are the subject of this series.
 
-**Economic Crises Explained** is a documentary series and companion book that examines the six major economic crises of the past century — their causes, their human cost, the policy responses they triggered, and the lessons that were absorbed, partially absorbed, or ignored entirely.
+**Economic Crises Explained** is a documentary series and companion book that examines seventeen major economic crises spanning three centuries — their causes, their human cost, the policy responses they triggered, and the lessons that were absorbed, partially absorbed, or ignored entirely.
 
 Each episode follows the same structure: what happened, what the numbers show, what it did to people's lives, how it was resolved, and what — if anything — we learned. The emphasis throughout is on the quantifiable: the GDP collapses, the unemployment surges, the inequality shifts, the political consequences, and the sociological transformations that economic crises leave in their wake.
 
@@ -14,12 +14,23 @@ The series is not partisan. It is not prescriptive about which economic school h
 
 The crises covered are:
 
-1. **The Great Depression (1929–1939)** — the foundational catastrophe that redefined the relationship between governments and economies
-2. **The 1970s Stagflation** — the decade that destroyed the Keynesian consensus and gave birth to inflation targeting
-3. **The Asian Financial Crisis (1997–1998)** — a warning about capital flow liberalisation that was only partially heard
-4. **The 2008 Global Financial Crisis** — the near-collapse of the world financial system and the decade of slow recovery that followed
-5. **The COVID-19 Economic Shock (2020)** — the fastest economic contraction in modern history and the most rapid policy response ever deployed
-6. **The Great Inflation (2021–2023)** — the return of inflation after 30 years of quiescence, and the tightening that followed
+1. **The South Sea Bubble (1720)** — the first modern speculative mania and the birth of financial regulation
+2. **The Long Depression (1873–1896)** — the first global economic crisis of the industrial age
+3. **The Panic of 1907** — the crisis that made the case for a central bank
+4. **The Weimar Hyperinflation (1921–1923)** — the most catastrophic monetary collapse in modern history
+5. **The Great Depression (1929–1939)** — the foundational catastrophe that redefined the relationship between governments and economies
+6. **The 1970s Stagflation (1973–1982)** — the decade that destroyed the Keynesian consensus and gave birth to inflation targeting
+7. **The Latin American Debt Crisis (1982–1989)** — a decade of lost growth and IMF austerity across an entire continent
+8. **Black Monday (1987)** — the largest single-day stock market crash in history
+9. **The Japanese Lost Decade (1990–2000)** — the asset bubble collapse that produced a generation of stagnation
+10. **The Asian Financial Crisis (1997–1998)** — a warning about capital flow liberalisation that was only partially heard
+11. **The LTCM Collapse (1998)** — when a hedge fund nearly took down the global financial system
+12. **The Dot-com Crash (2000–2001)** — the end of the first internet boom and $5 trillion in lost market value
+13. **The Argentine Crisis (2001–2002)** — sovereign default, currency collapse, and the limits of IMF orthodoxy
+14. **The Global Financial Crisis (2008–2012)** — the near-collapse of the world financial system and the decade of slow recovery that followed
+15. **The Eurozone Debt Crisis (2010–2012)** — the sovereign debt crisis that threatened to break apart the euro
+16. **The COVID-19 Economic Shock (2020)** — the fastest economic contraction in modern history and the most rapid policy response ever deployed
+17. **The Great Inflation (2021–2023)** — the return of inflation after 30 years of quiescence, and the tightening that followed
 
 Together, these episodes constitute a curriculum in what economic management can and cannot do. They also constitute a record of human suffering and resilience that any honest accounting of economic policy must acknowledge.
 

@@ -1,0 +1,4951 @@
+[
+  {
+    "id": "intro",
+    "title": "Intro",
+    "globalStart": 0,
+    "duration": 198,
+    "episode": 7,
+    "episodeMeta": {
+      "title": "The Latin American Debt Crisis",
+      "subtitle": "1982–1989"
+    },
+    "subSlides": [
+      {
+        "type": "intro",
+        "start": 0,
+        "duration": 198,
+        "audioSrc": "episodes/ep12/intro.wav"
+      }
+    ]
+  },
+  {
+    "id": "ep12_event",
+    "title": "Event",
+    "globalStart": 198,
+    "duration": 3091,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Event"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep12_event_0",
+        "audio_exists": true,
+        "audioPath": "episodes/ep12/audio/ep12_event_0.wav",
+        "text": "On August 12, 1982, Mexico's finance minister Jesús Silva Herzog telephoned the United States Treasury and the IMF. Mexico could no longer service its foreign debt. The announcement sent shock waves through global banking: if Mexico defaulted, so might Brazil, Argentina, and a dozen other countries. The international banking system faced its first systemic sovereign debt crisis.",
+        "duration": 702,
+        "bgImage": "bg_global_map.jpg",
+        "wordTimings": [
+          {
+            "word": "On ",
+            "start": 0.1,
+            "end": 0.306
+          },
+          {
+            "word": "August 12, 1982, ",
+            "start": 0.317,
+            "end": 1.947
+          },
+          {
+            "word": "Mexico's ",
+            "start": 2.143,
+            "end": 2.621
+          },
+          {
+            "word": "finance ",
+            "start": 2.632,
+            "end": 3.11
+          },
+          {
+            "word": "minister ",
+            "start": 3.121,
+            "end": 3.426
+          },
+          {
+            "word": "Jesús ",
+            "start": 3.436,
+            "end": 3.871
+          },
+          {
+            "word": "Silva ",
+            "start": 3.882,
+            "end": 4.121
+          },
+          {
+            "word": "Herzog ",
+            "start": 4.132,
+            "end": 4.556
+          },
+          {
+            "word": "telephoned ",
+            "start": 4.567,
+            "end": 4.991
+          },
+          {
+            "word": "the ",
+            "start": 5.002,
+            "end": 5.056
+          },
+          {
+            "word": "United ",
+            "start": 5.067,
+            "end": 5.502
+          },
+          {
+            "word": "States ",
+            "start": 5.513,
+            "end": 5.795
+          },
+          {
+            "word": "Treasury ",
+            "start": 5.806,
+            "end": 6.219
+          },
+          {
+            "word": "and ",
+            "start": 6.23,
+            "end": 6.339
+          },
+          {
+            "word": "the ",
+            "start": 6.35,
+            "end": 6.469
+          },
+          {
+            "word": "IMF. ",
+            "start": 6.48,
+            "end": 7.023
+          },
+          {
+            "word": "Mexico ",
+            "start": 7.767,
+            "end": 8.267
+          },
+          {
+            "word": "could ",
+            "start": 8.278,
+            "end": 8.473
+          },
+          {
+            "word": "no ",
+            "start": 8.484,
+            "end": 8.658
+          },
+          {
+            "word": "longer ",
+            "start": 8.669,
+            "end": 8.984
+          },
+          {
+            "word": "service ",
+            "start": 8.995,
+            "end": 9.354
+          },
+          {
+            "word": "its ",
+            "start": 9.365,
+            "end": 9.495
+          },
+          {
+            "word": "foreign ",
+            "start": 9.506,
+            "end": 9.821
+          },
+          {
+            "word": "debt. ",
+            "start": 9.832,
+            "end": 10.158
+          },
+          {
+            "word": "The ",
+            "start": 10.908,
+            "end": 11.049
+          },
+          {
+            "word": "announcement ",
+            "start": 11.06,
+            "end": 11.517
+          },
+          {
+            "word": "sent ",
+            "start": 11.528,
+            "end": 11.713
+          },
+          {
+            "word": "shock ",
+            "start": 11.723,
+            "end": 11.973
+          },
+          {
+            "word": "waves ",
+            "start": 11.984,
+            "end": 12.31
+          },
+          {
+            "word": "through ",
+            "start": 12.321,
+            "end": 12.484
+          },
+          {
+            "word": "global ",
+            "start": 12.495,
+            "end": 12.854
+          },
+          {
+            "word": "banking: ",
+            "start": 12.865,
+            "end": 13.234
+          },
+          {
+            "word": "if ",
+            "start": 13.441,
+            "end": 13.56
+          },
+          {
+            "word": "Mexico ",
+            "start": 13.571,
+            "end": 13.984
+          },
+          {
+            "word": "defaulted, ",
+            "start": 13.995,
+            "end": 14.484
+          },
+          {
+            "word": "so ",
+            "start": 14.691,
+            "end": 14.821
+          },
+          {
+            "word": "might ",
+            "start": 14.832,
+            "end": 15.071
+          },
+          {
+            "word": "Brazil, ",
+            "start": 15.082,
+            "end": 15.441
+          },
+          {
+            "word": "Argentina, ",
+            "start": 15.647,
+            "end": 16.289
+          },
+          {
+            "word": "and ",
+            "start": 16.517,
+            "end": 16.626
+          },
+          {
+            "word": "a ",
+            "start": 16.636,
+            "end": 16.702
+          },
+          {
+            "word": "dozen ",
+            "start": 16.713,
+            "end": 16.984
+          },
+          {
+            "word": "other ",
+            "start": 16.995,
+            "end": 17.158
+          },
+          {
+            "word": "countries. ",
+            "start": 17.169,
+            "end": 17.799
+          },
+          {
+            "word": "The ",
+            "start": 18.55,
+            "end": 18.702
+          },
+          {
+            "word": "international ",
+            "start": 18.713,
+            "end": 19.299
+          },
+          {
+            "word": "banking ",
+            "start": 19.31,
+            "end": 19.626
+          },
+          {
+            "word": "system ",
+            "start": 19.636,
+            "end": 19.984
+          },
+          {
+            "word": "faced ",
+            "start": 19.995,
+            "end": 20.267
+          },
+          {
+            "word": "its ",
+            "start": 20.278,
+            "end": 20.386
+          },
+          {
+            "word": "first ",
+            "start": 20.397,
+            "end": 20.669
+          },
+          {
+            "word": "systemic ",
+            "start": 20.68,
+            "end": 21.082
+          },
+          {
+            "word": "sovereign ",
+            "start": 21.093,
+            "end": 21.441
+          },
+          {
+            "word": "debt ",
+            "start": 21.452,
+            "end": 21.636
+          },
+          {
+            "word": "crisis.",
+            "start": 21.647,
+            "end": 22.234
+          }
+        ],
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep12_event_1",
+        "audio_exists": true,
+        "audioPath": "episodes/ep12/audio/ep12_event_1.wav",
+        "text": "The origins lay in the petrodollar recycling boom of the 1970s. OPEC's oil price increases generated vast surpluses in the hands of oil-producing states, which deposited them in Western banks. Those banks, awash in deposits and under pressure to lend, recycled the capital into Latin American sovereign loans at variable interest rates.",
+        "duration": 576,
+        "bgImage": "bg_inflation_cash.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.252
+          },
+          {
+            "word": "origins ",
+            "start": 0.263,
+            "end": 0.686
+          },
+          {
+            "word": "lay ",
+            "start": 0.697,
+            "end": 0.882
+          },
+          {
+            "word": "in ",
+            "start": 0.893,
+            "end": 0.969
+          },
+          {
+            "word": "the ",
+            "start": 0.98,
+            "end": 1.045
+          },
+          {
+            "word": "petrodollar ",
+            "start": 1.056,
+            "end": 1.676
+          },
+          {
+            "word": "recycling ",
+            "start": 1.686,
+            "end": 2.295
+          },
+          {
+            "word": "boom ",
+            "start": 2.306,
+            "end": 2.523
+          },
+          {
+            "word": "of ",
+            "start": 2.534,
+            "end": 2.599
+          },
+          {
+            "word": "the ",
+            "start": 2.61,
+            "end": 2.676
+          },
+          {
+            "word": "1970s. ",
+            "start": 2.686,
+            "end": 3.708
+          },
+          {
+            "word": "OPEC's ",
+            "start": 4.452,
+            "end": 4.832
+          },
+          {
+            "word": "oil ",
+            "start": 4.843,
+            "end": 5.071
+          },
+          {
+            "word": "price ",
+            "start": 5.082,
+            "end": 5.365
+          },
+          {
+            "word": "increases ",
+            "start": 5.376,
+            "end": 5.886
+          },
+          {
+            "word": "generated ",
+            "start": 5.897,
+            "end": 6.354
+          },
+          {
+            "word": "vast ",
+            "start": 6.365,
+            "end": 6.647
+          },
+          {
+            "word": "surpluses ",
+            "start": 6.658,
+            "end": 7.147
+          },
+          {
+            "word": "in ",
+            "start": 7.158,
+            "end": 7.213
+          },
+          {
+            "word": "the ",
+            "start": 7.223,
+            "end": 7.278
+          },
+          {
+            "word": "hands ",
+            "start": 7.289,
+            "end": 7.604
+          },
+          {
+            "word": "of ",
+            "start": 7.615,
+            "end": 7.702
+          },
+          {
+            "word": "oil-producing ",
+            "start": 7.713,
+            "end": 8.289
+          },
+          {
+            "word": "states, ",
+            "start": 8.3,
+            "end": 8.691
+          },
+          {
+            "word": "which ",
+            "start": 8.876,
+            "end": 9.006
+          },
+          {
+            "word": "deposited ",
+            "start": 9.017,
+            "end": 9.517
+          },
+          {
+            "word": "them ",
+            "start": 9.528,
+            "end": 9.669
+          },
+          {
+            "word": "in ",
+            "start": 9.68,
+            "end": 9.778
+          },
+          {
+            "word": "Western ",
+            "start": 9.789,
+            "end": 10.104
+          },
+          {
+            "word": "banks. ",
+            "start": 10.115,
+            "end": 10.56
+          },
+          {
+            "word": "Those ",
+            "start": 11.31,
+            "end": 11.582
+          },
+          {
+            "word": "banks, ",
+            "start": 11.593,
+            "end": 11.952
+          },
+          {
+            "word": "awash ",
+            "start": 12.126,
+            "end": 12.408
+          },
+          {
+            "word": "in ",
+            "start": 12.419,
+            "end": 12.495
+          },
+          {
+            "word": "deposits ",
+            "start": 12.506,
+            "end": 12.93
+          },
+          {
+            "word": "and ",
+            "start": 12.941,
+            "end": 13.017
+          },
+          {
+            "word": "under ",
+            "start": 13.028,
+            "end": 13.234
+          },
+          {
+            "word": "pressure ",
+            "start": 13.245,
+            "end": 13.484
+          },
+          {
+            "word": "to ",
+            "start": 13.495,
+            "end": 13.582
+          },
+          {
+            "word": "lend, ",
+            "start": 13.593,
+            "end": 13.897
+          },
+          {
+            "word": "recycled ",
+            "start": 14.104,
+            "end": 14.593
+          },
+          {
+            "word": "the ",
+            "start": 14.604,
+            "end": 14.669
+          },
+          {
+            "word": "capital ",
+            "start": 14.68,
+            "end": 15.071
+          },
+          {
+            "word": "into ",
+            "start": 15.082,
+            "end": 15.267
+          },
+          {
+            "word": "Latin ",
+            "start": 15.278,
+            "end": 15.571
+          },
+          {
+            "word": "American ",
+            "start": 15.582,
+            "end": 15.984
+          },
+          {
+            "word": "sovereign ",
+            "start": 15.995,
+            "end": 16.321
+          },
+          {
+            "word": "loans ",
+            "start": 16.332,
+            "end": 16.68
+          },
+          {
+            "word": "at ",
+            "start": 16.691,
+            "end": 16.778
+          },
+          {
+            "word": "variable ",
+            "start": 16.789,
+            "end": 17.223
+          },
+          {
+            "word": "interest ",
+            "start": 17.234,
+            "end": 17.636
+          },
+          {
+            "word": "rates.",
+            "start": 17.647,
+            "end": 18.039
+          }
+        ],
+        "start": 792
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep12_event_2",
+        "audio_exists": true,
+        "audioPath": "episodes/ep12/audio/ep12_event_2.wav",
+        "text": "Latin American governments borrowed to fund industrialization, infrastructure, and social programs — but also to paper over budget deficits and subsidize politically connected industries. Debt-to-GDP ratios climbed steadily throughout the 1970s. As long as interest rates were low and commodity prices high, the arithmetic worked.",
+        "duration": 576,
+        "bgImage": "bg_imf_meeting.jpg",
+        "wordTimings": [
+          {
+            "word": "Latin ",
+            "start": 0.1,
+            "end": 0.447
+          },
+          {
+            "word": "American ",
+            "start": 0.458,
+            "end": 0.806
+          },
+          {
+            "word": "governments ",
+            "start": 0.817,
+            "end": 1.197
+          },
+          {
+            "word": "borrowed ",
+            "start": 1.208,
+            "end": 1.523
+          },
+          {
+            "word": "to ",
+            "start": 1.534,
+            "end": 1.599
+          },
+          {
+            "word": "fund ",
+            "start": 1.61,
+            "end": 1.85
+          },
+          {
+            "word": "industrialization, ",
+            "start": 1.86,
+            "end": 2.795
+          },
+          {
+            "word": "infrastructure, ",
+            "start": 2.947,
+            "end": 3.621
+          },
+          {
+            "word": "and ",
+            "start": 3.763,
+            "end": 3.871
+          },
+          {
+            "word": "social ",
+            "start": 3.882,
+            "end": 4.208
+          },
+          {
+            "word": "programs — ",
+            "start": 4.219,
+            "end": 4.795
+          },
+          {
+            "word": "but ",
+            "start": 4.98,
+            "end": 5.099
+          },
+          {
+            "word": "also ",
+            "start": 5.11,
+            "end": 5.382
+          },
+          {
+            "word": "to ",
+            "start": 5.393,
+            "end": 5.48
+          },
+          {
+            "word": "paper ",
+            "start": 5.491,
+            "end": 5.806
+          },
+          {
+            "word": "over ",
+            "start": 5.817,
+            "end": 6.078
+          },
+          {
+            "word": "budget ",
+            "start": 6.089,
+            "end": 6.404
+          },
+          {
+            "word": "deficits ",
+            "start": 6.415,
+            "end": 6.828
+          },
+          {
+            "word": "and ",
+            "start": 6.839,
+            "end": 6.958
+          },
+          {
+            "word": "subsidize ",
+            "start": 6.969,
+            "end": 7.589
+          },
+          {
+            "word": "politically ",
+            "start": 7.6,
+            "end": 8.056
+          },
+          {
+            "word": "connected ",
+            "start": 8.067,
+            "end": 8.458
+          },
+          {
+            "word": "industries. ",
+            "start": 8.469,
+            "end": 9.099
+          },
+          {
+            "word": "Debt-to-GDP ",
+            "start": 9.843,
+            "end": 10.615
+          },
+          {
+            "word": "ratios ",
+            "start": 10.626,
+            "end": 11.136
+          },
+          {
+            "word": "climbed ",
+            "start": 11.147,
+            "end": 11.463
+          },
+          {
+            "word": "steadily ",
+            "start": 11.473,
+            "end": 11.821
+          },
+          {
+            "word": "throughout ",
+            "start": 11.832,
+            "end": 12.169
+          },
+          {
+            "word": "the ",
+            "start": 12.18,
+            "end": 12.245
+          },
+          {
+            "word": "1970s. ",
+            "start": 12.256,
+            "end": 13.299
+          },
+          {
+            "word": "As ",
+            "start": 14.05,
+            "end": 14.245
+          },
+          {
+            "word": "long ",
+            "start": 14.256,
+            "end": 14.441
+          },
+          {
+            "word": "as ",
+            "start": 14.452,
+            "end": 14.528
+          },
+          {
+            "word": "interest ",
+            "start": 14.539,
+            "end": 14.886
+          },
+          {
+            "word": "rates ",
+            "start": 14.897,
+            "end": 15.136
+          },
+          {
+            "word": "were ",
+            "start": 15.147,
+            "end": 15.256
+          },
+          {
+            "word": "low ",
+            "start": 15.267,
+            "end": 15.56
+          },
+          {
+            "word": "and ",
+            "start": 15.571,
+            "end": 15.658
+          },
+          {
+            "word": "commodity ",
+            "start": 15.669,
+            "end": 16.104
+          },
+          {
+            "word": "prices ",
+            "start": 16.115,
+            "end": 16.484
+          },
+          {
+            "word": "high, ",
+            "start": 16.495,
+            "end": 16.778
+          },
+          {
+            "word": "the ",
+            "start": 16.984,
+            "end": 17.082
+          },
+          {
+            "word": "arithmetic ",
+            "start": 17.093,
+            "end": 17.582
+          },
+          {
+            "word": "worked.",
+            "start": 17.593,
+            "end": 18.028
+          }
+        ],
+        "start": 1368
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep12_event_3",
+        "audio_exists": true,
+        "audioPath": "episodes/ep12/audio/ep12_event_3.wav",
+        "text": "Paul Volcker's anti-inflation campaign changed everything. The Federal Reserve raised interest rates to twenty percent in 1981. Variable-rate loans repriced upward. Simultaneously, the global recession cut commodity prices — the primary export earnings of Latin American debtors. Debt service consumed export revenues. The mathematics of solvency reversed overnight.",
+        "duration": 696,
+        "bgImage": "bg_breadline.jpg",
+        "wordTimings": [
+          {
+            "word": "Paul ",
+            "start": 0.1,
+            "end": 0.426
+          },
+          {
+            "word": "Volcker's ",
+            "start": 0.436,
+            "end": 0.806
+          },
+          {
+            "word": "anti-inflation ",
+            "start": 0.817,
+            "end": 1.534
+          },
+          {
+            "word": "campaign ",
+            "start": 1.545,
+            "end": 1.98
+          },
+          {
+            "word": "changed ",
+            "start": 1.991,
+            "end": 2.317
+          },
+          {
+            "word": "everything. ",
+            "start": 2.328,
+            "end": 2.817
+          },
+          {
+            "word": "The ",
+            "start": 3.56,
+            "end": 3.691
+          },
+          {
+            "word": "Federal ",
+            "start": 3.702,
+            "end": 4.039
+          },
+          {
+            "word": "Reserve ",
+            "start": 4.05,
+            "end": 4.386
+          },
+          {
+            "word": "raised ",
+            "start": 4.397,
+            "end": 4.691
+          },
+          {
+            "word": "interest ",
+            "start": 4.702,
+            "end": 5.093
+          },
+          {
+            "word": "rates ",
+            "start": 5.104,
+            "end": 5.354
+          },
+          {
+            "word": "to ",
+            "start": 5.365,
+            "end": 5.452
+          },
+          {
+            "word": "twenty ",
+            "start": 5.463,
+            "end": 5.723
+          },
+          {
+            "word": "percent ",
+            "start": 5.734,
+            "end": 6.082
+          },
+          {
+            "word": "in 1981. ",
+            "start": 6.093,
+            "end": 7.147
+          },
+          {
+            "word": "Variable-rate ",
+            "start": 7.897,
+            "end": 8.604
+          },
+          {
+            "word": "loans ",
+            "start": 8.615,
+            "end": 8.908
+          },
+          {
+            "word": "repriced ",
+            "start": 8.919,
+            "end": 9.419
+          },
+          {
+            "word": "upward. ",
+            "start": 9.43,
+            "end": 9.81
+          },
+          {
+            "word": "Simultaneously, ",
+            "start": 10.56,
+            "end": 11.441
+          },
+          {
+            "word": "the ",
+            "start": 11.56,
+            "end": 11.647
+          },
+          {
+            "word": "global ",
+            "start": 11.658,
+            "end": 12.028
+          },
+          {
+            "word": "recession ",
+            "start": 12.039,
+            "end": 12.452
+          },
+          {
+            "word": "cut ",
+            "start": 12.463,
+            "end": 12.669
+          },
+          {
+            "word": "commodity ",
+            "start": 12.68,
+            "end": 13.082
+          },
+          {
+            "word": "prices — ",
+            "start": 13.093,
+            "end": 13.539
+          },
+          {
+            "word": "the ",
+            "start": 13.713,
+            "end": 13.799
+          },
+          {
+            "word": "primary ",
+            "start": 13.81,
+            "end": 14.223
+          },
+          {
+            "word": "export ",
+            "start": 14.234,
+            "end": 14.604
+          },
+          {
+            "word": "earnings ",
+            "start": 14.615,
+            "end": 14.963
+          },
+          {
+            "word": "of ",
+            "start": 14.973,
+            "end": 15.039
+          },
+          {
+            "word": "Latin ",
+            "start": 15.05,
+            "end": 15.354
+          },
+          {
+            "word": "American ",
+            "start": 15.365,
+            "end": 15.756
+          },
+          {
+            "word": "debtors. ",
+            "start": 15.767,
+            "end": 16.213
+          },
+          {
+            "word": "Debt ",
+            "start": 16.963,
+            "end": 17.18
+          },
+          {
+            "word": "service ",
+            "start": 17.191,
+            "end": 17.517
+          },
+          {
+            "word": "consumed ",
+            "start": 17.528,
+            "end": 17.973
+          },
+          {
+            "word": "export ",
+            "start": 17.984,
+            "end": 18.365
+          },
+          {
+            "word": "revenues. ",
+            "start": 18.376,
+            "end": 19.049
+          },
+          {
+            "word": "The ",
+            "start": 19.8,
+            "end": 19.93
+          },
+          {
+            "word": "mathematics ",
+            "start": 19.941,
+            "end": 20.528
+          },
+          {
+            "word": "of ",
+            "start": 20.539,
+            "end": 20.626
+          },
+          {
+            "word": "solvency ",
+            "start": 20.636,
+            "end": 21.049
+          },
+          {
+            "word": "reversed ",
+            "start": 21.06,
+            "end": 21.495
+          },
+          {
+            "word": "overnight.",
+            "start": 21.506,
+            "end": 22.017
+          }
+        ],
+        "start": 1944
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep12_event_4",
+        "audio_exists": true,
+        "audioPath": "episodes/ep12/audio/ep12_event_4.wav",
+        "text": "By 1983, forty countries had rescheduled their debts. The nine largest US banks had combined loans to Latin America equal to two hundred eighty percent of their capital. A generalized default would have made every major American bank technically insolvent.",
+        "duration": 451,
+        "bgImage": "bg_global_map.jpg",
+        "wordTimings": [
+          {
+            "word": "By 1983, ",
+            "start": 0.1,
+            "end": 1.252
+          },
+          {
+            "word": "forty ",
+            "start": 1.469,
+            "end": 1.73
+          },
+          {
+            "word": "countries ",
+            "start": 1.741,
+            "end": 2.132
+          },
+          {
+            "word": "had ",
+            "start": 2.143,
+            "end": 2.263
+          },
+          {
+            "word": "rescheduled ",
+            "start": 2.273,
+            "end": 2.817
+          },
+          {
+            "word": "their ",
+            "start": 2.828,
+            "end": 2.926
+          },
+          {
+            "word": "debts. ",
+            "start": 2.936,
+            "end": 3.393
+          },
+          {
+            "word": "The ",
+            "start": 4.136,
+            "end": 4.267
+          },
+          {
+            "word": "nine ",
+            "start": 4.278,
+            "end": 4.55
+          },
+          {
+            "word": "largest ",
+            "start": 4.56,
+            "end": 4.941
+          },
+          {
+            "word": "US ",
+            "start": 4.952,
+            "end": 5.223
+          },
+          {
+            "word": "banks ",
+            "start": 5.234,
+            "end": 5.473
+          },
+          {
+            "word": "had ",
+            "start": 5.484,
+            "end": 5.593
+          },
+          {
+            "word": "combined ",
+            "start": 5.604,
+            "end": 5.995
+          },
+          {
+            "word": "loans ",
+            "start": 6.006,
+            "end": 6.321
+          },
+          {
+            "word": "to ",
+            "start": 6.332,
+            "end": 6.419
+          },
+          {
+            "word": "Latin ",
+            "start": 6.43,
+            "end": 6.745
+          },
+          {
+            "word": "America ",
+            "start": 6.756,
+            "end": 7.115
+          },
+          {
+            "word": "equal ",
+            "start": 7.126,
+            "end": 7.473
+          },
+          {
+            "word": "to ",
+            "start": 7.484,
+            "end": 7.582
+          },
+          {
+            "word": "two ",
+            "start": 7.593,
+            "end": 7.81
+          },
+          {
+            "word": "hundred ",
+            "start": 7.821,
+            "end": 8.06
+          },
+          {
+            "word": "eighty ",
+            "start": 8.071,
+            "end": 8.278
+          },
+          {
+            "word": "percent ",
+            "start": 8.289,
+            "end": 8.636
+          },
+          {
+            "word": "of ",
+            "start": 8.647,
+            "end": 8.723
+          },
+          {
+            "word": "their ",
+            "start": 8.734,
+            "end": 8.876
+          },
+          {
+            "word": "capital. ",
+            "start": 8.886,
+            "end": 9.354
+          },
+          {
+            "word": "A ",
+            "start": 10.104,
+            "end": 10.223
+          },
+          {
+            "word": "generalized ",
+            "start": 10.234,
+            "end": 10.745
+          },
+          {
+            "word": "default ",
+            "start": 10.756,
+            "end": 11.093
+          },
+          {
+            "word": "would ",
+            "start": 11.104,
+            "end": 11.191
+          },
+          {
+            "word": "have ",
+            "start": 11.202,
+            "end": 11.299
+          },
+          {
+            "word": "made ",
+            "start": 11.31,
+            "end": 11.55
+          },
+          {
+            "word": "every ",
+            "start": 11.56,
+            "end": 11.756
+          },
+          {
+            "word": "major ",
+            "start": 11.767,
+            "end": 12.104
+          },
+          {
+            "word": "American ",
+            "start": 12.115,
+            "end": 12.549
+          },
+          {
+            "word": "bank ",
+            "start": 12.56,
+            "end": 12.854
+          },
+          {
+            "word": "technically ",
+            "start": 12.865,
+            "end": 13.278
+          },
+          {
+            "word": "insolvent.",
+            "start": 13.289,
+            "end": 13.865
+          }
+        ],
+        "start": 2640
+      }
+    ]
+  },
+  {
+    "id": "ep12_problems",
+    "title": "Problems",
+    "globalStart": 3289,
+    "duration": 2770,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Problems"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep12_problems_0",
+        "audio_exists": true,
+        "audioPath": "episodes/ep12/audio/ep12_problems_0.wav",
+        "text": "The debt crisis exposed three interlocking failures. First: the loans should never have been made at variable rates to sovereign borrowers whose revenues were commodity-dependent. The matching of floating-rate dollar liabilities against commodity-price-sensitive revenues was a structural mismatch that regulators failed to identify.",
+        "duration": 518,
+        "bgImage": "bg_breadline.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.241
+          },
+          {
+            "word": "debt ",
+            "start": 0.252,
+            "end": 0.469
+          },
+          {
+            "word": "crisis ",
+            "start": 0.48,
+            "end": 0.849
+          },
+          {
+            "word": "exposed ",
+            "start": 0.86,
+            "end": 1.306
+          },
+          {
+            "word": "three ",
+            "start": 1.317,
+            "end": 1.567
+          },
+          {
+            "word": "interlocking ",
+            "start": 1.578,
+            "end": 2.067
+          },
+          {
+            "word": "failures. ",
+            "start": 2.078,
+            "end": 2.686
+          },
+          {
+            "word": "First: ",
+            "start": 3.43,
+            "end": 3.843
+          },
+          {
+            "word": "the ",
+            "start": 3.995,
+            "end": 4.082
+          },
+          {
+            "word": "loans ",
+            "start": 4.093,
+            "end": 4.397
+          },
+          {
+            "word": "should ",
+            "start": 4.408,
+            "end": 4.549
+          },
+          {
+            "word": "never ",
+            "start": 4.56,
+            "end": 4.789
+          },
+          {
+            "word": "have ",
+            "start": 4.8,
+            "end": 4.941
+          },
+          {
+            "word": "been ",
+            "start": 4.952,
+            "end": 5.071
+          },
+          {
+            "word": "made ",
+            "start": 5.082,
+            "end": 5.321
+          },
+          {
+            "word": "at ",
+            "start": 5.332,
+            "end": 5.397
+          },
+          {
+            "word": "variable ",
+            "start": 5.408,
+            "end": 5.886
+          },
+          {
+            "word": "rates ",
+            "start": 5.897,
+            "end": 6.136
+          },
+          {
+            "word": "to ",
+            "start": 6.147,
+            "end": 6.223
+          },
+          {
+            "word": "sovereign ",
+            "start": 6.234,
+            "end": 6.593
+          },
+          {
+            "word": "borrowers ",
+            "start": 6.604,
+            "end": 6.952
+          },
+          {
+            "word": "whose ",
+            "start": 6.963,
+            "end": 7.158
+          },
+          {
+            "word": "revenues ",
+            "start": 7.169,
+            "end": 7.615
+          },
+          {
+            "word": "were ",
+            "start": 7.626,
+            "end": 7.713
+          },
+          {
+            "word": "commodity-dependent. ",
+            "start": 7.723,
+            "end": 8.647
+          },
+          {
+            "word": "The ",
+            "start": 9.397,
+            "end": 9.517
+          },
+          {
+            "word": "matching ",
+            "start": 9.528,
+            "end": 9.843
+          },
+          {
+            "word": "of ",
+            "start": 9.854,
+            "end": 9.908
+          },
+          {
+            "word": "floating-rate ",
+            "start": 9.919,
+            "end": 10.473
+          },
+          {
+            "word": "dollar ",
+            "start": 10.484,
+            "end": 10.68
+          },
+          {
+            "word": "liabilities ",
+            "start": 10.691,
+            "end": 11.31
+          },
+          {
+            "word": "against ",
+            "start": 11.321,
+            "end": 11.615
+          },
+          {
+            "word": "commodity-price-sensitive ",
+            "start": 11.626,
+            "end": 12.658
+          },
+          {
+            "word": "revenues ",
+            "start": 12.669,
+            "end": 13.136
+          },
+          {
+            "word": "was ",
+            "start": 13.147,
+            "end": 13.267
+          },
+          {
+            "word": "a ",
+            "start": 13.278,
+            "end": 13.332
+          },
+          {
+            "word": "structural ",
+            "start": 13.343,
+            "end": 13.865
+          },
+          {
+            "word": "mismatch ",
+            "start": 13.876,
+            "end": 14.299
+          },
+          {
+            "word": "that ",
+            "start": 14.31,
+            "end": 14.495
+          },
+          {
+            "word": "regulators ",
+            "start": 14.506,
+            "end": 14.995
+          },
+          {
+            "word": "failed ",
+            "start": 15.006,
+            "end": 15.278
+          },
+          {
+            "word": "to ",
+            "start": 15.289,
+            "end": 15.376
+          },
+          {
+            "word": "identify.",
+            "start": 15.386,
+            "end": 16.082
+          }
+        ],
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep12_problems_1",
+        "audio_exists": true,
+        "audioPath": "episodes/ep12/audio/ep12_problems_1.wav",
+        "text": "Second: the IMF's initial response — extending bridge loans conditional on austerity — compressed demand in already-contracting economies. Fiscal multipliers in crisis conditions meant that each dollar of spending cut reduced GDP by more than a dollar. The prescribed medicine was contractionary when expansion was needed.",
+        "duration": 534,
+        "bgImage": "bg_inflation_cash.jpg",
+        "wordTimings": [
+          {
+            "word": "Second: ",
+            "start": 0.1,
+            "end": 0.578
+          },
+          {
+            "word": "the ",
+            "start": 0.73,
+            "end": 0.86
+          },
+          {
+            "word": "IMF's ",
+            "start": 0.871,
+            "end": 1.393
+          },
+          {
+            "word": "initial ",
+            "start": 1.404,
+            "end": 1.73
+          },
+          {
+            "word": "response — ",
+            "start": 1.741,
+            "end": 2.186
+          },
+          {
+            "word": "extending ",
+            "start": 2.36,
+            "end": 2.882
+          },
+          {
+            "word": "bridge ",
+            "start": 2.893,
+            "end": 3.121
+          },
+          {
+            "word": "loans ",
+            "start": 3.132,
+            "end": 3.404
+          },
+          {
+            "word": "conditional ",
+            "start": 3.415,
+            "end": 3.882
+          },
+          {
+            "word": "on ",
+            "start": 3.893,
+            "end": 3.991
+          },
+          {
+            "word": "austerity — ",
+            "start": 4.002,
+            "end": 4.534
+          },
+          {
+            "word": "compressed ",
+            "start": 4.686,
+            "end": 5.067
+          },
+          {
+            "word": "demand ",
+            "start": 5.078,
+            "end": 5.415
+          },
+          {
+            "word": "in ",
+            "start": 5.426,
+            "end": 5.523
+          },
+          {
+            "word": "already-contracting ",
+            "start": 5.534,
+            "end": 6.371
+          },
+          {
+            "word": "economies. ",
+            "start": 6.382,
+            "end": 6.958
+          },
+          {
+            "word": "Fiscal ",
+            "start": 7.702,
+            "end": 8.115
+          },
+          {
+            "word": "multipliers ",
+            "start": 8.126,
+            "end": 8.702
+          },
+          {
+            "word": "in ",
+            "start": 8.713,
+            "end": 8.81
+          },
+          {
+            "word": "crisis ",
+            "start": 8.821,
+            "end": 9.213
+          },
+          {
+            "word": "conditions ",
+            "start": 9.223,
+            "end": 9.68
+          },
+          {
+            "word": "meant ",
+            "start": 9.691,
+            "end": 9.865
+          },
+          {
+            "word": "that ",
+            "start": 9.876,
+            "end": 10.006
+          },
+          {
+            "word": "each ",
+            "start": 10.017,
+            "end": 10.202
+          },
+          {
+            "word": "dollar ",
+            "start": 10.213,
+            "end": 10.463
+          },
+          {
+            "word": "of ",
+            "start": 10.473,
+            "end": 10.549
+          },
+          {
+            "word": "spending ",
+            "start": 10.56,
+            "end": 10.919
+          },
+          {
+            "word": "cut ",
+            "start": 10.93,
+            "end": 11.136
+          },
+          {
+            "word": "reduced ",
+            "start": 11.147,
+            "end": 11.495
+          },
+          {
+            "word": "GDP ",
+            "start": 11.506,
+            "end": 12.049
+          },
+          {
+            "word": "by ",
+            "start": 12.06,
+            "end": 12.18
+          },
+          {
+            "word": "more ",
+            "start": 12.191,
+            "end": 12.376
+          },
+          {
+            "word": "than ",
+            "start": 12.386,
+            "end": 12.506
+          },
+          {
+            "word": "a ",
+            "start": 12.517,
+            "end": 12.571
+          },
+          {
+            "word": "dollar. ",
+            "start": 12.582,
+            "end": 12.908
+          },
+          {
+            "word": "The ",
+            "start": 13.658,
+            "end": 13.799
+          },
+          {
+            "word": "prescribed ",
+            "start": 13.81,
+            "end": 14.267
+          },
+          {
+            "word": "medicine ",
+            "start": 14.278,
+            "end": 14.636
+          },
+          {
+            "word": "was ",
+            "start": 14.647,
+            "end": 14.778
+          },
+          {
+            "word": "contractionary ",
+            "start": 14.789,
+            "end": 15.408
+          },
+          {
+            "word": "when ",
+            "start": 15.419,
+            "end": 15.571
+          },
+          {
+            "word": "expansion ",
+            "start": 15.582,
+            "end": 16.071
+          },
+          {
+            "word": "was ",
+            "start": 16.082,
+            "end": 16.245
+          },
+          {
+            "word": "needed.",
+            "start": 16.256,
+            "end": 16.626
+          }
+        ],
+        "start": 608
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep12_problems_2",
+        "audio_exists": true,
+        "audioPath": "episodes/ep12/audio/ep12_problems_2.wav",
+        "text": "Third: the debt overhang itself became an obstacle to recovery. Countries carrying unsustainable debt burdens had no incentive to implement growth reforms — all additional output would flow to foreign creditors rather than to domestic investment. This debt-overhang trap was not initially recognized by creditors or the IMF.",
+        "duration": 527,
+        "bgImage": "bg_global_map.jpg",
+        "wordTimings": [
+          {
+            "word": "Third: ",
+            "start": 0.1,
+            "end": 0.491
+          },
+          {
+            "word": "the ",
+            "start": 0.643,
+            "end": 0.73
+          },
+          {
+            "word": "debt ",
+            "start": 0.741,
+            "end": 0.958
+          },
+          {
+            "word": "overhang ",
+            "start": 0.969,
+            "end": 1.317
+          },
+          {
+            "word": "itself ",
+            "start": 1.328,
+            "end": 1.686
+          },
+          {
+            "word": "became ",
+            "start": 1.697,
+            "end": 1.969
+          },
+          {
+            "word": "an ",
+            "start": 1.98,
+            "end": 2.078
+          },
+          {
+            "word": "obstacle ",
+            "start": 2.089,
+            "end": 2.534
+          },
+          {
+            "word": "to ",
+            "start": 2.545,
+            "end": 2.621
+          },
+          {
+            "word": "recovery. ",
+            "start": 2.632,
+            "end": 3.132
+          },
+          {
+            "word": "Countries ",
+            "start": 3.876,
+            "end": 4.289
+          },
+          {
+            "word": "carrying ",
+            "start": 4.3,
+            "end": 4.691
+          },
+          {
+            "word": "unsustainable ",
+            "start": 4.702,
+            "end": 5.343
+          },
+          {
+            "word": "debt ",
+            "start": 5.354,
+            "end": 5.539
+          },
+          {
+            "word": "burdens ",
+            "start": 5.55,
+            "end": 5.908
+          },
+          {
+            "word": "had ",
+            "start": 5.919,
+            "end": 6.028
+          },
+          {
+            "word": "no ",
+            "start": 6.039,
+            "end": 6.245
+          },
+          {
+            "word": "incentive ",
+            "start": 6.256,
+            "end": 6.68
+          },
+          {
+            "word": "to ",
+            "start": 6.691,
+            "end": 6.767
+          },
+          {
+            "word": "implement ",
+            "start": 6.778,
+            "end": 7.126
+          },
+          {
+            "word": "growth ",
+            "start": 7.136,
+            "end": 7.408
+          },
+          {
+            "word": "reforms — ",
+            "start": 7.419,
+            "end": 7.919
+          },
+          {
+            "word": "all ",
+            "start": 8.126,
+            "end": 8.343
+          },
+          {
+            "word": "additional ",
+            "start": 8.354,
+            "end": 8.734
+          },
+          {
+            "word": "output ",
+            "start": 8.745,
+            "end": 9.093
+          },
+          {
+            "word": "would ",
+            "start": 9.104,
+            "end": 9.223
+          },
+          {
+            "word": "flow ",
+            "start": 9.234,
+            "end": 9.484
+          },
+          {
+            "word": "to ",
+            "start": 9.495,
+            "end": 9.582
+          },
+          {
+            "word": "foreign ",
+            "start": 9.593,
+            "end": 9.886
+          },
+          {
+            "word": "creditors ",
+            "start": 9.897,
+            "end": 10.31
+          },
+          {
+            "word": "rather ",
+            "start": 10.321,
+            "end": 10.626
+          },
+          {
+            "word": "than ",
+            "start": 10.636,
+            "end": 10.767
+          },
+          {
+            "word": "to ",
+            "start": 10.778,
+            "end": 10.854
+          },
+          {
+            "word": "domestic ",
+            "start": 10.865,
+            "end": 11.256
+          },
+          {
+            "word": "investment. ",
+            "start": 11.267,
+            "end": 11.832
+          },
+          {
+            "word": "This ",
+            "start": 12.582,
+            "end": 12.854
+          },
+          {
+            "word": "debt-overhang ",
+            "start": 12.865,
+            "end": 13.43
+          },
+          {
+            "word": "trap ",
+            "start": 13.441,
+            "end": 13.723
+          },
+          {
+            "word": "was ",
+            "start": 13.734,
+            "end": 13.854
+          },
+          {
+            "word": "not ",
+            "start": 13.865,
+            "end": 14.049
+          },
+          {
+            "word": "initially ",
+            "start": 14.06,
+            "end": 14.386
+          },
+          {
+            "word": "recognized ",
+            "start": 14.397,
+            "end": 14.952
+          },
+          {
+            "word": "by ",
+            "start": 14.963,
+            "end": 15.071
+          },
+          {
+            "word": "creditors ",
+            "start": 15.082,
+            "end": 15.528
+          },
+          {
+            "word": "or ",
+            "start": 15.539,
+            "end": 15.658
+          },
+          {
+            "word": "the ",
+            "start": 15.669,
+            "end": 15.81
+          },
+          {
+            "word": "IMF.",
+            "start": 15.821,
+            "end": 16.397
+          }
+        ],
+        "start": 1142
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep12_problems_3",
+        "audio_exists": true,
+        "audioPath": "episodes/ep12/audio/ep12_problems_3.wav",
+        "text": "The 1980s became a lost decade for Latin America. Per capita GDP fell across the region. Inflation, in some countries, reached hyperinflationary levels — Bolivia hit fifty thousand percent annually in 1985. Poverty rates rose sharply. The social costs of the adjustment were borne primarily by the poor.",
+        "duration": 599,
+        "bgImage": "bg_imf_meeting.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "1980s ",
+            "start": 0.241,
+            "end": 0.926
+          },
+          {
+            "word": "became ",
+            "start": 0.936,
+            "end": 1.197
+          },
+          {
+            "word": "a ",
+            "start": 1.208,
+            "end": 1.241
+          },
+          {
+            "word": "lost ",
+            "start": 1.252,
+            "end": 1.48
+          },
+          {
+            "word": "decade ",
+            "start": 1.491,
+            "end": 1.817
+          },
+          {
+            "word": "for ",
+            "start": 1.828,
+            "end": 1.915
+          },
+          {
+            "word": "Latin ",
+            "start": 1.926,
+            "end": 2.208
+          },
+          {
+            "word": "America. ",
+            "start": 2.219,
+            "end": 2.676
+          },
+          {
+            "word": "Per ",
+            "start": 3.419,
+            "end": 3.56
+          },
+          {
+            "word": "capita ",
+            "start": 3.571,
+            "end": 3.941
+          },
+          {
+            "word": "GDP ",
+            "start": 3.952,
+            "end": 4.463
+          },
+          {
+            "word": "fell ",
+            "start": 4.473,
+            "end": 4.669
+          },
+          {
+            "word": "across ",
+            "start": 4.68,
+            "end": 4.984
+          },
+          {
+            "word": "the ",
+            "start": 4.995,
+            "end": 5.082
+          },
+          {
+            "word": "region. ",
+            "start": 5.093,
+            "end": 5.549
+          },
+          {
+            "word": "Inflation, ",
+            "start": 6.3,
+            "end": 6.919
+          },
+          {
+            "word": "in ",
+            "start": 7.06,
+            "end": 7.169
+          },
+          {
+            "word": "some ",
+            "start": 7.18,
+            "end": 7.376
+          },
+          {
+            "word": "countries, ",
+            "start": 7.386,
+            "end": 7.897
+          },
+          {
+            "word": "reached ",
+            "start": 8.05,
+            "end": 8.289
+          },
+          {
+            "word": "hyperinflationary ",
+            "start": 8.3,
+            "end": 9.136
+          },
+          {
+            "word": "levels — ",
+            "start": 9.147,
+            "end": 9.615
+          },
+          {
+            "word": "Bolivia ",
+            "start": 9.778,
+            "end": 10.126
+          },
+          {
+            "word": "hit ",
+            "start": 10.136,
+            "end": 10.343
+          },
+          {
+            "word": "fifty ",
+            "start": 10.354,
+            "end": 10.626
+          },
+          {
+            "word": "thousand ",
+            "start": 10.636,
+            "end": 11.017
+          },
+          {
+            "word": "percent ",
+            "start": 11.028,
+            "end": 11.386
+          },
+          {
+            "word": "annually ",
+            "start": 11.397,
+            "end": 11.702
+          },
+          {
+            "word": "in 1985. ",
+            "start": 11.713,
+            "end": 12.973
+          },
+          {
+            "word": "Poverty ",
+            "start": 13.723,
+            "end": 14.093
+          },
+          {
+            "word": "rates ",
+            "start": 14.104,
+            "end": 14.386
+          },
+          {
+            "word": "rose ",
+            "start": 14.397,
+            "end": 14.658
+          },
+          {
+            "word": "sharply. ",
+            "start": 14.669,
+            "end": 15.104
+          },
+          {
+            "word": "The ",
+            "start": 15.854,
+            "end": 15.995
+          },
+          {
+            "word": "social ",
+            "start": 16.006,
+            "end": 16.332
+          },
+          {
+            "word": "costs ",
+            "start": 16.343,
+            "end": 16.647
+          },
+          {
+            "word": "of ",
+            "start": 16.658,
+            "end": 16.723
+          },
+          {
+            "word": "the ",
+            "start": 16.734,
+            "end": 16.821
+          },
+          {
+            "word": "adjustment ",
+            "start": 16.832,
+            "end": 17.234
+          },
+          {
+            "word": "were ",
+            "start": 17.245,
+            "end": 17.343
+          },
+          {
+            "word": "borne ",
+            "start": 17.354,
+            "end": 17.615
+          },
+          {
+            "word": "primarily ",
+            "start": 17.626,
+            "end": 18.115
+          },
+          {
+            "word": "by ",
+            "start": 18.126,
+            "end": 18.289
+          },
+          {
+            "word": "the ",
+            "start": 18.3,
+            "end": 18.386
+          },
+          {
+            "word": "poor.",
+            "start": 18.397,
+            "end": 18.767
+          }
+        ],
+        "start": 1669
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep12_problems_4",
+        "audio_exists": true,
+        "audioPath": "episodes/ep12/audio/ep12_problems_4.wav",
+        "text": "The political costs were equally severe. Democratic transitions in Argentina and Brazil occurred against a backdrop of economic crisis. Governments that promised recovery and delivered austerity fell. The capacity of democratic institutions to manage economic shocks was tested severely.",
+        "duration": 502,
+        "bgImage": "bg_breadline.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.241
+          },
+          {
+            "word": "political ",
+            "start": 0.252,
+            "end": 0.686
+          },
+          {
+            "word": "costs ",
+            "start": 0.697,
+            "end": 1.034
+          },
+          {
+            "word": "were ",
+            "start": 1.045,
+            "end": 1.165
+          },
+          {
+            "word": "equally ",
+            "start": 1.176,
+            "end": 1.567
+          },
+          {
+            "word": "severe. ",
+            "start": 1.578,
+            "end": 2.067
+          },
+          {
+            "word": "Democratic ",
+            "start": 2.81,
+            "end": 3.343
+          },
+          {
+            "word": "transitions ",
+            "start": 3.354,
+            "end": 3.876
+          },
+          {
+            "word": "in ",
+            "start": 3.886,
+            "end": 3.973
+          },
+          {
+            "word": "Argentina ",
+            "start": 3.984,
+            "end": 4.615
+          },
+          {
+            "word": "and ",
+            "start": 4.626,
+            "end": 4.734
+          },
+          {
+            "word": "Brazil ",
+            "start": 4.745,
+            "end": 5.028
+          },
+          {
+            "word": "occurred ",
+            "start": 5.039,
+            "end": 5.354
+          },
+          {
+            "word": "against ",
+            "start": 5.365,
+            "end": 5.658
+          },
+          {
+            "word": "a ",
+            "start": 5.669,
+            "end": 5.723
+          },
+          {
+            "word": "backdrop ",
+            "start": 5.734,
+            "end": 6.147
+          },
+          {
+            "word": "of ",
+            "start": 6.158,
+            "end": 6.234
+          },
+          {
+            "word": "economic ",
+            "start": 6.245,
+            "end": 6.647
+          },
+          {
+            "word": "crisis. ",
+            "start": 6.658,
+            "end": 7.223
+          },
+          {
+            "word": "Governments ",
+            "start": 7.973,
+            "end": 8.43
+          },
+          {
+            "word": "that ",
+            "start": 8.441,
+            "end": 8.571
+          },
+          {
+            "word": "promised ",
+            "start": 8.582,
+            "end": 8.886
+          },
+          {
+            "word": "recovery ",
+            "start": 8.897,
+            "end": 9.332
+          },
+          {
+            "word": "and ",
+            "start": 9.343,
+            "end": 9.484
+          },
+          {
+            "word": "delivered ",
+            "start": 9.495,
+            "end": 9.832
+          },
+          {
+            "word": "austerity ",
+            "start": 9.843,
+            "end": 10.343
+          },
+          {
+            "word": "fell. ",
+            "start": 10.354,
+            "end": 10.723
+          },
+          {
+            "word": "The ",
+            "start": 11.473,
+            "end": 11.593
+          },
+          {
+            "word": "capacity ",
+            "start": 11.604,
+            "end": 12.126
+          },
+          {
+            "word": "of ",
+            "start": 12.136,
+            "end": 12.223
+          },
+          {
+            "word": "democratic ",
+            "start": 12.234,
+            "end": 12.745
+          },
+          {
+            "word": "institutions ",
+            "start": 12.756,
+            "end": 13.365
+          },
+          {
+            "word": "to ",
+            "start": 13.376,
+            "end": 13.463
+          },
+          {
+            "word": "manage ",
+            "start": 13.473,
+            "end": 13.756
+          },
+          {
+            "word": "economic ",
+            "start": 13.767,
+            "end": 14.191
+          },
+          {
+            "word": "shocks ",
+            "start": 14.202,
+            "end": 14.528
+          },
+          {
+            "word": "was ",
+            "start": 14.539,
+            "end": 14.702
+          },
+          {
+            "word": "tested ",
+            "start": 14.713,
+            "end": 15.06
+          },
+          {
+            "word": "severely.",
+            "start": 15.071,
+            "end": 15.56
+          }
+        ],
+        "start": 2268
+      }
+    ]
+  },
+  {
+    "id": "ep12_solutions",
+    "title": "Solutions",
+    "globalStart": 6059,
+    "duration": 2683,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Solutions"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep12_solutions_0",
+        "audio_exists": true,
+        "audioPath": "episodes/ep12/audio/ep12_solutions_0.wav",
+        "text": "The initial approach — 'extend and pretend' — sought to prevent defaults by rolling over existing debts with new loans. The logic was that a liquidity crisis, not a solvency crisis, was the problem. If banks kept lending and countries kept paying, the crisis would resolve. This logic proved wrong.",
+        "duration": 529,
+        "bgImage": "bg_imf_meeting.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.252
+          },
+          {
+            "word": "initial ",
+            "start": 0.263,
+            "end": 0.545
+          },
+          {
+            "word": "approach — '",
+            "start": 0.556,
+            "end": 0.915
+          },
+          {
+            "word": "extend ",
+            "start": 1.067,
+            "end": 1.415
+          },
+          {
+            "word": "and ",
+            "start": 1.426,
+            "end": 1.513
+          },
+          {
+            "word": "pretend' — ",
+            "start": 1.523,
+            "end": 1.926
+          },
+          {
+            "word": "sought ",
+            "start": 2.132,
+            "end": 2.306
+          },
+          {
+            "word": "to ",
+            "start": 2.317,
+            "end": 2.371
+          },
+          {
+            "word": "prevent ",
+            "start": 2.382,
+            "end": 2.686
+          },
+          {
+            "word": "defaults ",
+            "start": 2.697,
+            "end": 3.089
+          },
+          {
+            "word": "by ",
+            "start": 3.1,
+            "end": 3.241
+          },
+          {
+            "word": "rolling ",
+            "start": 3.252,
+            "end": 3.654
+          },
+          {
+            "word": "over ",
+            "start": 3.665,
+            "end": 3.871
+          },
+          {
+            "word": "existing ",
+            "start": 3.882,
+            "end": 4.306
+          },
+          {
+            "word": "debts ",
+            "start": 4.317,
+            "end": 4.556
+          },
+          {
+            "word": "with ",
+            "start": 4.567,
+            "end": 4.686
+          },
+          {
+            "word": "new ",
+            "start": 4.697,
+            "end": 4.904
+          },
+          {
+            "word": "loans. ",
+            "start": 4.915,
+            "end": 5.469
+          },
+          {
+            "word": "The ",
+            "start": 6.213,
+            "end": 6.332
+          },
+          {
+            "word": "logic ",
+            "start": 6.343,
+            "end": 6.658
+          },
+          {
+            "word": "was ",
+            "start": 6.669,
+            "end": 6.778
+          },
+          {
+            "word": "that ",
+            "start": 6.789,
+            "end": 6.919
+          },
+          {
+            "word": "a ",
+            "start": 6.93,
+            "end": 6.973
+          },
+          {
+            "word": "liquidity ",
+            "start": 6.984,
+            "end": 7.43
+          },
+          {
+            "word": "crisis, ",
+            "start": 7.441,
+            "end": 7.984
+          },
+          {
+            "word": "not ",
+            "start": 8.169,
+            "end": 8.31
+          },
+          {
+            "word": "a ",
+            "start": 8.321,
+            "end": 8.376
+          },
+          {
+            "word": "solvency ",
+            "start": 8.386,
+            "end": 8.843
+          },
+          {
+            "word": "crisis, ",
+            "start": 8.854,
+            "end": 9.386
+          },
+          {
+            "word": "was ",
+            "start": 9.539,
+            "end": 9.658
+          },
+          {
+            "word": "the ",
+            "start": 9.669,
+            "end": 9.745
+          },
+          {
+            "word": "problem. ",
+            "start": 9.756,
+            "end": 10.202
+          },
+          {
+            "word": "If ",
+            "start": 10.952,
+            "end": 11.147
+          },
+          {
+            "word": "banks ",
+            "start": 11.158,
+            "end": 11.408
+          },
+          {
+            "word": "kept ",
+            "start": 11.419,
+            "end": 11.647
+          },
+          {
+            "word": "lending ",
+            "start": 11.658,
+            "end": 11.995
+          },
+          {
+            "word": "and ",
+            "start": 12.006,
+            "end": 12.093
+          },
+          {
+            "word": "countries ",
+            "start": 12.104,
+            "end": 12.495
+          },
+          {
+            "word": "kept ",
+            "start": 12.506,
+            "end": 12.723
+          },
+          {
+            "word": "paying, ",
+            "start": 12.734,
+            "end": 13.06
+          },
+          {
+            "word": "the ",
+            "start": 13.256,
+            "end": 13.332
+          },
+          {
+            "word": "crisis ",
+            "start": 13.343,
+            "end": 13.745
+          },
+          {
+            "word": "would ",
+            "start": 13.756,
+            "end": 13.876
+          },
+          {
+            "word": "resolve. ",
+            "start": 13.886,
+            "end": 14.452
+          },
+          {
+            "word": "This ",
+            "start": 15.202,
+            "end": 15.408
+          },
+          {
+            "word": "logic ",
+            "start": 15.419,
+            "end": 15.734
+          },
+          {
+            "word": "proved ",
+            "start": 15.745,
+            "end": 16.06
+          },
+          {
+            "word": "wrong.",
+            "start": 16.071,
+            "end": 16.463
+          }
+        ],
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep12_solutions_1",
+        "audio_exists": true,
+        "audioPath": "episodes/ep12/audio/ep12_solutions_1.wav",
+        "text": "The Baker Plan of 1985 acknowledged that growth, not just austerity, was needed. It called for fifteen billion dollars in new commercial bank lending and structural reforms. The commercial banks, recognizing the loans as non-performing, were unwilling to extend further credit. The plan failed to mobilize the financing it promised.",
+        "duration": 583,
+        "bgImage": "bg_global_map.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "Baker ",
+            "start": 0.241,
+            "end": 0.502
+          },
+          {
+            "word": "Plan ",
+            "start": 0.513,
+            "end": 0.73
+          },
+          {
+            "word": "of ",
+            "start": 0.741,
+            "end": 0.806
+          },
+          {
+            "word": "1985 ",
+            "start": 0.817,
+            "end": 1.763
+          },
+          {
+            "word": "acknowledged ",
+            "start": 1.773,
+            "end": 2.186
+          },
+          {
+            "word": "that ",
+            "start": 2.197,
+            "end": 2.328
+          },
+          {
+            "word": "growth, ",
+            "start": 2.339,
+            "end": 2.741
+          },
+          {
+            "word": "not ",
+            "start": 2.86,
+            "end": 3.023
+          },
+          {
+            "word": "just ",
+            "start": 3.034,
+            "end": 3.252
+          },
+          {
+            "word": "austerity, ",
+            "start": 3.263,
+            "end": 3.752
+          },
+          {
+            "word": "was ",
+            "start": 3.86,
+            "end": 4.002
+          },
+          {
+            "word": "needed. ",
+            "start": 4.013,
+            "end": 4.436
+          },
+          {
+            "word": "It ",
+            "start": 5.18,
+            "end": 5.343
+          },
+          {
+            "word": "called ",
+            "start": 5.354,
+            "end": 5.582
+          },
+          {
+            "word": "for ",
+            "start": 5.593,
+            "end": 5.702
+          },
+          {
+            "word": "fifteen ",
+            "start": 5.713,
+            "end": 6.147
+          },
+          {
+            "word": "billion ",
+            "start": 6.158,
+            "end": 6.473
+          },
+          {
+            "word": "dollars ",
+            "start": 6.484,
+            "end": 6.799
+          },
+          {
+            "word": "in ",
+            "start": 6.81,
+            "end": 6.919
+          },
+          {
+            "word": "new ",
+            "start": 6.93,
+            "end": 7.115
+          },
+          {
+            "word": "commercial ",
+            "start": 7.126,
+            "end": 7.56
+          },
+          {
+            "word": "bank ",
+            "start": 7.571,
+            "end": 7.778
+          },
+          {
+            "word": "lending ",
+            "start": 7.789,
+            "end": 8.126
+          },
+          {
+            "word": "and ",
+            "start": 8.136,
+            "end": 8.256
+          },
+          {
+            "word": "structural ",
+            "start": 8.267,
+            "end": 8.778
+          },
+          {
+            "word": "reforms. ",
+            "start": 8.789,
+            "end": 9.43
+          },
+          {
+            "word": "The ",
+            "start": 10.18,
+            "end": 10.31
+          },
+          {
+            "word": "commercial ",
+            "start": 10.321,
+            "end": 10.745
+          },
+          {
+            "word": "banks, ",
+            "start": 10.756,
+            "end": 11.136
+          },
+          {
+            "word": "recognizing ",
+            "start": 11.332,
+            "end": 11.876
+          },
+          {
+            "word": "the ",
+            "start": 11.886,
+            "end": 11.952
+          },
+          {
+            "word": "loans ",
+            "start": 11.963,
+            "end": 12.321
+          },
+          {
+            "word": "as ",
+            "start": 12.332,
+            "end": 12.452
+          },
+          {
+            "word": "non-performing, ",
+            "start": 12.463,
+            "end": 13.082
+          },
+          {
+            "word": "were ",
+            "start": 13.289,
+            "end": 13.397
+          },
+          {
+            "word": "unwilling ",
+            "start": 13.408,
+            "end": 13.799
+          },
+          {
+            "word": "to ",
+            "start": 13.81,
+            "end": 13.908
+          },
+          {
+            "word": "extend ",
+            "start": 13.919,
+            "end": 14.321
+          },
+          {
+            "word": "further ",
+            "start": 14.332,
+            "end": 14.593
+          },
+          {
+            "word": "credit. ",
+            "start": 14.604,
+            "end": 15.017
+          },
+          {
+            "word": "The ",
+            "start": 15.767,
+            "end": 15.897
+          },
+          {
+            "word": "plan ",
+            "start": 15.908,
+            "end": 16.136
+          },
+          {
+            "word": "failed ",
+            "start": 16.147,
+            "end": 16.441
+          },
+          {
+            "word": "to ",
+            "start": 16.452,
+            "end": 16.506
+          },
+          {
+            "word": "mobilize ",
+            "start": 16.517,
+            "end": 17.017
+          },
+          {
+            "word": "the ",
+            "start": 17.028,
+            "end": 17.104
+          },
+          {
+            "word": "financing ",
+            "start": 17.115,
+            "end": 17.68
+          },
+          {
+            "word": "it ",
+            "start": 17.691,
+            "end": 17.778
+          },
+          {
+            "word": "promised.",
+            "start": 17.789,
+            "end": 18.267
+          }
+        ],
+        "start": 619
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep12_solutions_2",
+        "audio_exists": true,
+        "audioPath": "episodes/ep12/audio/ep12_solutions_2.wav",
+        "text": "The Brady Plan of 1989, named for Treasury Secretary Nicholas Brady, was the turning point. It acknowledged that the debt burden was too large to be repaid in full. Countries would exchange existing bank loans for 'Brady bonds' — securities backed by US Treasury zero-coupon bonds that guaranteed repayment of principal, with partial forgiveness of the outstanding debt.",
+        "duration": 605,
+        "bgImage": "bg_fed_building.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.241
+          },
+          {
+            "word": "Brady ",
+            "start": 0.252,
+            "end": 0.545
+          },
+          {
+            "word": "Plan ",
+            "start": 0.556,
+            "end": 0.763
+          },
+          {
+            "word": "of ",
+            "start": 0.773,
+            "end": 0.849
+          },
+          {
+            "word": "1989, ",
+            "start": 0.86,
+            "end": 1.784
+          },
+          {
+            "word": "named ",
+            "start": 1.915,
+            "end": 2.143
+          },
+          {
+            "word": "for ",
+            "start": 2.154,
+            "end": 2.241
+          },
+          {
+            "word": "Treasury ",
+            "start": 2.252,
+            "end": 2.578
+          },
+          {
+            "word": "Secretary ",
+            "start": 2.589,
+            "end": 3.013
+          },
+          {
+            "word": "Nicholas ",
+            "start": 3.023,
+            "end": 3.404
+          },
+          {
+            "word": "Brady, ",
+            "start": 3.415,
+            "end": 3.784
+          },
+          {
+            "word": "was ",
+            "start": 3.915,
+            "end": 4.034
+          },
+          {
+            "word": "the ",
+            "start": 4.045,
+            "end": 4.121
+          },
+          {
+            "word": "turning ",
+            "start": 4.132,
+            "end": 4.491
+          },
+          {
+            "word": "point. ",
+            "start": 4.502,
+            "end": 4.915
+          },
+          {
+            "word": "It ",
+            "start": 5.658,
+            "end": 5.832
+          },
+          {
+            "word": "acknowledged ",
+            "start": 5.843,
+            "end": 6.256
+          },
+          {
+            "word": "that ",
+            "start": 6.267,
+            "end": 6.354
+          },
+          {
+            "word": "the ",
+            "start": 6.365,
+            "end": 6.441
+          },
+          {
+            "word": "debt ",
+            "start": 6.452,
+            "end": 6.68
+          },
+          {
+            "word": "burden ",
+            "start": 6.691,
+            "end": 6.995
+          },
+          {
+            "word": "was ",
+            "start": 7.006,
+            "end": 7.158
+          },
+          {
+            "word": "too ",
+            "start": 7.169,
+            "end": 7.354
+          },
+          {
+            "word": "large ",
+            "start": 7.365,
+            "end": 7.723
+          },
+          {
+            "word": "to ",
+            "start": 7.734,
+            "end": 7.81
+          },
+          {
+            "word": "be ",
+            "start": 7.821,
+            "end": 7.897
+          },
+          {
+            "word": "repaid ",
+            "start": 7.908,
+            "end": 8.278
+          },
+          {
+            "word": "in ",
+            "start": 8.289,
+            "end": 8.376
+          },
+          {
+            "word": "full. ",
+            "start": 8.386,
+            "end": 8.756
+          },
+          {
+            "word": "Countries ",
+            "start": 9.506,
+            "end": 9.919
+          },
+          {
+            "word": "would ",
+            "start": 9.93,
+            "end": 10.049
+          },
+          {
+            "word": "exchange ",
+            "start": 10.06,
+            "end": 10.463
+          },
+          {
+            "word": "existing ",
+            "start": 10.473,
+            "end": 10.908
+          },
+          {
+            "word": "bank ",
+            "start": 10.919,
+            "end": 11.158
+          },
+          {
+            "word": "loans ",
+            "start": 11.169,
+            "end": 11.506
+          },
+          {
+            "word": "for '",
+            "start": 11.517,
+            "end": 11.604
+          },
+          {
+            "word": "Brady ",
+            "start": 11.691,
+            "end": 11.984
+          },
+          {
+            "word": "bonds' — ",
+            "start": 11.995,
+            "end": 12.332
+          },
+          {
+            "word": "securities ",
+            "start": 12.484,
+            "end": 12.995
+          },
+          {
+            "word": "backed ",
+            "start": 13.006,
+            "end": 13.278
+          },
+          {
+            "word": "by ",
+            "start": 13.289,
+            "end": 13.419
+          },
+          {
+            "word": "US ",
+            "start": 13.43,
+            "end": 13.81
+          },
+          {
+            "word": "Treasury ",
+            "start": 13.821,
+            "end": 14.169
+          },
+          {
+            "word": "zero-coupon ",
+            "start": 14.18,
+            "end": 14.843
+          },
+          {
+            "word": "bonds ",
+            "start": 14.854,
+            "end": 15.115
+          },
+          {
+            "word": "that ",
+            "start": 15.126,
+            "end": 15.256
+          },
+          {
+            "word": "guaranteed ",
+            "start": 15.267,
+            "end": 15.734
+          },
+          {
+            "word": "repayment ",
+            "start": 15.745,
+            "end": 16.18
+          },
+          {
+            "word": "of ",
+            "start": 16.191,
+            "end": 16.278
+          },
+          {
+            "word": "principal, ",
+            "start": 16.289,
+            "end": 16.745
+          },
+          {
+            "word": "with ",
+            "start": 16.919,
+            "end": 17.017
+          },
+          {
+            "word": "partial ",
+            "start": 17.028,
+            "end": 17.354
+          },
+          {
+            "word": "forgiveness ",
+            "start": 17.365,
+            "end": 17.81
+          },
+          {
+            "word": "of ",
+            "start": 17.821,
+            "end": 17.908
+          },
+          {
+            "word": "the ",
+            "start": 17.919,
+            "end": 18.028
+          },
+          {
+            "word": "outstanding ",
+            "start": 18.039,
+            "end": 18.647
+          },
+          {
+            "word": "debt.",
+            "start": 18.658,
+            "end": 18.984
+          }
+        ],
+        "start": 1202
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep12_solutions_3",
+        "audio_exists": true,
+        "audioPath": "episodes/ep12/audio/ep12_solutions_3.wav",
+        "text": "Brady bonds achieved what extend-and-pretend could not: they reduced the face value of the debt to a sustainable level while giving creditors tradeable securities. Banks could book a loss, move the asset off their balance sheets, and stop being exposed to the indebted countries. The secondary market for developing-country debt was born.",
+        "duration": 530,
+        "bgImage": "bg_recovery.jpg",
+        "wordTimings": [
+          {
+            "word": "Brady ",
+            "start": 0.1,
+            "end": 0.458
+          },
+          {
+            "word": "bonds ",
+            "start": 0.469,
+            "end": 0.719
+          },
+          {
+            "word": "achieved ",
+            "start": 0.73,
+            "end": 1.078
+          },
+          {
+            "word": "what ",
+            "start": 1.089,
+            "end": 1.23
+          },
+          {
+            "word": "extend-and-pretend ",
+            "start": 1.241,
+            "end": 2.034
+          },
+          {
+            "word": "could ",
+            "start": 2.045,
+            "end": 2.165
+          },
+          {
+            "word": "not: ",
+            "start": 2.176,
+            "end": 2.447
+          },
+          {
+            "word": "they ",
+            "start": 2.632,
+            "end": 2.719
+          },
+          {
+            "word": "reduced ",
+            "start": 2.73,
+            "end": 3.132
+          },
+          {
+            "word": "the ",
+            "start": 3.143,
+            "end": 3.208
+          },
+          {
+            "word": "face ",
+            "start": 3.219,
+            "end": 3.502
+          },
+          {
+            "word": "value ",
+            "start": 3.513,
+            "end": 3.806
+          },
+          {
+            "word": "of ",
+            "start": 3.817,
+            "end": 3.871
+          },
+          {
+            "word": "the ",
+            "start": 3.882,
+            "end": 3.98
+          },
+          {
+            "word": "debt ",
+            "start": 3.991,
+            "end": 4.186
+          },
+          {
+            "word": "to ",
+            "start": 4.197,
+            "end": 4.306
+          },
+          {
+            "word": "a ",
+            "start": 4.317,
+            "end": 4.371
+          },
+          {
+            "word": "sustainable ",
+            "start": 4.382,
+            "end": 4.936
+          },
+          {
+            "word": "level ",
+            "start": 4.947,
+            "end": 5.219
+          },
+          {
+            "word": "while ",
+            "start": 5.23,
+            "end": 5.393
+          },
+          {
+            "word": "giving ",
+            "start": 5.404,
+            "end": 5.654
+          },
+          {
+            "word": "creditors ",
+            "start": 5.665,
+            "end": 6.045
+          },
+          {
+            "word": "tradeable ",
+            "start": 6.056,
+            "end": 6.469
+          },
+          {
+            "word": "securities. ",
+            "start": 6.48,
+            "end": 7.219
+          },
+          {
+            "word": "Banks ",
+            "start": 7.963,
+            "end": 8.278
+          },
+          {
+            "word": "could ",
+            "start": 8.289,
+            "end": 8.452
+          },
+          {
+            "word": "book ",
+            "start": 8.463,
+            "end": 8.604
+          },
+          {
+            "word": "a ",
+            "start": 8.615,
+            "end": 8.658
+          },
+          {
+            "word": "loss, ",
+            "start": 8.669,
+            "end": 9.039
+          },
+          {
+            "word": "move ",
+            "start": 9.169,
+            "end": 9.386
+          },
+          {
+            "word": "the ",
+            "start": 9.397,
+            "end": 9.506
+          },
+          {
+            "word": "asset ",
+            "start": 9.517,
+            "end": 9.821
+          },
+          {
+            "word": "off ",
+            "start": 9.832,
+            "end": 9.973
+          },
+          {
+            "word": "their ",
+            "start": 9.984,
+            "end": 10.082
+          },
+          {
+            "word": "balance ",
+            "start": 10.093,
+            "end": 10.419
+          },
+          {
+            "word": "sheets, ",
+            "start": 10.43,
+            "end": 10.778
+          },
+          {
+            "word": "and ",
+            "start": 10.963,
+            "end": 11.06
+          },
+          {
+            "word": "stop ",
+            "start": 11.071,
+            "end": 11.354
+          },
+          {
+            "word": "being ",
+            "start": 11.365,
+            "end": 11.571
+          },
+          {
+            "word": "exposed ",
+            "start": 11.582,
+            "end": 12.017
+          },
+          {
+            "word": "to ",
+            "start": 12.028,
+            "end": 12.082
+          },
+          {
+            "word": "the ",
+            "start": 12.093,
+            "end": 12.18
+          },
+          {
+            "word": "indebted ",
+            "start": 12.191,
+            "end": 12.549
+          },
+          {
+            "word": "countries. ",
+            "start": 12.56,
+            "end": 13.158
+          },
+          {
+            "word": "The ",
+            "start": 13.908,
+            "end": 14.06
+          },
+          {
+            "word": "secondary ",
+            "start": 14.071,
+            "end": 14.441
+          },
+          {
+            "word": "market ",
+            "start": 14.452,
+            "end": 14.81
+          },
+          {
+            "word": "for ",
+            "start": 14.821,
+            "end": 14.897
+          },
+          {
+            "word": "developing-country ",
+            "start": 14.908,
+            "end": 15.658
+          },
+          {
+            "word": "debt ",
+            "start": 15.669,
+            "end": 15.897
+          },
+          {
+            "word": "was ",
+            "start": 15.908,
+            "end": 16.039
+          },
+          {
+            "word": "born.",
+            "start": 16.05,
+            "end": 16.484
+          }
+        ],
+        "start": 1807
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep12_solutions_4",
+        "audio_exists": true,
+        "audioPath": "episodes/ep12/audio/ep12_solutions_4.wav",
+        "text": "Mexico's Brady deal in 1990 was followed by Venezuela, Costa Rica, Argentina, Brazil, and others. The crisis formally ended through debt restructuring, not repayment.",
+        "duration": 346,
+        "bgImage": "bg_imf_meeting.jpg",
+        "wordTimings": [
+          {
+            "word": "Mexico's ",
+            "start": 0.1,
+            "end": 0.643
+          },
+          {
+            "word": "Brady ",
+            "start": 0.654,
+            "end": 0.958
+          },
+          {
+            "word": "deal ",
+            "start": 0.969,
+            "end": 1.23
+          },
+          {
+            "word": "in 1990 ",
+            "start": 1.241,
+            "end": 2.013
+          },
+          {
+            "word": "was ",
+            "start": 2.023,
+            "end": 2.154
+          },
+          {
+            "word": "followed ",
+            "start": 2.165,
+            "end": 2.469
+          },
+          {
+            "word": "by ",
+            "start": 2.48,
+            "end": 2.599
+          },
+          {
+            "word": "Venezuela, ",
+            "start": 2.61,
+            "end": 3.263
+          },
+          {
+            "word": "Costa ",
+            "start": 3.436,
+            "end": 3.719
+          },
+          {
+            "word": "Rica, ",
+            "start": 3.73,
+            "end": 4.067
+          },
+          {
+            "word": "Argentina, ",
+            "start": 4.328,
+            "end": 4.958
+          },
+          {
+            "word": "Brazil, ",
+            "start": 5.208,
+            "end": 5.61
+          },
+          {
+            "word": "and ",
+            "start": 5.773,
+            "end": 5.871
+          },
+          {
+            "word": "others. ",
+            "start": 5.882,
+            "end": 6.284
+          },
+          {
+            "word": "The ",
+            "start": 7.028,
+            "end": 7.158
+          },
+          {
+            "word": "crisis ",
+            "start": 7.169,
+            "end": 7.571
+          },
+          {
+            "word": "formally ",
+            "start": 7.582,
+            "end": 7.973
+          },
+          {
+            "word": "ended ",
+            "start": 7.984,
+            "end": 8.234
+          },
+          {
+            "word": "through ",
+            "start": 8.245,
+            "end": 8.473
+          },
+          {
+            "word": "debt ",
+            "start": 8.484,
+            "end": 8.702
+          },
+          {
+            "word": "restructuring, ",
+            "start": 8.713,
+            "end": 9.386
+          },
+          {
+            "word": "not ",
+            "start": 9.582,
+            "end": 9.789
+          },
+          {
+            "word": "repayment.",
+            "start": 9.8,
+            "end": 10.354
+          }
+        ],
+        "start": 2337
+      }
+    ]
+  },
+  {
+    "id": "ep12_results",
+    "title": "Results",
+    "globalStart": 8742,
+    "duration": 2981,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Results"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep12_results_0",
+        "audio_exists": true,
+        "audioPath": "episodes/ep12/audio/ep12_results_0.wav",
+        "text": "Latin America's 'lost decade' resulted in a per capita income loss of roughly eight percent across the region between 1980 and 1990. Poverty rates rose from about forty percent to nearly fifty percent. The human cost of the crisis — measured in health outcomes, education, and child mortality — was severe and persistent.",
+        "duration": 568,
+        "bgImage": "bg_recovery.jpg",
+        "wordTimings": [
+          {
+            "word": "Latin ",
+            "start": 0.1,
+            "end": 0.458
+          },
+          {
+            "word": "America's '",
+            "start": 0.469,
+            "end": 0.893
+          },
+          {
+            "word": "lost ",
+            "start": 1.002,
+            "end": 1.219
+          },
+          {
+            "word": "decade' ",
+            "start": 1.23,
+            "end": 1.556
+          },
+          {
+            "word": "resulted ",
+            "start": 1.621,
+            "end": 2.023
+          },
+          {
+            "word": "in ",
+            "start": 2.034,
+            "end": 2.11
+          },
+          {
+            "word": "a ",
+            "start": 2.121,
+            "end": 2.176
+          },
+          {
+            "word": "per ",
+            "start": 2.186,
+            "end": 2.306
+          },
+          {
+            "word": "capita ",
+            "start": 2.317,
+            "end": 2.665
+          },
+          {
+            "word": "income ",
+            "start": 2.676,
+            "end": 3.013
+          },
+          {
+            "word": "loss ",
+            "start": 3.023,
+            "end": 3.23
+          },
+          {
+            "word": "of ",
+            "start": 3.241,
+            "end": 3.328
+          },
+          {
+            "word": "roughly ",
+            "start": 3.339,
+            "end": 3.654
+          },
+          {
+            "word": "eight ",
+            "start": 3.665,
+            "end": 3.795
+          },
+          {
+            "word": "percent ",
+            "start": 3.806,
+            "end": 4.143
+          },
+          {
+            "word": "across ",
+            "start": 4.154,
+            "end": 4.469
+          },
+          {
+            "word": "the ",
+            "start": 4.48,
+            "end": 4.567
+          },
+          {
+            "word": "region ",
+            "start": 4.578,
+            "end": 4.904
+          },
+          {
+            "word": "between 1980 and 1990. ",
+            "start": 4.915,
+            "end": 6.828
+          },
+          {
+            "word": "Poverty ",
+            "start": 7.571,
+            "end": 7.919
+          },
+          {
+            "word": "rates ",
+            "start": 7.93,
+            "end": 8.202
+          },
+          {
+            "word": "rose ",
+            "start": 8.213,
+            "end": 8.484
+          },
+          {
+            "word": "from ",
+            "start": 8.495,
+            "end": 8.615
+          },
+          {
+            "word": "about ",
+            "start": 8.626,
+            "end": 8.865
+          },
+          {
+            "word": "forty ",
+            "start": 8.876,
+            "end": 9.191
+          },
+          {
+            "word": "percent ",
+            "start": 9.202,
+            "end": 9.539
+          },
+          {
+            "word": "to ",
+            "start": 9.55,
+            "end": 9.626
+          },
+          {
+            "word": "nearly ",
+            "start": 9.636,
+            "end": 9.93
+          },
+          {
+            "word": "fifty ",
+            "start": 9.941,
+            "end": 10.234
+          },
+          {
+            "word": "percent. ",
+            "start": 10.245,
+            "end": 10.702
+          },
+          {
+            "word": "The ",
+            "start": 11.452,
+            "end": 11.571
+          },
+          {
+            "word": "human ",
+            "start": 11.582,
+            "end": 11.908
+          },
+          {
+            "word": "cost ",
+            "start": 11.919,
+            "end": 12.18
+          },
+          {
+            "word": "of ",
+            "start": 12.191,
+            "end": 12.245
+          },
+          {
+            "word": "the ",
+            "start": 12.256,
+            "end": 12.321
+          },
+          {
+            "word": "crisis — ",
+            "start": 12.332,
+            "end": 12.832
+          },
+          {
+            "word": "measured ",
+            "start": 13.006,
+            "end": 13.31
+          },
+          {
+            "word": "in ",
+            "start": 13.321,
+            "end": 13.408
+          },
+          {
+            "word": "health ",
+            "start": 13.419,
+            "end": 13.68
+          },
+          {
+            "word": "outcomes, ",
+            "start": 13.691,
+            "end": 14.278
+          },
+          {
+            "word": "education, ",
+            "start": 14.517,
+            "end": 15.082
+          },
+          {
+            "word": "and ",
+            "start": 15.278,
+            "end": 15.397
+          },
+          {
+            "word": "child ",
+            "start": 15.408,
+            "end": 15.734
+          },
+          {
+            "word": "mortality — ",
+            "start": 15.745,
+            "end": 16.278
+          },
+          {
+            "word": "was ",
+            "start": 16.441,
+            "end": 16.582
+          },
+          {
+            "word": "severe ",
+            "start": 16.593,
+            "end": 17.017
+          },
+          {
+            "word": "and ",
+            "start": 17.028,
+            "end": 17.169
+          },
+          {
+            "word": "persistent.",
+            "start": 17.18,
+            "end": 17.767
+          }
+        ],
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep12_results_1",
+        "audio_exists": true,
+        "audioPath": "episodes/ep12/audio/ep12_results_1.wav",
+        "text": "The Brady Plan enabled recovery. Once debt was restructured to sustainable levels, capital flows returned, domestic investment recovered, and growth resumed. The mechanism was debt relief, not structural adjustment. This lesson — that sovereign debt crises require restructuring, not just rescheduling — became central to subsequent IMF doctrine.",
+        "duration": 622,
+        "bgImage": "bg_global_map.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.241
+          },
+          {
+            "word": "Brady ",
+            "start": 0.252,
+            "end": 0.545
+          },
+          {
+            "word": "Plan ",
+            "start": 0.556,
+            "end": 0.849
+          },
+          {
+            "word": "enabled ",
+            "start": 0.86,
+            "end": 1.23
+          },
+          {
+            "word": "recovery. ",
+            "start": 1.241,
+            "end": 1.697
+          },
+          {
+            "word": "Once ",
+            "start": 2.441,
+            "end": 2.745
+          },
+          {
+            "word": "debt ",
+            "start": 2.756,
+            "end": 2.973
+          },
+          {
+            "word": "was ",
+            "start": 2.984,
+            "end": 3.104
+          },
+          {
+            "word": "restructured ",
+            "start": 3.115,
+            "end": 3.636
+          },
+          {
+            "word": "to ",
+            "start": 3.647,
+            "end": 3.702
+          },
+          {
+            "word": "sustainable ",
+            "start": 3.713,
+            "end": 4.256
+          },
+          {
+            "word": "levels, ",
+            "start": 4.267,
+            "end": 4.713
+          },
+          {
+            "word": "capital ",
+            "start": 4.876,
+            "end": 5.234
+          },
+          {
+            "word": "flows ",
+            "start": 5.245,
+            "end": 5.56
+          },
+          {
+            "word": "returned, ",
+            "start": 5.571,
+            "end": 6.006
+          },
+          {
+            "word": "domestic ",
+            "start": 6.169,
+            "end": 6.571
+          },
+          {
+            "word": "investment ",
+            "start": 6.582,
+            "end": 7.039
+          },
+          {
+            "word": "recovered, ",
+            "start": 7.05,
+            "end": 7.452
+          },
+          {
+            "word": "and ",
+            "start": 7.571,
+            "end": 7.658
+          },
+          {
+            "word": "growth ",
+            "start": 7.669,
+            "end": 7.963
+          },
+          {
+            "word": "resumed. ",
+            "start": 7.973,
+            "end": 8.517
+          },
+          {
+            "word": "The ",
+            "start": 9.267,
+            "end": 9.386
+          },
+          {
+            "word": "mechanism ",
+            "start": 9.397,
+            "end": 9.843
+          },
+          {
+            "word": "was ",
+            "start": 9.854,
+            "end": 9.995
+          },
+          {
+            "word": "debt ",
+            "start": 10.006,
+            "end": 10.245
+          },
+          {
+            "word": "relief, ",
+            "start": 10.256,
+            "end": 10.669
+          },
+          {
+            "word": "not ",
+            "start": 10.821,
+            "end": 10.995
+          },
+          {
+            "word": "structural ",
+            "start": 11.006,
+            "end": 11.517
+          },
+          {
+            "word": "adjustment. ",
+            "start": 11.528,
+            "end": 12.093
+          },
+          {
+            "word": "This ",
+            "start": 12.843,
+            "end": 13.093
+          },
+          {
+            "word": "lesson — ",
+            "start": 13.104,
+            "end": 13.463
+          },
+          {
+            "word": "that ",
+            "start": 13.636,
+            "end": 13.767
+          },
+          {
+            "word": "sovereign ",
+            "start": 13.778,
+            "end": 14.126
+          },
+          {
+            "word": "debt ",
+            "start": 14.136,
+            "end": 14.332
+          },
+          {
+            "word": "crises ",
+            "start": 14.343,
+            "end": 14.767
+          },
+          {
+            "word": "require ",
+            "start": 14.778,
+            "end": 15.18
+          },
+          {
+            "word": "restructuring, ",
+            "start": 15.191,
+            "end": 15.854
+          },
+          {
+            "word": "not ",
+            "start": 16.093,
+            "end": 16.245
+          },
+          {
+            "word": "just ",
+            "start": 16.256,
+            "end": 16.441
+          },
+          {
+            "word": "rescheduling — ",
+            "start": 16.452,
+            "end": 17.06
+          },
+          {
+            "word": "became ",
+            "start": 17.245,
+            "end": 17.549
+          },
+          {
+            "word": "central ",
+            "start": 17.56,
+            "end": 17.93
+          },
+          {
+            "word": "to ",
+            "start": 17.941,
+            "end": 18.017
+          },
+          {
+            "word": "subsequent ",
+            "start": 18.028,
+            "end": 18.593
+          },
+          {
+            "word": "IMF ",
+            "start": 18.604,
+            "end": 19.049
+          },
+          {
+            "word": "doctrine.",
+            "start": 19.06,
+            "end": 19.56
+          }
+        ],
+        "start": 658
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep12_results_2",
+        "audio_exists": true,
+        "audioPath": "episodes/ep12/audio/ep12_results_2.wav",
+        "text": "The crisis reshaped development economics. The Washington Consensus — the package of liberalization, privatization, and fiscal discipline — emerged from the 1980s as the standard prescription for developing economies. Its subsequent failures in the 1990s would generate the post-Washington Consensus debate.",
+        "duration": 527,
+        "bgImage": "bg_city_night.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.241
+          },
+          {
+            "word": "crisis ",
+            "start": 0.252,
+            "end": 0.643
+          },
+          {
+            "word": "reshaped ",
+            "start": 0.654,
+            "end": 1.099
+          },
+          {
+            "word": "development ",
+            "start": 1.11,
+            "end": 1.567
+          },
+          {
+            "word": "economics. ",
+            "start": 1.578,
+            "end": 2.197
+          },
+          {
+            "word": "The ",
+            "start": 2.941,
+            "end": 3.06
+          },
+          {
+            "word": "Washington ",
+            "start": 3.071,
+            "end": 3.528
+          },
+          {
+            "word": "Consensus — ",
+            "start": 3.539,
+            "end": 4.158
+          },
+          {
+            "word": "the ",
+            "start": 4.332,
+            "end": 4.419
+          },
+          {
+            "word": "package ",
+            "start": 4.43,
+            "end": 4.745
+          },
+          {
+            "word": "of ",
+            "start": 4.756,
+            "end": 4.832
+          },
+          {
+            "word": "liberalization, ",
+            "start": 4.843,
+            "end": 5.647
+          },
+          {
+            "word": "privatization, ",
+            "start": 5.81,
+            "end": 6.56
+          },
+          {
+            "word": "and ",
+            "start": 6.756,
+            "end": 6.865
+          },
+          {
+            "word": "fiscal ",
+            "start": 6.876,
+            "end": 7.202
+          },
+          {
+            "word": "discipline — ",
+            "start": 7.213,
+            "end": 7.669
+          },
+          {
+            "word": "emerged ",
+            "start": 7.886,
+            "end": 8.234
+          },
+          {
+            "word": "from ",
+            "start": 8.245,
+            "end": 8.365
+          },
+          {
+            "word": "the ",
+            "start": 8.376,
+            "end": 8.43
+          },
+          {
+            "word": "1980s ",
+            "start": 8.441,
+            "end": 9.202
+          },
+          {
+            "word": "as ",
+            "start": 9.213,
+            "end": 9.31
+          },
+          {
+            "word": "the ",
+            "start": 9.321,
+            "end": 9.397
+          },
+          {
+            "word": "standard ",
+            "start": 9.408,
+            "end": 9.789
+          },
+          {
+            "word": "prescription ",
+            "start": 9.8,
+            "end": 10.289
+          },
+          {
+            "word": "for ",
+            "start": 10.3,
+            "end": 10.386
+          },
+          {
+            "word": "developing ",
+            "start": 10.397,
+            "end": 10.865
+          },
+          {
+            "word": "economies. ",
+            "start": 10.876,
+            "end": 11.484
+          },
+          {
+            "word": "Its ",
+            "start": 12.234,
+            "end": 12.419
+          },
+          {
+            "word": "subsequent ",
+            "start": 12.43,
+            "end": 12.865
+          },
+          {
+            "word": "failures ",
+            "start": 12.876,
+            "end": 13.289
+          },
+          {
+            "word": "in ",
+            "start": 13.3,
+            "end": 13.354
+          },
+          {
+            "word": "the ",
+            "start": 13.365,
+            "end": 13.419
+          },
+          {
+            "word": "1990s ",
+            "start": 13.43,
+            "end": 14.169
+          },
+          {
+            "word": "would ",
+            "start": 14.18,
+            "end": 14.321
+          },
+          {
+            "word": "generate ",
+            "start": 14.332,
+            "end": 14.702
+          },
+          {
+            "word": "the ",
+            "start": 14.713,
+            "end": 14.778
+          },
+          {
+            "word": "post-Washington ",
+            "start": 14.789,
+            "end": 15.484
+          },
+          {
+            "word": "Consensus ",
+            "start": 15.495,
+            "end": 15.973
+          },
+          {
+            "word": "debate.",
+            "start": 15.984,
+            "end": 16.386
+          }
+        ],
+        "start": 1280
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep12_results_3",
+        "audio_exists": true,
+        "audioPath": "episodes/ep12/audio/ep12_results_3.wav",
+        "text": "The Brady Plan's innovation — converting illiquid bank loans into tradeable bonds — created the emerging market bond market. It also created moral hazard: if sovereign debts would eventually be restructured rather than repaid in full, the incentive for prudent borrowing was reduced. This tension between debt relief and moral hazard remains unresolved in international finance.",
+        "duration": 614,
+        "bgImage": "bg_interest_chart.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "Brady ",
+            "start": 0.241,
+            "end": 0.556
+          },
+          {
+            "word": "Plan's ",
+            "start": 0.567,
+            "end": 0.904
+          },
+          {
+            "word": "innovation — ",
+            "start": 0.915,
+            "end": 1.447
+          },
+          {
+            "word": "converting ",
+            "start": 1.632,
+            "end": 2.143
+          },
+          {
+            "word": "illiquid ",
+            "start": 2.154,
+            "end": 2.491
+          },
+          {
+            "word": "bank ",
+            "start": 2.502,
+            "end": 2.741
+          },
+          {
+            "word": "loans ",
+            "start": 2.752,
+            "end": 3.067
+          },
+          {
+            "word": "into ",
+            "start": 3.078,
+            "end": 3.263
+          },
+          {
+            "word": "tradeable ",
+            "start": 3.273,
+            "end": 3.708
+          },
+          {
+            "word": "bonds — ",
+            "start": 3.719,
+            "end": 4.067
+          },
+          {
+            "word": "created ",
+            "start": 4.241,
+            "end": 4.643
+          },
+          {
+            "word": "the ",
+            "start": 4.654,
+            "end": 4.752
+          },
+          {
+            "word": "emerging ",
+            "start": 4.763,
+            "end": 5.165
+          },
+          {
+            "word": "market ",
+            "start": 5.176,
+            "end": 5.513
+          },
+          {
+            "word": "bond ",
+            "start": 5.523,
+            "end": 5.752
+          },
+          {
+            "word": "market. ",
+            "start": 5.763,
+            "end": 6.23
+          },
+          {
+            "word": "It ",
+            "start": 6.973,
+            "end": 7.136
+          },
+          {
+            "word": "also ",
+            "start": 7.147,
+            "end": 7.408
+          },
+          {
+            "word": "created ",
+            "start": 7.419,
+            "end": 7.843
+          },
+          {
+            "word": "moral ",
+            "start": 7.854,
+            "end": 8.115
+          },
+          {
+            "word": "hazard: ",
+            "start": 8.126,
+            "end": 8.441
+          },
+          {
+            "word": "if ",
+            "start": 8.604,
+            "end": 8.702
+          },
+          {
+            "word": "sovereign ",
+            "start": 8.713,
+            "end": 9.039
+          },
+          {
+            "word": "debts ",
+            "start": 9.05,
+            "end": 9.3
+          },
+          {
+            "word": "would ",
+            "start": 9.31,
+            "end": 9.43
+          },
+          {
+            "word": "eventually ",
+            "start": 9.441,
+            "end": 9.854
+          },
+          {
+            "word": "be ",
+            "start": 9.865,
+            "end": 9.963
+          },
+          {
+            "word": "restructured ",
+            "start": 9.973,
+            "end": 10.539
+          },
+          {
+            "word": "rather ",
+            "start": 10.55,
+            "end": 10.843
+          },
+          {
+            "word": "than ",
+            "start": 10.854,
+            "end": 10.973
+          },
+          {
+            "word": "repaid ",
+            "start": 10.984,
+            "end": 11.299
+          },
+          {
+            "word": "in ",
+            "start": 11.31,
+            "end": 11.408
+          },
+          {
+            "word": "full, ",
+            "start": 11.419,
+            "end": 11.713
+          },
+          {
+            "word": "the ",
+            "start": 11.93,
+            "end": 12.017
+          },
+          {
+            "word": "incentive ",
+            "start": 12.028,
+            "end": 12.495
+          },
+          {
+            "word": "for ",
+            "start": 12.506,
+            "end": 12.615
+          },
+          {
+            "word": "prudent ",
+            "start": 12.626,
+            "end": 12.973
+          },
+          {
+            "word": "borrowing ",
+            "start": 12.984,
+            "end": 13.354
+          },
+          {
+            "word": "was ",
+            "start": 13.365,
+            "end": 13.506
+          },
+          {
+            "word": "reduced. ",
+            "start": 13.517,
+            "end": 14.06
+          },
+          {
+            "word": "This ",
+            "start": 14.81,
+            "end": 15.06
+          },
+          {
+            "word": "tension ",
+            "start": 15.071,
+            "end": 15.386
+          },
+          {
+            "word": "between ",
+            "start": 15.397,
+            "end": 15.734
+          },
+          {
+            "word": "debt ",
+            "start": 15.745,
+            "end": 15.919
+          },
+          {
+            "word": "relief ",
+            "start": 15.93,
+            "end": 16.267
+          },
+          {
+            "word": "and ",
+            "start": 16.278,
+            "end": 16.408
+          },
+          {
+            "word": "moral ",
+            "start": 16.419,
+            "end": 16.691
+          },
+          {
+            "word": "hazard ",
+            "start": 16.702,
+            "end": 16.984
+          },
+          {
+            "word": "remains ",
+            "start": 16.995,
+            "end": 17.419
+          },
+          {
+            "word": "unresolved ",
+            "start": 17.43,
+            "end": 17.952
+          },
+          {
+            "word": "in ",
+            "start": 17.963,
+            "end": 18.06
+          },
+          {
+            "word": "international ",
+            "start": 18.071,
+            "end": 18.626
+          },
+          {
+            "word": "finance.",
+            "start": 18.636,
+            "end": 19.289
+          }
+        ],
+        "start": 1807
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep12_results_4",
+        "audio_exists": true,
+        "audioPath": "episodes/ep12/audio/ep12_results_4.wav",
+        "text": "The debt restructuring that resolved the Latin American crisis drew directly on the intellectual legacy of Volcker's inflation shock (Episode 6). The same Fed tightening that broke inflation in 1982 created the interest rate environment that made the crisis possible in the first place. Central bank credibility has costs as well as benefits.",
+        "duration": 560,
+        "bgImage": "bg_recovery.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.241
+          },
+          {
+            "word": "debt ",
+            "start": 0.252,
+            "end": 0.469
+          },
+          {
+            "word": "restructuring ",
+            "start": 0.48,
+            "end": 1.089
+          },
+          {
+            "word": "that ",
+            "start": 1.1,
+            "end": 1.23
+          },
+          {
+            "word": "resolved ",
+            "start": 1.241,
+            "end": 1.556
+          },
+          {
+            "word": "the ",
+            "start": 1.567,
+            "end": 1.621
+          },
+          {
+            "word": "Latin ",
+            "start": 1.632,
+            "end": 1.926
+          },
+          {
+            "word": "American ",
+            "start": 1.936,
+            "end": 2.328
+          },
+          {
+            "word": "crisis ",
+            "start": 2.339,
+            "end": 2.719
+          },
+          {
+            "word": "drew ",
+            "start": 2.73,
+            "end": 2.969
+          },
+          {
+            "word": "directly ",
+            "start": 2.98,
+            "end": 3.371
+          },
+          {
+            "word": "on ",
+            "start": 3.382,
+            "end": 3.469
+          },
+          {
+            "word": "the ",
+            "start": 3.48,
+            "end": 3.556
+          },
+          {
+            "word": "intellectual ",
+            "start": 3.567,
+            "end": 4.143
+          },
+          {
+            "word": "legacy ",
+            "start": 4.154,
+            "end": 4.513
+          },
+          {
+            "word": "of ",
+            "start": 4.523,
+            "end": 4.599
+          },
+          {
+            "word": "Volcker's ",
+            "start": 4.61,
+            "end": 4.947
+          },
+          {
+            "word": "inflation ",
+            "start": 4.958,
+            "end": 5.469
+          },
+          {
+            "word": "shock (",
+            "start": 5.48,
+            "end": 5.784
+          },
+          {
+            "word": "Episode ",
+            "start": 5.98,
+            "end": 6.339
+          },
+          {
+            "word": "6). ",
+            "start": 6.35,
+            "end": 6.741
+          },
+          {
+            "word": "The ",
+            "start": 7.484,
+            "end": 7.615
+          },
+          {
+            "word": "same ",
+            "start": 7.626,
+            "end": 7.865
+          },
+          {
+            "word": "Fed ",
+            "start": 7.876,
+            "end": 8.071
+          },
+          {
+            "word": "tightening ",
+            "start": 8.082,
+            "end": 8.43
+          },
+          {
+            "word": "that ",
+            "start": 8.441,
+            "end": 8.636
+          },
+          {
+            "word": "broke ",
+            "start": 8.647,
+            "end": 8.832
+          },
+          {
+            "word": "inflation ",
+            "start": 8.843,
+            "end": 9.278
+          },
+          {
+            "word": "in 1982 ",
+            "start": 9.289,
+            "end": 10.256
+          },
+          {
+            "word": "created ",
+            "start": 10.267,
+            "end": 10.636
+          },
+          {
+            "word": "the ",
+            "start": 10.647,
+            "end": 10.734
+          },
+          {
+            "word": "interest ",
+            "start": 10.745,
+            "end": 11.071
+          },
+          {
+            "word": "rate ",
+            "start": 11.082,
+            "end": 11.289
+          },
+          {
+            "word": "environment ",
+            "start": 11.3,
+            "end": 11.876
+          },
+          {
+            "word": "that ",
+            "start": 11.886,
+            "end": 12.006
+          },
+          {
+            "word": "made ",
+            "start": 12.017,
+            "end": 12.202
+          },
+          {
+            "word": "the ",
+            "start": 12.213,
+            "end": 12.278
+          },
+          {
+            "word": "crisis ",
+            "start": 12.289,
+            "end": 12.669
+          },
+          {
+            "word": "possible ",
+            "start": 12.68,
+            "end": 13.06
+          },
+          {
+            "word": "in ",
+            "start": 13.071,
+            "end": 13.126
+          },
+          {
+            "word": "the ",
+            "start": 13.136,
+            "end": 13.202
+          },
+          {
+            "word": "first ",
+            "start": 13.213,
+            "end": 13.528
+          },
+          {
+            "word": "place. ",
+            "start": 13.539,
+            "end": 13.941
+          },
+          {
+            "word": "Central ",
+            "start": 14.691,
+            "end": 15.158
+          },
+          {
+            "word": "bank ",
+            "start": 15.169,
+            "end": 15.397
+          },
+          {
+            "word": "credibility ",
+            "start": 15.408,
+            "end": 15.941
+          },
+          {
+            "word": "has ",
+            "start": 15.952,
+            "end": 16.093
+          },
+          {
+            "word": "costs ",
+            "start": 16.104,
+            "end": 16.463
+          },
+          {
+            "word": "as ",
+            "start": 16.473,
+            "end": 16.604
+          },
+          {
+            "word": "well ",
+            "start": 16.615,
+            "end": 16.821
+          },
+          {
+            "word": "as ",
+            "start": 16.832,
+            "end": 16.919
+          },
+          {
+            "word": "benefits.",
+            "start": 16.93,
+            "end": 17.495
+          }
+        ],
+        "start": 2421
+      }
+    ]
+  },
+  {
+    "id": "credits",
+    "title": "Credits",
+    "globalStart": 11723,
+    "duration": 440,
+    "subSlides": [
+      {
+        "type": "credits",
+        "start": 0,
+        "duration": 440,
+        "audioSrc": "audio/outro_narration.wav"
+      }
+    ]
+  }
+]

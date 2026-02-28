@@ -1,0 +1,31 @@
+# The Event
+
+## A Loaf of Bread for Two Hundred Billion Marks
+
+In November 1923, a loaf of bread in Berlin cost two hundred billion marks. A month earlier it had cost five billion. A year before that, two hundred marks. A German professor who had saved diligently throughout his career could, by November 1923, afford a single metro ticket with his life's savings. Workers received their wages daily — sometimes twice daily — and their wives met them at the factory gate to run to the market before the money lost further value. Prices were updated not daily but hourly. The exchange rate, which had stood at four marks per US dollar before the First World War, reached four trillion marks per dollar at the hyperinflation's peak in November 1923.
+
+Germany's hyperinflation of 1921–1923 was not the first of its kind, and it would not be the last. But it was the most consequential — the one that entered European political memory as a defining catastrophe, that shaped the institutional design of central banking for the rest of the century, and whose shadow fell over European monetary policy ninety years later during the Eurozone crisis.
+
+## The Origins: War Debt and Impossible Reparations
+
+The hyperinflation had specific and traceable origins. Germany had financed the First World War entirely through debt, reasoning that victory would impose the costs on the defeated. The German government borrowed rather than taxed, issuing war bonds and allowing the money supply to expand in ways that suppressed rather than eliminated the inflationary pressure — held in place by wartime price controls and the general expectation that postwar settlement would restore fiscal balance.
+
+When Germany lost the war, the bill came due in multiple forms. The accumulated war debt remained. The Treaty of Versailles, signed in June 1919, imposed reparations of one hundred and thirty-two billion gold marks — roughly three times Germany's entire national income. The sum was politically derived rather than economically calculated: it reflected what the victorious powers felt Germany owed, not what Germany could actually pay. Germany's gold and foreign currency reserves, already depleted by the war, were nowhere near sufficient to service obligations at this scale.
+
+## The French Occupation and Passive Resistance
+
+Inflation had been running in Germany since 1919, fed by the combination of war debt, reparations obligations, and a government that was financing its deficit by printing money. But the hyperinflation proper — the acceleration from high inflation to complete monetary destruction — was triggered by a specific political event.
+
+In January 1923, France and Belgium occupied the Ruhr, Germany's industrial heartland, in response to Germany's failure to meet its reparations obligations on schedule. The Ruhr contained the coal mines and steel mills that were Germany's primary productive capacity. The occupation was intended to extract reparations in kind — coal and steel — since Germany claimed it could not pay in gold.
+
+The German government responded by declaring "passive resistance" — calling on German workers in the Ruhr to refuse cooperation with the occupying forces, to strike, to obstruct production. The government would pay the striking workers' wages. To pay the wages of hundreds of thousands of striking workers in the Ruhr while also meeting its other obligations, the German government did the only thing available to it: it printed money.
+
+The printing accelerated from a pace that had already produced significant inflation into something qualitatively different. The Reichsbank — Germany's central bank — printed banknotes so rapidly that the ink on one batch had not dried before the next batch was needed. By the peak in October and November 1923, the monthly inflation rate reached twenty-nine thousand percent — meeting the formal definition of hyperinflation as monthly price increases exceeding fifty percent by an astronomical margin.
+
+## Life in the Hyperinflation
+
+The social consequences were as extreme as the economic ones. The middle class — those who had saved in bank accounts, purchased war bonds, held life insurance policies, accumulated pension entitlements — were effectively wiped out. A war bond purchased in 1916 for one thousand marks, representing a significant sacrifice by a patriotic family, was worth, by late 1923, a fraction of a centime in real terms. The savings of a generation vanished.
+
+Those who had borrowed in marks fared extraordinarily well. Mortgages, commercial loans, and other debts could be repaid in worthless currency. Debtors who had pledged real assets — factories, farms, apartment buildings — as collateral found that they could discharge their debts with handfuls of near-worthless paper and retain full ownership of the underlying assets. The redistribution of wealth was as extreme as any revolution would have produced, but random in its beneficiaries: the accident of whether one had been a borrower or a lender determined ruin or windfall.
+
+By mid-1923, the formal mark economy had largely ceased to function in practical terms. In cities, an exchange economy in foreign currency — primarily US dollars — or in barter had replaced official monetary circulation. Workers were paid in bread, coal, or potatoes. Factories issued their own scrip, redeemable for company products. The currency had failed as a medium of exchange, and the economic arrangements of civilized life were improvised in its absence.

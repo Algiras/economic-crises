@@ -1,0 +1,7966 @@
+[
+  {
+    "id": "intro",
+    "title": "Intro",
+    "globalStart": 0,
+    "duration": 201,
+    "episode": 15,
+    "episodeMeta": {
+      "title": "The Eurozone Debt Crisis",
+      "subtitle": "2010–2012"
+    },
+    "subSlides": [
+      {
+        "type": "intro",
+        "start": 0,
+        "duration": 201,
+        "audioSrc": "episodes/ep10/intro.wav"
+      }
+    ]
+  },
+  {
+    "id": "ep10_event",
+    "title": "Event",
+    "globalStart": 201,
+    "duration": 4017,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Event"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep10_event_0",
+        "audio_exists": true,
+        "audioPath": "episodes/ep10/audio/ep10_event_0.wav",
+        "text": "In October 2009, Greece's newly elected government announced that its predecessor had been misreporting the public deficit. The figure was not three point seven percent of GDP as previously disclosed. It was twelve point seven percent. Later revisions put it at fifteen point four. Greece had been lying to the European Union about its finances for years — and the EU had been accepting the numbers without auditing them.",
+        "duration": 722,
+        "bgImage": "bg_protest_70s.jpg",
+        "wordTimings": [
+          {
+            "word": "In ",
+            "start": 0.1,
+            "end": 0.263
+          },
+          {
+            "word": "October 2009, ",
+            "start": 0.273,
+            "end": 1.61
+          },
+          {
+            "word": "Greece's ",
+            "start": 1.719,
+            "end": 2.078
+          },
+          {
+            "word": "newly ",
+            "start": 2.089,
+            "end": 2.35
+          },
+          {
+            "word": "elected ",
+            "start": 2.36,
+            "end": 2.686
+          },
+          {
+            "word": "government ",
+            "start": 2.697,
+            "end": 3.045
+          },
+          {
+            "word": "announced ",
+            "start": 3.056,
+            "end": 3.382
+          },
+          {
+            "word": "that ",
+            "start": 3.393,
+            "end": 3.513
+          },
+          {
+            "word": "its ",
+            "start": 3.523,
+            "end": 3.643
+          },
+          {
+            "word": "predecessor ",
+            "start": 3.654,
+            "end": 4.219
+          },
+          {
+            "word": "had ",
+            "start": 4.23,
+            "end": 4.393
+          },
+          {
+            "word": "been ",
+            "start": 4.404,
+            "end": 4.545
+          },
+          {
+            "word": "misreporting ",
+            "start": 4.556,
+            "end": 5.176
+          },
+          {
+            "word": "the ",
+            "start": 5.186,
+            "end": 5.252
+          },
+          {
+            "word": "public ",
+            "start": 5.263,
+            "end": 5.589
+          },
+          {
+            "word": "deficit. ",
+            "start": 5.6,
+            "end": 6.1
+          },
+          {
+            "word": "The ",
+            "start": 6.843,
+            "end": 6.963
+          },
+          {
+            "word": "figure ",
+            "start": 6.973,
+            "end": 7.223
+          },
+          {
+            "word": "was ",
+            "start": 7.234,
+            "end": 7.386
+          },
+          {
+            "word": "not ",
+            "start": 7.397,
+            "end": 7.571
+          },
+          {
+            "word": "three ",
+            "start": 7.582,
+            "end": 7.789
+          },
+          {
+            "word": "point ",
+            "start": 7.8,
+            "end": 8.06
+          },
+          {
+            "word": "seven ",
+            "start": 8.071,
+            "end": 8.343
+          },
+          {
+            "word": "percent ",
+            "start": 8.354,
+            "end": 8.702
+          },
+          {
+            "word": "of ",
+            "start": 8.713,
+            "end": 8.81
+          },
+          {
+            "word": "GDP ",
+            "start": 8.821,
+            "end": 9.397
+          },
+          {
+            "word": "as ",
+            "start": 9.408,
+            "end": 9.528
+          },
+          {
+            "word": "previously ",
+            "start": 9.539,
+            "end": 10.028
+          },
+          {
+            "word": "disclosed. ",
+            "start": 10.039,
+            "end": 10.68
+          },
+          {
+            "word": "It ",
+            "start": 11.43,
+            "end": 11.571
+          },
+          {
+            "word": "was ",
+            "start": 11.582,
+            "end": 11.723
+          },
+          {
+            "word": "twelve ",
+            "start": 11.734,
+            "end": 12.071
+          },
+          {
+            "word": "point ",
+            "start": 12.082,
+            "end": 12.332
+          },
+          {
+            "word": "seven ",
+            "start": 12.343,
+            "end": 12.615
+          },
+          {
+            "word": "percent. ",
+            "start": 12.626,
+            "end": 13.093
+          },
+          {
+            "word": "Later ",
+            "start": 13.843,
+            "end": 14.18
+          },
+          {
+            "word": "revisions ",
+            "start": 14.191,
+            "end": 14.604
+          },
+          {
+            "word": "put ",
+            "start": 14.615,
+            "end": 14.778
+          },
+          {
+            "word": "it ",
+            "start": 14.789,
+            "end": 14.876
+          },
+          {
+            "word": "at ",
+            "start": 14.886,
+            "end": 14.952
+          },
+          {
+            "word": "fifteen ",
+            "start": 14.963,
+            "end": 15.397
+          },
+          {
+            "word": "point ",
+            "start": 15.408,
+            "end": 15.647
+          },
+          {
+            "word": "four. ",
+            "start": 15.658,
+            "end": 15.995
+          },
+          {
+            "word": "Greece ",
+            "start": 16.745,
+            "end": 17.06
+          },
+          {
+            "word": "had ",
+            "start": 17.071,
+            "end": 17.18
+          },
+          {
+            "word": "been ",
+            "start": 17.191,
+            "end": 17.299
+          },
+          {
+            "word": "lying ",
+            "start": 17.31,
+            "end": 17.56
+          },
+          {
+            "word": "to ",
+            "start": 17.571,
+            "end": 17.647
+          },
+          {
+            "word": "the ",
+            "start": 17.658,
+            "end": 17.734
+          },
+          {
+            "word": "European ",
+            "start": 17.745,
+            "end": 18.234
+          },
+          {
+            "word": "Union ",
+            "start": 18.245,
+            "end": 18.517
+          },
+          {
+            "word": "about ",
+            "start": 18.528,
+            "end": 18.789
+          },
+          {
+            "word": "its ",
+            "start": 18.8,
+            "end": 18.908
+          },
+          {
+            "word": "finances ",
+            "start": 18.919,
+            "end": 19.463
+          },
+          {
+            "word": "for ",
+            "start": 19.473,
+            "end": 19.571
+          },
+          {
+            "word": "years — ",
+            "start": 19.582,
+            "end": 19.952
+          },
+          {
+            "word": "and ",
+            "start": 20.147,
+            "end": 20.234
+          },
+          {
+            "word": "the ",
+            "start": 20.245,
+            "end": 20.321
+          },
+          {
+            "word": "EU ",
+            "start": 20.332,
+            "end": 20.821
+          },
+          {
+            "word": "had ",
+            "start": 20.832,
+            "end": 20.973
+          },
+          {
+            "word": "been ",
+            "start": 20.984,
+            "end": 21.082
+          },
+          {
+            "word": "accepting ",
+            "start": 21.093,
+            "end": 21.539
+          },
+          {
+            "word": "the ",
+            "start": 21.55,
+            "end": 21.604
+          },
+          {
+            "word": "numbers ",
+            "start": 21.615,
+            "end": 21.908
+          },
+          {
+            "word": "without ",
+            "start": 21.919,
+            "end": 22.245
+          },
+          {
+            "word": "auditing ",
+            "start": 22.256,
+            "end": 22.636
+          },
+          {
+            "word": "them.",
+            "start": 22.647,
+            "end": 22.876
+          }
+        ],
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep10_event_1",
+        "audio_exists": true,
+        "audioPath": "episodes/ep10/audio/ep10_event_1.wav",
+        "text": "The revelation triggered a crisis that had been structurally inevitable since the euro's creation. Greece, along with Portugal, Ireland, Italy, and Spain, had borrowed heavily in euros at near-German interest rates. Markets had assumed that eurozone membership made all members equally creditworthy. That assumption was wrong, and expensive.",
+        "duration": 584,
+        "bgImage": "bg_global_map.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.219
+          },
+          {
+            "word": "revelation ",
+            "start": 0.23,
+            "end": 0.73
+          },
+          {
+            "word": "triggered ",
+            "start": 0.741,
+            "end": 0.991
+          },
+          {
+            "word": "a ",
+            "start": 1.002,
+            "end": 1.034
+          },
+          {
+            "word": "crisis ",
+            "start": 1.045,
+            "end": 1.415
+          },
+          {
+            "word": "that ",
+            "start": 1.426,
+            "end": 1.534
+          },
+          {
+            "word": "had ",
+            "start": 1.545,
+            "end": 1.665
+          },
+          {
+            "word": "been ",
+            "start": 1.676,
+            "end": 1.806
+          },
+          {
+            "word": "structurally ",
+            "start": 1.817,
+            "end": 2.339
+          },
+          {
+            "word": "inevitable ",
+            "start": 2.35,
+            "end": 2.795
+          },
+          {
+            "word": "since ",
+            "start": 2.806,
+            "end": 3.034
+          },
+          {
+            "word": "the ",
+            "start": 3.045,
+            "end": 3.121
+          },
+          {
+            "word": "euro's ",
+            "start": 3.132,
+            "end": 3.523
+          },
+          {
+            "word": "creation. ",
+            "start": 3.534,
+            "end": 4.067
+          },
+          {
+            "word": "Greece, ",
+            "start": 4.81,
+            "end": 5.223
+          },
+          {
+            "word": "along ",
+            "start": 5.397,
+            "end": 5.636
+          },
+          {
+            "word": "with ",
+            "start": 5.647,
+            "end": 5.767
+          },
+          {
+            "word": "Portugal, ",
+            "start": 5.778,
+            "end": 6.256
+          },
+          {
+            "word": "Ireland, ",
+            "start": 6.463,
+            "end": 6.799
+          },
+          {
+            "word": "Italy, ",
+            "start": 7.039,
+            "end": 7.365
+          },
+          {
+            "word": "and ",
+            "start": 7.571,
+            "end": 7.691
+          },
+          {
+            "word": "Spain, ",
+            "start": 7.702,
+            "end": 8.104
+          },
+          {
+            "word": "had ",
+            "start": 8.31,
+            "end": 8.43
+          },
+          {
+            "word": "borrowed ",
+            "start": 8.441,
+            "end": 8.745
+          },
+          {
+            "word": "heavily ",
+            "start": 8.756,
+            "end": 9.039
+          },
+          {
+            "word": "in ",
+            "start": 9.05,
+            "end": 9.158
+          },
+          {
+            "word": "euros ",
+            "start": 9.169,
+            "end": 9.593
+          },
+          {
+            "word": "at ",
+            "start": 9.604,
+            "end": 9.669
+          },
+          {
+            "word": "near-German ",
+            "start": 9.68,
+            "end": 10.136
+          },
+          {
+            "word": "interest ",
+            "start": 10.147,
+            "end": 10.528
+          },
+          {
+            "word": "rates. ",
+            "start": 10.539,
+            "end": 10.941
+          },
+          {
+            "word": "Markets ",
+            "start": 11.691,
+            "end": 12.136
+          },
+          {
+            "word": "had ",
+            "start": 12.147,
+            "end": 12.245
+          },
+          {
+            "word": "assumed ",
+            "start": 12.256,
+            "end": 12.626
+          },
+          {
+            "word": "that ",
+            "start": 12.636,
+            "end": 12.745
+          },
+          {
+            "word": "eurozone ",
+            "start": 12.756,
+            "end": 13.245
+          },
+          {
+            "word": "membership ",
+            "start": 13.256,
+            "end": 13.658
+          },
+          {
+            "word": "made ",
+            "start": 13.669,
+            "end": 13.908
+          },
+          {
+            "word": "all ",
+            "start": 13.919,
+            "end": 14.158
+          },
+          {
+            "word": "members ",
+            "start": 14.169,
+            "end": 14.473
+          },
+          {
+            "word": "equally ",
+            "start": 14.484,
+            "end": 14.789
+          },
+          {
+            "word": "creditworthy. ",
+            "start": 14.8,
+            "end": 15.452
+          },
+          {
+            "word": "That ",
+            "start": 16.202,
+            "end": 16.397
+          },
+          {
+            "word": "assumption ",
+            "start": 16.408,
+            "end": 16.81
+          },
+          {
+            "word": "was ",
+            "start": 16.821,
+            "end": 16.973
+          },
+          {
+            "word": "wrong, ",
+            "start": 16.984,
+            "end": 17.343
+          },
+          {
+            "word": "and ",
+            "start": 17.55,
+            "end": 17.636
+          },
+          {
+            "word": "expensive.",
+            "start": 17.647,
+            "end": 18.299
+          }
+        ],
+        "start": 812
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep10_event_2",
+        "audio_exists": true,
+        "audioPath": "episodes/ep10/audio/ep10_event_2.wav",
+        "text": "Greece had joined the eurozone in 2001. Over the following decade, cheap borrowing costs allowed successive governments to finance large public sector wages, pensions, and military spending without raising taxes or increasing productivity. Greek public sector wages doubled in real terms between 2000 and 2010.",
+        "duration": 553,
+        "bgImage": "bg_currency_trade.jpg",
+        "wordTimings": [
+          {
+            "word": "Greece ",
+            "start": 0.1,
+            "end": 0.415
+          },
+          {
+            "word": "had ",
+            "start": 0.426,
+            "end": 0.556
+          },
+          {
+            "word": "joined ",
+            "start": 0.567,
+            "end": 0.806
+          },
+          {
+            "word": "the ",
+            "start": 0.817,
+            "end": 0.86
+          },
+          {
+            "word": "eurozone ",
+            "start": 0.871,
+            "end": 1.415
+          },
+          {
+            "word": "in 2001. ",
+            "start": 1.426,
+            "end": 2.502
+          },
+          {
+            "word": "Over ",
+            "start": 3.245,
+            "end": 3.506
+          },
+          {
+            "word": "the ",
+            "start": 3.517,
+            "end": 3.593
+          },
+          {
+            "word": "following ",
+            "start": 3.604,
+            "end": 3.941
+          },
+          {
+            "word": "decade, ",
+            "start": 3.952,
+            "end": 4.354
+          },
+          {
+            "word": "cheap ",
+            "start": 4.517,
+            "end": 4.734
+          },
+          {
+            "word": "borrowing ",
+            "start": 4.745,
+            "end": 5.136
+          },
+          {
+            "word": "costs ",
+            "start": 5.147,
+            "end": 5.495
+          },
+          {
+            "word": "allowed ",
+            "start": 5.506,
+            "end": 5.799
+          },
+          {
+            "word": "successive ",
+            "start": 5.81,
+            "end": 6.234
+          },
+          {
+            "word": "governments ",
+            "start": 6.245,
+            "end": 6.647
+          },
+          {
+            "word": "to ",
+            "start": 6.658,
+            "end": 6.734
+          },
+          {
+            "word": "finance ",
+            "start": 6.745,
+            "end": 7.234
+          },
+          {
+            "word": "large ",
+            "start": 7.245,
+            "end": 7.549
+          },
+          {
+            "word": "public ",
+            "start": 7.56,
+            "end": 7.865
+          },
+          {
+            "word": "sector ",
+            "start": 7.876,
+            "end": 8.169
+          },
+          {
+            "word": "wages, ",
+            "start": 8.18,
+            "end": 8.615
+          },
+          {
+            "word": "pensions, ",
+            "start": 8.8,
+            "end": 9.289
+          },
+          {
+            "word": "and ",
+            "start": 9.463,
+            "end": 9.571
+          },
+          {
+            "word": "military ",
+            "start": 9.582,
+            "end": 9.919
+          },
+          {
+            "word": "spending ",
+            "start": 9.93,
+            "end": 10.321
+          },
+          {
+            "word": "without ",
+            "start": 10.332,
+            "end": 10.636
+          },
+          {
+            "word": "raising ",
+            "start": 10.647,
+            "end": 10.93
+          },
+          {
+            "word": "taxes ",
+            "start": 10.941,
+            "end": 11.376
+          },
+          {
+            "word": "or ",
+            "start": 11.386,
+            "end": 11.484
+          },
+          {
+            "word": "increasing ",
+            "start": 11.495,
+            "end": 11.963
+          },
+          {
+            "word": "productivity. ",
+            "start": 11.973,
+            "end": 12.615
+          },
+          {
+            "word": "Greek ",
+            "start": 13.365,
+            "end": 13.647
+          },
+          {
+            "word": "public ",
+            "start": 13.658,
+            "end": 13.941
+          },
+          {
+            "word": "sector ",
+            "start": 13.952,
+            "end": 14.234
+          },
+          {
+            "word": "wages ",
+            "start": 14.245,
+            "end": 14.593
+          },
+          {
+            "word": "doubled ",
+            "start": 14.604,
+            "end": 14.908
+          },
+          {
+            "word": "in ",
+            "start": 14.919,
+            "end": 15.039
+          },
+          {
+            "word": "real ",
+            "start": 15.05,
+            "end": 15.289
+          },
+          {
+            "word": "terms ",
+            "start": 15.3,
+            "end": 15.626
+          },
+          {
+            "word": "between 2000 and 2010.",
+            "start": 15.636,
+            "end": 17.256
+          }
+        ],
+        "start": 1396
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep10_event_3",
+        "audio_exists": true,
+        "audioPath": "episodes/ep10/audio/ep10_event_3.wav",
+        "text": "The structural problem was simple and lethal: Greece could not devalue its currency to regain competitiveness. Countries with their own currencies adjust to shocks by letting the currency fall, making exports cheaper. Inside the eurozone, this mechanism was unavailable. Adjustment had to come entirely through wages and prices — a process economists call internal devaluation.",
+        "duration": 627,
+        "bgImage": "bg_breadline.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "structural ",
+            "start": 0.241,
+            "end": 0.719
+          },
+          {
+            "word": "problem ",
+            "start": 0.73,
+            "end": 1.067
+          },
+          {
+            "word": "was ",
+            "start": 1.078,
+            "end": 1.219
+          },
+          {
+            "word": "simple ",
+            "start": 1.23,
+            "end": 1.556
+          },
+          {
+            "word": "and ",
+            "start": 1.567,
+            "end": 1.654
+          },
+          {
+            "word": "lethal: ",
+            "start": 1.665,
+            "end": 2.056
+          },
+          {
+            "word": "Greece ",
+            "start": 2.252,
+            "end": 2.523
+          },
+          {
+            "word": "could ",
+            "start": 2.534,
+            "end": 2.665
+          },
+          {
+            "word": "not ",
+            "start": 2.676,
+            "end": 2.86
+          },
+          {
+            "word": "devalue ",
+            "start": 2.871,
+            "end": 3.263
+          },
+          {
+            "word": "its ",
+            "start": 3.273,
+            "end": 3.393
+          },
+          {
+            "word": "currency ",
+            "start": 3.404,
+            "end": 3.817
+          },
+          {
+            "word": "to ",
+            "start": 3.828,
+            "end": 3.926
+          },
+          {
+            "word": "regain ",
+            "start": 3.936,
+            "end": 4.295
+          },
+          {
+            "word": "competitiveness. ",
+            "start": 4.306,
+            "end": 5.121
+          },
+          {
+            "word": "Countries ",
+            "start": 5.865,
+            "end": 6.31
+          },
+          {
+            "word": "with ",
+            "start": 6.321,
+            "end": 6.452
+          },
+          {
+            "word": "their ",
+            "start": 6.463,
+            "end": 6.571
+          },
+          {
+            "word": "own ",
+            "start": 6.582,
+            "end": 6.789
+          },
+          {
+            "word": "currencies ",
+            "start": 6.8,
+            "end": 7.18
+          },
+          {
+            "word": "adjust ",
+            "start": 7.191,
+            "end": 7.452
+          },
+          {
+            "word": "to ",
+            "start": 7.463,
+            "end": 7.517
+          },
+          {
+            "word": "shocks ",
+            "start": 7.528,
+            "end": 7.897
+          },
+          {
+            "word": "by ",
+            "start": 7.908,
+            "end": 8.017
+          },
+          {
+            "word": "letting ",
+            "start": 8.028,
+            "end": 8.332
+          },
+          {
+            "word": "the ",
+            "start": 8.343,
+            "end": 8.397
+          },
+          {
+            "word": "currency ",
+            "start": 8.408,
+            "end": 8.81
+          },
+          {
+            "word": "fall, ",
+            "start": 8.821,
+            "end": 9.104
+          },
+          {
+            "word": "making ",
+            "start": 9.289,
+            "end": 9.593
+          },
+          {
+            "word": "exports ",
+            "start": 9.604,
+            "end": 10.06
+          },
+          {
+            "word": "cheaper. ",
+            "start": 10.071,
+            "end": 10.463
+          },
+          {
+            "word": "Inside ",
+            "start": 11.213,
+            "end": 11.658
+          },
+          {
+            "word": "the ",
+            "start": 11.669,
+            "end": 11.713
+          },
+          {
+            "word": "eurozone, ",
+            "start": 11.723,
+            "end": 12.343
+          },
+          {
+            "word": "this ",
+            "start": 12.484,
+            "end": 12.658
+          },
+          {
+            "word": "mechanism ",
+            "start": 12.669,
+            "end": 13.136
+          },
+          {
+            "word": "was ",
+            "start": 13.147,
+            "end": 13.278
+          },
+          {
+            "word": "unavailable. ",
+            "start": 13.289,
+            "end": 13.919
+          },
+          {
+            "word": "Adjustment ",
+            "start": 14.669,
+            "end": 15.147
+          },
+          {
+            "word": "had ",
+            "start": 15.158,
+            "end": 15.31
+          },
+          {
+            "word": "to ",
+            "start": 15.321,
+            "end": 15.376
+          },
+          {
+            "word": "come ",
+            "start": 15.386,
+            "end": 15.528
+          },
+          {
+            "word": "entirely ",
+            "start": 15.539,
+            "end": 15.995
+          },
+          {
+            "word": "through ",
+            "start": 16.006,
+            "end": 16.202
+          },
+          {
+            "word": "wages ",
+            "start": 16.213,
+            "end": 16.636
+          },
+          {
+            "word": "and ",
+            "start": 16.647,
+            "end": 16.745
+          },
+          {
+            "word": "prices — ",
+            "start": 16.756,
+            "end": 17.169
+          },
+          {
+            "word": "a ",
+            "start": 17.332,
+            "end": 17.397
+          },
+          {
+            "word": "process ",
+            "start": 17.408,
+            "end": 17.789
+          },
+          {
+            "word": "economists ",
+            "start": 17.8,
+            "end": 18.289
+          },
+          {
+            "word": "call ",
+            "start": 18.3,
+            "end": 18.571
+          },
+          {
+            "word": "internal ",
+            "start": 18.582,
+            "end": 18.984
+          },
+          {
+            "word": "devaluation.",
+            "start": 18.995,
+            "end": 19.713
+          }
+        ],
+        "start": 1949
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep10_event_4",
+        "audio_exists": true,
+        "audioPath": "episodes/ep10/audio/ep10_event_4.wav",
+        "text": "In April 2010, Greece lost access to bond markets. Interest rates on ten-year Greek bonds rose above ten percent. The European Union and International Monetary Fund assembled an emergency rescue package of one hundred and ten billion euros — the largest sovereign bailout in history at that point.",
+        "duration": 511,
+        "bgImage": "bg_protest_70s.jpg",
+        "wordTimings": [
+          {
+            "word": "In ",
+            "start": 0.1,
+            "end": 0.284
+          },
+          {
+            "word": "April 2010, ",
+            "start": 0.295,
+            "end": 1.165
+          },
+          {
+            "word": "Greece ",
+            "start": 1.273,
+            "end": 1.534
+          },
+          {
+            "word": "lost ",
+            "start": 1.545,
+            "end": 1.817
+          },
+          {
+            "word": "access ",
+            "start": 1.828,
+            "end": 2.176
+          },
+          {
+            "word": "to ",
+            "start": 2.186,
+            "end": 2.284
+          },
+          {
+            "word": "bond ",
+            "start": 2.295,
+            "end": 2.545
+          },
+          {
+            "word": "markets. ",
+            "start": 2.556,
+            "end": 3.099
+          },
+          {
+            "word": "Interest ",
+            "start": 3.843,
+            "end": 4.289
+          },
+          {
+            "word": "rates ",
+            "start": 4.3,
+            "end": 4.539
+          },
+          {
+            "word": "on ",
+            "start": 4.55,
+            "end": 4.658
+          },
+          {
+            "word": "ten-year ",
+            "start": 4.669,
+            "end": 5.06
+          },
+          {
+            "word": "Greek ",
+            "start": 5.071,
+            "end": 5.386
+          },
+          {
+            "word": "bonds ",
+            "start": 5.397,
+            "end": 5.636
+          },
+          {
+            "word": "rose ",
+            "start": 5.647,
+            "end": 5.897
+          },
+          {
+            "word": "above ",
+            "start": 5.908,
+            "end": 6.158
+          },
+          {
+            "word": "ten ",
+            "start": 6.169,
+            "end": 6.365
+          },
+          {
+            "word": "percent. ",
+            "start": 6.376,
+            "end": 6.81
+          },
+          {
+            "word": "The ",
+            "start": 7.56,
+            "end": 7.691
+          },
+          {
+            "word": "European ",
+            "start": 7.702,
+            "end": 8.158
+          },
+          {
+            "word": "Union ",
+            "start": 8.169,
+            "end": 8.484
+          },
+          {
+            "word": "and ",
+            "start": 8.495,
+            "end": 8.615
+          },
+          {
+            "word": "International ",
+            "start": 8.626,
+            "end": 9.234
+          },
+          {
+            "word": "Monetary ",
+            "start": 9.245,
+            "end": 9.615
+          },
+          {
+            "word": "Fund ",
+            "start": 9.626,
+            "end": 9.876
+          },
+          {
+            "word": "assembled ",
+            "start": 9.886,
+            "end": 10.245
+          },
+          {
+            "word": "an ",
+            "start": 10.256,
+            "end": 10.332
+          },
+          {
+            "word": "emergency ",
+            "start": 10.343,
+            "end": 10.81
+          },
+          {
+            "word": "rescue ",
+            "start": 10.821,
+            "end": 11.18
+          },
+          {
+            "word": "package ",
+            "start": 11.191,
+            "end": 11.506
+          },
+          {
+            "word": "of ",
+            "start": 11.517,
+            "end": 11.582
+          },
+          {
+            "word": "one ",
+            "start": 11.593,
+            "end": 11.799
+          },
+          {
+            "word": "hundred ",
+            "start": 11.81,
+            "end": 12.06
+          },
+          {
+            "word": "and ",
+            "start": 12.071,
+            "end": 12.147
+          },
+          {
+            "word": "ten ",
+            "start": 12.158,
+            "end": 12.43
+          },
+          {
+            "word": "billion ",
+            "start": 12.441,
+            "end": 12.756
+          },
+          {
+            "word": "euros — ",
+            "start": 12.767,
+            "end": 13.245
+          },
+          {
+            "word": "the ",
+            "start": 13.452,
+            "end": 13.528
+          },
+          {
+            "word": "largest ",
+            "start": 13.539,
+            "end": 13.952
+          },
+          {
+            "word": "sovereign ",
+            "start": 13.963,
+            "end": 14.267
+          },
+          {
+            "word": "bailout ",
+            "start": 14.278,
+            "end": 14.691
+          },
+          {
+            "word": "in ",
+            "start": 14.702,
+            "end": 14.778
+          },
+          {
+            "word": "history ",
+            "start": 14.789,
+            "end": 15.169
+          },
+          {
+            "word": "at ",
+            "start": 15.18,
+            "end": 15.256
+          },
+          {
+            "word": "that ",
+            "start": 15.267,
+            "end": 15.452
+          },
+          {
+            "word": "point.",
+            "start": 15.463,
+            "end": 15.865
+          }
+        ],
+        "start": 2576
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep10_event_5",
+        "audio_exists": true,
+        "audioPath": "episodes/ep10/audio/ep10_event_5.wav",
+        "text": "Ireland followed in November 2010, Portugal in April 2011. By summer 2011, markets were pricing in the possibility that Italy and Spain — economies far too large to rescue — might also lose market access. The eurozone's third and fourth largest economies seemed to be heading toward the same cliff edge.",
+        "duration": 537,
+        "bgImage": "bg_global_map.jpg",
+        "wordTimings": [
+          {
+            "word": "Ireland ",
+            "start": 0.1,
+            "end": 0.447
+          },
+          {
+            "word": "followed ",
+            "start": 0.458,
+            "end": 0.73
+          },
+          {
+            "word": "in ",
+            "start": 0.741,
+            "end": 0.839
+          },
+          {
+            "word": "November 2010, ",
+            "start": 0.85,
+            "end": 1.86
+          },
+          {
+            "word": "Portugal ",
+            "start": 2.034,
+            "end": 2.447
+          },
+          {
+            "word": "in ",
+            "start": 2.458,
+            "end": 2.567
+          },
+          {
+            "word": "April 2011. ",
+            "start": 2.578,
+            "end": 3.578
+          },
+          {
+            "word": "By ",
+            "start": 4.321,
+            "end": 4.473
+          },
+          {
+            "word": "summer ",
+            "start": 4.484,
+            "end": 4.756
+          },
+          {
+            "word": "2011, ",
+            "start": 4.767,
+            "end": 5.376
+          },
+          {
+            "word": "markets ",
+            "start": 5.56,
+            "end": 5.952
+          },
+          {
+            "word": "were ",
+            "start": 5.963,
+            "end": 6.049
+          },
+          {
+            "word": "pricing ",
+            "start": 6.06,
+            "end": 6.463
+          },
+          {
+            "word": "in ",
+            "start": 6.473,
+            "end": 6.539
+          },
+          {
+            "word": "the ",
+            "start": 6.55,
+            "end": 6.615
+          },
+          {
+            "word": "possibility ",
+            "start": 6.626,
+            "end": 7.136
+          },
+          {
+            "word": "that ",
+            "start": 7.147,
+            "end": 7.31
+          },
+          {
+            "word": "Italy ",
+            "start": 7.321,
+            "end": 7.593
+          },
+          {
+            "word": "and ",
+            "start": 7.604,
+            "end": 7.756
+          },
+          {
+            "word": "Spain — ",
+            "start": 7.767,
+            "end": 8.126
+          },
+          {
+            "word": "economies ",
+            "start": 8.289,
+            "end": 8.734
+          },
+          {
+            "word": "far ",
+            "start": 8.745,
+            "end": 8.952
+          },
+          {
+            "word": "too ",
+            "start": 8.963,
+            "end": 9.213
+          },
+          {
+            "word": "large ",
+            "start": 9.223,
+            "end": 9.549
+          },
+          {
+            "word": "to ",
+            "start": 9.56,
+            "end": 9.636
+          },
+          {
+            "word": "rescue — ",
+            "start": 9.647,
+            "end": 10.028
+          },
+          {
+            "word": "might ",
+            "start": 10.213,
+            "end": 10.452
+          },
+          {
+            "word": "also ",
+            "start": 10.463,
+            "end": 10.723
+          },
+          {
+            "word": "lose ",
+            "start": 10.734,
+            "end": 11.006
+          },
+          {
+            "word": "market ",
+            "start": 11.017,
+            "end": 11.354
+          },
+          {
+            "word": "access. ",
+            "start": 11.365,
+            "end": 11.865
+          },
+          {
+            "word": "The ",
+            "start": 12.615,
+            "end": 12.723
+          },
+          {
+            "word": "eurozone's ",
+            "start": 12.734,
+            "end": 13.332
+          },
+          {
+            "word": "third ",
+            "start": 13.343,
+            "end": 13.604
+          },
+          {
+            "word": "and ",
+            "start": 13.615,
+            "end": 13.702
+          },
+          {
+            "word": "fourth ",
+            "start": 13.713,
+            "end": 13.995
+          },
+          {
+            "word": "largest ",
+            "start": 14.006,
+            "end": 14.386
+          },
+          {
+            "word": "economies ",
+            "start": 14.397,
+            "end": 14.821
+          },
+          {
+            "word": "seemed ",
+            "start": 14.832,
+            "end": 15.039
+          },
+          {
+            "word": "to ",
+            "start": 15.05,
+            "end": 15.093
+          },
+          {
+            "word": "be ",
+            "start": 15.104,
+            "end": 15.202
+          },
+          {
+            "word": "heading ",
+            "start": 15.213,
+            "end": 15.506
+          },
+          {
+            "word": "toward ",
+            "start": 15.517,
+            "end": 15.81
+          },
+          {
+            "word": "the ",
+            "start": 15.821,
+            "end": 15.886
+          },
+          {
+            "word": "same ",
+            "start": 15.897,
+            "end": 16.136
+          },
+          {
+            "word": "cliff ",
+            "start": 16.147,
+            "end": 16.376
+          },
+          {
+            "word": "edge.",
+            "start": 16.386,
+            "end": 16.723
+          }
+        ],
+        "start": 3087
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep10_event_6",
+        "audio_exists": true,
+        "audioPath": "episodes/ep10/audio/ep10_event_6.wav",
+        "text": "The fundamental question was one the founders of the euro had deliberately avoided: could a monetary union without a fiscal union survive a major crisis? The answer was being tested in real time, with the savings of millions of Europeans as the stakes.",
+        "duration": 393,
+        "bgImage": "bg_currency_trade.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.219
+          },
+          {
+            "word": "fundamental ",
+            "start": 0.23,
+            "end": 0.741
+          },
+          {
+            "word": "question ",
+            "start": 0.752,
+            "end": 1.099
+          },
+          {
+            "word": "was ",
+            "start": 1.11,
+            "end": 1.241
+          },
+          {
+            "word": "one ",
+            "start": 1.252,
+            "end": 1.447
+          },
+          {
+            "word": "the ",
+            "start": 1.458,
+            "end": 1.513
+          },
+          {
+            "word": "founders ",
+            "start": 1.523,
+            "end": 1.882
+          },
+          {
+            "word": "of ",
+            "start": 1.893,
+            "end": 1.958
+          },
+          {
+            "word": "the ",
+            "start": 1.969,
+            "end": 2.045
+          },
+          {
+            "word": "euro ",
+            "start": 2.056,
+            "end": 2.371
+          },
+          {
+            "word": "had ",
+            "start": 2.382,
+            "end": 2.523
+          },
+          {
+            "word": "deliberately ",
+            "start": 2.534,
+            "end": 2.991
+          },
+          {
+            "word": "avoided: ",
+            "start": 3.002,
+            "end": 3.382
+          },
+          {
+            "word": "could ",
+            "start": 3.545,
+            "end": 3.676
+          },
+          {
+            "word": "a ",
+            "start": 3.686,
+            "end": 3.73
+          },
+          {
+            "word": "monetary ",
+            "start": 3.741,
+            "end": 4.143
+          },
+          {
+            "word": "union ",
+            "start": 4.154,
+            "end": 4.48
+          },
+          {
+            "word": "without ",
+            "start": 4.491,
+            "end": 4.784
+          },
+          {
+            "word": "a ",
+            "start": 4.795,
+            "end": 4.839
+          },
+          {
+            "word": "fiscal ",
+            "start": 4.85,
+            "end": 5.165
+          },
+          {
+            "word": "union ",
+            "start": 5.176,
+            "end": 5.491
+          },
+          {
+            "word": "survive ",
+            "start": 5.502,
+            "end": 5.849
+          },
+          {
+            "word": "a ",
+            "start": 5.86,
+            "end": 5.893
+          },
+          {
+            "word": "major ",
+            "start": 5.904,
+            "end": 6.186
+          },
+          {
+            "word": "crisis? ",
+            "start": 6.197,
+            "end": 6.752
+          },
+          {
+            "word": "The ",
+            "start": 7.495,
+            "end": 7.658
+          },
+          {
+            "word": "answer ",
+            "start": 7.669,
+            "end": 7.984
+          },
+          {
+            "word": "was ",
+            "start": 7.995,
+            "end": 8.136
+          },
+          {
+            "word": "being ",
+            "start": 8.147,
+            "end": 8.354
+          },
+          {
+            "word": "tested ",
+            "start": 8.365,
+            "end": 8.68
+          },
+          {
+            "word": "in ",
+            "start": 8.691,
+            "end": 8.799
+          },
+          {
+            "word": "real ",
+            "start": 8.81,
+            "end": 9.082
+          },
+          {
+            "word": "time, ",
+            "start": 9.093,
+            "end": 9.408
+          },
+          {
+            "word": "with ",
+            "start": 9.517,
+            "end": 9.615
+          },
+          {
+            "word": "the ",
+            "start": 9.626,
+            "end": 9.702
+          },
+          {
+            "word": "savings ",
+            "start": 9.713,
+            "end": 10.104
+          },
+          {
+            "word": "of ",
+            "start": 10.115,
+            "end": 10.191
+          },
+          {
+            "word": "millions ",
+            "start": 10.202,
+            "end": 10.582
+          },
+          {
+            "word": "of ",
+            "start": 10.593,
+            "end": 10.669
+          },
+          {
+            "word": "Europeans ",
+            "start": 10.68,
+            "end": 11.256
+          },
+          {
+            "word": "as ",
+            "start": 11.267,
+            "end": 11.354
+          },
+          {
+            "word": "the ",
+            "start": 11.365,
+            "end": 11.441
+          },
+          {
+            "word": "stakes.",
+            "start": 11.452,
+            "end": 11.919
+          }
+        ],
+        "start": 3624
+      }
+    ]
+  },
+  {
+    "id": "ep10_problems",
+    "title": "Problems",
+    "globalStart": 4218,
+    "duration": 4899,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Problems"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep10_problems_0",
+        "audio_exists": true,
+        "audioPath": "episodes/ep10/audio/ep10_problems_0.wav",
+        "text": "Greece's crisis exposed a structural design flaw in the European Monetary Union. The eurozone had a single monetary policy — one interest rate set by the European Central Bank — but seventeen different fiscal policies. When individual member states diverged in their economic performance, there was no mechanism to automatically transfer resources from stronger to weaker economies.",
+        "duration": 625,
+        "bgImage": "bg_breadline.jpg",
+        "wordTimings": [
+          {
+            "word": "Greece's ",
+            "start": 0.1,
+            "end": 0.513
+          },
+          {
+            "word": "crisis ",
+            "start": 0.523,
+            "end": 0.936
+          },
+          {
+            "word": "exposed ",
+            "start": 0.947,
+            "end": 1.36
+          },
+          {
+            "word": "a ",
+            "start": 1.371,
+            "end": 1.415
+          },
+          {
+            "word": "structural ",
+            "start": 1.426,
+            "end": 1.882
+          },
+          {
+            "word": "design ",
+            "start": 1.893,
+            "end": 2.252
+          },
+          {
+            "word": "flaw ",
+            "start": 2.263,
+            "end": 2.599
+          },
+          {
+            "word": "in ",
+            "start": 2.61,
+            "end": 2.708
+          },
+          {
+            "word": "the ",
+            "start": 2.719,
+            "end": 2.784
+          },
+          {
+            "word": "European ",
+            "start": 2.795,
+            "end": 3.284
+          },
+          {
+            "word": "Monetary ",
+            "start": 3.295,
+            "end": 3.676
+          },
+          {
+            "word": "Union. ",
+            "start": 3.686,
+            "end": 4.121
+          },
+          {
+            "word": "The ",
+            "start": 4.865,
+            "end": 4.984
+          },
+          {
+            "word": "eurozone ",
+            "start": 4.995,
+            "end": 5.528
+          },
+          {
+            "word": "had ",
+            "start": 5.539,
+            "end": 5.669
+          },
+          {
+            "word": "a ",
+            "start": 5.68,
+            "end": 5.723
+          },
+          {
+            "word": "single ",
+            "start": 5.734,
+            "end": 6.093
+          },
+          {
+            "word": "monetary ",
+            "start": 6.104,
+            "end": 6.473
+          },
+          {
+            "word": "policy — ",
+            "start": 6.484,
+            "end": 6.865
+          },
+          {
+            "word": "one ",
+            "start": 7.082,
+            "end": 7.278
+          },
+          {
+            "word": "interest ",
+            "start": 7.289,
+            "end": 7.626
+          },
+          {
+            "word": "rate ",
+            "start": 7.636,
+            "end": 7.876
+          },
+          {
+            "word": "set ",
+            "start": 7.886,
+            "end": 8.147
+          },
+          {
+            "word": "by ",
+            "start": 8.158,
+            "end": 8.278
+          },
+          {
+            "word": "the ",
+            "start": 8.289,
+            "end": 8.365
+          },
+          {
+            "word": "European ",
+            "start": 8.376,
+            "end": 8.876
+          },
+          {
+            "word": "Central ",
+            "start": 8.886,
+            "end": 9.245
+          },
+          {
+            "word": "Bank — ",
+            "start": 9.256,
+            "end": 9.549
+          },
+          {
+            "word": "but ",
+            "start": 9.734,
+            "end": 9.843
+          },
+          {
+            "word": "seventeen ",
+            "start": 9.854,
+            "end": 10.299
+          },
+          {
+            "word": "different ",
+            "start": 10.31,
+            "end": 10.626
+          },
+          {
+            "word": "fiscal ",
+            "start": 10.636,
+            "end": 10.973
+          },
+          {
+            "word": "policies. ",
+            "start": 10.984,
+            "end": 11.56
+          },
+          {
+            "word": "When ",
+            "start": 12.31,
+            "end": 12.539
+          },
+          {
+            "word": "individual ",
+            "start": 12.55,
+            "end": 12.984
+          },
+          {
+            "word": "member ",
+            "start": 12.995,
+            "end": 13.213
+          },
+          {
+            "word": "states ",
+            "start": 13.223,
+            "end": 13.517
+          },
+          {
+            "word": "diverged ",
+            "start": 13.528,
+            "end": 14.028
+          },
+          {
+            "word": "in ",
+            "start": 14.039,
+            "end": 14.104
+          },
+          {
+            "word": "their ",
+            "start": 14.115,
+            "end": 14.213
+          },
+          {
+            "word": "economic ",
+            "start": 14.223,
+            "end": 14.702
+          },
+          {
+            "word": "performance, ",
+            "start": 14.713,
+            "end": 15.245
+          },
+          {
+            "word": "there ",
+            "start": 15.452,
+            "end": 15.539
+          },
+          {
+            "word": "was ",
+            "start": 15.55,
+            "end": 15.713
+          },
+          {
+            "word": "no ",
+            "start": 15.723,
+            "end": 15.897
+          },
+          {
+            "word": "mechanism ",
+            "start": 15.908,
+            "end": 16.386
+          },
+          {
+            "word": "to ",
+            "start": 16.397,
+            "end": 16.473
+          },
+          {
+            "word": "automatically ",
+            "start": 16.484,
+            "end": 17.126
+          },
+          {
+            "word": "transfer ",
+            "start": 17.136,
+            "end": 17.593
+          },
+          {
+            "word": "resources ",
+            "start": 17.604,
+            "end": 18.093
+          },
+          {
+            "word": "from ",
+            "start": 18.104,
+            "end": 18.245
+          },
+          {
+            "word": "stronger ",
+            "start": 18.256,
+            "end": 18.669
+          },
+          {
+            "word": "to ",
+            "start": 18.68,
+            "end": 18.778
+          },
+          {
+            "word": "weaker ",
+            "start": 18.789,
+            "end": 19.071
+          },
+          {
+            "word": "economies.",
+            "start": 19.082,
+            "end": 19.658
+          }
+        ],
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep10_problems_1",
+        "audio_exists": true,
+        "audioPath": "episodes/ep10/audio/ep10_problems_1.wav",
+        "text": "In the United States, the federal government automatically transfers resources to depressed states through unemployment insurance and federal spending. No equivalent mechanism existed in Europe. When Greek unemployment rose to twenty-five percent, the adjustment had to come entirely through wage cuts, spending cuts, and emigration.",
+        "duration": 539,
+        "bgImage": "bg_protest_70s.jpg",
+        "wordTimings": [
+          {
+            "word": "In ",
+            "start": 0.1,
+            "end": 0.263
+          },
+          {
+            "word": "the ",
+            "start": 0.273,
+            "end": 0.328
+          },
+          {
+            "word": "United ",
+            "start": 0.339,
+            "end": 0.752
+          },
+          {
+            "word": "States, ",
+            "start": 0.763,
+            "end": 1.132
+          },
+          {
+            "word": "the ",
+            "start": 1.284,
+            "end": 1.371
+          },
+          {
+            "word": "federal ",
+            "start": 1.382,
+            "end": 1.708
+          },
+          {
+            "word": "government ",
+            "start": 1.719,
+            "end": 2.078
+          },
+          {
+            "word": "automatically ",
+            "start": 2.089,
+            "end": 2.665
+          },
+          {
+            "word": "transfers ",
+            "start": 2.676,
+            "end": 3.197
+          },
+          {
+            "word": "resources ",
+            "start": 3.208,
+            "end": 3.643
+          },
+          {
+            "word": "to ",
+            "start": 3.654,
+            "end": 3.741
+          },
+          {
+            "word": "depressed ",
+            "start": 3.752,
+            "end": 4.11
+          },
+          {
+            "word": "states ",
+            "start": 4.121,
+            "end": 4.426
+          },
+          {
+            "word": "through ",
+            "start": 4.436,
+            "end": 4.654
+          },
+          {
+            "word": "unemployment ",
+            "start": 4.665,
+            "end": 5.263
+          },
+          {
+            "word": "insurance ",
+            "start": 5.273,
+            "end": 5.741
+          },
+          {
+            "word": "and ",
+            "start": 5.752,
+            "end": 5.849
+          },
+          {
+            "word": "federal ",
+            "start": 5.86,
+            "end": 6.197
+          },
+          {
+            "word": "spending. ",
+            "start": 6.208,
+            "end": 6.654
+          },
+          {
+            "word": "No ",
+            "start": 7.397,
+            "end": 7.68
+          },
+          {
+            "word": "equivalent ",
+            "start": 7.691,
+            "end": 8.126
+          },
+          {
+            "word": "mechanism ",
+            "start": 8.136,
+            "end": 8.549
+          },
+          {
+            "word": "existed ",
+            "start": 8.56,
+            "end": 8.941
+          },
+          {
+            "word": "in ",
+            "start": 8.952,
+            "end": 9.039
+          },
+          {
+            "word": "Europe. ",
+            "start": 9.05,
+            "end": 9.495
+          },
+          {
+            "word": "When ",
+            "start": 10.245,
+            "end": 10.473
+          },
+          {
+            "word": "Greek ",
+            "start": 10.484,
+            "end": 10.734
+          },
+          {
+            "word": "unemployment ",
+            "start": 10.745,
+            "end": 11.267
+          },
+          {
+            "word": "rose ",
+            "start": 11.278,
+            "end": 11.539
+          },
+          {
+            "word": "to ",
+            "start": 11.55,
+            "end": 11.626
+          },
+          {
+            "word": "twenty-five ",
+            "start": 11.636,
+            "end": 12.191
+          },
+          {
+            "word": "percent, ",
+            "start": 12.202,
+            "end": 12.615
+          },
+          {
+            "word": "the ",
+            "start": 12.789,
+            "end": 12.876
+          },
+          {
+            "word": "adjustment ",
+            "start": 12.886,
+            "end": 13.256
+          },
+          {
+            "word": "had ",
+            "start": 13.267,
+            "end": 13.43
+          },
+          {
+            "word": "to ",
+            "start": 13.441,
+            "end": 13.495
+          },
+          {
+            "word": "come ",
+            "start": 13.506,
+            "end": 13.647
+          },
+          {
+            "word": "entirely ",
+            "start": 13.658,
+            "end": 14.093
+          },
+          {
+            "word": "through ",
+            "start": 14.104,
+            "end": 14.299
+          },
+          {
+            "word": "wage ",
+            "start": 14.31,
+            "end": 14.626
+          },
+          {
+            "word": "cuts, ",
+            "start": 14.636,
+            "end": 15.017
+          },
+          {
+            "word": "spending ",
+            "start": 15.169,
+            "end": 15.506
+          },
+          {
+            "word": "cuts, ",
+            "start": 15.517,
+            "end": 15.876
+          },
+          {
+            "word": "and ",
+            "start": 16.06,
+            "end": 16.169
+          },
+          {
+            "word": "emigration.",
+            "start": 16.18,
+            "end": 16.789
+          }
+        ],
+        "start": 715
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep10_problems_2",
+        "audio_exists": true,
+        "audioPath": "episodes/ep10/audio/ep10_problems_2.wav",
+        "text": "The austerity condition was economically paradoxical. The Troika — the European Commission, European Central Bank, and IMF — required Greece to cut spending and raise taxes as a condition of rescue funds. But in a depressed economy, cutting spending and raising taxes reduces GDP, which increases the deficit as a percentage of GDP, which requires more cuts. The prescribed solution worsened the underlying condition.",
+        "duration": 739,
+        "bgImage": "bg_imf_meeting.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.263
+          },
+          {
+            "word": "austerity ",
+            "start": 0.273,
+            "end": 0.719
+          },
+          {
+            "word": "condition ",
+            "start": 0.73,
+            "end": 1.132
+          },
+          {
+            "word": "was ",
+            "start": 1.143,
+            "end": 1.273
+          },
+          {
+            "word": "economically ",
+            "start": 1.284,
+            "end": 1.849
+          },
+          {
+            "word": "paradoxical. ",
+            "start": 1.86,
+            "end": 2.643
+          },
+          {
+            "word": "The ",
+            "start": 3.386,
+            "end": 3.517
+          },
+          {
+            "word": "Troika — ",
+            "start": 3.528,
+            "end": 3.876
+          },
+          {
+            "word": "the ",
+            "start": 4.06,
+            "end": 4.136
+          },
+          {
+            "word": "European ",
+            "start": 4.147,
+            "end": 4.647
+          },
+          {
+            "word": "Commission, ",
+            "start": 4.658,
+            "end": 5.071
+          },
+          {
+            "word": "European ",
+            "start": 5.234,
+            "end": 5.669
+          },
+          {
+            "word": "Central ",
+            "start": 5.68,
+            "end": 6.039
+          },
+          {
+            "word": "Bank, ",
+            "start": 6.05,
+            "end": 6.332
+          },
+          {
+            "word": "and ",
+            "start": 6.571,
+            "end": 6.669
+          },
+          {
+            "word": "IMF — ",
+            "start": 6.68,
+            "end": 7.245
+          },
+          {
+            "word": "required ",
+            "start": 7.43,
+            "end": 7.843
+          },
+          {
+            "word": "Greece ",
+            "start": 7.854,
+            "end": 8.104
+          },
+          {
+            "word": "to ",
+            "start": 8.115,
+            "end": 8.191
+          },
+          {
+            "word": "cut ",
+            "start": 8.202,
+            "end": 8.408
+          },
+          {
+            "word": "spending ",
+            "start": 8.419,
+            "end": 8.799
+          },
+          {
+            "word": "and ",
+            "start": 8.81,
+            "end": 8.941
+          },
+          {
+            "word": "raise ",
+            "start": 8.952,
+            "end": 9.202
+          },
+          {
+            "word": "taxes ",
+            "start": 9.213,
+            "end": 9.626
+          },
+          {
+            "word": "as ",
+            "start": 9.636,
+            "end": 9.756
+          },
+          {
+            "word": "a ",
+            "start": 9.767,
+            "end": 9.81
+          },
+          {
+            "word": "condition ",
+            "start": 9.821,
+            "end": 10.256
+          },
+          {
+            "word": "of ",
+            "start": 10.267,
+            "end": 10.343
+          },
+          {
+            "word": "rescue ",
+            "start": 10.354,
+            "end": 10.713
+          },
+          {
+            "word": "funds. ",
+            "start": 10.723,
+            "end": 11.191
+          },
+          {
+            "word": "But ",
+            "start": 11.941,
+            "end": 12.104
+          },
+          {
+            "word": "in ",
+            "start": 12.115,
+            "end": 12.202
+          },
+          {
+            "word": "a ",
+            "start": 12.213,
+            "end": 12.267
+          },
+          {
+            "word": "depressed ",
+            "start": 12.278,
+            "end": 12.68
+          },
+          {
+            "word": "economy, ",
+            "start": 12.691,
+            "end": 13.104
+          },
+          {
+            "word": "cutting ",
+            "start": 13.289,
+            "end": 13.582
+          },
+          {
+            "word": "spending ",
+            "start": 13.593,
+            "end": 13.984
+          },
+          {
+            "word": "and ",
+            "start": 14.06,
+            "end": 14.18
+          },
+          {
+            "word": "raising ",
+            "start": 14.191,
+            "end": 14.528
+          },
+          {
+            "word": "taxes ",
+            "start": 14.539,
+            "end": 14.93
+          },
+          {
+            "word": "reduces ",
+            "start": 14.941,
+            "end": 15.376
+          },
+          {
+            "word": "GDP, ",
+            "start": 15.386,
+            "end": 16.006
+          },
+          {
+            "word": "which ",
+            "start": 16.213,
+            "end": 16.343
+          },
+          {
+            "word": "increases ",
+            "start": 16.354,
+            "end": 16.799
+          },
+          {
+            "word": "the ",
+            "start": 16.81,
+            "end": 16.908
+          },
+          {
+            "word": "deficit ",
+            "start": 16.919,
+            "end": 17.397
+          },
+          {
+            "word": "as ",
+            "start": 17.408,
+            "end": 17.473
+          },
+          {
+            "word": "a ",
+            "start": 17.484,
+            "end": 17.539
+          },
+          {
+            "word": "percentage ",
+            "start": 17.55,
+            "end": 17.984
+          },
+          {
+            "word": "of ",
+            "start": 17.995,
+            "end": 18.093
+          },
+          {
+            "word": "GDP, ",
+            "start": 18.104,
+            "end": 18.702
+          },
+          {
+            "word": "which ",
+            "start": 18.897,
+            "end": 19.006
+          },
+          {
+            "word": "requires ",
+            "start": 19.017,
+            "end": 19.517
+          },
+          {
+            "word": "more ",
+            "start": 19.528,
+            "end": 19.713
+          },
+          {
+            "word": "cuts. ",
+            "start": 19.723,
+            "end": 20.234
+          },
+          {
+            "word": "The ",
+            "start": 20.984,
+            "end": 21.126
+          },
+          {
+            "word": "prescribed ",
+            "start": 21.136,
+            "end": 21.604
+          },
+          {
+            "word": "solution ",
+            "start": 21.615,
+            "end": 22.049
+          },
+          {
+            "word": "worsened ",
+            "start": 22.06,
+            "end": 22.386
+          },
+          {
+            "word": "the ",
+            "start": 22.397,
+            "end": 22.473
+          },
+          {
+            "word": "underlying ",
+            "start": 22.484,
+            "end": 22.963
+          },
+          {
+            "word": "condition.",
+            "start": 22.973,
+            "end": 23.463
+          }
+        ],
+        "start": 1254
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep10_problems_3",
+        "audio_exists": true,
+        "audioPath": "episodes/ep10/audio/ep10_problems_3.wav",
+        "text": "The IMF later acknowledged in its internal post-mortem that the fiscal multipliers used to estimate the contractionary effect of austerity were wrong. The models assumed each euro of cuts would reduce GDP by around half a euro. The actual reduction was closer to one and a half euros. The math of recovery was built on faulty arithmetic.",
+        "duration": 571,
+        "bgImage": "bg_currency_trade.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.263
+          },
+          {
+            "word": "IMF ",
+            "start": 0.273,
+            "end": 0.73
+          },
+          {
+            "word": "later ",
+            "start": 0.741,
+            "end": 1.013
+          },
+          {
+            "word": "acknowledged ",
+            "start": 1.023,
+            "end": 1.491
+          },
+          {
+            "word": "in ",
+            "start": 1.502,
+            "end": 1.589
+          },
+          {
+            "word": "its ",
+            "start": 1.6,
+            "end": 1.708
+          },
+          {
+            "word": "internal ",
+            "start": 1.719,
+            "end": 2.132
+          },
+          {
+            "word": "post-mortem ",
+            "start": 2.143,
+            "end": 2.654
+          },
+          {
+            "word": "that ",
+            "start": 2.665,
+            "end": 2.763
+          },
+          {
+            "word": "the ",
+            "start": 2.773,
+            "end": 2.839
+          },
+          {
+            "word": "fiscal ",
+            "start": 2.85,
+            "end": 3.186
+          },
+          {
+            "word": "multipliers ",
+            "start": 3.197,
+            "end": 3.752
+          },
+          {
+            "word": "used ",
+            "start": 3.763,
+            "end": 3.947
+          },
+          {
+            "word": "to ",
+            "start": 3.958,
+            "end": 4.023
+          },
+          {
+            "word": "estimate ",
+            "start": 4.034,
+            "end": 4.393
+          },
+          {
+            "word": "the ",
+            "start": 4.404,
+            "end": 4.48
+          },
+          {
+            "word": "contractionary ",
+            "start": 4.491,
+            "end": 5.089
+          },
+          {
+            "word": "effect ",
+            "start": 5.1,
+            "end": 5.404
+          },
+          {
+            "word": "of ",
+            "start": 5.415,
+            "end": 5.491
+          },
+          {
+            "word": "austerity ",
+            "start": 5.502,
+            "end": 5.969
+          },
+          {
+            "word": "were ",
+            "start": 5.98,
+            "end": 6.11
+          },
+          {
+            "word": "wrong. ",
+            "start": 6.121,
+            "end": 6.534
+          },
+          {
+            "word": "The ",
+            "start": 7.278,
+            "end": 7.397
+          },
+          {
+            "word": "models ",
+            "start": 7.408,
+            "end": 7.713
+          },
+          {
+            "word": "assumed ",
+            "start": 7.723,
+            "end": 8.049
+          },
+          {
+            "word": "each ",
+            "start": 8.06,
+            "end": 8.213
+          },
+          {
+            "word": "euro ",
+            "start": 8.223,
+            "end": 8.517
+          },
+          {
+            "word": "of ",
+            "start": 8.528,
+            "end": 8.604
+          },
+          {
+            "word": "cuts ",
+            "start": 8.615,
+            "end": 8.886
+          },
+          {
+            "word": "would ",
+            "start": 8.897,
+            "end": 9.028
+          },
+          {
+            "word": "reduce ",
+            "start": 9.039,
+            "end": 9.376
+          },
+          {
+            "word": "GDP ",
+            "start": 9.386,
+            "end": 9.908
+          },
+          {
+            "word": "by ",
+            "start": 9.919,
+            "end": 10.071
+          },
+          {
+            "word": "around ",
+            "start": 10.082,
+            "end": 10.397
+          },
+          {
+            "word": "half ",
+            "start": 10.408,
+            "end": 10.647
+          },
+          {
+            "word": "a ",
+            "start": 10.658,
+            "end": 10.691
+          },
+          {
+            "word": "euro. ",
+            "start": 10.702,
+            "end": 11.158
+          },
+          {
+            "word": "The ",
+            "start": 11.908,
+            "end": 12.071
+          },
+          {
+            "word": "actual ",
+            "start": 12.082,
+            "end": 12.419
+          },
+          {
+            "word": "reduction ",
+            "start": 12.43,
+            "end": 12.843
+          },
+          {
+            "word": "was ",
+            "start": 12.854,
+            "end": 12.963
+          },
+          {
+            "word": "closer ",
+            "start": 12.973,
+            "end": 13.332
+          },
+          {
+            "word": "to ",
+            "start": 13.343,
+            "end": 13.441
+          },
+          {
+            "word": "one ",
+            "start": 13.452,
+            "end": 13.702
+          },
+          {
+            "word": "and ",
+            "start": 13.713,
+            "end": 13.832
+          },
+          {
+            "word": "a ",
+            "start": 13.843,
+            "end": 13.876
+          },
+          {
+            "word": "half ",
+            "start": 13.886,
+            "end": 14.169
+          },
+          {
+            "word": "euros. ",
+            "start": 14.18,
+            "end": 14.713
+          },
+          {
+            "word": "The ",
+            "start": 15.463,
+            "end": 15.582
+          },
+          {
+            "word": "math ",
+            "start": 15.593,
+            "end": 15.799
+          },
+          {
+            "word": "of ",
+            "start": 15.81,
+            "end": 15.876
+          },
+          {
+            "word": "recovery ",
+            "start": 15.886,
+            "end": 16.267
+          },
+          {
+            "word": "was ",
+            "start": 16.278,
+            "end": 16.419
+          },
+          {
+            "word": "built ",
+            "start": 16.43,
+            "end": 16.68
+          },
+          {
+            "word": "on ",
+            "start": 16.691,
+            "end": 16.81
+          },
+          {
+            "word": "faulty ",
+            "start": 16.821,
+            "end": 17.18
+          },
+          {
+            "word": "arithmetic.",
+            "start": 17.191,
+            "end": 17.854
+          }
+        ],
+        "start": 1993
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep10_problems_4",
+        "audio_exists": true,
+        "audioPath": "episodes/ep10/audio/ep10_problems_4.wav",
+        "text": "Greek debt was in euros, not drachmas. A country with its own currency can print money to service domestic debt obligations. Greece could not print euros. Every euro of debt had to be earned through exports or borrowed from creditors who were increasingly reluctant to lend. The trap was monetary and structural simultaneously.",
+        "duration": 566,
+        "bgImage": "bg_breadline.jpg",
+        "wordTimings": [
+          {
+            "word": "Greek ",
+            "start": 0.1,
+            "end": 0.415
+          },
+          {
+            "word": "debt ",
+            "start": 0.426,
+            "end": 0.632
+          },
+          {
+            "word": "was ",
+            "start": 0.643,
+            "end": 0.752
+          },
+          {
+            "word": "in ",
+            "start": 0.763,
+            "end": 0.849
+          },
+          {
+            "word": "euros, ",
+            "start": 0.86,
+            "end": 1.35
+          },
+          {
+            "word": "not ",
+            "start": 1.534,
+            "end": 1.763
+          },
+          {
+            "word": "drachmas. ",
+            "start": 1.773,
+            "end": 2.328
+          },
+          {
+            "word": "A ",
+            "start": 3.071,
+            "end": 3.191
+          },
+          {
+            "word": "country ",
+            "start": 3.202,
+            "end": 3.56
+          },
+          {
+            "word": "with ",
+            "start": 3.571,
+            "end": 3.713
+          },
+          {
+            "word": "its ",
+            "start": 3.723,
+            "end": 3.832
+          },
+          {
+            "word": "own ",
+            "start": 3.843,
+            "end": 3.984
+          },
+          {
+            "word": "currency ",
+            "start": 3.995,
+            "end": 4.376
+          },
+          {
+            "word": "can ",
+            "start": 4.386,
+            "end": 4.539
+          },
+          {
+            "word": "print ",
+            "start": 4.55,
+            "end": 4.767
+          },
+          {
+            "word": "money ",
+            "start": 4.778,
+            "end": 4.984
+          },
+          {
+            "word": "to ",
+            "start": 4.995,
+            "end": 5.082
+          },
+          {
+            "word": "service ",
+            "start": 5.093,
+            "end": 5.43
+          },
+          {
+            "word": "domestic ",
+            "start": 5.441,
+            "end": 5.843
+          },
+          {
+            "word": "debt ",
+            "start": 5.854,
+            "end": 6.039
+          },
+          {
+            "word": "obligations. ",
+            "start": 6.05,
+            "end": 6.767
+          },
+          {
+            "word": "Greece ",
+            "start": 7.517,
+            "end": 7.821
+          },
+          {
+            "word": "could ",
+            "start": 7.832,
+            "end": 7.963
+          },
+          {
+            "word": "not ",
+            "start": 7.973,
+            "end": 8.191
+          },
+          {
+            "word": "print ",
+            "start": 8.202,
+            "end": 8.408
+          },
+          {
+            "word": "euros. ",
+            "start": 8.419,
+            "end": 8.919
+          },
+          {
+            "word": "Every ",
+            "start": 9.669,
+            "end": 9.908
+          },
+          {
+            "word": "euro ",
+            "start": 9.919,
+            "end": 10.213
+          },
+          {
+            "word": "of ",
+            "start": 10.223,
+            "end": 10.299
+          },
+          {
+            "word": "debt ",
+            "start": 10.31,
+            "end": 10.484
+          },
+          {
+            "word": "had ",
+            "start": 10.495,
+            "end": 10.636
+          },
+          {
+            "word": "to ",
+            "start": 10.647,
+            "end": 10.713
+          },
+          {
+            "word": "be ",
+            "start": 10.723,
+            "end": 10.865
+          },
+          {
+            "word": "earned ",
+            "start": 10.876,
+            "end": 11.093
+          },
+          {
+            "word": "through ",
+            "start": 11.104,
+            "end": 11.299
+          },
+          {
+            "word": "exports ",
+            "start": 11.31,
+            "end": 11.745
+          },
+          {
+            "word": "or ",
+            "start": 11.756,
+            "end": 11.799
+          },
+          {
+            "word": "borrowed ",
+            "start": 11.81,
+            "end": 12.191
+          },
+          {
+            "word": "from ",
+            "start": 12.202,
+            "end": 12.343
+          },
+          {
+            "word": "creditors ",
+            "start": 12.354,
+            "end": 12.767
+          },
+          {
+            "word": "who ",
+            "start": 12.778,
+            "end": 12.876
+          },
+          {
+            "word": "were ",
+            "start": 12.886,
+            "end": 13.006
+          },
+          {
+            "word": "increasingly ",
+            "start": 13.017,
+            "end": 13.517
+          },
+          {
+            "word": "reluctant ",
+            "start": 13.528,
+            "end": 13.995
+          },
+          {
+            "word": "to ",
+            "start": 14.006,
+            "end": 14.071
+          },
+          {
+            "word": "lend. ",
+            "start": 14.082,
+            "end": 14.452
+          },
+          {
+            "word": "The ",
+            "start": 15.202,
+            "end": 15.321
+          },
+          {
+            "word": "trap ",
+            "start": 15.332,
+            "end": 15.604
+          },
+          {
+            "word": "was ",
+            "start": 15.615,
+            "end": 15.723
+          },
+          {
+            "word": "monetary ",
+            "start": 15.734,
+            "end": 16.169
+          },
+          {
+            "word": "and ",
+            "start": 16.18,
+            "end": 16.299
+          },
+          {
+            "word": "structural ",
+            "start": 16.31,
+            "end": 16.821
+          },
+          {
+            "word": "simultaneously.",
+            "start": 16.832,
+            "end": 17.702
+          }
+        ],
+        "start": 2564
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep10_problems_5",
+        "audio_exists": true,
+        "audioPath": "episodes/ep10/audio/ep10_problems_5.wav",
+        "text": "European banks — particularly French and German — held large quantities of Greek, Portuguese, and Irish sovereign bonds. A Greek default that imposed losses on those bonds would require recapitalisation of major European financial institutions. The rescue of Greece was, in part, a rescue of French and German banks, financed partly by Greek taxpayers.",
+        "duration": 626,
+        "bgImage": "bg_protest_70s.jpg",
+        "wordTimings": [
+          {
+            "word": "European ",
+            "start": 0.1,
+            "end": 0.697
+          },
+          {
+            "word": "banks — ",
+            "start": 0.708,
+            "end": 1.067
+          },
+          {
+            "word": "particularly ",
+            "start": 1.219,
+            "end": 1.708
+          },
+          {
+            "word": "French ",
+            "start": 1.719,
+            "end": 2.045
+          },
+          {
+            "word": "and ",
+            "start": 2.056,
+            "end": 2.186
+          },
+          {
+            "word": "German — ",
+            "start": 2.197,
+            "end": 2.523
+          },
+          {
+            "word": "held ",
+            "start": 2.708,
+            "end": 2.915
+          },
+          {
+            "word": "large ",
+            "start": 2.926,
+            "end": 3.23
+          },
+          {
+            "word": "quantities ",
+            "start": 3.241,
+            "end": 3.708
+          },
+          {
+            "word": "of ",
+            "start": 3.719,
+            "end": 3.806
+          },
+          {
+            "word": "Greek, ",
+            "start": 3.817,
+            "end": 4.154
+          },
+          {
+            "word": "Portuguese, ",
+            "start": 4.328,
+            "end": 4.98
+          },
+          {
+            "word": "and ",
+            "start": 5.176,
+            "end": 5.306
+          },
+          {
+            "word": "Irish ",
+            "start": 5.317,
+            "end": 5.665
+          },
+          {
+            "word": "sovereign ",
+            "start": 5.676,
+            "end": 6.002
+          },
+          {
+            "word": "bonds. ",
+            "start": 6.013,
+            "end": 6.469
+          },
+          {
+            "word": "A ",
+            "start": 7.213,
+            "end": 7.343
+          },
+          {
+            "word": "Greek ",
+            "start": 7.354,
+            "end": 7.593
+          },
+          {
+            "word": "default ",
+            "start": 7.604,
+            "end": 7.963
+          },
+          {
+            "word": "that ",
+            "start": 7.973,
+            "end": 8.126
+          },
+          {
+            "word": "imposed ",
+            "start": 8.136,
+            "end": 8.539
+          },
+          {
+            "word": "losses ",
+            "start": 8.55,
+            "end": 8.865
+          },
+          {
+            "word": "on ",
+            "start": 8.876,
+            "end": 8.973
+          },
+          {
+            "word": "those ",
+            "start": 8.984,
+            "end": 9.202
+          },
+          {
+            "word": "bonds ",
+            "start": 9.213,
+            "end": 9.495
+          },
+          {
+            "word": "would ",
+            "start": 9.506,
+            "end": 9.626
+          },
+          {
+            "word": "require ",
+            "start": 9.636,
+            "end": 10.028
+          },
+          {
+            "word": "recapitalisation ",
+            "start": 10.039,
+            "end": 10.984
+          },
+          {
+            "word": "of ",
+            "start": 10.995,
+            "end": 11.071
+          },
+          {
+            "word": "major ",
+            "start": 11.082,
+            "end": 11.376
+          },
+          {
+            "word": "European ",
+            "start": 11.386,
+            "end": 11.832
+          },
+          {
+            "word": "financial ",
+            "start": 11.843,
+            "end": 12.354
+          },
+          {
+            "word": "institutions. ",
+            "start": 12.365,
+            "end": 13.136
+          },
+          {
+            "word": "The ",
+            "start": 13.886,
+            "end": 14.017
+          },
+          {
+            "word": "rescue ",
+            "start": 14.028,
+            "end": 14.386
+          },
+          {
+            "word": "of ",
+            "start": 14.397,
+            "end": 14.473
+          },
+          {
+            "word": "Greece ",
+            "start": 14.484,
+            "end": 14.745
+          },
+          {
+            "word": "was, ",
+            "start": 14.756,
+            "end": 14.952
+          },
+          {
+            "word": "in ",
+            "start": 15.126,
+            "end": 15.223
+          },
+          {
+            "word": "part, ",
+            "start": 15.234,
+            "end": 15.582
+          },
+          {
+            "word": "a ",
+            "start": 15.745,
+            "end": 15.767
+          },
+          {
+            "word": "rescue ",
+            "start": 15.778,
+            "end": 16.169
+          },
+          {
+            "word": "of ",
+            "start": 16.18,
+            "end": 16.245
+          },
+          {
+            "word": "French ",
+            "start": 16.256,
+            "end": 16.582
+          },
+          {
+            "word": "and ",
+            "start": 16.593,
+            "end": 16.713
+          },
+          {
+            "word": "German ",
+            "start": 16.723,
+            "end": 17.06
+          },
+          {
+            "word": "banks, ",
+            "start": 17.071,
+            "end": 17.484
+          },
+          {
+            "word": "financed ",
+            "start": 17.669,
+            "end": 18.136
+          },
+          {
+            "word": "partly ",
+            "start": 18.147,
+            "end": 18.517
+          },
+          {
+            "word": "by ",
+            "start": 18.528,
+            "end": 18.647
+          },
+          {
+            "word": "Greek ",
+            "start": 18.658,
+            "end": 18.941
+          },
+          {
+            "word": "taxpayers.",
+            "start": 18.952,
+            "end": 19.691
+          }
+        ],
+        "start": 3130
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep10_problems_6",
+        "audio_exists": true,
+        "audioPath": "episodes/ep10/audio/ep10_problems_6.wav",
+        "text": "Sovereign debt restructuring — reducing the face value of Greek bonds — was initially ruled out by European leaders as too dangerous. In 2012, a partial restructuring was imposed anyway, becoming the largest sovereign default in history: one hundred and seven billion euros written off. The delay added two years of austerity with no corresponding benefit.",
+        "duration": 596,
+        "bgImage": "bg_imf_meeting.jpg",
+        "wordTimings": [
+          {
+            "word": "Sovereign ",
+            "start": 0.1,
+            "end": 0.513
+          },
+          {
+            "word": "debt ",
+            "start": 0.523,
+            "end": 0.708
+          },
+          {
+            "word": "restructuring — ",
+            "start": 0.719,
+            "end": 1.36
+          },
+          {
+            "word": "reducing ",
+            "start": 1.556,
+            "end": 1.926
+          },
+          {
+            "word": "the ",
+            "start": 1.936,
+            "end": 2.002
+          },
+          {
+            "word": "face ",
+            "start": 2.013,
+            "end": 2.295
+          },
+          {
+            "word": "value ",
+            "start": 2.306,
+            "end": 2.632
+          },
+          {
+            "word": "of ",
+            "start": 2.643,
+            "end": 2.719
+          },
+          {
+            "word": "Greek ",
+            "start": 2.73,
+            "end": 3.013
+          },
+          {
+            "word": "bonds — ",
+            "start": 3.023,
+            "end": 3.371
+          },
+          {
+            "word": "was ",
+            "start": 3.545,
+            "end": 3.643
+          },
+          {
+            "word": "initially ",
+            "start": 3.654,
+            "end": 4.023
+          },
+          {
+            "word": "ruled ",
+            "start": 4.034,
+            "end": 4.306
+          },
+          {
+            "word": "out ",
+            "start": 4.317,
+            "end": 4.458
+          },
+          {
+            "word": "by ",
+            "start": 4.469,
+            "end": 4.589
+          },
+          {
+            "word": "European ",
+            "start": 4.6,
+            "end": 5.11
+          },
+          {
+            "word": "leaders ",
+            "start": 5.121,
+            "end": 5.447
+          },
+          {
+            "word": "as ",
+            "start": 5.458,
+            "end": 5.599
+          },
+          {
+            "word": "too ",
+            "start": 5.61,
+            "end": 5.828
+          },
+          {
+            "word": "dangerous. ",
+            "start": 5.839,
+            "end": 6.48
+          },
+          {
+            "word": "In 2012, ",
+            "start": 7.223,
+            "end": 8.06
+          },
+          {
+            "word": "a ",
+            "start": 8.223,
+            "end": 8.278
+          },
+          {
+            "word": "partial ",
+            "start": 8.289,
+            "end": 8.636
+          },
+          {
+            "word": "restructuring ",
+            "start": 8.647,
+            "end": 9.267
+          },
+          {
+            "word": "was ",
+            "start": 9.278,
+            "end": 9.386
+          },
+          {
+            "word": "imposed ",
+            "start": 9.397,
+            "end": 9.821
+          },
+          {
+            "word": "anyway, ",
+            "start": 9.832,
+            "end": 10.147
+          },
+          {
+            "word": "becoming ",
+            "start": 10.343,
+            "end": 10.68
+          },
+          {
+            "word": "the ",
+            "start": 10.691,
+            "end": 10.756
+          },
+          {
+            "word": "largest ",
+            "start": 10.767,
+            "end": 11.169
+          },
+          {
+            "word": "sovereign ",
+            "start": 11.18,
+            "end": 11.452
+          },
+          {
+            "word": "default ",
+            "start": 11.463,
+            "end": 11.81
+          },
+          {
+            "word": "in ",
+            "start": 11.821,
+            "end": 11.897
+          },
+          {
+            "word": "history: ",
+            "start": 11.908,
+            "end": 12.278
+          },
+          {
+            "word": "one ",
+            "start": 12.452,
+            "end": 12.615
+          },
+          {
+            "word": "hundred ",
+            "start": 12.626,
+            "end": 12.886
+          },
+          {
+            "word": "and ",
+            "start": 12.897,
+            "end": 12.963
+          },
+          {
+            "word": "seven ",
+            "start": 12.973,
+            "end": 13.278
+          },
+          {
+            "word": "billion ",
+            "start": 13.289,
+            "end": 13.636
+          },
+          {
+            "word": "euros ",
+            "start": 13.647,
+            "end": 14.039
+          },
+          {
+            "word": "written ",
+            "start": 14.05,
+            "end": 14.31
+          },
+          {
+            "word": "off. ",
+            "start": 14.321,
+            "end": 14.636
+          },
+          {
+            "word": "The ",
+            "start": 15.386,
+            "end": 15.528
+          },
+          {
+            "word": "delay ",
+            "start": 15.539,
+            "end": 15.865
+          },
+          {
+            "word": "added ",
+            "start": 15.876,
+            "end": 16.158
+          },
+          {
+            "word": "two ",
+            "start": 16.169,
+            "end": 16.354
+          },
+          {
+            "word": "years ",
+            "start": 16.365,
+            "end": 16.626
+          },
+          {
+            "word": "of ",
+            "start": 16.636,
+            "end": 16.702
+          },
+          {
+            "word": "austerity ",
+            "start": 16.713,
+            "end": 17.191
+          },
+          {
+            "word": "with ",
+            "start": 17.202,
+            "end": 17.365
+          },
+          {
+            "word": "no ",
+            "start": 17.376,
+            "end": 17.604
+          },
+          {
+            "word": "corresponding ",
+            "start": 17.615,
+            "end": 18.202
+          },
+          {
+            "word": "benefit.",
+            "start": 18.213,
+            "end": 18.702
+          }
+        ],
+        "start": 3756
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep10_problems_7",
+        "audio_exists": true,
+        "audioPath": "episodes/ep10/audio/ep10_problems_7.wav",
+        "text": "The social cost of adjustment fell asymmetrically. Greek public sector workers, pensioners, and the unemployed bore the direct cost of austerity. German and French bank shareholders, whose institutions held Greek debt, were effectively protected by bailout terms that ensured private creditors were repaid in full from public rescue funds.",
+        "duration": 547,
+        "bgImage": "bg_currency_trade.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.241
+          },
+          {
+            "word": "social ",
+            "start": 0.252,
+            "end": 0.578
+          },
+          {
+            "word": "cost ",
+            "start": 0.589,
+            "end": 0.85
+          },
+          {
+            "word": "of ",
+            "start": 0.86,
+            "end": 0.926
+          },
+          {
+            "word": "adjustment ",
+            "start": 0.936,
+            "end": 1.328
+          },
+          {
+            "word": "fell ",
+            "start": 1.339,
+            "end": 1.556
+          },
+          {
+            "word": "asymmetrically. ",
+            "start": 1.567,
+            "end": 2.186
+          },
+          {
+            "word": "Greek ",
+            "start": 2.93,
+            "end": 3.234
+          },
+          {
+            "word": "public ",
+            "start": 3.245,
+            "end": 3.549
+          },
+          {
+            "word": "sector ",
+            "start": 3.56,
+            "end": 3.854
+          },
+          {
+            "word": "workers, ",
+            "start": 3.865,
+            "end": 4.332
+          },
+          {
+            "word": "pensioners, ",
+            "start": 4.517,
+            "end": 4.995
+          },
+          {
+            "word": "and ",
+            "start": 5.18,
+            "end": 5.267
+          },
+          {
+            "word": "the ",
+            "start": 5.278,
+            "end": 5.376
+          },
+          {
+            "word": "unemployed ",
+            "start": 5.386,
+            "end": 5.865
+          },
+          {
+            "word": "bore ",
+            "start": 5.876,
+            "end": 6.006
+          },
+          {
+            "word": "the ",
+            "start": 6.017,
+            "end": 6.104
+          },
+          {
+            "word": "direct ",
+            "start": 6.115,
+            "end": 6.43
+          },
+          {
+            "word": "cost ",
+            "start": 6.441,
+            "end": 6.702
+          },
+          {
+            "word": "of ",
+            "start": 6.713,
+            "end": 6.778
+          },
+          {
+            "word": "austerity. ",
+            "start": 6.789,
+            "end": 7.332
+          },
+          {
+            "word": "German ",
+            "start": 8.082,
+            "end": 8.43
+          },
+          {
+            "word": "and ",
+            "start": 8.441,
+            "end": 8.571
+          },
+          {
+            "word": "French ",
+            "start": 8.582,
+            "end": 8.886
+          },
+          {
+            "word": "bank ",
+            "start": 8.897,
+            "end": 9.126
+          },
+          {
+            "word": "shareholders, ",
+            "start": 9.136,
+            "end": 9.713
+          },
+          {
+            "word": "whose ",
+            "start": 9.93,
+            "end": 10.082
+          },
+          {
+            "word": "institutions ",
+            "start": 10.093,
+            "end": 10.713
+          },
+          {
+            "word": "held ",
+            "start": 10.723,
+            "end": 10.963
+          },
+          {
+            "word": "Greek ",
+            "start": 10.973,
+            "end": 11.234
+          },
+          {
+            "word": "debt, ",
+            "start": 11.245,
+            "end": 11.484
+          },
+          {
+            "word": "were ",
+            "start": 11.647,
+            "end": 11.767
+          },
+          {
+            "word": "effectively ",
+            "start": 11.778,
+            "end": 12.256
+          },
+          {
+            "word": "protected ",
+            "start": 12.267,
+            "end": 12.702
+          },
+          {
+            "word": "by ",
+            "start": 12.713,
+            "end": 12.821
+          },
+          {
+            "word": "bailout ",
+            "start": 12.832,
+            "end": 13.245
+          },
+          {
+            "word": "terms ",
+            "start": 13.256,
+            "end": 13.549
+          },
+          {
+            "word": "that ",
+            "start": 13.56,
+            "end": 13.68
+          },
+          {
+            "word": "ensured ",
+            "start": 13.691,
+            "end": 14.049
+          },
+          {
+            "word": "private ",
+            "start": 14.06,
+            "end": 14.408
+          },
+          {
+            "word": "creditors ",
+            "start": 14.419,
+            "end": 14.832
+          },
+          {
+            "word": "were ",
+            "start": 14.843,
+            "end": 14.941
+          },
+          {
+            "word": "repaid ",
+            "start": 14.952,
+            "end": 15.332
+          },
+          {
+            "word": "in ",
+            "start": 15.343,
+            "end": 15.441
+          },
+          {
+            "word": "full ",
+            "start": 15.452,
+            "end": 15.713
+          },
+          {
+            "word": "from ",
+            "start": 15.723,
+            "end": 15.876
+          },
+          {
+            "word": "public ",
+            "start": 15.886,
+            "end": 16.202
+          },
+          {
+            "word": "rescue ",
+            "start": 16.213,
+            "end": 16.571
+          },
+          {
+            "word": "funds.",
+            "start": 16.582,
+            "end": 17.05
+          }
+        ],
+        "start": 4352
+      }
+    ]
+  },
+  {
+    "id": "ep10_solutions",
+    "title": "Solutions",
+    "globalStart": 9117,
+    "duration": 3886,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Solutions"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep10_solutions_0",
+        "audio_exists": true,
+        "audioPath": "episodes/ep10/audio/ep10_solutions_0.wav",
+        "text": "The turning point came on July 26, 2012. European Central Bank president Mario Draghi said four words that ended the acute phase of the crisis: 'Whatever it takes.' He continued: 'And believe me, it will be enough.' The ECB would purchase the bonds of struggling eurozone members in unlimited quantities if necessary.",
+        "duration": 574,
+        "bgImage": "bg_fed_building.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.241
+          },
+          {
+            "word": "turning ",
+            "start": 0.252,
+            "end": 0.556
+          },
+          {
+            "word": "point ",
+            "start": 0.567,
+            "end": 0.795
+          },
+          {
+            "word": "came ",
+            "start": 0.806,
+            "end": 1.023
+          },
+          {
+            "word": "on ",
+            "start": 1.034,
+            "end": 1.165
+          },
+          {
+            "word": "July 26, 2012. ",
+            "start": 1.176,
+            "end": 3.11
+          },
+          {
+            "word": "European ",
+            "start": 3.854,
+            "end": 4.376
+          },
+          {
+            "word": "Central ",
+            "start": 4.386,
+            "end": 4.723
+          },
+          {
+            "word": "Bank ",
+            "start": 4.734,
+            "end": 4.973
+          },
+          {
+            "word": "president ",
+            "start": 4.984,
+            "end": 5.343
+          },
+          {
+            "word": "Mario ",
+            "start": 5.354,
+            "end": 5.702
+          },
+          {
+            "word": "Draghi ",
+            "start": 5.713,
+            "end": 5.984
+          },
+          {
+            "word": "said ",
+            "start": 5.995,
+            "end": 6.202
+          },
+          {
+            "word": "four ",
+            "start": 6.213,
+            "end": 6.365
+          },
+          {
+            "word": "words ",
+            "start": 6.376,
+            "end": 6.723
+          },
+          {
+            "word": "that ",
+            "start": 6.734,
+            "end": 6.865
+          },
+          {
+            "word": "ended ",
+            "start": 6.876,
+            "end": 7.082
+          },
+          {
+            "word": "the ",
+            "start": 7.093,
+            "end": 7.191
+          },
+          {
+            "word": "acute ",
+            "start": 7.202,
+            "end": 7.495
+          },
+          {
+            "word": "phase ",
+            "start": 7.506,
+            "end": 7.767
+          },
+          {
+            "word": "of ",
+            "start": 7.778,
+            "end": 7.832
+          },
+          {
+            "word": "the ",
+            "start": 7.843,
+            "end": 7.897
+          },
+          {
+            "word": "crisis: '",
+            "start": 7.908,
+            "end": 8.397
+          },
+          {
+            "word": "Whatever ",
+            "start": 8.56,
+            "end": 8.919
+          },
+          {
+            "word": "it ",
+            "start": 8.93,
+            "end": 9.017
+          },
+          {
+            "word": "takes.' ",
+            "start": 9.028,
+            "end": 9.441
+          },
+          {
+            "word": "He ",
+            "start": 10.191,
+            "end": 10.321
+          },
+          {
+            "word": "continued: '",
+            "start": 10.332,
+            "end": 10.897
+          },
+          {
+            "word": "And ",
+            "start": 11.071,
+            "end": 11.191
+          },
+          {
+            "word": "believe ",
+            "start": 11.202,
+            "end": 11.549
+          },
+          {
+            "word": "me, ",
+            "start": 11.56,
+            "end": 11.723
+          },
+          {
+            "word": "it ",
+            "start": 11.919,
+            "end": 12.006
+          },
+          {
+            "word": "will ",
+            "start": 12.017,
+            "end": 12.136
+          },
+          {
+            "word": "be ",
+            "start": 12.147,
+            "end": 12.256
+          },
+          {
+            "word": "enough.' ",
+            "start": 12.267,
+            "end": 12.767
+          },
+          {
+            "word": "The ",
+            "start": 13.517,
+            "end": 13.636
+          },
+          {
+            "word": "ECB ",
+            "start": 13.647,
+            "end": 14.158
+          },
+          {
+            "word": "would ",
+            "start": 14.169,
+            "end": 14.31
+          },
+          {
+            "word": "purchase ",
+            "start": 14.321,
+            "end": 14.658
+          },
+          {
+            "word": "the ",
+            "start": 14.669,
+            "end": 14.756
+          },
+          {
+            "word": "bonds ",
+            "start": 14.767,
+            "end": 15.006
+          },
+          {
+            "word": "of ",
+            "start": 15.017,
+            "end": 15.082
+          },
+          {
+            "word": "struggling ",
+            "start": 15.093,
+            "end": 15.473
+          },
+          {
+            "word": "eurozone ",
+            "start": 15.484,
+            "end": 15.973
+          },
+          {
+            "word": "members ",
+            "start": 15.984,
+            "end": 16.256
+          },
+          {
+            "word": "in ",
+            "start": 16.267,
+            "end": 16.365
+          },
+          {
+            "word": "unlimited ",
+            "start": 16.376,
+            "end": 16.799
+          },
+          {
+            "word": "quantities ",
+            "start": 16.81,
+            "end": 17.278
+          },
+          {
+            "word": "if ",
+            "start": 17.289,
+            "end": 17.386
+          },
+          {
+            "word": "necessary.",
+            "start": 17.397,
+            "end": 17.952
+          }
+        ],
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep10_solutions_1",
+        "audio_exists": true,
+        "audioPath": "episodes/ep10/audio/ep10_solutions_1.wav",
+        "text": "Draghi's pledge was never fully tested. The mere announcement that the ECB would buy bonds was sufficient to stop the panic. Spanish and Italian bond yields, which had risen above seven percent, fell sharply over the following weeks. The crisis of confidence dissipated when a credible backstop appeared.",
+        "duration": 513,
+        "bgImage": "bg_imf_meeting.jpg",
+        "wordTimings": [
+          {
+            "word": "Draghi's ",
+            "start": 0.1,
+            "end": 0.458
+          },
+          {
+            "word": "pledge ",
+            "start": 0.469,
+            "end": 0.763
+          },
+          {
+            "word": "was ",
+            "start": 0.773,
+            "end": 0.936
+          },
+          {
+            "word": "never ",
+            "start": 0.947,
+            "end": 1.186
+          },
+          {
+            "word": "fully ",
+            "start": 1.197,
+            "end": 1.436
+          },
+          {
+            "word": "tested. ",
+            "start": 1.447,
+            "end": 1.915
+          },
+          {
+            "word": "The ",
+            "start": 2.658,
+            "end": 2.799
+          },
+          {
+            "word": "mere ",
+            "start": 2.81,
+            "end": 3.039
+          },
+          {
+            "word": "announcement ",
+            "start": 3.05,
+            "end": 3.495
+          },
+          {
+            "word": "that ",
+            "start": 3.506,
+            "end": 3.593
+          },
+          {
+            "word": "the ",
+            "start": 3.604,
+            "end": 3.669
+          },
+          {
+            "word": "ECB ",
+            "start": 3.68,
+            "end": 4.191
+          },
+          {
+            "word": "would ",
+            "start": 4.202,
+            "end": 4.343
+          },
+          {
+            "word": "buy ",
+            "start": 4.354,
+            "end": 4.473
+          },
+          {
+            "word": "bonds ",
+            "start": 4.484,
+            "end": 4.81
+          },
+          {
+            "word": "was ",
+            "start": 4.821,
+            "end": 4.952
+          },
+          {
+            "word": "sufficient ",
+            "start": 4.963,
+            "end": 5.386
+          },
+          {
+            "word": "to ",
+            "start": 5.397,
+            "end": 5.452
+          },
+          {
+            "word": "stop ",
+            "start": 5.463,
+            "end": 5.734
+          },
+          {
+            "word": "the ",
+            "start": 5.745,
+            "end": 5.81
+          },
+          {
+            "word": "panic. ",
+            "start": 5.821,
+            "end": 6.245
+          },
+          {
+            "word": "Spanish ",
+            "start": 6.995,
+            "end": 7.43
+          },
+          {
+            "word": "and ",
+            "start": 7.441,
+            "end": 7.549
+          },
+          {
+            "word": "Italian ",
+            "start": 7.56,
+            "end": 7.984
+          },
+          {
+            "word": "bond ",
+            "start": 7.995,
+            "end": 8.223
+          },
+          {
+            "word": "yields, ",
+            "start": 8.234,
+            "end": 8.604
+          },
+          {
+            "word": "which ",
+            "start": 8.745,
+            "end": 8.876
+          },
+          {
+            "word": "had ",
+            "start": 8.886,
+            "end": 9.006
+          },
+          {
+            "word": "risen ",
+            "start": 9.017,
+            "end": 9.256
+          },
+          {
+            "word": "above ",
+            "start": 9.267,
+            "end": 9.528
+          },
+          {
+            "word": "seven ",
+            "start": 9.539,
+            "end": 9.8
+          },
+          {
+            "word": "percent, ",
+            "start": 9.81,
+            "end": 10.234
+          },
+          {
+            "word": "fell ",
+            "start": 10.408,
+            "end": 10.615
+          },
+          {
+            "word": "sharply ",
+            "start": 10.626,
+            "end": 10.995
+          },
+          {
+            "word": "over ",
+            "start": 11.006,
+            "end": 11.18
+          },
+          {
+            "word": "the ",
+            "start": 11.191,
+            "end": 11.267
+          },
+          {
+            "word": "following ",
+            "start": 11.278,
+            "end": 11.658
+          },
+          {
+            "word": "weeks. ",
+            "start": 11.669,
+            "end": 12.104
+          },
+          {
+            "word": "The ",
+            "start": 12.854,
+            "end": 12.984
+          },
+          {
+            "word": "crisis ",
+            "start": 12.995,
+            "end": 13.408
+          },
+          {
+            "word": "of ",
+            "start": 13.419,
+            "end": 13.495
+          },
+          {
+            "word": "confidence ",
+            "start": 13.506,
+            "end": 13.919
+          },
+          {
+            "word": "dissipated ",
+            "start": 13.93,
+            "end": 14.473
+          },
+          {
+            "word": "when ",
+            "start": 14.484,
+            "end": 14.615
+          },
+          {
+            "word": "a ",
+            "start": 14.626,
+            "end": 14.658
+          },
+          {
+            "word": "credible ",
+            "start": 14.669,
+            "end": 15.049
+          },
+          {
+            "word": "backstop ",
+            "start": 15.06,
+            "end": 15.463
+          },
+          {
+            "word": "appeared.",
+            "start": 15.473,
+            "end": 15.93
+          }
+        ],
+        "start": 664
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep10_solutions_2",
+        "audio_exists": true,
+        "audioPath": "episodes/ep10/audio/ep10_solutions_2.wav",
+        "text": "The lesson was painful in its simplicity: the eurozone crisis was partly a self-fulfilling panic, and a central bank guarantee can break a self-fulfilling panic. The ECB had this power from its founding. It had not used it, constrained by German opposition to debt monetisation. Two years of crisis was partly the cost of that constraint.",
+        "duration": 587,
+        "bgImage": "bg_global_map.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.219
+          },
+          {
+            "word": "lesson ",
+            "start": 0.23,
+            "end": 0.534
+          },
+          {
+            "word": "was ",
+            "start": 0.545,
+            "end": 0.665
+          },
+          {
+            "word": "painful ",
+            "start": 0.676,
+            "end": 1.121
+          },
+          {
+            "word": "in ",
+            "start": 1.132,
+            "end": 1.219
+          },
+          {
+            "word": "its ",
+            "start": 1.23,
+            "end": 1.339
+          },
+          {
+            "word": "simplicity: ",
+            "start": 1.35,
+            "end": 1.871
+          },
+          {
+            "word": "the ",
+            "start": 2.023,
+            "end": 2.099
+          },
+          {
+            "word": "eurozone ",
+            "start": 2.11,
+            "end": 2.632
+          },
+          {
+            "word": "crisis ",
+            "start": 2.643,
+            "end": 3.056
+          },
+          {
+            "word": "was ",
+            "start": 3.067,
+            "end": 3.208
+          },
+          {
+            "word": "partly ",
+            "start": 3.219,
+            "end": 3.545
+          },
+          {
+            "word": "a ",
+            "start": 3.556,
+            "end": 3.61
+          },
+          {
+            "word": "self-fulfilling ",
+            "start": 3.621,
+            "end": 4.295
+          },
+          {
+            "word": "panic, ",
+            "start": 4.306,
+            "end": 4.632
+          },
+          {
+            "word": "and ",
+            "start": 4.806,
+            "end": 4.86
+          },
+          {
+            "word": "a ",
+            "start": 4.871,
+            "end": 4.915
+          },
+          {
+            "word": "central ",
+            "start": 4.926,
+            "end": 5.306
+          },
+          {
+            "word": "bank ",
+            "start": 5.317,
+            "end": 5.556
+          },
+          {
+            "word": "guarantee ",
+            "start": 5.567,
+            "end": 6.034
+          },
+          {
+            "word": "can ",
+            "start": 6.045,
+            "end": 6.186
+          },
+          {
+            "word": "break ",
+            "start": 6.197,
+            "end": 6.415
+          },
+          {
+            "word": "a ",
+            "start": 6.426,
+            "end": 6.469
+          },
+          {
+            "word": "self-fulfilling ",
+            "start": 6.48,
+            "end": 7.176
+          },
+          {
+            "word": "panic. ",
+            "start": 7.186,
+            "end": 7.589
+          },
+          {
+            "word": "The ",
+            "start": 8.332,
+            "end": 8.473
+          },
+          {
+            "word": "ECB ",
+            "start": 8.484,
+            "end": 8.984
+          },
+          {
+            "word": "had ",
+            "start": 8.995,
+            "end": 9.136
+          },
+          {
+            "word": "this ",
+            "start": 9.147,
+            "end": 9.299
+          },
+          {
+            "word": "power ",
+            "start": 9.31,
+            "end": 9.604
+          },
+          {
+            "word": "from ",
+            "start": 9.615,
+            "end": 9.756
+          },
+          {
+            "word": "its ",
+            "start": 9.767,
+            "end": 9.876
+          },
+          {
+            "word": "founding. ",
+            "start": 9.886,
+            "end": 10.386
+          },
+          {
+            "word": "It ",
+            "start": 11.136,
+            "end": 11.278
+          },
+          {
+            "word": "had ",
+            "start": 11.289,
+            "end": 11.419
+          },
+          {
+            "word": "not ",
+            "start": 11.43,
+            "end": 11.647
+          },
+          {
+            "word": "used ",
+            "start": 11.658,
+            "end": 11.93
+          },
+          {
+            "word": "it, ",
+            "start": 11.941,
+            "end": 12.082
+          },
+          {
+            "word": "constrained ",
+            "start": 12.256,
+            "end": 12.799
+          },
+          {
+            "word": "by ",
+            "start": 12.81,
+            "end": 12.941
+          },
+          {
+            "word": "German ",
+            "start": 12.952,
+            "end": 13.332
+          },
+          {
+            "word": "opposition ",
+            "start": 13.343,
+            "end": 13.789
+          },
+          {
+            "word": "to ",
+            "start": 13.8,
+            "end": 13.886
+          },
+          {
+            "word": "debt ",
+            "start": 13.897,
+            "end": 14.126
+          },
+          {
+            "word": "monetisation. ",
+            "start": 14.136,
+            "end": 14.973
+          },
+          {
+            "word": "Two ",
+            "start": 15.723,
+            "end": 15.984
+          },
+          {
+            "word": "years ",
+            "start": 15.995,
+            "end": 16.223
+          },
+          {
+            "word": "of ",
+            "start": 16.234,
+            "end": 16.299
+          },
+          {
+            "word": "crisis ",
+            "start": 16.31,
+            "end": 16.702
+          },
+          {
+            "word": "was ",
+            "start": 16.713,
+            "end": 16.843
+          },
+          {
+            "word": "partly ",
+            "start": 16.854,
+            "end": 17.169
+          },
+          {
+            "word": "the ",
+            "start": 17.18,
+            "end": 17.256
+          },
+          {
+            "word": "cost ",
+            "start": 17.267,
+            "end": 17.56
+          },
+          {
+            "word": "of ",
+            "start": 17.571,
+            "end": 17.647
+          },
+          {
+            "word": "that ",
+            "start": 17.658,
+            "end": 17.799
+          },
+          {
+            "word": "constraint.",
+            "start": 17.81,
+            "end": 18.397
+          }
+        ],
+        "start": 1177
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep10_solutions_3",
+        "audio_exists": true,
+        "audioPath": "episodes/ep10/audio/ep10_solutions_3.wav",
+        "text": "Beyond Draghi's intervention, the eurozone built new institutional architecture. The European Stability Mechanism — a permanent rescue fund with five hundred billion euros in capacity — replaced the improvised arrangements of 2010. Banking union, with European-level supervision of major banks, was established in 2014.",
+        "duration": 554,
+        "bgImage": "bg_recovery.jpg",
+        "wordTimings": [
+          {
+            "word": "Beyond ",
+            "start": 0.1,
+            "end": 0.426
+          },
+          {
+            "word": "Draghi's ",
+            "start": 0.436,
+            "end": 0.741
+          },
+          {
+            "word": "intervention, ",
+            "start": 0.752,
+            "end": 1.317
+          },
+          {
+            "word": "the ",
+            "start": 1.447,
+            "end": 1.523
+          },
+          {
+            "word": "eurozone ",
+            "start": 1.534,
+            "end": 2.056
+          },
+          {
+            "word": "built ",
+            "start": 2.067,
+            "end": 2.295
+          },
+          {
+            "word": "new ",
+            "start": 2.306,
+            "end": 2.513
+          },
+          {
+            "word": "institutional ",
+            "start": 2.523,
+            "end": 3.208
+          },
+          {
+            "word": "architecture. ",
+            "start": 3.219,
+            "end": 3.849
+          },
+          {
+            "word": "The ",
+            "start": 4.593,
+            "end": 4.702
+          },
+          {
+            "word": "European ",
+            "start": 4.713,
+            "end": 5.191
+          },
+          {
+            "word": "Stability ",
+            "start": 5.202,
+            "end": 5.626
+          },
+          {
+            "word": "Mechanism — ",
+            "start": 5.636,
+            "end": 6.147
+          },
+          {
+            "word": "a ",
+            "start": 6.365,
+            "end": 6.408
+          },
+          {
+            "word": "permanent ",
+            "start": 6.419,
+            "end": 6.789
+          },
+          {
+            "word": "rescue ",
+            "start": 6.8,
+            "end": 7.06
+          },
+          {
+            "word": "fund ",
+            "start": 7.071,
+            "end": 7.343
+          },
+          {
+            "word": "with ",
+            "start": 7.354,
+            "end": 7.473
+          },
+          {
+            "word": "five ",
+            "start": 7.484,
+            "end": 7.778
+          },
+          {
+            "word": "hundred ",
+            "start": 7.789,
+            "end": 8.06
+          },
+          {
+            "word": "billion ",
+            "start": 8.071,
+            "end": 8.354
+          },
+          {
+            "word": "euros ",
+            "start": 8.365,
+            "end": 8.745
+          },
+          {
+            "word": "in ",
+            "start": 8.756,
+            "end": 8.843
+          },
+          {
+            "word": "capacity — ",
+            "start": 8.854,
+            "end": 9.386
+          },
+          {
+            "word": "replaced ",
+            "start": 9.615,
+            "end": 9.963
+          },
+          {
+            "word": "the ",
+            "start": 9.973,
+            "end": 10.039
+          },
+          {
+            "word": "improvised ",
+            "start": 10.05,
+            "end": 10.55
+          },
+          {
+            "word": "arrangements ",
+            "start": 10.56,
+            "end": 11.071
+          },
+          {
+            "word": "of ",
+            "start": 11.082,
+            "end": 11.158
+          },
+          {
+            "word": "2010. ",
+            "start": 11.169,
+            "end": 11.832
+          },
+          {
+            "word": "Banking ",
+            "start": 12.582,
+            "end": 12.952
+          },
+          {
+            "word": "union, ",
+            "start": 12.963,
+            "end": 13.289
+          },
+          {
+            "word": "with ",
+            "start": 13.452,
+            "end": 13.539
+          },
+          {
+            "word": "European-level ",
+            "start": 13.55,
+            "end": 14.202
+          },
+          {
+            "word": "supervision ",
+            "start": 14.213,
+            "end": 14.702
+          },
+          {
+            "word": "of ",
+            "start": 14.713,
+            "end": 14.799
+          },
+          {
+            "word": "major ",
+            "start": 14.81,
+            "end": 15.115
+          },
+          {
+            "word": "banks, ",
+            "start": 15.126,
+            "end": 15.506
+          },
+          {
+            "word": "was ",
+            "start": 15.68,
+            "end": 15.789
+          },
+          {
+            "word": "established ",
+            "start": 15.8,
+            "end": 16.31
+          },
+          {
+            "word": "in 2014.",
+            "start": 16.321,
+            "end": 17.299
+          }
+        ],
+        "start": 1764
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep10_solutions_4",
+        "audio_exists": true,
+        "audioPath": "episodes/ep10/audio/ep10_solutions_4.wav",
+        "text": "Greece underwent the most intensive restructuring programme in modern economic history: three separate bailout programmes totalling two hundred and eighty-nine billion euros, accompanied by conditions requiring privatisation, pension reform, product market liberalisation, and reduction of the public sector.",
+        "duration": 474,
+        "bgImage": "bg_fed_building.jpg",
+        "wordTimings": [
+          {
+            "word": "Greece ",
+            "start": 0.1,
+            "end": 0.404
+          },
+          {
+            "word": "underwent ",
+            "start": 0.415,
+            "end": 0.773
+          },
+          {
+            "word": "the ",
+            "start": 0.784,
+            "end": 0.839
+          },
+          {
+            "word": "most ",
+            "start": 0.85,
+            "end": 1.11
+          },
+          {
+            "word": "intensive ",
+            "start": 1.121,
+            "end": 1.578
+          },
+          {
+            "word": "restructuring ",
+            "start": 1.589,
+            "end": 2.219
+          },
+          {
+            "word": "programme ",
+            "start": 2.23,
+            "end": 2.654
+          },
+          {
+            "word": "in ",
+            "start": 2.665,
+            "end": 2.763
+          },
+          {
+            "word": "modern ",
+            "start": 2.773,
+            "end": 3.023
+          },
+          {
+            "word": "economic ",
+            "start": 3.034,
+            "end": 3.436
+          },
+          {
+            "word": "history: ",
+            "start": 3.447,
+            "end": 3.795
+          },
+          {
+            "word": "three ",
+            "start": 3.98,
+            "end": 4.219
+          },
+          {
+            "word": "separate ",
+            "start": 4.23,
+            "end": 4.578
+          },
+          {
+            "word": "bailout ",
+            "start": 4.589,
+            "end": 4.969
+          },
+          {
+            "word": "programmes ",
+            "start": 4.98,
+            "end": 5.469
+          },
+          {
+            "word": "totalling ",
+            "start": 5.48,
+            "end": 5.893
+          },
+          {
+            "word": "two ",
+            "start": 5.904,
+            "end": 6.089
+          },
+          {
+            "word": "hundred ",
+            "start": 6.1,
+            "end": 6.339
+          },
+          {
+            "word": "and ",
+            "start": 6.35,
+            "end": 6.436
+          },
+          {
+            "word": "eighty-nine ",
+            "start": 6.447,
+            "end": 6.915
+          },
+          {
+            "word": "billion ",
+            "start": 6.926,
+            "end": 7.219
+          },
+          {
+            "word": "euros, ",
+            "start": 7.23,
+            "end": 7.697
+          },
+          {
+            "word": "accompanied ",
+            "start": 7.871,
+            "end": 8.306
+          },
+          {
+            "word": "by ",
+            "start": 8.317,
+            "end": 8.426
+          },
+          {
+            "word": "conditions ",
+            "start": 8.436,
+            "end": 8.926
+          },
+          {
+            "word": "requiring ",
+            "start": 8.936,
+            "end": 9.469
+          },
+          {
+            "word": "privatisation, ",
+            "start": 9.48,
+            "end": 10.317
+          },
+          {
+            "word": "pension ",
+            "start": 10.523,
+            "end": 10.839
+          },
+          {
+            "word": "reform, ",
+            "start": 10.85,
+            "end": 11.317
+          },
+          {
+            "word": "product ",
+            "start": 11.491,
+            "end": 11.806
+          },
+          {
+            "word": "market ",
+            "start": 11.817,
+            "end": 12.154
+          },
+          {
+            "word": "liberalisation, ",
+            "start": 12.165,
+            "end": 12.958
+          },
+          {
+            "word": "and ",
+            "start": 13.208,
+            "end": 13.317
+          },
+          {
+            "word": "reduction ",
+            "start": 13.328,
+            "end": 13.741
+          },
+          {
+            "word": "of ",
+            "start": 13.752,
+            "end": 13.817
+          },
+          {
+            "word": "the ",
+            "start": 13.828,
+            "end": 13.904
+          },
+          {
+            "word": "public ",
+            "start": 13.915,
+            "end": 14.219
+          },
+          {
+            "word": "sector.",
+            "start": 14.23,
+            "end": 14.632
+          }
+        ],
+        "start": 2318
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep10_solutions_5",
+        "audio_exists": true,
+        "audioPath": "episodes/ep10/audio/ep10_solutions_5.wav",
+        "text": "The restructuring extended through 2018 before Greece regained sustained market access. The country's GDP fell twenty-seven percent from peak to trough — a contraction deeper than the American Great Depression. Unemployment peaked at twenty-eight percent in 2013, and youth unemployment reached sixty percent.",
+        "duration": 522,
+        "bgImage": "bg_imf_meeting.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "restructuring ",
+            "start": 0.241,
+            "end": 0.882
+          },
+          {
+            "word": "extended ",
+            "start": 0.893,
+            "end": 1.295
+          },
+          {
+            "word": "through ",
+            "start": 1.306,
+            "end": 1.567
+          },
+          {
+            "word": "2018 ",
+            "start": 1.578,
+            "end": 2.284
+          },
+          {
+            "word": "before ",
+            "start": 2.295,
+            "end": 2.513
+          },
+          {
+            "word": "Greece ",
+            "start": 2.523,
+            "end": 2.784
+          },
+          {
+            "word": "regained ",
+            "start": 2.795,
+            "end": 3.099
+          },
+          {
+            "word": "sustained ",
+            "start": 3.11,
+            "end": 3.523
+          },
+          {
+            "word": "market ",
+            "start": 3.534,
+            "end": 3.839
+          },
+          {
+            "word": "access. ",
+            "start": 3.85,
+            "end": 4.35
+          },
+          {
+            "word": "The ",
+            "start": 5.093,
+            "end": 5.213
+          },
+          {
+            "word": "country's ",
+            "start": 5.223,
+            "end": 5.626
+          },
+          {
+            "word": "GDP ",
+            "start": 5.636,
+            "end": 6.18
+          },
+          {
+            "word": "fell ",
+            "start": 6.191,
+            "end": 6.452
+          },
+          {
+            "word": "twenty-seven ",
+            "start": 6.463,
+            "end": 6.963
+          },
+          {
+            "word": "percent ",
+            "start": 6.973,
+            "end": 7.31
+          },
+          {
+            "word": "from ",
+            "start": 7.321,
+            "end": 7.463
+          },
+          {
+            "word": "peak ",
+            "start": 7.473,
+            "end": 7.658
+          },
+          {
+            "word": "to ",
+            "start": 7.669,
+            "end": 7.745
+          },
+          {
+            "word": "trough — ",
+            "start": 7.756,
+            "end": 8.115
+          },
+          {
+            "word": "a ",
+            "start": 8.278,
+            "end": 8.321
+          },
+          {
+            "word": "contraction ",
+            "start": 8.332,
+            "end": 8.832
+          },
+          {
+            "word": "deeper ",
+            "start": 8.843,
+            "end": 9.147
+          },
+          {
+            "word": "than ",
+            "start": 9.158,
+            "end": 9.278
+          },
+          {
+            "word": "the ",
+            "start": 9.289,
+            "end": 9.376
+          },
+          {
+            "word": "American ",
+            "start": 9.386,
+            "end": 9.756
+          },
+          {
+            "word": "Great ",
+            "start": 9.767,
+            "end": 10.028
+          },
+          {
+            "word": "Depression. ",
+            "start": 10.039,
+            "end": 10.56
+          },
+          {
+            "word": "Unemployment ",
+            "start": 11.31,
+            "end": 11.919
+          },
+          {
+            "word": "peaked ",
+            "start": 11.93,
+            "end": 12.18
+          },
+          {
+            "word": "at ",
+            "start": 12.191,
+            "end": 12.278
+          },
+          {
+            "word": "twenty-eight ",
+            "start": 12.289,
+            "end": 12.723
+          },
+          {
+            "word": "percent ",
+            "start": 12.734,
+            "end": 13.06
+          },
+          {
+            "word": "in 2013, ",
+            "start": 13.071,
+            "end": 13.995
+          },
+          {
+            "word": "and ",
+            "start": 14.169,
+            "end": 14.31
+          },
+          {
+            "word": "youth ",
+            "start": 14.321,
+            "end": 14.539
+          },
+          {
+            "word": "unemployment ",
+            "start": 14.55,
+            "end": 15.158
+          },
+          {
+            "word": "reached ",
+            "start": 15.169,
+            "end": 15.452
+          },
+          {
+            "word": "sixty ",
+            "start": 15.463,
+            "end": 15.789
+          },
+          {
+            "word": "percent.",
+            "start": 15.8,
+            "end": 16.245
+          }
+        ],
+        "start": 2792
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep10_solutions_6",
+        "audio_exists": true,
+        "audioPath": "episodes/ep10/audio/ep10_solutions_6.wav",
+        "text": "The intellectual resolution was incomplete. The eurozone survived but did not resolve its structural deficit: a monetary union without genuine fiscal federalism remained vulnerable to asymmetric shocks. What changed was the certainty that the ECB would act as a backstop — reducing the probability that a liquidity crisis would become a solvency crisis.",
+        "duration": 572,
+        "bgImage": "bg_global_map.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "intellectual ",
+            "start": 0.241,
+            "end": 0.839
+          },
+          {
+            "word": "resolution ",
+            "start": 0.85,
+            "end": 1.371
+          },
+          {
+            "word": "was ",
+            "start": 1.382,
+            "end": 1.513
+          },
+          {
+            "word": "incomplete. ",
+            "start": 1.523,
+            "end": 2.176
+          },
+          {
+            "word": "The ",
+            "start": 2.919,
+            "end": 3.017
+          },
+          {
+            "word": "eurozone ",
+            "start": 3.028,
+            "end": 3.539
+          },
+          {
+            "word": "survived ",
+            "start": 3.55,
+            "end": 4.006
+          },
+          {
+            "word": "but ",
+            "start": 4.017,
+            "end": 4.126
+          },
+          {
+            "word": "did ",
+            "start": 4.136,
+            "end": 4.256
+          },
+          {
+            "word": "not ",
+            "start": 4.267,
+            "end": 4.452
+          },
+          {
+            "word": "resolve ",
+            "start": 4.463,
+            "end": 4.767
+          },
+          {
+            "word": "its ",
+            "start": 4.778,
+            "end": 4.908
+          },
+          {
+            "word": "structural ",
+            "start": 4.919,
+            "end": 5.386
+          },
+          {
+            "word": "deficit: ",
+            "start": 5.397,
+            "end": 5.865
+          },
+          {
+            "word": "a ",
+            "start": 6.06,
+            "end": 6.115
+          },
+          {
+            "word": "monetary ",
+            "start": 6.126,
+            "end": 6.517
+          },
+          {
+            "word": "union ",
+            "start": 6.528,
+            "end": 6.876
+          },
+          {
+            "word": "without ",
+            "start": 6.886,
+            "end": 7.158
+          },
+          {
+            "word": "genuine ",
+            "start": 7.169,
+            "end": 7.539
+          },
+          {
+            "word": "fiscal ",
+            "start": 7.55,
+            "end": 7.908
+          },
+          {
+            "word": "federalism ",
+            "start": 7.919,
+            "end": 8.441
+          },
+          {
+            "word": "remained ",
+            "start": 8.452,
+            "end": 8.789
+          },
+          {
+            "word": "vulnerable ",
+            "start": 8.8,
+            "end": 9.256
+          },
+          {
+            "word": "to ",
+            "start": 9.267,
+            "end": 9.365
+          },
+          {
+            "word": "asymmetric ",
+            "start": 9.376,
+            "end": 9.963
+          },
+          {
+            "word": "shocks. ",
+            "start": 9.973,
+            "end": 10.441
+          },
+          {
+            "word": "What ",
+            "start": 11.191,
+            "end": 11.397
+          },
+          {
+            "word": "changed ",
+            "start": 11.408,
+            "end": 11.723
+          },
+          {
+            "word": "was ",
+            "start": 11.734,
+            "end": 11.854
+          },
+          {
+            "word": "the ",
+            "start": 11.865,
+            "end": 11.952
+          },
+          {
+            "word": "certainty ",
+            "start": 11.963,
+            "end": 12.386
+          },
+          {
+            "word": "that ",
+            "start": 12.397,
+            "end": 12.517
+          },
+          {
+            "word": "the ",
+            "start": 12.528,
+            "end": 12.593
+          },
+          {
+            "word": "ECB ",
+            "start": 12.604,
+            "end": 13.147
+          },
+          {
+            "word": "would ",
+            "start": 13.158,
+            "end": 13.289
+          },
+          {
+            "word": "act ",
+            "start": 13.3,
+            "end": 13.495
+          },
+          {
+            "word": "as ",
+            "start": 13.506,
+            "end": 13.571
+          },
+          {
+            "word": "a ",
+            "start": 13.582,
+            "end": 13.636
+          },
+          {
+            "word": "backstop — ",
+            "start": 13.647,
+            "end": 14.126
+          },
+          {
+            "word": "reducing ",
+            "start": 14.289,
+            "end": 14.691
+          },
+          {
+            "word": "the ",
+            "start": 14.702,
+            "end": 14.778
+          },
+          {
+            "word": "probability ",
+            "start": 14.789,
+            "end": 15.321
+          },
+          {
+            "word": "that ",
+            "start": 15.332,
+            "end": 15.484
+          },
+          {
+            "word": "a ",
+            "start": 15.495,
+            "end": 15.539
+          },
+          {
+            "word": "liquidity ",
+            "start": 15.55,
+            "end": 15.973
+          },
+          {
+            "word": "crisis ",
+            "start": 15.984,
+            "end": 16.397
+          },
+          {
+            "word": "would ",
+            "start": 16.408,
+            "end": 16.539
+          },
+          {
+            "word": "become ",
+            "start": 16.55,
+            "end": 16.778
+          },
+          {
+            "word": "a ",
+            "start": 16.789,
+            "end": 16.832
+          },
+          {
+            "word": "solvency ",
+            "start": 16.843,
+            "end": 17.31
+          },
+          {
+            "word": "crisis.",
+            "start": 17.321,
+            "end": 17.897
+          }
+        ],
+        "start": 3314
+      }
+    ]
+  },
+  {
+    "id": "ep10_results",
+    "title": "Results",
+    "globalStart": 13003,
+    "duration": 4809,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Results"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep10_results_0",
+        "audio_exists": true,
+        "audioPath": "episodes/ep10/audio/ep10_results_0.wav",
+        "text": "Greece's economy began growing again in 2017. Its debt — restructured, extended, and partially written off — remained above one hundred and eighty percent of GDP, the highest in the eurozone. The country had stabilised but not recovered. The generation that entered the labour market between 2010 and 2015 had lower lifetime earnings than any previous Greek generation.",
+        "duration": 659,
+        "bgImage": "bg_recovery.jpg",
+        "wordTimings": [
+          {
+            "word": "Greece's ",
+            "start": 0.1,
+            "end": 0.523
+          },
+          {
+            "word": "economy ",
+            "start": 0.534,
+            "end": 0.904
+          },
+          {
+            "word": "began ",
+            "start": 0.915,
+            "end": 1.219
+          },
+          {
+            "word": "growing ",
+            "start": 1.23,
+            "end": 1.556
+          },
+          {
+            "word": "again ",
+            "start": 1.567,
+            "end": 1.839
+          },
+          {
+            "word": "in 2017. ",
+            "start": 1.85,
+            "end": 2.86
+          },
+          {
+            "word": "Its ",
+            "start": 3.604,
+            "end": 3.81
+          },
+          {
+            "word": "debt — ",
+            "start": 3.821,
+            "end": 4.158
+          },
+          {
+            "word": "restructured, ",
+            "start": 4.321,
+            "end": 4.886
+          },
+          {
+            "word": "extended, ",
+            "start": 5.05,
+            "end": 5.55
+          },
+          {
+            "word": "and ",
+            "start": 5.756,
+            "end": 5.865
+          },
+          {
+            "word": "partially ",
+            "start": 5.876,
+            "end": 6.234
+          },
+          {
+            "word": "written ",
+            "start": 6.245,
+            "end": 6.549
+          },
+          {
+            "word": "off — ",
+            "start": 6.56,
+            "end": 6.81
+          },
+          {
+            "word": "remained ",
+            "start": 7.028,
+            "end": 7.332
+          },
+          {
+            "word": "above ",
+            "start": 7.343,
+            "end": 7.593
+          },
+          {
+            "word": "one ",
+            "start": 7.604,
+            "end": 7.81
+          },
+          {
+            "word": "hundred ",
+            "start": 7.821,
+            "end": 8.071
+          },
+          {
+            "word": "and ",
+            "start": 8.082,
+            "end": 8.169
+          },
+          {
+            "word": "eighty ",
+            "start": 8.18,
+            "end": 8.397
+          },
+          {
+            "word": "percent ",
+            "start": 8.408,
+            "end": 8.723
+          },
+          {
+            "word": "of ",
+            "start": 8.734,
+            "end": 8.832
+          },
+          {
+            "word": "GDP, ",
+            "start": 8.843,
+            "end": 9.441
+          },
+          {
+            "word": "the ",
+            "start": 9.647,
+            "end": 9.723
+          },
+          {
+            "word": "highest ",
+            "start": 9.734,
+            "end": 10.147
+          },
+          {
+            "word": "in ",
+            "start": 10.158,
+            "end": 10.234
+          },
+          {
+            "word": "the ",
+            "start": 10.245,
+            "end": 10.31
+          },
+          {
+            "word": "eurozone. ",
+            "start": 10.321,
+            "end": 11.006
+          },
+          {
+            "word": "The ",
+            "start": 11.756,
+            "end": 11.886
+          },
+          {
+            "word": "country ",
+            "start": 11.897,
+            "end": 12.191
+          },
+          {
+            "word": "had ",
+            "start": 12.202,
+            "end": 12.365
+          },
+          {
+            "word": "stabilised ",
+            "start": 12.376,
+            "end": 12.963
+          },
+          {
+            "word": "but ",
+            "start": 12.973,
+            "end": 13.082
+          },
+          {
+            "word": "not ",
+            "start": 13.093,
+            "end": 13.321
+          },
+          {
+            "word": "recovered. ",
+            "start": 13.332,
+            "end": 13.821
+          },
+          {
+            "word": "The ",
+            "start": 14.571,
+            "end": 14.702
+          },
+          {
+            "word": "generation ",
+            "start": 14.713,
+            "end": 15.202
+          },
+          {
+            "word": "that ",
+            "start": 15.213,
+            "end": 15.354
+          },
+          {
+            "word": "entered ",
+            "start": 15.365,
+            "end": 15.582
+          },
+          {
+            "word": "the ",
+            "start": 15.593,
+            "end": 15.658
+          },
+          {
+            "word": "labour ",
+            "start": 15.669,
+            "end": 15.93
+          },
+          {
+            "word": "market ",
+            "start": 15.941,
+            "end": 16.278
+          },
+          {
+            "word": "between 2010 and 2015 ",
+            "start": 16.289,
+            "end": 17.919
+          },
+          {
+            "word": "had ",
+            "start": 17.93,
+            "end": 18.06
+          },
+          {
+            "word": "lower ",
+            "start": 18.071,
+            "end": 18.31
+          },
+          {
+            "word": "lifetime ",
+            "start": 18.321,
+            "end": 18.8
+          },
+          {
+            "word": "earnings ",
+            "start": 18.81,
+            "end": 19.169
+          },
+          {
+            "word": "than ",
+            "start": 19.18,
+            "end": 19.31
+          },
+          {
+            "word": "any ",
+            "start": 19.321,
+            "end": 19.484
+          },
+          {
+            "word": "previous ",
+            "start": 19.495,
+            "end": 19.886
+          },
+          {
+            "word": "Greek ",
+            "start": 19.897,
+            "end": 20.158
+          },
+          {
+            "word": "generation.",
+            "start": 20.169,
+            "end": 20.789
+          }
+        ],
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep10_results_1",
+        "audio_exists": true,
+        "audioPath": "episodes/ep10/audio/ep10_results_1.wav",
+        "text": "The crisis reshaped European politics. In Greece, both mainstream parties that had alternated in power since the 1970s collapsed. The radical left party Syriza won power in 2015 on an anti-austerity platform, then accepted a third bailout with more severe conditions after a referendum rejecting those conditions was overridden by creditors.",
+        "duration": 592,
+        "bgImage": "bg_global_map.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.241
+          },
+          {
+            "word": "crisis ",
+            "start": 0.252,
+            "end": 0.643
+          },
+          {
+            "word": "reshaped ",
+            "start": 0.654,
+            "end": 1.132
+          },
+          {
+            "word": "European ",
+            "start": 1.143,
+            "end": 1.61
+          },
+          {
+            "word": "politics. ",
+            "start": 1.621,
+            "end": 2.23
+          },
+          {
+            "word": "In ",
+            "start": 2.973,
+            "end": 3.126
+          },
+          {
+            "word": "Greece, ",
+            "start": 3.136,
+            "end": 3.484
+          },
+          {
+            "word": "both ",
+            "start": 3.582,
+            "end": 3.789
+          },
+          {
+            "word": "mainstream ",
+            "start": 3.8,
+            "end": 4.278
+          },
+          {
+            "word": "parties ",
+            "start": 4.289,
+            "end": 4.658
+          },
+          {
+            "word": "that ",
+            "start": 4.669,
+            "end": 4.789
+          },
+          {
+            "word": "had ",
+            "start": 4.8,
+            "end": 4.919
+          },
+          {
+            "word": "alternated ",
+            "start": 4.93,
+            "end": 5.376
+          },
+          {
+            "word": "in ",
+            "start": 5.386,
+            "end": 5.484
+          },
+          {
+            "word": "power ",
+            "start": 5.495,
+            "end": 5.799
+          },
+          {
+            "word": "since ",
+            "start": 5.81,
+            "end": 6.006
+          },
+          {
+            "word": "the ",
+            "start": 6.017,
+            "end": 6.093
+          },
+          {
+            "word": "1970s ",
+            "start": 6.104,
+            "end": 6.941
+          },
+          {
+            "word": "collapsed. ",
+            "start": 6.952,
+            "end": 7.517
+          },
+          {
+            "word": "The ",
+            "start": 8.267,
+            "end": 8.397
+          },
+          {
+            "word": "radical ",
+            "start": 8.408,
+            "end": 8.789
+          },
+          {
+            "word": "left ",
+            "start": 8.8,
+            "end": 9.028
+          },
+          {
+            "word": "party ",
+            "start": 9.039,
+            "end": 9.3
+          },
+          {
+            "word": "Syriza ",
+            "start": 9.31,
+            "end": 9.702
+          },
+          {
+            "word": "won ",
+            "start": 9.713,
+            "end": 9.963
+          },
+          {
+            "word": "power ",
+            "start": 9.973,
+            "end": 10.256
+          },
+          {
+            "word": "in 2015 ",
+            "start": 10.267,
+            "end": 11.104
+          },
+          {
+            "word": "on ",
+            "start": 11.115,
+            "end": 11.223
+          },
+          {
+            "word": "an ",
+            "start": 11.234,
+            "end": 11.299
+          },
+          {
+            "word": "anti-austerity ",
+            "start": 11.31,
+            "end": 12.006
+          },
+          {
+            "word": "platform, ",
+            "start": 12.017,
+            "end": 12.539
+          },
+          {
+            "word": "then ",
+            "start": 12.767,
+            "end": 12.865
+          },
+          {
+            "word": "accepted ",
+            "start": 12.876,
+            "end": 13.278
+          },
+          {
+            "word": "a ",
+            "start": 13.289,
+            "end": 13.343
+          },
+          {
+            "word": "third ",
+            "start": 13.354,
+            "end": 13.691
+          },
+          {
+            "word": "bailout ",
+            "start": 13.702,
+            "end": 14.06
+          },
+          {
+            "word": "with ",
+            "start": 14.071,
+            "end": 14.18
+          },
+          {
+            "word": "more ",
+            "start": 14.191,
+            "end": 14.376
+          },
+          {
+            "word": "severe ",
+            "start": 14.386,
+            "end": 14.745
+          },
+          {
+            "word": "conditions ",
+            "start": 14.756,
+            "end": 15.256
+          },
+          {
+            "word": "after ",
+            "start": 15.267,
+            "end": 15.517
+          },
+          {
+            "word": "a ",
+            "start": 15.528,
+            "end": 15.593
+          },
+          {
+            "word": "referendum ",
+            "start": 15.604,
+            "end": 16.158
+          },
+          {
+            "word": "rejecting ",
+            "start": 16.169,
+            "end": 16.593
+          },
+          {
+            "word": "those ",
+            "start": 16.604,
+            "end": 16.789
+          },
+          {
+            "word": "conditions ",
+            "start": 16.8,
+            "end": 17.256
+          },
+          {
+            "word": "was ",
+            "start": 17.267,
+            "end": 17.419
+          },
+          {
+            "word": "overridden ",
+            "start": 17.43,
+            "end": 17.865
+          },
+          {
+            "word": "by ",
+            "start": 17.876,
+            "end": 17.995
+          },
+          {
+            "word": "creditors.",
+            "start": 18.006,
+            "end": 18.571
+          }
+        ],
+        "start": 749
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep10_results_2",
+        "audio_exists": true,
+        "audioPath": "episodes/ep10/audio/ep10_results_2.wav",
+        "text": "The eurozone's institutional framework was strengthened. The Banking Union reduced the risk of bank runs in individual countries. The European Stability Mechanism provided a standing rescue capacity. And the ECB's clear willingness to act as lender of last resort removed the existential uncertainty that had made the crisis so severe.",
+        "duration": 568,
+        "bgImage": "bg_city_night.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.219
+          },
+          {
+            "word": "eurozone's ",
+            "start": 0.23,
+            "end": 0.773
+          },
+          {
+            "word": "institutional ",
+            "start": 0.784,
+            "end": 1.426
+          },
+          {
+            "word": "framework ",
+            "start": 1.436,
+            "end": 1.926
+          },
+          {
+            "word": "was ",
+            "start": 1.936,
+            "end": 2.056
+          },
+          {
+            "word": "strengthened. ",
+            "start": 2.067,
+            "end": 2.697
+          },
+          {
+            "word": "The ",
+            "start": 3.441,
+            "end": 3.582
+          },
+          {
+            "word": "Banking ",
+            "start": 3.593,
+            "end": 3.908
+          },
+          {
+            "word": "Union ",
+            "start": 3.919,
+            "end": 4.213
+          },
+          {
+            "word": "reduced ",
+            "start": 4.223,
+            "end": 4.593
+          },
+          {
+            "word": "the ",
+            "start": 4.604,
+            "end": 4.669
+          },
+          {
+            "word": "risk ",
+            "start": 4.68,
+            "end": 4.897
+          },
+          {
+            "word": "of ",
+            "start": 4.908,
+            "end": 5.006
+          },
+          {
+            "word": "bank ",
+            "start": 5.017,
+            "end": 5.267
+          },
+          {
+            "word": "runs ",
+            "start": 5.278,
+            "end": 5.528
+          },
+          {
+            "word": "in ",
+            "start": 5.539,
+            "end": 5.636
+          },
+          {
+            "word": "individual ",
+            "start": 5.647,
+            "end": 6.115
+          },
+          {
+            "word": "countries. ",
+            "start": 6.126,
+            "end": 6.723
+          },
+          {
+            "word": "The ",
+            "start": 7.473,
+            "end": 7.593
+          },
+          {
+            "word": "European ",
+            "start": 7.604,
+            "end": 8.049
+          },
+          {
+            "word": "Stability ",
+            "start": 8.06,
+            "end": 8.473
+          },
+          {
+            "word": "Mechanism ",
+            "start": 8.484,
+            "end": 8.984
+          },
+          {
+            "word": "provided ",
+            "start": 8.995,
+            "end": 9.376
+          },
+          {
+            "word": "a ",
+            "start": 9.386,
+            "end": 9.43
+          },
+          {
+            "word": "standing ",
+            "start": 9.441,
+            "end": 9.897
+          },
+          {
+            "word": "rescue ",
+            "start": 9.908,
+            "end": 10.256
+          },
+          {
+            "word": "capacity. ",
+            "start": 10.267,
+            "end": 10.843
+          },
+          {
+            "word": "And ",
+            "start": 11.593,
+            "end": 11.756
+          },
+          {
+            "word": "the ",
+            "start": 11.767,
+            "end": 11.843
+          },
+          {
+            "word": "ECB's ",
+            "start": 11.854,
+            "end": 12.419
+          },
+          {
+            "word": "clear ",
+            "start": 12.43,
+            "end": 12.68
+          },
+          {
+            "word": "willingness ",
+            "start": 12.691,
+            "end": 13.082
+          },
+          {
+            "word": "to ",
+            "start": 13.093,
+            "end": 13.169
+          },
+          {
+            "word": "act ",
+            "start": 13.18,
+            "end": 13.365
+          },
+          {
+            "word": "as ",
+            "start": 13.376,
+            "end": 13.473
+          },
+          {
+            "word": "lender ",
+            "start": 13.484,
+            "end": 13.756
+          },
+          {
+            "word": "of ",
+            "start": 13.767,
+            "end": 13.832
+          },
+          {
+            "word": "last ",
+            "start": 13.843,
+            "end": 14.104
+          },
+          {
+            "word": "resort ",
+            "start": 14.115,
+            "end": 14.441
+          },
+          {
+            "word": "removed ",
+            "start": 14.452,
+            "end": 14.81
+          },
+          {
+            "word": "the ",
+            "start": 14.821,
+            "end": 14.908
+          },
+          {
+            "word": "existential ",
+            "start": 14.919,
+            "end": 15.506
+          },
+          {
+            "word": "uncertainty ",
+            "start": 15.517,
+            "end": 16.071
+          },
+          {
+            "word": "that ",
+            "start": 16.082,
+            "end": 16.234
+          },
+          {
+            "word": "had ",
+            "start": 16.245,
+            "end": 16.343
+          },
+          {
+            "word": "made ",
+            "start": 16.354,
+            "end": 16.549
+          },
+          {
+            "word": "the ",
+            "start": 16.56,
+            "end": 16.626
+          },
+          {
+            "word": "crisis ",
+            "start": 16.636,
+            "end": 17.028
+          },
+          {
+            "word": "so ",
+            "start": 17.039,
+            "end": 17.245
+          },
+          {
+            "word": "severe.",
+            "start": 17.256,
+            "end": 17.745
+          }
+        ],
+        "start": 1341
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep10_results_3",
+        "audio_exists": true,
+        "audioPath": "episodes/ep10/audio/ep10_results_3.wav",
+        "text": "The intellectual legacy was a genuine rethinking of austerity economics. The IMF's acknowledgment of faulty fiscal multipliers was unprecedented — an institution admitting, in real time, that its prescriptions had worsened the patient's condition. The academic consensus on the costs and limits of austerity during recessions shifted substantially.",
+        "duration": 563,
+        "bgImage": "bg_interest_chart.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.241
+          },
+          {
+            "word": "intellectual ",
+            "start": 0.252,
+            "end": 0.817
+          },
+          {
+            "word": "legacy ",
+            "start": 0.828,
+            "end": 1.219
+          },
+          {
+            "word": "was ",
+            "start": 1.23,
+            "end": 1.371
+          },
+          {
+            "word": "a ",
+            "start": 1.382,
+            "end": 1.447
+          },
+          {
+            "word": "genuine ",
+            "start": 1.458,
+            "end": 1.86
+          },
+          {
+            "word": "rethinking ",
+            "start": 1.871,
+            "end": 2.382
+          },
+          {
+            "word": "of ",
+            "start": 2.393,
+            "end": 2.469
+          },
+          {
+            "word": "austerity ",
+            "start": 2.48,
+            "end": 2.958
+          },
+          {
+            "word": "economics. ",
+            "start": 2.969,
+            "end": 3.599
+          },
+          {
+            "word": "The ",
+            "start": 4.343,
+            "end": 4.506
+          },
+          {
+            "word": "IMF's ",
+            "start": 4.517,
+            "end": 4.963
+          },
+          {
+            "word": "acknowledgment ",
+            "start": 4.973,
+            "end": 5.549
+          },
+          {
+            "word": "of ",
+            "start": 5.56,
+            "end": 5.647
+          },
+          {
+            "word": "faulty ",
+            "start": 5.658,
+            "end": 5.963
+          },
+          {
+            "word": "fiscal ",
+            "start": 5.973,
+            "end": 6.321
+          },
+          {
+            "word": "multipliers ",
+            "start": 6.332,
+            "end": 6.919
+          },
+          {
+            "word": "was ",
+            "start": 6.93,
+            "end": 7.071
+          },
+          {
+            "word": "unprecedented — ",
+            "start": 7.082,
+            "end": 7.778
+          },
+          {
+            "word": "an ",
+            "start": 7.952,
+            "end": 8.039
+          },
+          {
+            "word": "institution ",
+            "start": 8.05,
+            "end": 8.626
+          },
+          {
+            "word": "admitting, ",
+            "start": 8.636,
+            "end": 9.028
+          },
+          {
+            "word": "in ",
+            "start": 9.213,
+            "end": 9.31
+          },
+          {
+            "word": "real ",
+            "start": 9.321,
+            "end": 9.582
+          },
+          {
+            "word": "time, ",
+            "start": 9.593,
+            "end": 9.941
+          },
+          {
+            "word": "that ",
+            "start": 10.104,
+            "end": 10.202
+          },
+          {
+            "word": "its ",
+            "start": 10.213,
+            "end": 10.343
+          },
+          {
+            "word": "prescriptions ",
+            "start": 10.354,
+            "end": 10.919
+          },
+          {
+            "word": "had ",
+            "start": 10.93,
+            "end": 11.039
+          },
+          {
+            "word": "worsened ",
+            "start": 11.05,
+            "end": 11.397
+          },
+          {
+            "word": "the ",
+            "start": 11.408,
+            "end": 11.473
+          },
+          {
+            "word": "patient's ",
+            "start": 11.484,
+            "end": 11.854
+          },
+          {
+            "word": "condition. ",
+            "start": 11.865,
+            "end": 12.343
+          },
+          {
+            "word": "The ",
+            "start": 13.093,
+            "end": 13.245
+          },
+          {
+            "word": "academic ",
+            "start": 13.256,
+            "end": 13.745
+          },
+          {
+            "word": "consensus ",
+            "start": 13.756,
+            "end": 14.245
+          },
+          {
+            "word": "on ",
+            "start": 14.256,
+            "end": 14.343
+          },
+          {
+            "word": "the ",
+            "start": 14.354,
+            "end": 14.408
+          },
+          {
+            "word": "costs ",
+            "start": 14.419,
+            "end": 14.789
+          },
+          {
+            "word": "and ",
+            "start": 14.8,
+            "end": 14.919
+          },
+          {
+            "word": "limits ",
+            "start": 14.93,
+            "end": 15.191
+          },
+          {
+            "word": "of ",
+            "start": 15.202,
+            "end": 15.278
+          },
+          {
+            "word": "austerity ",
+            "start": 15.289,
+            "end": 15.81
+          },
+          {
+            "word": "during ",
+            "start": 15.821,
+            "end": 16.104
+          },
+          {
+            "word": "recessions ",
+            "start": 16.115,
+            "end": 16.593
+          },
+          {
+            "word": "shifted ",
+            "start": 16.604,
+            "end": 16.919
+          },
+          {
+            "word": "substantially.",
+            "start": 16.93,
+            "end": 17.615
+          }
+        ],
+        "start": 1909
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep10_results_4",
+        "audio_exists": true,
+        "audioPath": "episodes/ep10/audio/ep10_results_4.wav",
+        "text": "Germany's role in the crisis remains disputed. German insistence on strict conditionality extended the crisis. German financial institutions benefited from the bailout terms. Yet German taxpayers ultimately provided the largest share of rescue funds. The moral and economic accounting of the eurozone crisis has not been settled.",
+        "duration": 598,
+        "bgImage": "bg_recovery.jpg",
+        "wordTimings": [
+          {
+            "word": "Germany's ",
+            "start": 0.1,
+            "end": 0.567
+          },
+          {
+            "word": "role ",
+            "start": 0.578,
+            "end": 0.839
+          },
+          {
+            "word": "in ",
+            "start": 0.85,
+            "end": 0.904
+          },
+          {
+            "word": "the ",
+            "start": 0.915,
+            "end": 0.991
+          },
+          {
+            "word": "crisis ",
+            "start": 1.002,
+            "end": 1.393
+          },
+          {
+            "word": "remains ",
+            "start": 1.404,
+            "end": 1.773
+          },
+          {
+            "word": "disputed. ",
+            "start": 1.784,
+            "end": 2.371
+          },
+          {
+            "word": "German ",
+            "start": 3.115,
+            "end": 3.463
+          },
+          {
+            "word": "insistence ",
+            "start": 3.473,
+            "end": 3.995
+          },
+          {
+            "word": "on ",
+            "start": 4.006,
+            "end": 4.104
+          },
+          {
+            "word": "strict ",
+            "start": 4.115,
+            "end": 4.386
+          },
+          {
+            "word": "conditionality ",
+            "start": 4.397,
+            "end": 5.104
+          },
+          {
+            "word": "extended ",
+            "start": 5.115,
+            "end": 5.549
+          },
+          {
+            "word": "the ",
+            "start": 5.56,
+            "end": 5.615
+          },
+          {
+            "word": "crisis. ",
+            "start": 5.626,
+            "end": 6.213
+          },
+          {
+            "word": "German ",
+            "start": 6.963,
+            "end": 7.31
+          },
+          {
+            "word": "financial ",
+            "start": 7.321,
+            "end": 7.832
+          },
+          {
+            "word": "institutions ",
+            "start": 7.843,
+            "end": 8.452
+          },
+          {
+            "word": "benefited ",
+            "start": 8.463,
+            "end": 8.908
+          },
+          {
+            "word": "from ",
+            "start": 8.919,
+            "end": 9.06
+          },
+          {
+            "word": "the ",
+            "start": 9.071,
+            "end": 9.158
+          },
+          {
+            "word": "bailout ",
+            "start": 9.169,
+            "end": 9.56
+          },
+          {
+            "word": "terms. ",
+            "start": 9.571,
+            "end": 10.05
+          },
+          {
+            "word": "Yet ",
+            "start": 10.8,
+            "end": 10.995
+          },
+          {
+            "word": "German ",
+            "start": 11.006,
+            "end": 11.289
+          },
+          {
+            "word": "taxpayers ",
+            "start": 11.3,
+            "end": 11.821
+          },
+          {
+            "word": "ultimately ",
+            "start": 11.832,
+            "end": 12.289
+          },
+          {
+            "word": "provided ",
+            "start": 12.3,
+            "end": 12.691
+          },
+          {
+            "word": "the ",
+            "start": 12.702,
+            "end": 12.767
+          },
+          {
+            "word": "largest ",
+            "start": 12.778,
+            "end": 13.18
+          },
+          {
+            "word": "share ",
+            "start": 13.191,
+            "end": 13.376
+          },
+          {
+            "word": "of ",
+            "start": 13.386,
+            "end": 13.571
+          },
+          {
+            "word": "rescue ",
+            "start": 13.582,
+            "end": 13.941
+          },
+          {
+            "word": "funds. ",
+            "start": 13.952,
+            "end": 14.441
+          },
+          {
+            "word": "The ",
+            "start": 15.191,
+            "end": 15.321
+          },
+          {
+            "word": "moral ",
+            "start": 15.332,
+            "end": 15.636
+          },
+          {
+            "word": "and ",
+            "start": 15.647,
+            "end": 15.745
+          },
+          {
+            "word": "economic ",
+            "start": 15.756,
+            "end": 16.169
+          },
+          {
+            "word": "accounting ",
+            "start": 16.18,
+            "end": 16.582
+          },
+          {
+            "word": "of ",
+            "start": 16.593,
+            "end": 16.647
+          },
+          {
+            "word": "the ",
+            "start": 16.658,
+            "end": 16.713
+          },
+          {
+            "word": "eurozone ",
+            "start": 16.723,
+            "end": 17.256
+          },
+          {
+            "word": "crisis ",
+            "start": 17.267,
+            "end": 17.647
+          },
+          {
+            "word": "has ",
+            "start": 17.658,
+            "end": 17.821
+          },
+          {
+            "word": "not ",
+            "start": 17.832,
+            "end": 18.06
+          },
+          {
+            "word": "been ",
+            "start": 18.071,
+            "end": 18.223
+          },
+          {
+            "word": "settled.",
+            "start": 18.234,
+            "end": 18.745
+          }
+        ],
+        "start": 2472
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep10_results_5",
+        "audio_exists": true,
+        "audioPath": "episodes/ep10/audio/ep10_results_5.wav",
+        "text": "What the world learned: monetary unions require fiscal unions to survive severe shocks. A lender of last resort must act without pre-announced limits, because credibility comes from unconditional commitment. Sovereign debt restructuring delayed is sovereign debt restructuring amplified. And austerity imposed in a depression deepens the depression.",
+        "duration": 576,
+        "bgImage": "bg_global_map.jpg",
+        "wordTimings": [
+          {
+            "word": "What ",
+            "start": 0.1,
+            "end": 0.295
+          },
+          {
+            "word": "the ",
+            "start": 0.306,
+            "end": 0.371
+          },
+          {
+            "word": "world ",
+            "start": 0.382,
+            "end": 0.686
+          },
+          {
+            "word": "learned: ",
+            "start": 0.697,
+            "end": 0.958
+          },
+          {
+            "word": "monetary ",
+            "start": 1.121,
+            "end": 1.534
+          },
+          {
+            "word": "unions ",
+            "start": 1.545,
+            "end": 1.926
+          },
+          {
+            "word": "require ",
+            "start": 1.936,
+            "end": 2.339
+          },
+          {
+            "word": "fiscal ",
+            "start": 2.35,
+            "end": 2.665
+          },
+          {
+            "word": "unions ",
+            "start": 2.676,
+            "end": 3.045
+          },
+          {
+            "word": "to ",
+            "start": 3.056,
+            "end": 3.143
+          },
+          {
+            "word": "survive ",
+            "start": 3.154,
+            "end": 3.556
+          },
+          {
+            "word": "severe ",
+            "start": 3.567,
+            "end": 3.947
+          },
+          {
+            "word": "shocks. ",
+            "start": 3.958,
+            "end": 4.426
+          },
+          {
+            "word": "A ",
+            "start": 5.169,
+            "end": 5.299
+          },
+          {
+            "word": "lender ",
+            "start": 5.31,
+            "end": 5.571
+          },
+          {
+            "word": "of ",
+            "start": 5.582,
+            "end": 5.647
+          },
+          {
+            "word": "last ",
+            "start": 5.658,
+            "end": 5.919
+          },
+          {
+            "word": "resort ",
+            "start": 5.93,
+            "end": 6.213
+          },
+          {
+            "word": "must ",
+            "start": 6.223,
+            "end": 6.43
+          },
+          {
+            "word": "act ",
+            "start": 6.441,
+            "end": 6.636
+          },
+          {
+            "word": "without ",
+            "start": 6.647,
+            "end": 6.941
+          },
+          {
+            "word": "pre-announced ",
+            "start": 6.952,
+            "end": 7.408
+          },
+          {
+            "word": "limits, ",
+            "start": 7.419,
+            "end": 7.789
+          },
+          {
+            "word": "because ",
+            "start": 7.93,
+            "end": 8.126
+          },
+          {
+            "word": "credibility ",
+            "start": 8.136,
+            "end": 8.68
+          },
+          {
+            "word": "comes ",
+            "start": 8.691,
+            "end": 8.973
+          },
+          {
+            "word": "from ",
+            "start": 8.984,
+            "end": 9.115
+          },
+          {
+            "word": "unconditional ",
+            "start": 9.126,
+            "end": 9.68
+          },
+          {
+            "word": "commitment. ",
+            "start": 9.691,
+            "end": 10.18
+          },
+          {
+            "word": "Sovereign ",
+            "start": 10.93,
+            "end": 11.354
+          },
+          {
+            "word": "debt ",
+            "start": 11.365,
+            "end": 11.549
+          },
+          {
+            "word": "restructuring ",
+            "start": 11.56,
+            "end": 12.169
+          },
+          {
+            "word": "delayed ",
+            "start": 12.18,
+            "end": 12.506
+          },
+          {
+            "word": "is ",
+            "start": 12.517,
+            "end": 12.669
+          },
+          {
+            "word": "sovereign ",
+            "start": 12.68,
+            "end": 13.006
+          },
+          {
+            "word": "debt ",
+            "start": 13.017,
+            "end": 13.213
+          },
+          {
+            "word": "restructuring ",
+            "start": 13.223,
+            "end": 13.886
+          },
+          {
+            "word": "amplified. ",
+            "start": 13.897,
+            "end": 14.549
+          },
+          {
+            "word": "And ",
+            "start": 15.3,
+            "end": 15.484
+          },
+          {
+            "word": "austerity ",
+            "start": 15.495,
+            "end": 15.995
+          },
+          {
+            "word": "imposed ",
+            "start": 16.006,
+            "end": 16.441
+          },
+          {
+            "word": "in ",
+            "start": 16.452,
+            "end": 16.539
+          },
+          {
+            "word": "a ",
+            "start": 16.55,
+            "end": 16.593
+          },
+          {
+            "word": "depression ",
+            "start": 16.604,
+            "end": 17.028
+          },
+          {
+            "word": "deepens ",
+            "start": 17.039,
+            "end": 17.419
+          },
+          {
+            "word": "the ",
+            "start": 17.43,
+            "end": 17.495
+          },
+          {
+            "word": "depression.",
+            "start": 17.506,
+            "end": 18.017
+          }
+        ],
+        "start": 3070
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep10_results_6",
+        "audio_exists": true,
+        "audioPath": "episodes/ep10/audio/ep10_results_6.wav",
+        "text": "Mario Draghi's 'whatever it takes' became the most cited central bank statement since Paul Volcker's decision to break inflation in 1979. Its lesson: sometimes the most powerful tool in a central banker's arsenal is not a rate cut or an asset purchase, but a credible statement of intent. Financial crises are partly crises of confidence. The words that end them can be shorter than the economic papers that explain them.",
+        "duration": 689,
+        "bgImage": "bg_city_night.jpg",
+        "wordTimings": [
+          {
+            "word": "Mario ",
+            "start": 0.1,
+            "end": 0.556
+          },
+          {
+            "word": "Draghi's '",
+            "start": 0.567,
+            "end": 0.904
+          },
+          {
+            "word": "whatever ",
+            "start": 0.98,
+            "end": 1.317
+          },
+          {
+            "word": "it ",
+            "start": 1.328,
+            "end": 1.415
+          },
+          {
+            "word": "takes' ",
+            "start": 1.426,
+            "end": 1.643
+          },
+          {
+            "word": "became ",
+            "start": 1.654,
+            "end": 1.936
+          },
+          {
+            "word": "the ",
+            "start": 1.947,
+            "end": 2.002
+          },
+          {
+            "word": "most ",
+            "start": 2.013,
+            "end": 2.252
+          },
+          {
+            "word": "cited ",
+            "start": 2.263,
+            "end": 2.578
+          },
+          {
+            "word": "central ",
+            "start": 2.589,
+            "end": 2.926
+          },
+          {
+            "word": "bank ",
+            "start": 2.936,
+            "end": 3.143
+          },
+          {
+            "word": "statement ",
+            "start": 3.154,
+            "end": 3.523
+          },
+          {
+            "word": "since ",
+            "start": 3.534,
+            "end": 3.73
+          },
+          {
+            "word": "Paul ",
+            "start": 3.741,
+            "end": 4.013
+          },
+          {
+            "word": "Volcker's ",
+            "start": 4.023,
+            "end": 4.36
+          },
+          {
+            "word": "decision ",
+            "start": 4.371,
+            "end": 4.73
+          },
+          {
+            "word": "to ",
+            "start": 4.741,
+            "end": 4.839
+          },
+          {
+            "word": "break ",
+            "start": 4.85,
+            "end": 5.056
+          },
+          {
+            "word": "inflation ",
+            "start": 5.067,
+            "end": 5.502
+          },
+          {
+            "word": "in 1979. ",
+            "start": 5.513,
+            "end": 6.752
+          },
+          {
+            "word": "Its ",
+            "start": 7.495,
+            "end": 7.691
+          },
+          {
+            "word": "lesson: ",
+            "start": 7.702,
+            "end": 8.049
+          },
+          {
+            "word": "sometimes ",
+            "start": 8.234,
+            "end": 8.713
+          },
+          {
+            "word": "the ",
+            "start": 8.723,
+            "end": 8.789
+          },
+          {
+            "word": "most ",
+            "start": 8.8,
+            "end": 9.028
+          },
+          {
+            "word": "powerful ",
+            "start": 9.039,
+            "end": 9.463
+          },
+          {
+            "word": "tool ",
+            "start": 9.473,
+            "end": 9.734
+          },
+          {
+            "word": "in ",
+            "start": 9.745,
+            "end": 9.821
+          },
+          {
+            "word": "a ",
+            "start": 9.832,
+            "end": 9.876
+          },
+          {
+            "word": "central ",
+            "start": 9.886,
+            "end": 10.256
+          },
+          {
+            "word": "banker's ",
+            "start": 10.267,
+            "end": 10.593
+          },
+          {
+            "word": "arsenal ",
+            "start": 10.604,
+            "end": 11.017
+          },
+          {
+            "word": "is ",
+            "start": 11.028,
+            "end": 11.136
+          },
+          {
+            "word": "not ",
+            "start": 11.147,
+            "end": 11.31
+          },
+          {
+            "word": "a ",
+            "start": 11.321,
+            "end": 11.376
+          },
+          {
+            "word": "rate ",
+            "start": 11.386,
+            "end": 11.615
+          },
+          {
+            "word": "cut ",
+            "start": 11.626,
+            "end": 11.897
+          },
+          {
+            "word": "or ",
+            "start": 11.908,
+            "end": 11.984
+          },
+          {
+            "word": "an ",
+            "start": 11.995,
+            "end": 12.06
+          },
+          {
+            "word": "asset ",
+            "start": 12.071,
+            "end": 12.376
+          },
+          {
+            "word": "purchase, ",
+            "start": 12.386,
+            "end": 12.865
+          },
+          {
+            "word": "but ",
+            "start": 13.05,
+            "end": 13.136
+          },
+          {
+            "word": "a ",
+            "start": 13.147,
+            "end": 13.191
+          },
+          {
+            "word": "credible ",
+            "start": 13.202,
+            "end": 13.56
+          },
+          {
+            "word": "statement ",
+            "start": 13.571,
+            "end": 13.952
+          },
+          {
+            "word": "of ",
+            "start": 13.963,
+            "end": 14.028
+          },
+          {
+            "word": "intent. ",
+            "start": 14.039,
+            "end": 14.517
+          },
+          {
+            "word": "Financial ",
+            "start": 15.267,
+            "end": 15.832
+          },
+          {
+            "word": "crises ",
+            "start": 15.843,
+            "end": 16.289
+          },
+          {
+            "word": "are ",
+            "start": 16.3,
+            "end": 16.397
+          },
+          {
+            "word": "partly ",
+            "start": 16.408,
+            "end": 16.745
+          },
+          {
+            "word": "crises ",
+            "start": 16.756,
+            "end": 17.169
+          },
+          {
+            "word": "of ",
+            "start": 17.18,
+            "end": 17.256
+          },
+          {
+            "word": "confidence. ",
+            "start": 17.267,
+            "end": 17.886
+          },
+          {
+            "word": "The ",
+            "start": 18.636,
+            "end": 18.767
+          },
+          {
+            "word": "words ",
+            "start": 18.778,
+            "end": 19.071
+          },
+          {
+            "word": "that ",
+            "start": 19.082,
+            "end": 19.223
+          },
+          {
+            "word": "end ",
+            "start": 19.234,
+            "end": 19.376
+          },
+          {
+            "word": "them ",
+            "start": 19.386,
+            "end": 19.484
+          },
+          {
+            "word": "can ",
+            "start": 19.495,
+            "end": 19.604
+          },
+          {
+            "word": "be ",
+            "start": 19.615,
+            "end": 19.702
+          },
+          {
+            "word": "shorter ",
+            "start": 19.713,
+            "end": 20.017
+          },
+          {
+            "word": "than ",
+            "start": 20.028,
+            "end": 20.136
+          },
+          {
+            "word": "the ",
+            "start": 20.147,
+            "end": 20.223
+          },
+          {
+            "word": "economic ",
+            "start": 20.234,
+            "end": 20.658
+          },
+          {
+            "word": "papers ",
+            "start": 20.669,
+            "end": 20.984
+          },
+          {
+            "word": "that ",
+            "start": 20.995,
+            "end": 21.136
+          },
+          {
+            "word": "explain ",
+            "start": 21.147,
+            "end": 21.56
+          },
+          {
+            "word": "them.",
+            "start": 21.571,
+            "end": 21.81
+          }
+        ],
+        "start": 3646
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep10_results_7",
+        "audio_exists": true,
+        "audioPath": "episodes/ep10/audio/ep10_results_7.wav",
+        "text": "The Eurozone crisis was, in a meaningful sense, the European chapter of the Global Financial Crisis (Episode 14) — deferred by two years, amplified by institutional design flaws, and ultimately resolved by the same instrument: a central bank willing to act without pre-announced limits.",
+        "duration": 474,
+        "bgImage": "bg_interest_chart.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "Eurozone ",
+            "start": 0.241,
+            "end": 0.763
+          },
+          {
+            "word": "crisis ",
+            "start": 0.773,
+            "end": 1.165
+          },
+          {
+            "word": "was, ",
+            "start": 1.176,
+            "end": 1.36
+          },
+          {
+            "word": "in ",
+            "start": 1.534,
+            "end": 1.621
+          },
+          {
+            "word": "a ",
+            "start": 1.632,
+            "end": 1.665
+          },
+          {
+            "word": "meaningful ",
+            "start": 1.676,
+            "end": 2.121
+          },
+          {
+            "word": "sense, ",
+            "start": 2.132,
+            "end": 2.523
+          },
+          {
+            "word": "the ",
+            "start": 2.708,
+            "end": 2.784
+          },
+          {
+            "word": "European ",
+            "start": 2.795,
+            "end": 3.252
+          },
+          {
+            "word": "chapter ",
+            "start": 3.263,
+            "end": 3.599
+          },
+          {
+            "word": "of ",
+            "start": 3.61,
+            "end": 3.708
+          },
+          {
+            "word": "the ",
+            "start": 3.719,
+            "end": 3.806
+          },
+          {
+            "word": "Global ",
+            "start": 3.817,
+            "end": 4.154
+          },
+          {
+            "word": "Financial ",
+            "start": 4.165,
+            "end": 4.665
+          },
+          {
+            "word": "Crisis (",
+            "start": 4.676,
+            "end": 5.143
+          },
+          {
+            "word": "Episode ",
+            "start": 5.317,
+            "end": 5.676
+          },
+          {
+            "word": "14) — ",
+            "start": 5.686,
+            "end": 6.186
+          },
+          {
+            "word": "deferred ",
+            "start": 6.35,
+            "end": 6.719
+          },
+          {
+            "word": "by ",
+            "start": 6.73,
+            "end": 6.849
+          },
+          {
+            "word": "two ",
+            "start": 6.86,
+            "end": 7.11
+          },
+          {
+            "word": "years, ",
+            "start": 7.121,
+            "end": 7.534
+          },
+          {
+            "word": "amplified ",
+            "start": 7.708,
+            "end": 8.208
+          },
+          {
+            "word": "by ",
+            "start": 8.219,
+            "end": 8.36
+          },
+          {
+            "word": "institutional ",
+            "start": 8.371,
+            "end": 9.067
+          },
+          {
+            "word": "design ",
+            "start": 9.078,
+            "end": 9.426
+          },
+          {
+            "word": "flaws, ",
+            "start": 9.436,
+            "end": 9.904
+          },
+          {
+            "word": "and ",
+            "start": 10.1,
+            "end": 10.219
+          },
+          {
+            "word": "ultimately ",
+            "start": 10.23,
+            "end": 10.654
+          },
+          {
+            "word": "resolved ",
+            "start": 10.665,
+            "end": 11.089
+          },
+          {
+            "word": "by ",
+            "start": 11.1,
+            "end": 11.197
+          },
+          {
+            "word": "the ",
+            "start": 11.208,
+            "end": 11.284
+          },
+          {
+            "word": "same ",
+            "start": 11.295,
+            "end": 11.523
+          },
+          {
+            "word": "instrument: ",
+            "start": 11.534,
+            "end": 11.936
+          },
+          {
+            "word": "a ",
+            "start": 12.121,
+            "end": 12.165
+          },
+          {
+            "word": "central ",
+            "start": 12.176,
+            "end": 12.545
+          },
+          {
+            "word": "bank ",
+            "start": 12.556,
+            "end": 12.773
+          },
+          {
+            "word": "willing ",
+            "start": 12.784,
+            "end": 13.002
+          },
+          {
+            "word": "to ",
+            "start": 13.013,
+            "end": 13.11
+          },
+          {
+            "word": "act ",
+            "start": 13.121,
+            "end": 13.35
+          },
+          {
+            "word": "without ",
+            "start": 13.36,
+            "end": 13.676
+          },
+          {
+            "word": "pre-announced ",
+            "start": 13.686,
+            "end": 14.186
+          },
+          {
+            "word": "limits.",
+            "start": 14.197,
+            "end": 14.621
+          }
+        ],
+        "start": 4335
+      }
+    ]
+  },
+  {
+    "id": "credits",
+    "title": "Credits",
+    "globalStart": 17812,
+    "duration": 440,
+    "subSlides": [
+      {
+        "type": "credits",
+        "start": 0,
+        "duration": 440,
+        "audioSrc": "audio/outro_narration.wav"
+      }
+    ]
+  }
+]

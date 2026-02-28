@@ -1,0 +1,7165 @@
+[
+  {
+    "id": "intro",
+    "title": "Intro",
+    "globalStart": 0,
+    "duration": 190,
+    "episode": 11,
+    "episodeMeta": {
+      "title": "The LTCM Collapse",
+      "subtitle": "1998"
+    },
+    "subSlides": [
+      {
+        "type": "intro",
+        "start": 0,
+        "duration": 190,
+        "audioSrc": "episodes/ep9/intro.wav"
+      }
+    ]
+  },
+  {
+    "id": "ep9_event",
+    "title": "Event",
+    "globalStart": 190,
+    "duration": 4114,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Event"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep9_event_0",
+        "audio_exists": true,
+        "audioPath": "episodes/ep9/audio/ep9_event_0.wav",
+        "text": "In 1993, John Meriwether assembled the most credentialed team in financial history. His partners included two future Nobel laureates in economics — Myron Scholes and Robert Merton — along with a former Federal Reserve vice chairman. Long-Term Capital Management was not merely a hedge fund. It was a test of whether modern financial theory could generate risk-free profits from mathematical certainty.",
+        "duration": 674,
+        "bgImage": "bg_wallstreet.jpg",
+        "wordTimings": [
+          {
+            "word": "In 1993, ",
+            "start": 0.1,
+            "end": 1.23
+          },
+          {
+            "word": "John ",
+            "start": 1.382,
+            "end": 1.654
+          },
+          {
+            "word": "Meriwether ",
+            "start": 1.665,
+            "end": 2.099
+          },
+          {
+            "word": "assembled ",
+            "start": 2.11,
+            "end": 2.502
+          },
+          {
+            "word": "the ",
+            "start": 2.513,
+            "end": 2.567
+          },
+          {
+            "word": "most ",
+            "start": 2.578,
+            "end": 2.817
+          },
+          {
+            "word": "credentialed ",
+            "start": 2.828,
+            "end": 3.273
+          },
+          {
+            "word": "team ",
+            "start": 3.284,
+            "end": 3.513
+          },
+          {
+            "word": "in ",
+            "start": 3.523,
+            "end": 3.632
+          },
+          {
+            "word": "financial ",
+            "start": 3.643,
+            "end": 4.165
+          },
+          {
+            "word": "history. ",
+            "start": 4.176,
+            "end": 4.578
+          },
+          {
+            "word": "His ",
+            "start": 5.321,
+            "end": 5.528
+          },
+          {
+            "word": "partners ",
+            "start": 5.539,
+            "end": 5.919
+          },
+          {
+            "word": "included ",
+            "start": 5.93,
+            "end": 6.408
+          },
+          {
+            "word": "two ",
+            "start": 6.419,
+            "end": 6.604
+          },
+          {
+            "word": "future ",
+            "start": 6.615,
+            "end": 6.93
+          },
+          {
+            "word": "Nobel ",
+            "start": 6.941,
+            "end": 7.321
+          },
+          {
+            "word": "laureates ",
+            "start": 7.332,
+            "end": 7.713
+          },
+          {
+            "word": "in ",
+            "start": 7.723,
+            "end": 7.81
+          },
+          {
+            "word": "economics — ",
+            "start": 7.821,
+            "end": 8.354
+          },
+          {
+            "word": "Myron ",
+            "start": 8.506,
+            "end": 8.876
+          },
+          {
+            "word": "Scholes ",
+            "start": 8.886,
+            "end": 9.31
+          },
+          {
+            "word": "and ",
+            "start": 9.321,
+            "end": 9.452
+          },
+          {
+            "word": "Robert ",
+            "start": 9.463,
+            "end": 9.723
+          },
+          {
+            "word": "Merton — ",
+            "start": 9.734,
+            "end": 10.093
+          },
+          {
+            "word": "along ",
+            "start": 10.267,
+            "end": 10.528
+          },
+          {
+            "word": "with ",
+            "start": 10.539,
+            "end": 10.647
+          },
+          {
+            "word": "a ",
+            "start": 10.658,
+            "end": 10.691
+          },
+          {
+            "word": "former ",
+            "start": 10.702,
+            "end": 11.017
+          },
+          {
+            "word": "Federal ",
+            "start": 11.028,
+            "end": 11.365
+          },
+          {
+            "word": "Reserve ",
+            "start": 11.376,
+            "end": 11.723
+          },
+          {
+            "word": "vice ",
+            "start": 11.734,
+            "end": 11.984
+          },
+          {
+            "word": "chairman. ",
+            "start": 11.995,
+            "end": 12.43
+          },
+          {
+            "word": "Long-Term ",
+            "start": 13.18,
+            "end": 13.713
+          },
+          {
+            "word": "Capital ",
+            "start": 13.723,
+            "end": 14.082
+          },
+          {
+            "word": "Management ",
+            "start": 14.093,
+            "end": 14.506
+          },
+          {
+            "word": "was ",
+            "start": 14.517,
+            "end": 14.669
+          },
+          {
+            "word": "not ",
+            "start": 14.68,
+            "end": 14.886
+          },
+          {
+            "word": "merely ",
+            "start": 14.897,
+            "end": 15.18
+          },
+          {
+            "word": "a ",
+            "start": 15.191,
+            "end": 15.234
+          },
+          {
+            "word": "hedge ",
+            "start": 15.245,
+            "end": 15.495
+          },
+          {
+            "word": "fund. ",
+            "start": 15.506,
+            "end": 15.919
+          },
+          {
+            "word": "It ",
+            "start": 16.669,
+            "end": 16.799
+          },
+          {
+            "word": "was ",
+            "start": 16.81,
+            "end": 16.93
+          },
+          {
+            "word": "a ",
+            "start": 16.941,
+            "end": 16.995
+          },
+          {
+            "word": "test ",
+            "start": 17.006,
+            "end": 17.299
+          },
+          {
+            "word": "of ",
+            "start": 17.31,
+            "end": 17.376
+          },
+          {
+            "word": "whether ",
+            "start": 17.386,
+            "end": 17.571
+          },
+          {
+            "word": "modern ",
+            "start": 17.582,
+            "end": 17.832
+          },
+          {
+            "word": "financial ",
+            "start": 17.843,
+            "end": 18.343
+          },
+          {
+            "word": "theory ",
+            "start": 18.354,
+            "end": 18.68
+          },
+          {
+            "word": "could ",
+            "start": 18.691,
+            "end": 18.821
+          },
+          {
+            "word": "generate ",
+            "start": 18.832,
+            "end": 19.234
+          },
+          {
+            "word": "risk-free ",
+            "start": 19.245,
+            "end": 19.647
+          },
+          {
+            "word": "profits ",
+            "start": 19.658,
+            "end": 20.039
+          },
+          {
+            "word": "from ",
+            "start": 20.05,
+            "end": 20.169
+          },
+          {
+            "word": "mathematical ",
+            "start": 20.18,
+            "end": 20.745
+          },
+          {
+            "word": "certainty.",
+            "start": 20.756,
+            "end": 21.299
+          }
+        ],
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep9_event_1",
+        "audio_exists": true,
+        "audioPath": "episodes/ep9/audio/ep9_event_1.wav",
+        "text": "The theory was elegant. LTCM identified tiny price discrepancies between similar securities — bonds that should theoretically trade at the same price but didn't. By simultaneously buying the cheaper and selling the more expensive, the fund would profit when prices converged, regardless of which direction markets moved. The risk was supposed to be zero.",
+        "duration": 602,
+        "bgImage": "bg_interest_chart.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.241
+          },
+          {
+            "word": "theory ",
+            "start": 0.252,
+            "end": 0.589
+          },
+          {
+            "word": "was ",
+            "start": 0.6,
+            "end": 0.763
+          },
+          {
+            "word": "elegant. ",
+            "start": 0.773,
+            "end": 1.219
+          },
+          {
+            "word": "LTCM ",
+            "start": 1.963,
+            "end": 2.658
+          },
+          {
+            "word": "identified ",
+            "start": 2.669,
+            "end": 3.256
+          },
+          {
+            "word": "tiny ",
+            "start": 3.267,
+            "end": 3.571
+          },
+          {
+            "word": "price ",
+            "start": 3.582,
+            "end": 3.854
+          },
+          {
+            "word": "discrepancies ",
+            "start": 3.865,
+            "end": 4.441
+          },
+          {
+            "word": "between ",
+            "start": 4.452,
+            "end": 4.789
+          },
+          {
+            "word": "similar ",
+            "start": 4.8,
+            "end": 5.126
+          },
+          {
+            "word": "securities — ",
+            "start": 5.136,
+            "end": 5.745
+          },
+          {
+            "word": "bonds ",
+            "start": 5.952,
+            "end": 6.18
+          },
+          {
+            "word": "that ",
+            "start": 6.191,
+            "end": 6.31
+          },
+          {
+            "word": "should ",
+            "start": 6.321,
+            "end": 6.463
+          },
+          {
+            "word": "theoretically ",
+            "start": 6.473,
+            "end": 6.984
+          },
+          {
+            "word": "trade ",
+            "start": 6.995,
+            "end": 7.321
+          },
+          {
+            "word": "at ",
+            "start": 7.332,
+            "end": 7.376
+          },
+          {
+            "word": "the ",
+            "start": 7.386,
+            "end": 7.452
+          },
+          {
+            "word": "same ",
+            "start": 7.463,
+            "end": 7.691
+          },
+          {
+            "word": "price ",
+            "start": 7.702,
+            "end": 7.995
+          },
+          {
+            "word": "but ",
+            "start": 8.006,
+            "end": 8.147
+          },
+          {
+            "word": "didn't. ",
+            "start": 8.158,
+            "end": 8.517
+          },
+          {
+            "word": "By ",
+            "start": 9.267,
+            "end": 9.43
+          },
+          {
+            "word": "simultaneously ",
+            "start": 9.441,
+            "end": 10.213
+          },
+          {
+            "word": "buying ",
+            "start": 10.223,
+            "end": 10.495
+          },
+          {
+            "word": "the ",
+            "start": 10.506,
+            "end": 10.571
+          },
+          {
+            "word": "cheaper ",
+            "start": 10.582,
+            "end": 10.93
+          },
+          {
+            "word": "and ",
+            "start": 10.941,
+            "end": 11.06
+          },
+          {
+            "word": "selling ",
+            "start": 11.071,
+            "end": 11.321
+          },
+          {
+            "word": "the ",
+            "start": 11.332,
+            "end": 11.386
+          },
+          {
+            "word": "more ",
+            "start": 11.397,
+            "end": 11.593
+          },
+          {
+            "word": "expensive, ",
+            "start": 11.604,
+            "end": 12.18
+          },
+          {
+            "word": "the ",
+            "start": 12.343,
+            "end": 12.419
+          },
+          {
+            "word": "fund ",
+            "start": 12.43,
+            "end": 12.691
+          },
+          {
+            "word": "would ",
+            "start": 12.702,
+            "end": 12.81
+          },
+          {
+            "word": "profit ",
+            "start": 12.821,
+            "end": 13.126
+          },
+          {
+            "word": "when ",
+            "start": 13.136,
+            "end": 13.289
+          },
+          {
+            "word": "prices ",
+            "start": 13.3,
+            "end": 13.647
+          },
+          {
+            "word": "converged, ",
+            "start": 13.658,
+            "end": 14.267
+          },
+          {
+            "word": "regardless ",
+            "start": 14.452,
+            "end": 14.952
+          },
+          {
+            "word": "of ",
+            "start": 14.963,
+            "end": 15.039
+          },
+          {
+            "word": "which ",
+            "start": 15.05,
+            "end": 15.256
+          },
+          {
+            "word": "direction ",
+            "start": 15.267,
+            "end": 15.723
+          },
+          {
+            "word": "markets ",
+            "start": 15.734,
+            "end": 16.115
+          },
+          {
+            "word": "moved. ",
+            "start": 16.126,
+            "end": 16.582
+          },
+          {
+            "word": "The ",
+            "start": 17.332,
+            "end": 17.473
+          },
+          {
+            "word": "risk ",
+            "start": 17.484,
+            "end": 17.767
+          },
+          {
+            "word": "was ",
+            "start": 17.778,
+            "end": 17.897
+          },
+          {
+            "word": "supposed ",
+            "start": 17.908,
+            "end": 18.245
+          },
+          {
+            "word": "to ",
+            "start": 18.256,
+            "end": 18.31
+          },
+          {
+            "word": "be ",
+            "start": 18.321,
+            "end": 18.419
+          },
+          {
+            "word": "zero.",
+            "start": 18.43,
+            "end": 18.897
+          }
+        ],
+        "start": 764
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep9_event_2",
+        "audio_exists": true,
+        "audioPath": "episodes/ep9/audio/ep9_event_2.wav",
+        "text": "To convert tiny discrepancies into large profits, LTCM borrowed aggressively. At its peak, the fund had one hundred and twenty-five billion dollars in assets against a capital base of seven billion — a leverage ratio of twenty-five to one. Its off-balance-sheet derivatives exposure exceeded one trillion dollars.",
+        "duration": 524,
+        "bgImage": "bg_nyse_floor.jpg",
+        "wordTimings": [
+          {
+            "word": "To ",
+            "start": 0.1,
+            "end": 0.219
+          },
+          {
+            "word": "convert ",
+            "start": 0.23,
+            "end": 0.676
+          },
+          {
+            "word": "tiny ",
+            "start": 0.686,
+            "end": 0.958
+          },
+          {
+            "word": "discrepancies ",
+            "start": 0.969,
+            "end": 1.513
+          },
+          {
+            "word": "into ",
+            "start": 1.523,
+            "end": 1.763
+          },
+          {
+            "word": "large ",
+            "start": 1.773,
+            "end": 2.078
+          },
+          {
+            "word": "profits, ",
+            "start": 2.089,
+            "end": 2.523
+          },
+          {
+            "word": "LTCM ",
+            "start": 2.686,
+            "end": 3.349
+          },
+          {
+            "word": "borrowed ",
+            "start": 3.36,
+            "end": 3.708
+          },
+          {
+            "word": "aggressively. ",
+            "start": 3.719,
+            "end": 4.273
+          },
+          {
+            "word": "At ",
+            "start": 5.017,
+            "end": 5.191
+          },
+          {
+            "word": "its ",
+            "start": 5.202,
+            "end": 5.31
+          },
+          {
+            "word": "peak, ",
+            "start": 5.321,
+            "end": 5.615
+          },
+          {
+            "word": "the ",
+            "start": 5.778,
+            "end": 5.854
+          },
+          {
+            "word": "fund ",
+            "start": 5.865,
+            "end": 6.104
+          },
+          {
+            "word": "had ",
+            "start": 6.115,
+            "end": 6.234
+          },
+          {
+            "word": "one ",
+            "start": 6.245,
+            "end": 6.43
+          },
+          {
+            "word": "hundred ",
+            "start": 6.441,
+            "end": 6.702
+          },
+          {
+            "word": "and ",
+            "start": 6.713,
+            "end": 6.778
+          },
+          {
+            "word": "twenty-five ",
+            "start": 6.789,
+            "end": 7.365
+          },
+          {
+            "word": "billion ",
+            "start": 7.376,
+            "end": 7.669
+          },
+          {
+            "word": "dollars ",
+            "start": 7.68,
+            "end": 7.984
+          },
+          {
+            "word": "in ",
+            "start": 7.995,
+            "end": 8.071
+          },
+          {
+            "word": "assets ",
+            "start": 8.082,
+            "end": 8.419
+          },
+          {
+            "word": "against ",
+            "start": 8.43,
+            "end": 8.734
+          },
+          {
+            "word": "a ",
+            "start": 8.745,
+            "end": 8.789
+          },
+          {
+            "word": "capital ",
+            "start": 8.8,
+            "end": 9.202
+          },
+          {
+            "word": "base ",
+            "start": 9.213,
+            "end": 9.419
+          },
+          {
+            "word": "of ",
+            "start": 9.43,
+            "end": 9.517
+          },
+          {
+            "word": "seven ",
+            "start": 9.528,
+            "end": 9.821
+          },
+          {
+            "word": "billion — ",
+            "start": 9.832,
+            "end": 10.18
+          },
+          {
+            "word": "a ",
+            "start": 10.332,
+            "end": 10.365
+          },
+          {
+            "word": "leverage ",
+            "start": 10.376,
+            "end": 10.767
+          },
+          {
+            "word": "ratio ",
+            "start": 10.778,
+            "end": 11.18
+          },
+          {
+            "word": "of ",
+            "start": 11.191,
+            "end": 11.31
+          },
+          {
+            "word": "twenty-five ",
+            "start": 11.321,
+            "end": 11.865
+          },
+          {
+            "word": "to ",
+            "start": 11.876,
+            "end": 11.963
+          },
+          {
+            "word": "one. ",
+            "start": 11.973,
+            "end": 12.289
+          },
+          {
+            "word": "Its ",
+            "start": 13.039,
+            "end": 13.245
+          },
+          {
+            "word": "off-balance-sheet ",
+            "start": 13.256,
+            "end": 13.876
+          },
+          {
+            "word": "derivatives ",
+            "start": 13.886,
+            "end": 14.332
+          },
+          {
+            "word": "exposure ",
+            "start": 14.343,
+            "end": 14.778
+          },
+          {
+            "word": "exceeded ",
+            "start": 14.789,
+            "end": 15.213
+          },
+          {
+            "word": "one ",
+            "start": 15.223,
+            "end": 15.463
+          },
+          {
+            "word": "trillion ",
+            "start": 15.473,
+            "end": 15.843
+          },
+          {
+            "word": "dollars.",
+            "start": 15.854,
+            "end": 16.299
+          }
+        ],
+        "start": 1366
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep9_event_3",
+        "audio_exists": true,
+        "audioPath": "episodes/ep9/audio/ep9_event_3.wav",
+        "text": "Between 1994 and 1997, LTCM returned forty percent annually after fees. The strategy seemed to work. Banks competed to lend it money. The fund's models said its probability of losing everything in a year was one in ten to the twenty-fourth power — impossible in any timescale relevant to human civilization.",
+        "duration": 585,
+        "bgImage": "bg_stock_red.jpg",
+        "wordTimings": [
+          {
+            "word": "Between 1994 and 1997, ",
+            "start": 0.1,
+            "end": 2.502
+          },
+          {
+            "word": "LTCM ",
+            "start": 2.676,
+            "end": 3.349
+          },
+          {
+            "word": "returned ",
+            "start": 3.36,
+            "end": 3.719
+          },
+          {
+            "word": "forty ",
+            "start": 3.73,
+            "end": 4.045
+          },
+          {
+            "word": "percent ",
+            "start": 4.056,
+            "end": 4.404
+          },
+          {
+            "word": "annually ",
+            "start": 4.415,
+            "end": 4.773
+          },
+          {
+            "word": "after ",
+            "start": 4.784,
+            "end": 5.045
+          },
+          {
+            "word": "fees. ",
+            "start": 5.056,
+            "end": 5.545
+          },
+          {
+            "word": "The ",
+            "start": 6.289,
+            "end": 6.43
+          },
+          {
+            "word": "strategy ",
+            "start": 6.441,
+            "end": 6.897
+          },
+          {
+            "word": "seemed ",
+            "start": 6.908,
+            "end": 7.158
+          },
+          {
+            "word": "to ",
+            "start": 7.169,
+            "end": 7.234
+          },
+          {
+            "word": "work. ",
+            "start": 7.245,
+            "end": 7.669
+          },
+          {
+            "word": "Banks ",
+            "start": 8.419,
+            "end": 8.734
+          },
+          {
+            "word": "competed ",
+            "start": 8.745,
+            "end": 9.147
+          },
+          {
+            "word": "to ",
+            "start": 9.158,
+            "end": 9.234
+          },
+          {
+            "word": "lend ",
+            "start": 9.245,
+            "end": 9.463
+          },
+          {
+            "word": "it ",
+            "start": 9.473,
+            "end": 9.549
+          },
+          {
+            "word": "money. ",
+            "start": 9.56,
+            "end": 9.832
+          },
+          {
+            "word": "The ",
+            "start": 10.582,
+            "end": 10.702
+          },
+          {
+            "word": "fund's ",
+            "start": 10.713,
+            "end": 10.995
+          },
+          {
+            "word": "models ",
+            "start": 11.006,
+            "end": 11.31
+          },
+          {
+            "word": "said ",
+            "start": 11.321,
+            "end": 11.463
+          },
+          {
+            "word": "its ",
+            "start": 11.473,
+            "end": 11.582
+          },
+          {
+            "word": "probability ",
+            "start": 11.593,
+            "end": 12.191
+          },
+          {
+            "word": "of ",
+            "start": 12.202,
+            "end": 12.278
+          },
+          {
+            "word": "losing ",
+            "start": 12.289,
+            "end": 12.615
+          },
+          {
+            "word": "everything ",
+            "start": 12.626,
+            "end": 12.973
+          },
+          {
+            "word": "in ",
+            "start": 12.984,
+            "end": 13.049
+          },
+          {
+            "word": "a ",
+            "start": 13.06,
+            "end": 13.093
+          },
+          {
+            "word": "year ",
+            "start": 13.104,
+            "end": 13.365
+          },
+          {
+            "word": "was ",
+            "start": 13.376,
+            "end": 13.506
+          },
+          {
+            "word": "one ",
+            "start": 13.517,
+            "end": 13.756
+          },
+          {
+            "word": "in ",
+            "start": 13.767,
+            "end": 13.876
+          },
+          {
+            "word": "ten ",
+            "start": 13.886,
+            "end": 14.136
+          },
+          {
+            "word": "to ",
+            "start": 14.147,
+            "end": 14.223
+          },
+          {
+            "word": "the ",
+            "start": 14.234,
+            "end": 14.31
+          },
+          {
+            "word": "twenty-fourth ",
+            "start": 14.321,
+            "end": 14.876
+          },
+          {
+            "word": "power — ",
+            "start": 14.886,
+            "end": 15.267
+          },
+          {
+            "word": "impossible ",
+            "start": 15.463,
+            "end": 15.93
+          },
+          {
+            "word": "in ",
+            "start": 15.941,
+            "end": 16.028
+          },
+          {
+            "word": "any ",
+            "start": 16.039,
+            "end": 16.18
+          },
+          {
+            "word": "timescale ",
+            "start": 16.191,
+            "end": 16.778
+          },
+          {
+            "word": "relevant ",
+            "start": 16.789,
+            "end": 17.104
+          },
+          {
+            "word": "to ",
+            "start": 17.115,
+            "end": 17.169
+          },
+          {
+            "word": "human ",
+            "start": 17.18,
+            "end": 17.549
+          },
+          {
+            "word": "civilization.",
+            "start": 17.56,
+            "end": 18.31
+          }
+        ],
+        "start": 1890
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep9_event_4",
+        "audio_exists": true,
+        "audioPath": "episodes/ep9/audio/ep9_event_4.wav",
+        "text": "In August 1998, Russia defaulted on its domestic debt and devalued the ruble. The Russian crisis should not have directly affected LTCM, which had minimal Russian exposure. But financial crises generate a phenomenon the models had not adequately priced: correlation breakdown. In a panic, assets that normally move independently move together.",
+        "duration": 595,
+        "bgImage": "bg_wallstreet.jpg",
+        "wordTimings": [
+          {
+            "word": "In ",
+            "start": 0.1,
+            "end": 0.273
+          },
+          {
+            "word": "August 1998, ",
+            "start": 0.284,
+            "end": 1.436
+          },
+          {
+            "word": "Russia ",
+            "start": 1.534,
+            "end": 1.73
+          },
+          {
+            "word": "defaulted ",
+            "start": 1.741,
+            "end": 2.154
+          },
+          {
+            "word": "on ",
+            "start": 2.165,
+            "end": 2.273
+          },
+          {
+            "word": "its ",
+            "start": 2.284,
+            "end": 2.382
+          },
+          {
+            "word": "domestic ",
+            "start": 2.393,
+            "end": 2.817
+          },
+          {
+            "word": "debt ",
+            "start": 2.828,
+            "end": 3.067
+          },
+          {
+            "word": "and ",
+            "start": 3.078,
+            "end": 3.165
+          },
+          {
+            "word": "devalued ",
+            "start": 3.176,
+            "end": 3.643
+          },
+          {
+            "word": "the ",
+            "start": 3.654,
+            "end": 3.719
+          },
+          {
+            "word": "ruble. ",
+            "start": 3.73,
+            "end": 4.11
+          },
+          {
+            "word": "The ",
+            "start": 4.854,
+            "end": 4.984
+          },
+          {
+            "word": "Russian ",
+            "start": 4.995,
+            "end": 5.289
+          },
+          {
+            "word": "crisis ",
+            "start": 5.3,
+            "end": 5.647
+          },
+          {
+            "word": "should ",
+            "start": 5.658,
+            "end": 5.789
+          },
+          {
+            "word": "not ",
+            "start": 5.8,
+            "end": 5.984
+          },
+          {
+            "word": "have ",
+            "start": 5.995,
+            "end": 6.093
+          },
+          {
+            "word": "directly ",
+            "start": 6.104,
+            "end": 6.506
+          },
+          {
+            "word": "affected ",
+            "start": 6.517,
+            "end": 6.897
+          },
+          {
+            "word": "LTCM, ",
+            "start": 6.908,
+            "end": 7.626
+          },
+          {
+            "word": "which ",
+            "start": 7.821,
+            "end": 7.952
+          },
+          {
+            "word": "had ",
+            "start": 7.963,
+            "end": 8.071
+          },
+          {
+            "word": "minimal ",
+            "start": 8.082,
+            "end": 8.43
+          },
+          {
+            "word": "Russian ",
+            "start": 8.441,
+            "end": 8.713
+          },
+          {
+            "word": "exposure. ",
+            "start": 8.723,
+            "end": 9.31
+          },
+          {
+            "word": "But ",
+            "start": 10.06,
+            "end": 10.223
+          },
+          {
+            "word": "financial ",
+            "start": 10.234,
+            "end": 10.756
+          },
+          {
+            "word": "crises ",
+            "start": 10.767,
+            "end": 11.158
+          },
+          {
+            "word": "generate ",
+            "start": 11.169,
+            "end": 11.539
+          },
+          {
+            "word": "a ",
+            "start": 11.55,
+            "end": 11.593
+          },
+          {
+            "word": "phenomenon ",
+            "start": 11.604,
+            "end": 12.028
+          },
+          {
+            "word": "the ",
+            "start": 12.039,
+            "end": 12.093
+          },
+          {
+            "word": "models ",
+            "start": 12.104,
+            "end": 12.408
+          },
+          {
+            "word": "had ",
+            "start": 12.419,
+            "end": 12.517
+          },
+          {
+            "word": "not ",
+            "start": 12.528,
+            "end": 12.745
+          },
+          {
+            "word": "adequately ",
+            "start": 12.756,
+            "end": 13.169
+          },
+          {
+            "word": "priced: ",
+            "start": 13.18,
+            "end": 13.56
+          },
+          {
+            "word": "correlation ",
+            "start": 13.745,
+            "end": 14.299
+          },
+          {
+            "word": "breakdown. ",
+            "start": 14.31,
+            "end": 14.908
+          },
+          {
+            "word": "In ",
+            "start": 15.658,
+            "end": 15.81
+          },
+          {
+            "word": "a ",
+            "start": 15.821,
+            "end": 15.876
+          },
+          {
+            "word": "panic, ",
+            "start": 15.886,
+            "end": 16.191
+          },
+          {
+            "word": "assets ",
+            "start": 16.365,
+            "end": 16.713
+          },
+          {
+            "word": "that ",
+            "start": 16.723,
+            "end": 16.821
+          },
+          {
+            "word": "normally ",
+            "start": 16.832,
+            "end": 17.147
+          },
+          {
+            "word": "move ",
+            "start": 17.158,
+            "end": 17.408
+          },
+          {
+            "word": "independently ",
+            "start": 17.419,
+            "end": 17.973
+          },
+          {
+            "word": "move ",
+            "start": 17.984,
+            "end": 18.213
+          },
+          {
+            "word": "together.",
+            "start": 18.223,
+            "end": 18.658
+          }
+        ],
+        "start": 2475
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep9_event_5",
+        "audio_exists": true,
+        "audioPath": "episodes/ep9/audio/ep9_event_5.wav",
+        "text": "Investors worldwide fled to safety simultaneously. As prices diverged further rather than converging, LTCM's positions moved against it. Losses accelerated: five hundred million dollars in a single day in August 1998. By September, LTCM had lost ninety percent of its capital.",
+        "duration": 559,
+        "bgImage": "bg_interest_chart.jpg",
+        "wordTimings": [
+          {
+            "word": "Investors ",
+            "start": 0.1,
+            "end": 0.632
+          },
+          {
+            "word": "worldwide ",
+            "start": 0.643,
+            "end": 1.23
+          },
+          {
+            "word": "fled ",
+            "start": 1.241,
+            "end": 1.502
+          },
+          {
+            "word": "to ",
+            "start": 1.513,
+            "end": 1.567
+          },
+          {
+            "word": "safety ",
+            "start": 1.578,
+            "end": 1.926
+          },
+          {
+            "word": "simultaneously. ",
+            "start": 1.936,
+            "end": 2.773
+          },
+          {
+            "word": "As ",
+            "start": 3.517,
+            "end": 3.691
+          },
+          {
+            "word": "prices ",
+            "start": 3.702,
+            "end": 4.06
+          },
+          {
+            "word": "diverged ",
+            "start": 4.071,
+            "end": 4.55
+          },
+          {
+            "word": "further ",
+            "start": 4.56,
+            "end": 4.843
+          },
+          {
+            "word": "rather ",
+            "start": 4.854,
+            "end": 5.147
+          },
+          {
+            "word": "than ",
+            "start": 5.158,
+            "end": 5.289
+          },
+          {
+            "word": "converging, ",
+            "start": 5.3,
+            "end": 5.876
+          },
+          {
+            "word": "LTCM's ",
+            "start": 6.05,
+            "end": 6.702
+          },
+          {
+            "word": "positions ",
+            "start": 6.713,
+            "end": 7.126
+          },
+          {
+            "word": "moved ",
+            "start": 7.136,
+            "end": 7.419
+          },
+          {
+            "word": "against ",
+            "start": 7.43,
+            "end": 7.756
+          },
+          {
+            "word": "it. ",
+            "start": 7.767,
+            "end": 7.963
+          },
+          {
+            "word": "Losses ",
+            "start": 8.713,
+            "end": 9.104
+          },
+          {
+            "word": "accelerated: ",
+            "start": 9.115,
+            "end": 9.723
+          },
+          {
+            "word": "five ",
+            "start": 9.908,
+            "end": 10.158
+          },
+          {
+            "word": "hundred ",
+            "start": 10.169,
+            "end": 10.452
+          },
+          {
+            "word": "million ",
+            "start": 10.463,
+            "end": 10.843
+          },
+          {
+            "word": "dollars ",
+            "start": 10.854,
+            "end": 11.169
+          },
+          {
+            "word": "in ",
+            "start": 11.18,
+            "end": 11.256
+          },
+          {
+            "word": "a ",
+            "start": 11.267,
+            "end": 11.3
+          },
+          {
+            "word": "single ",
+            "start": 11.31,
+            "end": 11.636
+          },
+          {
+            "word": "day ",
+            "start": 11.647,
+            "end": 11.897
+          },
+          {
+            "word": "in ",
+            "start": 11.908,
+            "end": 12.049
+          },
+          {
+            "word": "August 1998. ",
+            "start": 12.06,
+            "end": 13.386
+          },
+          {
+            "word": "By ",
+            "start": 14.136,
+            "end": 14.321
+          },
+          {
+            "word": "September, ",
+            "start": 14.332,
+            "end": 14.854
+          },
+          {
+            "word": "LTCM ",
+            "start": 14.973,
+            "end": 15.604
+          },
+          {
+            "word": "had ",
+            "start": 15.615,
+            "end": 15.745
+          },
+          {
+            "word": "lost ",
+            "start": 15.756,
+            "end": 16.028
+          },
+          {
+            "word": "ninety ",
+            "start": 16.039,
+            "end": 16.332
+          },
+          {
+            "word": "percent ",
+            "start": 16.343,
+            "end": 16.713
+          },
+          {
+            "word": "of ",
+            "start": 16.723,
+            "end": 16.789
+          },
+          {
+            "word": "its ",
+            "start": 16.8,
+            "end": 16.919
+          },
+          {
+            "word": "capital.",
+            "start": 16.93,
+            "end": 17.452
+          }
+        ],
+        "start": 3070
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep9_event_6",
+        "audio_exists": true,
+        "audioPath": "episodes/ep9/audio/ep9_event_6.wav",
+        "text": "Its remaining four hundred million dollars supported one hundred and twenty-five billion in assets and one trillion in derivatives. If LTCM failed in a disorderly way — forced to sell everything simultaneously — it would move markets so violently that it could trigger failures at every major bank that had lent it money.",
+        "duration": 485,
+        "bgImage": "bg_nyse_floor.jpg",
+        "wordTimings": [
+          {
+            "word": "Its ",
+            "start": 0.1,
+            "end": 0.295
+          },
+          {
+            "word": "remaining ",
+            "start": 0.306,
+            "end": 0.676
+          },
+          {
+            "word": "four ",
+            "start": 0.686,
+            "end": 0.86
+          },
+          {
+            "word": "hundred ",
+            "start": 0.871,
+            "end": 1.165
+          },
+          {
+            "word": "million ",
+            "start": 1.176,
+            "end": 1.534
+          },
+          {
+            "word": "dollars ",
+            "start": 1.545,
+            "end": 1.849
+          },
+          {
+            "word": "supported ",
+            "start": 1.86,
+            "end": 2.273
+          },
+          {
+            "word": "one ",
+            "start": 2.284,
+            "end": 2.469
+          },
+          {
+            "word": "hundred ",
+            "start": 2.48,
+            "end": 2.741
+          },
+          {
+            "word": "and ",
+            "start": 2.752,
+            "end": 2.817
+          },
+          {
+            "word": "twenty-five ",
+            "start": 2.828,
+            "end": 3.382
+          },
+          {
+            "word": "billion ",
+            "start": 3.393,
+            "end": 3.708
+          },
+          {
+            "word": "in ",
+            "start": 3.719,
+            "end": 3.784
+          },
+          {
+            "word": "assets ",
+            "start": 3.795,
+            "end": 4.165
+          },
+          {
+            "word": "and ",
+            "start": 4.176,
+            "end": 4.284
+          },
+          {
+            "word": "one ",
+            "start": 4.295,
+            "end": 4.523
+          },
+          {
+            "word": "trillion ",
+            "start": 4.534,
+            "end": 4.915
+          },
+          {
+            "word": "in ",
+            "start": 4.926,
+            "end": 5.023
+          },
+          {
+            "word": "derivatives. ",
+            "start": 5.034,
+            "end": 5.665
+          },
+          {
+            "word": "If ",
+            "start": 6.408,
+            "end": 6.615
+          },
+          {
+            "word": "LTCM ",
+            "start": 6.626,
+            "end": 7.278
+          },
+          {
+            "word": "failed ",
+            "start": 7.289,
+            "end": 7.626
+          },
+          {
+            "word": "in ",
+            "start": 7.636,
+            "end": 7.702
+          },
+          {
+            "word": "a ",
+            "start": 7.713,
+            "end": 7.756
+          },
+          {
+            "word": "disorderly ",
+            "start": 7.767,
+            "end": 8.191
+          },
+          {
+            "word": "way — ",
+            "start": 8.202,
+            "end": 8.484
+          },
+          {
+            "word": "forced ",
+            "start": 8.702,
+            "end": 8.93
+          },
+          {
+            "word": "to ",
+            "start": 8.941,
+            "end": 8.995
+          },
+          {
+            "word": "sell ",
+            "start": 9.006,
+            "end": 9.289
+          },
+          {
+            "word": "everything ",
+            "start": 9.3,
+            "end": 9.626
+          },
+          {
+            "word": "simultaneously — ",
+            "start": 9.636,
+            "end": 10.43
+          },
+          {
+            "word": "it ",
+            "start": 10.626,
+            "end": 10.702
+          },
+          {
+            "word": "would ",
+            "start": 10.713,
+            "end": 10.832
+          },
+          {
+            "word": "move ",
+            "start": 10.843,
+            "end": 11.104
+          },
+          {
+            "word": "markets ",
+            "start": 11.115,
+            "end": 11.517
+          },
+          {
+            "word": "so ",
+            "start": 11.528,
+            "end": 11.647
+          },
+          {
+            "word": "violently ",
+            "start": 11.658,
+            "end": 12.158
+          },
+          {
+            "word": "that ",
+            "start": 12.169,
+            "end": 12.299
+          },
+          {
+            "word": "it ",
+            "start": 12.31,
+            "end": 12.397
+          },
+          {
+            "word": "could ",
+            "start": 12.408,
+            "end": 12.56
+          },
+          {
+            "word": "trigger ",
+            "start": 12.571,
+            "end": 12.8
+          },
+          {
+            "word": "failures ",
+            "start": 12.81,
+            "end": 13.267
+          },
+          {
+            "word": "at ",
+            "start": 13.278,
+            "end": 13.386
+          },
+          {
+            "word": "every ",
+            "start": 13.397,
+            "end": 13.593
+          },
+          {
+            "word": "major ",
+            "start": 13.604,
+            "end": 13.886
+          },
+          {
+            "word": "bank ",
+            "start": 13.897,
+            "end": 14.147
+          },
+          {
+            "word": "that ",
+            "start": 14.158,
+            "end": 14.256
+          },
+          {
+            "word": "had ",
+            "start": 14.267,
+            "end": 14.397
+          },
+          {
+            "word": "lent ",
+            "start": 14.408,
+            "end": 14.593
+          },
+          {
+            "word": "it ",
+            "start": 14.604,
+            "end": 14.691
+          },
+          {
+            "word": "money.",
+            "start": 14.702,
+            "end": 14.984
+          }
+        ],
+        "start": 3629
+      }
+    ]
+  },
+  {
+    "id": "ep9_problems",
+    "title": "Problems",
+    "globalStart": 4304,
+    "duration": 3988,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Problems"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep9_problems_0",
+        "audio_exists": true,
+        "audioPath": "episodes/ep9/audio/ep9_problems_0.wav",
+        "text": "The core problem was a category error in risk measurement. LTCM's models measured risk as volatility — how much prices normally fluctuated. But the fund's true risk was tail risk: the probability that all its positions moved against it simultaneously in an extreme market event. Normal volatility was low. Tail risk was catastrophic.",
+        "duration": 612,
+        "bgImage": "bg_stock_red.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.219
+          },
+          {
+            "word": "core ",
+            "start": 0.23,
+            "end": 0.415
+          },
+          {
+            "word": "problem ",
+            "start": 0.426,
+            "end": 0.795
+          },
+          {
+            "word": "was ",
+            "start": 0.806,
+            "end": 0.915
+          },
+          {
+            "word": "a ",
+            "start": 0.926,
+            "end": 0.98
+          },
+          {
+            "word": "category ",
+            "start": 0.991,
+            "end": 1.436
+          },
+          {
+            "word": "error ",
+            "start": 1.447,
+            "end": 1.708
+          },
+          {
+            "word": "in ",
+            "start": 1.719,
+            "end": 1.849
+          },
+          {
+            "word": "risk ",
+            "start": 1.86,
+            "end": 2.132
+          },
+          {
+            "word": "measurement. ",
+            "start": 2.143,
+            "end": 2.632
+          },
+          {
+            "word": "LTCM's ",
+            "start": 3.376,
+            "end": 4.158
+          },
+          {
+            "word": "models ",
+            "start": 4.169,
+            "end": 4.463
+          },
+          {
+            "word": "measured ",
+            "start": 4.473,
+            "end": 4.723
+          },
+          {
+            "word": "risk ",
+            "start": 4.734,
+            "end": 5.017
+          },
+          {
+            "word": "as ",
+            "start": 5.028,
+            "end": 5.104
+          },
+          {
+            "word": "volatility — ",
+            "start": 5.115,
+            "end": 5.68
+          },
+          {
+            "word": "how ",
+            "start": 5.941,
+            "end": 6.039
+          },
+          {
+            "word": "much ",
+            "start": 6.05,
+            "end": 6.234
+          },
+          {
+            "word": "prices ",
+            "start": 6.245,
+            "end": 6.636
+          },
+          {
+            "word": "normally ",
+            "start": 6.647,
+            "end": 7.006
+          },
+          {
+            "word": "fluctuated. ",
+            "start": 7.017,
+            "end": 7.81
+          },
+          {
+            "word": "But ",
+            "start": 8.56,
+            "end": 8.702
+          },
+          {
+            "word": "the ",
+            "start": 8.713,
+            "end": 8.789
+          },
+          {
+            "word": "fund's ",
+            "start": 8.8,
+            "end": 9.071
+          },
+          {
+            "word": "true ",
+            "start": 9.082,
+            "end": 9.321
+          },
+          {
+            "word": "risk ",
+            "start": 9.332,
+            "end": 9.604
+          },
+          {
+            "word": "was ",
+            "start": 9.615,
+            "end": 9.745
+          },
+          {
+            "word": "tail ",
+            "start": 9.756,
+            "end": 10.06
+          },
+          {
+            "word": "risk: ",
+            "start": 10.071,
+            "end": 10.386
+          },
+          {
+            "word": "the ",
+            "start": 10.571,
+            "end": 10.658
+          },
+          {
+            "word": "probability ",
+            "start": 10.669,
+            "end": 11.202
+          },
+          {
+            "word": "that ",
+            "start": 11.213,
+            "end": 11.365
+          },
+          {
+            "word": "all ",
+            "start": 11.376,
+            "end": 11.517
+          },
+          {
+            "word": "its ",
+            "start": 11.528,
+            "end": 11.647
+          },
+          {
+            "word": "positions ",
+            "start": 11.658,
+            "end": 12.071
+          },
+          {
+            "word": "moved ",
+            "start": 12.082,
+            "end": 12.365
+          },
+          {
+            "word": "against ",
+            "start": 12.376,
+            "end": 12.647
+          },
+          {
+            "word": "it ",
+            "start": 12.658,
+            "end": 12.745
+          },
+          {
+            "word": "simultaneously ",
+            "start": 12.756,
+            "end": 13.506
+          },
+          {
+            "word": "in ",
+            "start": 13.517,
+            "end": 13.615
+          },
+          {
+            "word": "an ",
+            "start": 13.626,
+            "end": 13.691
+          },
+          {
+            "word": "extreme ",
+            "start": 13.702,
+            "end": 14.104
+          },
+          {
+            "word": "market ",
+            "start": 14.115,
+            "end": 14.397
+          },
+          {
+            "word": "event. ",
+            "start": 14.408,
+            "end": 14.799
+          },
+          {
+            "word": "Normal ",
+            "start": 15.55,
+            "end": 15.93
+          },
+          {
+            "word": "volatility ",
+            "start": 15.941,
+            "end": 16.484
+          },
+          {
+            "word": "was ",
+            "start": 16.495,
+            "end": 16.669
+          },
+          {
+            "word": "low. ",
+            "start": 16.68,
+            "end": 17.006
+          },
+          {
+            "word": "Tail ",
+            "start": 17.756,
+            "end": 18.071
+          },
+          {
+            "word": "risk ",
+            "start": 18.082,
+            "end": 18.343
+          },
+          {
+            "word": "was ",
+            "start": 18.354,
+            "end": 18.473
+          },
+          {
+            "word": "catastrophic.",
+            "start": 18.484,
+            "end": 19.223
+          }
+        ],
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep9_problems_1",
+        "audio_exists": true,
+        "audioPath": "episodes/ep9/audio/ep9_problems_1.wav",
+        "text": "Value-at-Risk models accurately predicted losses ninety-nine percent of the time. The one percent they failed to predict was the one percent that mattered. A model that works most of the time and fails catastrophically the rest is not a risk management system. It is a confidence-generating illusion.",
+        "duration": 491,
+        "bgImage": "bg_interest_chart.jpg",
+        "wordTimings": [
+          {
+            "word": "Value-at-Risk ",
+            "start": 0.1,
+            "end": 0.86
+          },
+          {
+            "word": "models ",
+            "start": 0.871,
+            "end": 1.197
+          },
+          {
+            "word": "accurately ",
+            "start": 1.208,
+            "end": 1.676
+          },
+          {
+            "word": "predicted ",
+            "start": 1.686,
+            "end": 2.099
+          },
+          {
+            "word": "losses ",
+            "start": 2.11,
+            "end": 2.436
+          },
+          {
+            "word": "ninety-nine ",
+            "start": 2.447,
+            "end": 2.991
+          },
+          {
+            "word": "percent ",
+            "start": 3.002,
+            "end": 3.349
+          },
+          {
+            "word": "of ",
+            "start": 3.36,
+            "end": 3.426
+          },
+          {
+            "word": "the ",
+            "start": 3.436,
+            "end": 3.513
+          },
+          {
+            "word": "time. ",
+            "start": 3.523,
+            "end": 3.947
+          },
+          {
+            "word": "The ",
+            "start": 4.691,
+            "end": 4.81
+          },
+          {
+            "word": "one ",
+            "start": 4.821,
+            "end": 5.006
+          },
+          {
+            "word": "percent ",
+            "start": 5.017,
+            "end": 5.3
+          },
+          {
+            "word": "they ",
+            "start": 5.31,
+            "end": 5.419
+          },
+          {
+            "word": "failed ",
+            "start": 5.43,
+            "end": 5.734
+          },
+          {
+            "word": "to ",
+            "start": 5.745,
+            "end": 5.799
+          },
+          {
+            "word": "predict ",
+            "start": 5.81,
+            "end": 6.115
+          },
+          {
+            "word": "was ",
+            "start": 6.126,
+            "end": 6.245
+          },
+          {
+            "word": "the ",
+            "start": 6.256,
+            "end": 6.332
+          },
+          {
+            "word": "one ",
+            "start": 6.343,
+            "end": 6.539
+          },
+          {
+            "word": "percent ",
+            "start": 6.55,
+            "end": 6.886
+          },
+          {
+            "word": "that ",
+            "start": 6.897,
+            "end": 7.049
+          },
+          {
+            "word": "mattered. ",
+            "start": 7.06,
+            "end": 7.452
+          },
+          {
+            "word": "A ",
+            "start": 8.202,
+            "end": 8.321
+          },
+          {
+            "word": "model ",
+            "start": 8.332,
+            "end": 8.571
+          },
+          {
+            "word": "that ",
+            "start": 8.582,
+            "end": 8.713
+          },
+          {
+            "word": "works ",
+            "start": 8.723,
+            "end": 8.963
+          },
+          {
+            "word": "most ",
+            "start": 8.973,
+            "end": 9.223
+          },
+          {
+            "word": "of ",
+            "start": 9.234,
+            "end": 9.289
+          },
+          {
+            "word": "the ",
+            "start": 9.3,
+            "end": 9.376
+          },
+          {
+            "word": "time ",
+            "start": 9.386,
+            "end": 9.647
+          },
+          {
+            "word": "and ",
+            "start": 9.658,
+            "end": 9.756
+          },
+          {
+            "word": "fails ",
+            "start": 9.767,
+            "end": 10.093
+          },
+          {
+            "word": "catastrophically ",
+            "start": 10.104,
+            "end": 10.713
+          },
+          {
+            "word": "the ",
+            "start": 10.723,
+            "end": 10.81
+          },
+          {
+            "word": "rest ",
+            "start": 10.821,
+            "end": 11.104
+          },
+          {
+            "word": "is ",
+            "start": 11.115,
+            "end": 11.234
+          },
+          {
+            "word": "not ",
+            "start": 11.245,
+            "end": 11.43
+          },
+          {
+            "word": "a ",
+            "start": 11.441,
+            "end": 11.495
+          },
+          {
+            "word": "risk ",
+            "start": 11.506,
+            "end": 11.81
+          },
+          {
+            "word": "management ",
+            "start": 11.821,
+            "end": 12.223
+          },
+          {
+            "word": "system. ",
+            "start": 12.234,
+            "end": 12.669
+          },
+          {
+            "word": "It ",
+            "start": 13.419,
+            "end": 13.582
+          },
+          {
+            "word": "is ",
+            "start": 13.593,
+            "end": 13.669
+          },
+          {
+            "word": "a ",
+            "start": 13.68,
+            "end": 13.734
+          },
+          {
+            "word": "confidence-generating ",
+            "start": 13.745,
+            "end": 14.702
+          },
+          {
+            "word": "illusion.",
+            "start": 14.713,
+            "end": 15.191
+          }
+        ],
+        "start": 702
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep9_problems_2",
+        "audio_exists": true,
+        "audioPath": "episodes/ep9/audio/ep9_problems_2.wav",
+        "text": "In normal markets, leverage amplifies returns. In a liquidity crisis, leverage amplifies losses without limit. A twenty-five-to-one levered fund that experiences a four percent loss against its assets loses one hundred percent of its equity. Mathematics that is favorable in normal times becomes lethal in extremes.",
+        "duration": 560,
+        "bgImage": "bg_wallstreet.jpg",
+        "wordTimings": [
+          {
+            "word": "In ",
+            "start": 0.1,
+            "end": 0.284
+          },
+          {
+            "word": "normal ",
+            "start": 0.295,
+            "end": 0.589
+          },
+          {
+            "word": "markets, ",
+            "start": 0.6,
+            "end": 1.067
+          },
+          {
+            "word": "leverage ",
+            "start": 1.219,
+            "end": 1.643
+          },
+          {
+            "word": "amplifies ",
+            "start": 1.654,
+            "end": 2.143
+          },
+          {
+            "word": "returns. ",
+            "start": 2.154,
+            "end": 2.773
+          },
+          {
+            "word": "In ",
+            "start": 3.517,
+            "end": 3.658
+          },
+          {
+            "word": "a ",
+            "start": 3.669,
+            "end": 3.702
+          },
+          {
+            "word": "liquidity ",
+            "start": 3.713,
+            "end": 4.126
+          },
+          {
+            "word": "crisis, ",
+            "start": 4.136,
+            "end": 4.658
+          },
+          {
+            "word": "leverage ",
+            "start": 4.854,
+            "end": 5.289
+          },
+          {
+            "word": "amplifies ",
+            "start": 5.3,
+            "end": 5.778
+          },
+          {
+            "word": "losses ",
+            "start": 5.789,
+            "end": 6.126
+          },
+          {
+            "word": "without ",
+            "start": 6.136,
+            "end": 6.43
+          },
+          {
+            "word": "limit. ",
+            "start": 6.441,
+            "end": 6.789
+          },
+          {
+            "word": "A ",
+            "start": 7.539,
+            "end": 7.669
+          },
+          {
+            "word": "twenty-five-to-one ",
+            "start": 7.68,
+            "end": 8.473
+          },
+          {
+            "word": "levered ",
+            "start": 8.484,
+            "end": 8.799
+          },
+          {
+            "word": "fund ",
+            "start": 8.81,
+            "end": 9.06
+          },
+          {
+            "word": "that ",
+            "start": 9.071,
+            "end": 9.202
+          },
+          {
+            "word": "experiences ",
+            "start": 9.213,
+            "end": 9.821
+          },
+          {
+            "word": "a ",
+            "start": 9.832,
+            "end": 9.886
+          },
+          {
+            "word": "four ",
+            "start": 9.897,
+            "end": 10.082
+          },
+          {
+            "word": "percent ",
+            "start": 10.093,
+            "end": 10.419
+          },
+          {
+            "word": "loss ",
+            "start": 10.43,
+            "end": 10.626
+          },
+          {
+            "word": "against ",
+            "start": 10.636,
+            "end": 10.952
+          },
+          {
+            "word": "its ",
+            "start": 10.963,
+            "end": 11.071
+          },
+          {
+            "word": "assets ",
+            "start": 11.082,
+            "end": 11.452
+          },
+          {
+            "word": "loses ",
+            "start": 11.463,
+            "end": 11.799
+          },
+          {
+            "word": "one ",
+            "start": 11.81,
+            "end": 12.028
+          },
+          {
+            "word": "hundred ",
+            "start": 12.039,
+            "end": 12.3
+          },
+          {
+            "word": "percent ",
+            "start": 12.31,
+            "end": 12.647
+          },
+          {
+            "word": "of ",
+            "start": 12.658,
+            "end": 12.723
+          },
+          {
+            "word": "its ",
+            "start": 12.734,
+            "end": 12.843
+          },
+          {
+            "word": "equity. ",
+            "start": 12.854,
+            "end": 13.267
+          },
+          {
+            "word": "Mathematics ",
+            "start": 14.017,
+            "end": 14.636
+          },
+          {
+            "word": "that ",
+            "start": 14.647,
+            "end": 14.767
+          },
+          {
+            "word": "is ",
+            "start": 14.778,
+            "end": 14.865
+          },
+          {
+            "word": "favorable ",
+            "start": 14.876,
+            "end": 15.267
+          },
+          {
+            "word": "in ",
+            "start": 15.278,
+            "end": 15.386
+          },
+          {
+            "word": "normal ",
+            "start": 15.397,
+            "end": 15.68
+          },
+          {
+            "word": "times ",
+            "start": 15.691,
+            "end": 16.006
+          },
+          {
+            "word": "becomes ",
+            "start": 16.017,
+            "end": 16.376
+          },
+          {
+            "word": "lethal ",
+            "start": 16.386,
+            "end": 16.702
+          },
+          {
+            "word": "in ",
+            "start": 16.713,
+            "end": 16.789
+          },
+          {
+            "word": "extremes.",
+            "start": 16.8,
+            "end": 17.473
+          }
+        ],
+        "start": 1193
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep9_problems_3",
+        "audio_exists": true,
+        "audioPath": "episodes/ep9/audio/ep9_problems_3.wav",
+        "text": "LTCM had convinced itself that its positions were independent — that losses in one area would be cushioned by gains in another. But in August 1998, investors did not distinguish between strategies. They sold everything that was not a US Treasury. LTCM's supposedly uncorrelated positions all moved against it simultaneously.",
+        "duration": 576,
+        "bgImage": "bg_city_night.jpg",
+        "wordTimings": [
+          {
+            "word": "LTCM ",
+            "start": 0.1,
+            "end": 0.773
+          },
+          {
+            "word": "had ",
+            "start": 0.784,
+            "end": 0.915
+          },
+          {
+            "word": "convinced ",
+            "start": 0.926,
+            "end": 1.284
+          },
+          {
+            "word": "itself ",
+            "start": 1.295,
+            "end": 1.61
+          },
+          {
+            "word": "that ",
+            "start": 1.621,
+            "end": 1.73
+          },
+          {
+            "word": "its ",
+            "start": 1.741,
+            "end": 1.86
+          },
+          {
+            "word": "positions ",
+            "start": 1.871,
+            "end": 2.295
+          },
+          {
+            "word": "were ",
+            "start": 2.306,
+            "end": 2.436
+          },
+          {
+            "word": "independent — ",
+            "start": 2.447,
+            "end": 3.013
+          },
+          {
+            "word": "that ",
+            "start": 3.197,
+            "end": 3.317
+          },
+          {
+            "word": "losses ",
+            "start": 3.328,
+            "end": 3.61
+          },
+          {
+            "word": "in ",
+            "start": 3.621,
+            "end": 3.73
+          },
+          {
+            "word": "one ",
+            "start": 3.741,
+            "end": 3.958
+          },
+          {
+            "word": "area ",
+            "start": 3.969,
+            "end": 4.263
+          },
+          {
+            "word": "would ",
+            "start": 4.273,
+            "end": 4.393
+          },
+          {
+            "word": "be ",
+            "start": 4.404,
+            "end": 4.502
+          },
+          {
+            "word": "cushioned ",
+            "start": 4.513,
+            "end": 4.839
+          },
+          {
+            "word": "by ",
+            "start": 4.85,
+            "end": 4.958
+          },
+          {
+            "word": "gains ",
+            "start": 4.969,
+            "end": 5.295
+          },
+          {
+            "word": "in ",
+            "start": 5.306,
+            "end": 5.371
+          },
+          {
+            "word": "another. ",
+            "start": 5.382,
+            "end": 5.73
+          },
+          {
+            "word": "But ",
+            "start": 6.473,
+            "end": 6.626
+          },
+          {
+            "word": "in ",
+            "start": 6.636,
+            "end": 6.734
+          },
+          {
+            "word": "August 1998, ",
+            "start": 6.745,
+            "end": 7.897
+          },
+          {
+            "word": "investors ",
+            "start": 8.05,
+            "end": 8.506
+          },
+          {
+            "word": "did ",
+            "start": 8.517,
+            "end": 8.658
+          },
+          {
+            "word": "not ",
+            "start": 8.669,
+            "end": 8.832
+          },
+          {
+            "word": "distinguish ",
+            "start": 8.843,
+            "end": 9.321
+          },
+          {
+            "word": "between ",
+            "start": 9.332,
+            "end": 9.68
+          },
+          {
+            "word": "strategies. ",
+            "start": 9.691,
+            "end": 10.365
+          },
+          {
+            "word": "They ",
+            "start": 11.115,
+            "end": 11.256
+          },
+          {
+            "word": "sold ",
+            "start": 11.267,
+            "end": 11.539
+          },
+          {
+            "word": "everything ",
+            "start": 11.55,
+            "end": 11.876
+          },
+          {
+            "word": "that ",
+            "start": 11.886,
+            "end": 11.995
+          },
+          {
+            "word": "was ",
+            "start": 12.006,
+            "end": 12.126
+          },
+          {
+            "word": "not ",
+            "start": 12.136,
+            "end": 12.332
+          },
+          {
+            "word": "a ",
+            "start": 12.343,
+            "end": 12.386
+          },
+          {
+            "word": "US ",
+            "start": 12.397,
+            "end": 12.734
+          },
+          {
+            "word": "Treasury. ",
+            "start": 12.745,
+            "end": 13.191
+          },
+          {
+            "word": "LTCM's ",
+            "start": 13.941,
+            "end": 14.68
+          },
+          {
+            "word": "supposedly ",
+            "start": 14.691,
+            "end": 15.213
+          },
+          {
+            "word": "uncorrelated ",
+            "start": 15.223,
+            "end": 15.865
+          },
+          {
+            "word": "positions ",
+            "start": 15.876,
+            "end": 16.299
+          },
+          {
+            "word": "all ",
+            "start": 16.31,
+            "end": 16.528
+          },
+          {
+            "word": "moved ",
+            "start": 16.539,
+            "end": 16.843
+          },
+          {
+            "word": "against ",
+            "start": 16.854,
+            "end": 17.126
+          },
+          {
+            "word": "it ",
+            "start": 17.136,
+            "end": 17.213
+          },
+          {
+            "word": "simultaneously.",
+            "start": 17.223,
+            "end": 18.028
+          }
+        ],
+        "start": 1753
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep9_problems_4",
+        "audio_exists": true,
+        "audioPath": "episodes/ep9/audio/ep9_problems_4.wav",
+        "text": "LTCM's strategy, once it became known to be profitable, was copied by dozens of banks and funds. When the unwind began, everyone was trying to exit the same positions simultaneously. There were no buyers. Prices did not converge — they diverged, violently, because the entire industry was on the same side of the trade.",
+        "duration": 576,
+        "bgImage": "bg_stock_red.jpg",
+        "wordTimings": [
+          {
+            "word": "LTCM's ",
+            "start": 0.1,
+            "end": 0.817
+          },
+          {
+            "word": "strategy, ",
+            "start": 0.828,
+            "end": 1.306
+          },
+          {
+            "word": "once ",
+            "start": 1.491,
+            "end": 1.708
+          },
+          {
+            "word": "it ",
+            "start": 1.719,
+            "end": 1.795
+          },
+          {
+            "word": "became ",
+            "start": 1.806,
+            "end": 2.099
+          },
+          {
+            "word": "known ",
+            "start": 2.11,
+            "end": 2.328
+          },
+          {
+            "word": "to ",
+            "start": 2.339,
+            "end": 2.404
+          },
+          {
+            "word": "be ",
+            "start": 2.415,
+            "end": 2.513
+          },
+          {
+            "word": "profitable, ",
+            "start": 2.523,
+            "end": 3.045
+          },
+          {
+            "word": "was ",
+            "start": 3.219,
+            "end": 3.328
+          },
+          {
+            "word": "copied ",
+            "start": 3.339,
+            "end": 3.654
+          },
+          {
+            "word": "by ",
+            "start": 3.665,
+            "end": 3.784
+          },
+          {
+            "word": "dozens ",
+            "start": 3.795,
+            "end": 4.143
+          },
+          {
+            "word": "of ",
+            "start": 4.154,
+            "end": 4.241
+          },
+          {
+            "word": "banks ",
+            "start": 4.252,
+            "end": 4.545
+          },
+          {
+            "word": "and ",
+            "start": 4.556,
+            "end": 4.643
+          },
+          {
+            "word": "funds. ",
+            "start": 4.654,
+            "end": 5.154
+          },
+          {
+            "word": "When ",
+            "start": 5.897,
+            "end": 6.126
+          },
+          {
+            "word": "the ",
+            "start": 6.136,
+            "end": 6.234
+          },
+          {
+            "word": "unwind ",
+            "start": 6.245,
+            "end": 6.626
+          },
+          {
+            "word": "began, ",
+            "start": 6.636,
+            "end": 6.995
+          },
+          {
+            "word": "everyone ",
+            "start": 7.169,
+            "end": 7.506
+          },
+          {
+            "word": "was ",
+            "start": 7.517,
+            "end": 7.626
+          },
+          {
+            "word": "trying ",
+            "start": 7.636,
+            "end": 7.886
+          },
+          {
+            "word": "to ",
+            "start": 7.897,
+            "end": 7.984
+          },
+          {
+            "word": "exit ",
+            "start": 7.995,
+            "end": 8.267
+          },
+          {
+            "word": "the ",
+            "start": 8.278,
+            "end": 8.343
+          },
+          {
+            "word": "same ",
+            "start": 8.354,
+            "end": 8.582
+          },
+          {
+            "word": "positions ",
+            "start": 8.593,
+            "end": 9.017
+          },
+          {
+            "word": "simultaneously. ",
+            "start": 9.028,
+            "end": 9.821
+          },
+          {
+            "word": "There ",
+            "start": 10.571,
+            "end": 10.756
+          },
+          {
+            "word": "were ",
+            "start": 10.767,
+            "end": 10.919
+          },
+          {
+            "word": "no ",
+            "start": 10.93,
+            "end": 11.115
+          },
+          {
+            "word": "buyers. ",
+            "start": 11.126,
+            "end": 11.658
+          },
+          {
+            "word": "Prices ",
+            "start": 12.408,
+            "end": 12.821
+          },
+          {
+            "word": "did ",
+            "start": 12.832,
+            "end": 12.963
+          },
+          {
+            "word": "not ",
+            "start": 12.973,
+            "end": 13.115
+          },
+          {
+            "word": "converge — ",
+            "start": 13.126,
+            "end": 13.647
+          },
+          {
+            "word": "they ",
+            "start": 13.832,
+            "end": 13.941
+          },
+          {
+            "word": "diverged, ",
+            "start": 13.952,
+            "end": 14.528
+          },
+          {
+            "word": "violently, ",
+            "start": 14.691,
+            "end": 15.202
+          },
+          {
+            "word": "because ",
+            "start": 15.376,
+            "end": 15.593
+          },
+          {
+            "word": "the ",
+            "start": 15.604,
+            "end": 15.702
+          },
+          {
+            "word": "entire ",
+            "start": 15.713,
+            "end": 16.126
+          },
+          {
+            "word": "industry ",
+            "start": 16.136,
+            "end": 16.528
+          },
+          {
+            "word": "was ",
+            "start": 16.539,
+            "end": 16.68
+          },
+          {
+            "word": "on ",
+            "start": 16.691,
+            "end": 16.778
+          },
+          {
+            "word": "the ",
+            "start": 16.789,
+            "end": 16.854
+          },
+          {
+            "word": "same ",
+            "start": 16.865,
+            "end": 17.115
+          },
+          {
+            "word": "side ",
+            "start": 17.126,
+            "end": 17.408
+          },
+          {
+            "word": "of ",
+            "start": 17.419,
+            "end": 17.473
+          },
+          {
+            "word": "the ",
+            "start": 17.484,
+            "end": 17.549
+          },
+          {
+            "word": "trade.",
+            "start": 17.56,
+            "end": 18.017
+          }
+        ],
+        "start": 2329
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep9_problems_5",
+        "audio_exists": true,
+        "audioPath": "episodes/ep9/audio/ep9_problems_5.wav",
+        "text": "The systemic risk was hidden in plain sight. No single regulator had visibility into LTCM's total exposure because derivatives positions were not reported to any central authority. Each counterparty bank knew its own exposure but not the aggregate. The Federal Reserve knew something was wrong only when it was almost too late.",
+        "duration": 556,
+        "bgImage": "bg_interest_chart.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.241
+          },
+          {
+            "word": "systemic ",
+            "start": 0.252,
+            "end": 0.708
+          },
+          {
+            "word": "risk ",
+            "start": 0.719,
+            "end": 0.98
+          },
+          {
+            "word": "was ",
+            "start": 0.991,
+            "end": 1.11
+          },
+          {
+            "word": "hidden ",
+            "start": 1.121,
+            "end": 1.339
+          },
+          {
+            "word": "in ",
+            "start": 1.35,
+            "end": 1.436
+          },
+          {
+            "word": "plain ",
+            "start": 1.447,
+            "end": 1.741
+          },
+          {
+            "word": "sight. ",
+            "start": 1.752,
+            "end": 2.154
+          },
+          {
+            "word": "No ",
+            "start": 2.897,
+            "end": 3.158
+          },
+          {
+            "word": "single ",
+            "start": 3.169,
+            "end": 3.484
+          },
+          {
+            "word": "regulator ",
+            "start": 3.495,
+            "end": 3.952
+          },
+          {
+            "word": "had ",
+            "start": 3.963,
+            "end": 4.136
+          },
+          {
+            "word": "visibility ",
+            "start": 4.147,
+            "end": 4.669
+          },
+          {
+            "word": "into ",
+            "start": 4.68,
+            "end": 4.908
+          },
+          {
+            "word": "LTCM's ",
+            "start": 4.919,
+            "end": 5.626
+          },
+          {
+            "word": "total ",
+            "start": 5.636,
+            "end": 5.952
+          },
+          {
+            "word": "exposure ",
+            "start": 5.963,
+            "end": 6.397
+          },
+          {
+            "word": "because ",
+            "start": 6.408,
+            "end": 6.604
+          },
+          {
+            "word": "derivatives ",
+            "start": 6.615,
+            "end": 7.093
+          },
+          {
+            "word": "positions ",
+            "start": 7.104,
+            "end": 7.539
+          },
+          {
+            "word": "were ",
+            "start": 7.55,
+            "end": 7.647
+          },
+          {
+            "word": "not ",
+            "start": 7.658,
+            "end": 7.854
+          },
+          {
+            "word": "reported ",
+            "start": 7.865,
+            "end": 8.245
+          },
+          {
+            "word": "to ",
+            "start": 8.256,
+            "end": 8.321
+          },
+          {
+            "word": "any ",
+            "start": 8.332,
+            "end": 8.484
+          },
+          {
+            "word": "central ",
+            "start": 8.495,
+            "end": 8.843
+          },
+          {
+            "word": "authority. ",
+            "start": 8.854,
+            "end": 9.376
+          },
+          {
+            "word": "Each ",
+            "start": 10.126,
+            "end": 10.386
+          },
+          {
+            "word": "counterparty ",
+            "start": 10.397,
+            "end": 10.941
+          },
+          {
+            "word": "bank ",
+            "start": 10.952,
+            "end": 11.202
+          },
+          {
+            "word": "knew ",
+            "start": 11.213,
+            "end": 11.408
+          },
+          {
+            "word": "its ",
+            "start": 11.419,
+            "end": 11.539
+          },
+          {
+            "word": "own ",
+            "start": 11.55,
+            "end": 11.745
+          },
+          {
+            "word": "exposure ",
+            "start": 11.756,
+            "end": 12.213
+          },
+          {
+            "word": "but ",
+            "start": 12.223,
+            "end": 12.343
+          },
+          {
+            "word": "not ",
+            "start": 12.354,
+            "end": 12.56
+          },
+          {
+            "word": "the ",
+            "start": 12.571,
+            "end": 12.669
+          },
+          {
+            "word": "aggregate. ",
+            "start": 12.68,
+            "end": 13.147
+          },
+          {
+            "word": "The ",
+            "start": 13.897,
+            "end": 14.017
+          },
+          {
+            "word": "Federal ",
+            "start": 14.028,
+            "end": 14.386
+          },
+          {
+            "word": "Reserve ",
+            "start": 14.397,
+            "end": 14.734
+          },
+          {
+            "word": "knew ",
+            "start": 14.745,
+            "end": 14.919
+          },
+          {
+            "word": "something ",
+            "start": 14.93,
+            "end": 15.299
+          },
+          {
+            "word": "was ",
+            "start": 15.31,
+            "end": 15.452
+          },
+          {
+            "word": "wrong ",
+            "start": 15.463,
+            "end": 15.745
+          },
+          {
+            "word": "only ",
+            "start": 15.756,
+            "end": 15.963
+          },
+          {
+            "word": "when ",
+            "start": 15.973,
+            "end": 16.126
+          },
+          {
+            "word": "it ",
+            "start": 16.136,
+            "end": 16.213
+          },
+          {
+            "word": "was ",
+            "start": 16.223,
+            "end": 16.332
+          },
+          {
+            "word": "almost ",
+            "start": 16.343,
+            "end": 16.713
+          },
+          {
+            "word": "too ",
+            "start": 16.723,
+            "end": 16.963
+          },
+          {
+            "word": "late.",
+            "start": 16.973,
+            "end": 17.354
+          }
+        ],
+        "start": 2905
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep9_problems_6",
+        "audio_exists": true,
+        "audioPath": "episodes/ep9/audio/ep9_problems_6.wav",
+        "text": "The lesson about complexity was fundamental: when a system is too complex for anyone to fully understand, and when that system is leveraged, the question is not whether it will fail but when. LTCM's one trillion in derivatives exposure was a system no single institution — including LTCM itself — could fully model.",
+        "duration": 527,
+        "bgImage": "bg_wallstreet.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.219
+          },
+          {
+            "word": "lesson ",
+            "start": 0.23,
+            "end": 0.513
+          },
+          {
+            "word": "about ",
+            "start": 0.523,
+            "end": 0.752
+          },
+          {
+            "word": "complexity ",
+            "start": 0.763,
+            "end": 1.306
+          },
+          {
+            "word": "was ",
+            "start": 1.317,
+            "end": 1.469
+          },
+          {
+            "word": "fundamental: ",
+            "start": 1.48,
+            "end": 2.067
+          },
+          {
+            "word": "when ",
+            "start": 2.23,
+            "end": 2.349
+          },
+          {
+            "word": "a ",
+            "start": 2.36,
+            "end": 2.404
+          },
+          {
+            "word": "system ",
+            "start": 2.415,
+            "end": 2.763
+          },
+          {
+            "word": "is ",
+            "start": 2.773,
+            "end": 2.893
+          },
+          {
+            "word": "too ",
+            "start": 2.904,
+            "end": 3.067
+          },
+          {
+            "word": "complex ",
+            "start": 3.078,
+            "end": 3.48
+          },
+          {
+            "word": "for ",
+            "start": 3.491,
+            "end": 3.599
+          },
+          {
+            "word": "anyone ",
+            "start": 3.61,
+            "end": 3.926
+          },
+          {
+            "word": "to ",
+            "start": 3.936,
+            "end": 4.023
+          },
+          {
+            "word": "fully ",
+            "start": 4.034,
+            "end": 4.284
+          },
+          {
+            "word": "understand, ",
+            "start": 4.295,
+            "end": 4.86
+          },
+          {
+            "word": "and ",
+            "start": 5.034,
+            "end": 5.121
+          },
+          {
+            "word": "when ",
+            "start": 5.132,
+            "end": 5.295
+          },
+          {
+            "word": "that ",
+            "start": 5.306,
+            "end": 5.436
+          },
+          {
+            "word": "system ",
+            "start": 5.447,
+            "end": 5.773
+          },
+          {
+            "word": "is ",
+            "start": 5.784,
+            "end": 5.904
+          },
+          {
+            "word": "leveraged, ",
+            "start": 5.915,
+            "end": 6.436
+          },
+          {
+            "word": "the ",
+            "start": 6.632,
+            "end": 6.697
+          },
+          {
+            "word": "question ",
+            "start": 6.708,
+            "end": 7.099
+          },
+          {
+            "word": "is ",
+            "start": 7.11,
+            "end": 7.23
+          },
+          {
+            "word": "not ",
+            "start": 7.241,
+            "end": 7.458
+          },
+          {
+            "word": "whether ",
+            "start": 7.469,
+            "end": 7.719
+          },
+          {
+            "word": "it ",
+            "start": 7.73,
+            "end": 7.828
+          },
+          {
+            "word": "will ",
+            "start": 7.839,
+            "end": 7.958
+          },
+          {
+            "word": "fail ",
+            "start": 7.969,
+            "end": 8.306
+          },
+          {
+            "word": "but ",
+            "start": 8.317,
+            "end": 8.436
+          },
+          {
+            "word": "when. ",
+            "start": 8.447,
+            "end": 8.763
+          },
+          {
+            "word": "LTCM's ",
+            "start": 9.506,
+            "end": 10.245
+          },
+          {
+            "word": "one ",
+            "start": 10.256,
+            "end": 10.495
+          },
+          {
+            "word": "trillion ",
+            "start": 10.506,
+            "end": 10.865
+          },
+          {
+            "word": "in ",
+            "start": 10.876,
+            "end": 10.963
+          },
+          {
+            "word": "derivatives ",
+            "start": 10.973,
+            "end": 11.473
+          },
+          {
+            "word": "exposure ",
+            "start": 11.484,
+            "end": 11.919
+          },
+          {
+            "word": "was ",
+            "start": 11.93,
+            "end": 12.071
+          },
+          {
+            "word": "a ",
+            "start": 12.082,
+            "end": 12.136
+          },
+          {
+            "word": "system ",
+            "start": 12.147,
+            "end": 12.484
+          },
+          {
+            "word": "no ",
+            "start": 12.495,
+            "end": 12.68
+          },
+          {
+            "word": "single ",
+            "start": 12.691,
+            "end": 13.028
+          },
+          {
+            "word": "institution — ",
+            "start": 13.039,
+            "end": 13.647
+          },
+          {
+            "word": "including ",
+            "start": 13.886,
+            "end": 14.354
+          },
+          {
+            "word": "LTCM ",
+            "start": 14.365,
+            "end": 15.006
+          },
+          {
+            "word": "itself — ",
+            "start": 15.017,
+            "end": 15.463
+          },
+          {
+            "word": "could ",
+            "start": 15.647,
+            "end": 15.778
+          },
+          {
+            "word": "fully ",
+            "start": 15.789,
+            "end": 16.017
+          },
+          {
+            "word": "model.",
+            "start": 16.028,
+            "end": 16.376
+          }
+        ],
+        "start": 3461
+      }
+    ]
+  },
+  {
+    "id": "ep9_solutions",
+    "title": "Solutions",
+    "globalStart": 8292,
+    "duration": 3739,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Solutions"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep9_solutions_0",
+        "audio_exists": true,
+        "audioPath": "episodes/ep9/audio/ep9_solutions_0.wav",
+        "text": "On September 23, 1998, officials from the Federal Reserve Bank of New York gathered fourteen banks — LTCM's major creditors — in a room and told them the situation. If LTCM failed in a disorderly way, every bank in that room would face massive losses. Each had an incentive to liquidate first. If all did, the spiral would be unstoppable.",
+        "duration": 639,
+        "bgImage": "bg_imf_meeting.jpg",
+        "wordTimings": [
+          {
+            "word": "On ",
+            "start": 0.1,
+            "end": 0.284
+          },
+          {
+            "word": "September 23, 1998, ",
+            "start": 0.295,
+            "end": 2.393
+          },
+          {
+            "word": "officials ",
+            "start": 2.545,
+            "end": 2.893
+          },
+          {
+            "word": "from ",
+            "start": 2.904,
+            "end": 3.023
+          },
+          {
+            "word": "the ",
+            "start": 3.034,
+            "end": 3.099
+          },
+          {
+            "word": "Federal ",
+            "start": 3.11,
+            "end": 3.447
+          },
+          {
+            "word": "Reserve ",
+            "start": 3.458,
+            "end": 3.817
+          },
+          {
+            "word": "Bank ",
+            "start": 3.828,
+            "end": 4.056
+          },
+          {
+            "word": "of ",
+            "start": 4.067,
+            "end": 4.165
+          },
+          {
+            "word": "New ",
+            "start": 4.176,
+            "end": 4.349
+          },
+          {
+            "word": "York ",
+            "start": 4.36,
+            "end": 4.61
+          },
+          {
+            "word": "gathered ",
+            "start": 4.621,
+            "end": 4.893
+          },
+          {
+            "word": "fourteen ",
+            "start": 4.904,
+            "end": 5.371
+          },
+          {
+            "word": "banks — ",
+            "start": 5.382,
+            "end": 5.686
+          },
+          {
+            "word": "LTCM's ",
+            "start": 5.871,
+            "end": 6.545
+          },
+          {
+            "word": "major ",
+            "start": 6.556,
+            "end": 6.849
+          },
+          {
+            "word": "creditors — ",
+            "start": 6.86,
+            "end": 7.306
+          },
+          {
+            "word": "in ",
+            "start": 7.523,
+            "end": 7.621
+          },
+          {
+            "word": "a ",
+            "start": 7.632,
+            "end": 7.676
+          },
+          {
+            "word": "room ",
+            "start": 7.686,
+            "end": 7.926
+          },
+          {
+            "word": "and ",
+            "start": 7.936,
+            "end": 8.034
+          },
+          {
+            "word": "told ",
+            "start": 8.045,
+            "end": 8.295
+          },
+          {
+            "word": "them ",
+            "start": 8.306,
+            "end": 8.426
+          },
+          {
+            "word": "the ",
+            "start": 8.436,
+            "end": 8.502
+          },
+          {
+            "word": "situation. ",
+            "start": 8.513,
+            "end": 9.197
+          },
+          {
+            "word": "If ",
+            "start": 9.941,
+            "end": 10.136
+          },
+          {
+            "word": "LTCM ",
+            "start": 10.147,
+            "end": 10.799
+          },
+          {
+            "word": "failed ",
+            "start": 10.81,
+            "end": 11.115
+          },
+          {
+            "word": "in ",
+            "start": 11.126,
+            "end": 11.191
+          },
+          {
+            "word": "a ",
+            "start": 11.202,
+            "end": 11.245
+          },
+          {
+            "word": "disorderly ",
+            "start": 11.256,
+            "end": 11.691
+          },
+          {
+            "word": "way, ",
+            "start": 11.702,
+            "end": 12.006
+          },
+          {
+            "word": "every ",
+            "start": 12.234,
+            "end": 12.452
+          },
+          {
+            "word": "bank ",
+            "start": 12.463,
+            "end": 12.691
+          },
+          {
+            "word": "in ",
+            "start": 12.702,
+            "end": 12.778
+          },
+          {
+            "word": "that ",
+            "start": 12.789,
+            "end": 12.963
+          },
+          {
+            "word": "room ",
+            "start": 12.973,
+            "end": 13.191
+          },
+          {
+            "word": "would ",
+            "start": 13.202,
+            "end": 13.321
+          },
+          {
+            "word": "face ",
+            "start": 13.332,
+            "end": 13.582
+          },
+          {
+            "word": "massive ",
+            "start": 13.593,
+            "end": 13.897
+          },
+          {
+            "word": "losses. ",
+            "start": 13.908,
+            "end": 14.452
+          },
+          {
+            "word": "Each ",
+            "start": 15.202,
+            "end": 15.43
+          },
+          {
+            "word": "had ",
+            "start": 15.441,
+            "end": 15.582
+          },
+          {
+            "word": "an ",
+            "start": 15.593,
+            "end": 15.658
+          },
+          {
+            "word": "incentive ",
+            "start": 15.669,
+            "end": 16.082
+          },
+          {
+            "word": "to ",
+            "start": 16.093,
+            "end": 16.18
+          },
+          {
+            "word": "liquidate ",
+            "start": 16.191,
+            "end": 16.636
+          },
+          {
+            "word": "first. ",
+            "start": 16.647,
+            "end": 17.093
+          },
+          {
+            "word": "If ",
+            "start": 17.843,
+            "end": 18.039
+          },
+          {
+            "word": "all ",
+            "start": 18.05,
+            "end": 18.223
+          },
+          {
+            "word": "did, ",
+            "start": 18.234,
+            "end": 18.441
+          },
+          {
+            "word": "the ",
+            "start": 18.626,
+            "end": 18.702
+          },
+          {
+            "word": "spiral ",
+            "start": 18.713,
+            "end": 19.213
+          },
+          {
+            "word": "would ",
+            "start": 19.223,
+            "end": 19.332
+          },
+          {
+            "word": "be ",
+            "start": 19.343,
+            "end": 19.473
+          },
+          {
+            "word": "unstoppable.",
+            "start": 19.484,
+            "end": 20.115
+          }
+        ],
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep9_solutions_1",
+        "audio_exists": true,
+        "audioPath": "episodes/ep9/audio/ep9_solutions_1.wav",
+        "text": "The Fed did not use public money. Instead, it facilitated a private bailout: the fourteen banks agreed to inject three billion six hundred million dollars into LTCM in exchange for ninety percent ownership, allowing an orderly unwinding of positions over the following year. The fund was not rescued — its investors lost everything. But markets were not destroyed.",
+        "duration": 623,
+        "bgImage": "bg_fed_building.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.219
+          },
+          {
+            "word": "Fed ",
+            "start": 0.23,
+            "end": 0.458
+          },
+          {
+            "word": "did ",
+            "start": 0.469,
+            "end": 0.589
+          },
+          {
+            "word": "not ",
+            "start": 0.6,
+            "end": 0.773
+          },
+          {
+            "word": "use ",
+            "start": 0.784,
+            "end": 1.002
+          },
+          {
+            "word": "public ",
+            "start": 1.013,
+            "end": 1.328
+          },
+          {
+            "word": "money. ",
+            "start": 1.339,
+            "end": 1.589
+          },
+          {
+            "word": "Instead, ",
+            "start": 2.332,
+            "end": 2.789
+          },
+          {
+            "word": "it ",
+            "start": 2.963,
+            "end": 3.049
+          },
+          {
+            "word": "facilitated ",
+            "start": 3.06,
+            "end": 3.647
+          },
+          {
+            "word": "a ",
+            "start": 3.658,
+            "end": 3.702
+          },
+          {
+            "word": "private ",
+            "start": 3.713,
+            "end": 4.071
+          },
+          {
+            "word": "bailout: ",
+            "start": 4.082,
+            "end": 4.517
+          },
+          {
+            "word": "the ",
+            "start": 4.691,
+            "end": 4.767
+          },
+          {
+            "word": "fourteen ",
+            "start": 4.778,
+            "end": 5.245
+          },
+          {
+            "word": "banks ",
+            "start": 5.256,
+            "end": 5.517
+          },
+          {
+            "word": "agreed ",
+            "start": 5.528,
+            "end": 5.832
+          },
+          {
+            "word": "to ",
+            "start": 5.843,
+            "end": 5.941
+          },
+          {
+            "word": "inject ",
+            "start": 5.952,
+            "end": 6.31
+          },
+          {
+            "word": "three ",
+            "start": 6.321,
+            "end": 6.582
+          },
+          {
+            "word": "billion ",
+            "start": 6.593,
+            "end": 6.93
+          },
+          {
+            "word": "six ",
+            "start": 6.941,
+            "end": 7.18
+          },
+          {
+            "word": "hundred ",
+            "start": 7.191,
+            "end": 7.441
+          },
+          {
+            "word": "million ",
+            "start": 7.452,
+            "end": 7.81
+          },
+          {
+            "word": "dollars ",
+            "start": 7.821,
+            "end": 8.115
+          },
+          {
+            "word": "into ",
+            "start": 8.126,
+            "end": 8.343
+          },
+          {
+            "word": "LTCM ",
+            "start": 8.354,
+            "end": 9.006
+          },
+          {
+            "word": "in ",
+            "start": 9.017,
+            "end": 9.104
+          },
+          {
+            "word": "exchange ",
+            "start": 9.115,
+            "end": 9.549
+          },
+          {
+            "word": "for ",
+            "start": 9.56,
+            "end": 9.658
+          },
+          {
+            "word": "ninety ",
+            "start": 9.669,
+            "end": 9.995
+          },
+          {
+            "word": "percent ",
+            "start": 10.006,
+            "end": 10.365
+          },
+          {
+            "word": "ownership, ",
+            "start": 10.376,
+            "end": 10.799
+          },
+          {
+            "word": "allowing ",
+            "start": 10.973,
+            "end": 11.289
+          },
+          {
+            "word": "an ",
+            "start": 11.3,
+            "end": 11.386
+          },
+          {
+            "word": "orderly ",
+            "start": 11.397,
+            "end": 11.723
+          },
+          {
+            "word": "unwinding ",
+            "start": 11.734,
+            "end": 12.213
+          },
+          {
+            "word": "of ",
+            "start": 12.223,
+            "end": 12.289
+          },
+          {
+            "word": "positions ",
+            "start": 12.3,
+            "end": 12.767
+          },
+          {
+            "word": "over ",
+            "start": 12.778,
+            "end": 12.941
+          },
+          {
+            "word": "the ",
+            "start": 12.952,
+            "end": 13.028
+          },
+          {
+            "word": "following ",
+            "start": 13.039,
+            "end": 13.386
+          },
+          {
+            "word": "year. ",
+            "start": 13.397,
+            "end": 13.745
+          },
+          {
+            "word": "The ",
+            "start": 14.495,
+            "end": 14.626
+          },
+          {
+            "word": "fund ",
+            "start": 14.636,
+            "end": 14.908
+          },
+          {
+            "word": "was ",
+            "start": 14.919,
+            "end": 15.06
+          },
+          {
+            "word": "not ",
+            "start": 15.071,
+            "end": 15.3
+          },
+          {
+            "word": "rescued — ",
+            "start": 15.31,
+            "end": 15.81
+          },
+          {
+            "word": "its ",
+            "start": 15.984,
+            "end": 16.093
+          },
+          {
+            "word": "investors ",
+            "start": 16.104,
+            "end": 16.571
+          },
+          {
+            "word": "lost ",
+            "start": 16.582,
+            "end": 16.886
+          },
+          {
+            "word": "everything. ",
+            "start": 16.897,
+            "end": 17.365
+          },
+          {
+            "word": "But ",
+            "start": 18.115,
+            "end": 18.278
+          },
+          {
+            "word": "markets ",
+            "start": 18.289,
+            "end": 18.68
+          },
+          {
+            "word": "were ",
+            "start": 18.691,
+            "end": 18.789
+          },
+          {
+            "word": "not ",
+            "start": 18.8,
+            "end": 18.995
+          },
+          {
+            "word": "destroyed.",
+            "start": 19.006,
+            "end": 19.593
+          }
+        ],
+        "start": 729
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep9_solutions_2",
+        "audio_exists": true,
+        "audioPath": "episodes/ep9/audio/ep9_solutions_2.wav",
+        "text": "The key insight was coordination. Each bank individually preferred to be the first to liquidate. Collectively, simultaneous liquidation was catastrophic. The Fed's role was to make the banks act as a collective rather than a collection of individuals. This is one of the few things central banks can do that markets cannot.",
+        "duration": 554,
+        "bgImage": "bg_wallstreet.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "key ",
+            "start": 0.241,
+            "end": 0.447
+          },
+          {
+            "word": "insight ",
+            "start": 0.458,
+            "end": 0.904
+          },
+          {
+            "word": "was ",
+            "start": 0.915,
+            "end": 1.034
+          },
+          {
+            "word": "coordination. ",
+            "start": 1.045,
+            "end": 1.849
+          },
+          {
+            "word": "Each ",
+            "start": 2.593,
+            "end": 2.865
+          },
+          {
+            "word": "bank ",
+            "start": 2.876,
+            "end": 3.104
+          },
+          {
+            "word": "individually ",
+            "start": 3.115,
+            "end": 3.615
+          },
+          {
+            "word": "preferred ",
+            "start": 3.626,
+            "end": 3.995
+          },
+          {
+            "word": "to ",
+            "start": 4.006,
+            "end": 4.06
+          },
+          {
+            "word": "be ",
+            "start": 4.071,
+            "end": 4.169
+          },
+          {
+            "word": "the ",
+            "start": 4.18,
+            "end": 4.267
+          },
+          {
+            "word": "first ",
+            "start": 4.278,
+            "end": 4.56
+          },
+          {
+            "word": "to ",
+            "start": 4.571,
+            "end": 4.647
+          },
+          {
+            "word": "liquidate. ",
+            "start": 4.658,
+            "end": 5.191
+          },
+          {
+            "word": "Collectively, ",
+            "start": 5.941,
+            "end": 6.528
+          },
+          {
+            "word": "simultaneous ",
+            "start": 6.68,
+            "end": 7.343
+          },
+          {
+            "word": "liquidation ",
+            "start": 7.354,
+            "end": 7.963
+          },
+          {
+            "word": "was ",
+            "start": 7.973,
+            "end": 8.093
+          },
+          {
+            "word": "catastrophic. ",
+            "start": 8.104,
+            "end": 8.854
+          },
+          {
+            "word": "The ",
+            "start": 9.604,
+            "end": 9.734
+          },
+          {
+            "word": "Fed's ",
+            "start": 9.745,
+            "end": 10.017
+          },
+          {
+            "word": "role ",
+            "start": 10.028,
+            "end": 10.289
+          },
+          {
+            "word": "was ",
+            "start": 10.3,
+            "end": 10.397
+          },
+          {
+            "word": "to ",
+            "start": 10.408,
+            "end": 10.484
+          },
+          {
+            "word": "make ",
+            "start": 10.495,
+            "end": 10.669
+          },
+          {
+            "word": "the ",
+            "start": 10.68,
+            "end": 10.756
+          },
+          {
+            "word": "banks ",
+            "start": 10.767,
+            "end": 11.039
+          },
+          {
+            "word": "act ",
+            "start": 11.05,
+            "end": 11.245
+          },
+          {
+            "word": "as ",
+            "start": 11.256,
+            "end": 11.321
+          },
+          {
+            "word": "a ",
+            "start": 11.332,
+            "end": 11.376
+          },
+          {
+            "word": "collective ",
+            "start": 11.386,
+            "end": 11.778
+          },
+          {
+            "word": "rather ",
+            "start": 11.789,
+            "end": 12.05
+          },
+          {
+            "word": "than ",
+            "start": 12.06,
+            "end": 12.18
+          },
+          {
+            "word": "a ",
+            "start": 12.191,
+            "end": 12.223
+          },
+          {
+            "word": "collection ",
+            "start": 12.234,
+            "end": 12.647
+          },
+          {
+            "word": "of ",
+            "start": 12.658,
+            "end": 12.713
+          },
+          {
+            "word": "individuals. ",
+            "start": 12.723,
+            "end": 13.419
+          },
+          {
+            "word": "This ",
+            "start": 14.169,
+            "end": 14.397
+          },
+          {
+            "word": "is ",
+            "start": 14.408,
+            "end": 14.506
+          },
+          {
+            "word": "one ",
+            "start": 14.517,
+            "end": 14.691
+          },
+          {
+            "word": "of ",
+            "start": 14.702,
+            "end": 14.756
+          },
+          {
+            "word": "the ",
+            "start": 14.767,
+            "end": 14.843
+          },
+          {
+            "word": "few ",
+            "start": 14.854,
+            "end": 15.082
+          },
+          {
+            "word": "things ",
+            "start": 15.093,
+            "end": 15.354
+          },
+          {
+            "word": "central ",
+            "start": 15.365,
+            "end": 15.702
+          },
+          {
+            "word": "banks ",
+            "start": 15.713,
+            "end": 15.984
+          },
+          {
+            "word": "can ",
+            "start": 15.995,
+            "end": 16.126
+          },
+          {
+            "word": "do ",
+            "start": 16.136,
+            "end": 16.299
+          },
+          {
+            "word": "that ",
+            "start": 16.31,
+            "end": 16.452
+          },
+          {
+            "word": "markets ",
+            "start": 16.463,
+            "end": 16.843
+          },
+          {
+            "word": "cannot.",
+            "start": 16.854,
+            "end": 17.289
+          }
+        ],
+        "start": 1352
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep9_solutions_3",
+        "audio_exists": true,
+        "audioPath": "episodes/ep9/audio/ep9_solutions_3.wav",
+        "text": "The Federal Reserve also cut interest rates three times in autumn 1998, providing liquidity to financial markets at a moment of extreme stress. The cuts were aimed at stabilising market conditions, not responding to economic weakness. This was new: using monetary policy to address a financial crisis rather than an economic slowdown.",
+        "duration": 581,
+        "bgImage": "bg_city_night.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.219
+          },
+          {
+            "word": "Federal ",
+            "start": 0.23,
+            "end": 0.556
+          },
+          {
+            "word": "Reserve ",
+            "start": 0.567,
+            "end": 0.936
+          },
+          {
+            "word": "also ",
+            "start": 0.947,
+            "end": 1.219
+          },
+          {
+            "word": "cut ",
+            "start": 1.23,
+            "end": 1.458
+          },
+          {
+            "word": "interest ",
+            "start": 1.469,
+            "end": 1.839
+          },
+          {
+            "word": "rates ",
+            "start": 1.85,
+            "end": 2.121
+          },
+          {
+            "word": "three ",
+            "start": 2.132,
+            "end": 2.328
+          },
+          {
+            "word": "times ",
+            "start": 2.339,
+            "end": 2.643
+          },
+          {
+            "word": "in ",
+            "start": 2.654,
+            "end": 2.763
+          },
+          {
+            "word": "autumn ",
+            "start": 2.773,
+            "end": 3.078
+          },
+          {
+            "word": "1998, ",
+            "start": 3.089,
+            "end": 3.936
+          },
+          {
+            "word": "providing ",
+            "start": 4.11,
+            "end": 4.513
+          },
+          {
+            "word": "liquidity ",
+            "start": 4.523,
+            "end": 4.947
+          },
+          {
+            "word": "to ",
+            "start": 4.958,
+            "end": 5.045
+          },
+          {
+            "word": "financial ",
+            "start": 5.056,
+            "end": 5.545
+          },
+          {
+            "word": "markets ",
+            "start": 5.556,
+            "end": 5.926
+          },
+          {
+            "word": "at ",
+            "start": 5.936,
+            "end": 6.034
+          },
+          {
+            "word": "a ",
+            "start": 6.045,
+            "end": 6.089
+          },
+          {
+            "word": "moment ",
+            "start": 6.1,
+            "end": 6.447
+          },
+          {
+            "word": "of ",
+            "start": 6.458,
+            "end": 6.534
+          },
+          {
+            "word": "extreme ",
+            "start": 6.545,
+            "end": 6.947
+          },
+          {
+            "word": "stress. ",
+            "start": 6.958,
+            "end": 7.436
+          },
+          {
+            "word": "The ",
+            "start": 8.18,
+            "end": 8.299
+          },
+          {
+            "word": "cuts ",
+            "start": 8.31,
+            "end": 8.571
+          },
+          {
+            "word": "were ",
+            "start": 8.582,
+            "end": 8.734
+          },
+          {
+            "word": "aimed ",
+            "start": 8.745,
+            "end": 8.952
+          },
+          {
+            "word": "at ",
+            "start": 8.963,
+            "end": 9.028
+          },
+          {
+            "word": "stabilising ",
+            "start": 9.039,
+            "end": 9.658
+          },
+          {
+            "word": "market ",
+            "start": 9.669,
+            "end": 9.995
+          },
+          {
+            "word": "conditions, ",
+            "start": 10.006,
+            "end": 10.549
+          },
+          {
+            "word": "not ",
+            "start": 10.767,
+            "end": 10.952
+          },
+          {
+            "word": "responding ",
+            "start": 10.963,
+            "end": 11.408
+          },
+          {
+            "word": "to ",
+            "start": 11.419,
+            "end": 11.506
+          },
+          {
+            "word": "economic ",
+            "start": 11.517,
+            "end": 11.984
+          },
+          {
+            "word": "weakness. ",
+            "start": 11.995,
+            "end": 12.539
+          },
+          {
+            "word": "This ",
+            "start": 13.289,
+            "end": 13.528
+          },
+          {
+            "word": "was ",
+            "start": 13.539,
+            "end": 13.691
+          },
+          {
+            "word": "new: ",
+            "start": 13.702,
+            "end": 13.952
+          },
+          {
+            "word": "using ",
+            "start": 14.169,
+            "end": 14.441
+          },
+          {
+            "word": "monetary ",
+            "start": 14.452,
+            "end": 14.799
+          },
+          {
+            "word": "policy ",
+            "start": 14.81,
+            "end": 15.18
+          },
+          {
+            "word": "to ",
+            "start": 15.191,
+            "end": 15.299
+          },
+          {
+            "word": "address ",
+            "start": 15.31,
+            "end": 15.636
+          },
+          {
+            "word": "a ",
+            "start": 15.647,
+            "end": 15.691
+          },
+          {
+            "word": "financial ",
+            "start": 15.702,
+            "end": 16.223
+          },
+          {
+            "word": "crisis ",
+            "start": 16.234,
+            "end": 16.626
+          },
+          {
+            "word": "rather ",
+            "start": 16.636,
+            "end": 16.93
+          },
+          {
+            "word": "than ",
+            "start": 16.941,
+            "end": 17.049
+          },
+          {
+            "word": "an ",
+            "start": 17.06,
+            "end": 17.147
+          },
+          {
+            "word": "economic ",
+            "start": 17.158,
+            "end": 17.593
+          },
+          {
+            "word": "slowdown.",
+            "start": 17.604,
+            "end": 18.191
+          }
+        ],
+        "start": 1906
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep9_solutions_4",
+        "audio_exists": true,
+        "audioPath": "episodes/ep9/audio/ep9_solutions_4.wav",
+        "text": "Congress held hearings. Proposals for hedge fund regulation circulated. The President's Working Group on Financial Markets recommended greater transparency in derivatives markets. The recommendations were not implemented. The crisis passed quickly enough that the political urgency dissipated before the regulatory urgency could be translated into law.",
+        "duration": 612,
+        "bgImage": "bg_imf_meeting.jpg",
+        "wordTimings": [
+          {
+            "word": "Congress ",
+            "start": 0.1,
+            "end": 0.534
+          },
+          {
+            "word": "held ",
+            "start": 0.545,
+            "end": 0.784
+          },
+          {
+            "word": "hearings. ",
+            "start": 0.795,
+            "end": 1.349
+          },
+          {
+            "word": "Proposals ",
+            "start": 2.093,
+            "end": 2.636
+          },
+          {
+            "word": "for ",
+            "start": 2.647,
+            "end": 2.723
+          },
+          {
+            "word": "hedge ",
+            "start": 2.734,
+            "end": 2.984
+          },
+          {
+            "word": "fund ",
+            "start": 2.995,
+            "end": 3.245
+          },
+          {
+            "word": "regulation ",
+            "start": 3.256,
+            "end": 3.81
+          },
+          {
+            "word": "circulated. ",
+            "start": 3.821,
+            "end": 4.506
+          },
+          {
+            "word": "The ",
+            "start": 5.256,
+            "end": 5.397
+          },
+          {
+            "word": "President's ",
+            "start": 5.408,
+            "end": 5.821
+          },
+          {
+            "word": "Working ",
+            "start": 5.832,
+            "end": 6.169
+          },
+          {
+            "word": "Group ",
+            "start": 6.18,
+            "end": 6.419
+          },
+          {
+            "word": "on ",
+            "start": 6.43,
+            "end": 6.571
+          },
+          {
+            "word": "Financial ",
+            "start": 6.582,
+            "end": 7.082
+          },
+          {
+            "word": "Markets ",
+            "start": 7.093,
+            "end": 7.452
+          },
+          {
+            "word": "recommended ",
+            "start": 7.463,
+            "end": 7.941
+          },
+          {
+            "word": "greater ",
+            "start": 7.952,
+            "end": 8.278
+          },
+          {
+            "word": "transparency ",
+            "start": 8.289,
+            "end": 9.006
+          },
+          {
+            "word": "in ",
+            "start": 9.017,
+            "end": 9.158
+          },
+          {
+            "word": "derivatives ",
+            "start": 9.169,
+            "end": 9.636
+          },
+          {
+            "word": "markets. ",
+            "start": 9.647,
+            "end": 10.213
+          },
+          {
+            "word": "The ",
+            "start": 10.963,
+            "end": 11.104
+          },
+          {
+            "word": "recommendations ",
+            "start": 11.115,
+            "end": 11.821
+          },
+          {
+            "word": "were ",
+            "start": 11.832,
+            "end": 11.919
+          },
+          {
+            "word": "not ",
+            "start": 11.93,
+            "end": 12.169
+          },
+          {
+            "word": "implemented. ",
+            "start": 12.18,
+            "end": 12.789
+          },
+          {
+            "word": "The ",
+            "start": 13.539,
+            "end": 13.658
+          },
+          {
+            "word": "crisis ",
+            "start": 13.669,
+            "end": 14.06
+          },
+          {
+            "word": "passed ",
+            "start": 14.071,
+            "end": 14.365
+          },
+          {
+            "word": "quickly ",
+            "start": 14.376,
+            "end": 14.669
+          },
+          {
+            "word": "enough ",
+            "start": 14.68,
+            "end": 14.93
+          },
+          {
+            "word": "that ",
+            "start": 14.941,
+            "end": 15.039
+          },
+          {
+            "word": "the ",
+            "start": 15.05,
+            "end": 15.126
+          },
+          {
+            "word": "political ",
+            "start": 15.136,
+            "end": 15.571
+          },
+          {
+            "word": "urgency ",
+            "start": 15.582,
+            "end": 15.973
+          },
+          {
+            "word": "dissipated ",
+            "start": 15.984,
+            "end": 16.484
+          },
+          {
+            "word": "before ",
+            "start": 16.495,
+            "end": 16.734
+          },
+          {
+            "word": "the ",
+            "start": 16.745,
+            "end": 16.843
+          },
+          {
+            "word": "regulatory ",
+            "start": 16.854,
+            "end": 17.419
+          },
+          {
+            "word": "urgency ",
+            "start": 17.43,
+            "end": 17.854
+          },
+          {
+            "word": "could ",
+            "start": 17.865,
+            "end": 18.017
+          },
+          {
+            "word": "be ",
+            "start": 18.028,
+            "end": 18.115
+          },
+          {
+            "word": "translated ",
+            "start": 18.126,
+            "end": 18.68
+          },
+          {
+            "word": "into ",
+            "start": 18.691,
+            "end": 18.908
+          },
+          {
+            "word": "law.",
+            "start": 18.919,
+            "end": 19.245
+          }
+        ],
+        "start": 2487
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep9_solutions_5",
+        "audio_exists": true,
+        "audioPath": "episodes/ep9/audio/ep9_solutions_5.wav",
+        "text": "The LTCM resolution was declared a success: no public money spent, systemic crisis averted, orderly unwind achieved. This success was its own danger. The message received by financial institutions was that extreme leverage and opacity were manageable risks because the Federal Reserve would coordinate a solution in a crisis. The lesson that should have been drawn was not drawn.",
+        "duration": 640,
+        "bgImage": "bg_fed_building.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.252
+          },
+          {
+            "word": "LTCM ",
+            "start": 0.263,
+            "end": 0.936
+          },
+          {
+            "word": "resolution ",
+            "start": 0.947,
+            "end": 1.469
+          },
+          {
+            "word": "was ",
+            "start": 1.48,
+            "end": 1.589
+          },
+          {
+            "word": "declared ",
+            "start": 1.6,
+            "end": 1.936
+          },
+          {
+            "word": "a ",
+            "start": 1.947,
+            "end": 1.991
+          },
+          {
+            "word": "success: ",
+            "start": 2.002,
+            "end": 2.513
+          },
+          {
+            "word": "no ",
+            "start": 2.654,
+            "end": 2.882
+          },
+          {
+            "word": "public ",
+            "start": 2.893,
+            "end": 3.219
+          },
+          {
+            "word": "money ",
+            "start": 3.23,
+            "end": 3.447
+          },
+          {
+            "word": "spent, ",
+            "start": 3.458,
+            "end": 3.773
+          },
+          {
+            "word": "systemic ",
+            "start": 3.947,
+            "end": 4.328
+          },
+          {
+            "word": "crisis ",
+            "start": 4.339,
+            "end": 4.741
+          },
+          {
+            "word": "averted, ",
+            "start": 4.752,
+            "end": 5.186
+          },
+          {
+            "word": "orderly ",
+            "start": 5.382,
+            "end": 5.686
+          },
+          {
+            "word": "unwind ",
+            "start": 5.697,
+            "end": 6.121
+          },
+          {
+            "word": "achieved. ",
+            "start": 6.132,
+            "end": 6.654
+          },
+          {
+            "word": "This ",
+            "start": 7.397,
+            "end": 7.615
+          },
+          {
+            "word": "success ",
+            "start": 7.626,
+            "end": 8.017
+          },
+          {
+            "word": "was ",
+            "start": 8.028,
+            "end": 8.147
+          },
+          {
+            "word": "its ",
+            "start": 8.158,
+            "end": 8.289
+          },
+          {
+            "word": "own ",
+            "start": 8.3,
+            "end": 8.484
+          },
+          {
+            "word": "danger. ",
+            "start": 8.495,
+            "end": 8.952
+          },
+          {
+            "word": "The ",
+            "start": 9.702,
+            "end": 9.821
+          },
+          {
+            "word": "message ",
+            "start": 9.832,
+            "end": 10.126
+          },
+          {
+            "word": "received ",
+            "start": 10.136,
+            "end": 10.539
+          },
+          {
+            "word": "by ",
+            "start": 10.55,
+            "end": 10.68
+          },
+          {
+            "word": "financial ",
+            "start": 10.691,
+            "end": 11.202
+          },
+          {
+            "word": "institutions ",
+            "start": 11.213,
+            "end": 11.832
+          },
+          {
+            "word": "was ",
+            "start": 11.843,
+            "end": 11.963
+          },
+          {
+            "word": "that ",
+            "start": 11.973,
+            "end": 12.115
+          },
+          {
+            "word": "extreme ",
+            "start": 12.126,
+            "end": 12.517
+          },
+          {
+            "word": "leverage ",
+            "start": 12.528,
+            "end": 12.963
+          },
+          {
+            "word": "and ",
+            "start": 12.973,
+            "end": 13.049
+          },
+          {
+            "word": "opacity ",
+            "start": 13.06,
+            "end": 13.506
+          },
+          {
+            "word": "were ",
+            "start": 13.517,
+            "end": 13.615
+          },
+          {
+            "word": "manageable ",
+            "start": 13.626,
+            "end": 14.082
+          },
+          {
+            "word": "risks ",
+            "start": 14.093,
+            "end": 14.408
+          },
+          {
+            "word": "because ",
+            "start": 14.419,
+            "end": 14.626
+          },
+          {
+            "word": "the ",
+            "start": 14.636,
+            "end": 14.713
+          },
+          {
+            "word": "Federal ",
+            "start": 14.723,
+            "end": 15.017
+          },
+          {
+            "word": "Reserve ",
+            "start": 15.028,
+            "end": 15.397
+          },
+          {
+            "word": "would ",
+            "start": 15.408,
+            "end": 15.528
+          },
+          {
+            "word": "coordinate ",
+            "start": 15.539,
+            "end": 16.071
+          },
+          {
+            "word": "a ",
+            "start": 16.082,
+            "end": 16.136
+          },
+          {
+            "word": "solution ",
+            "start": 16.147,
+            "end": 16.571
+          },
+          {
+            "word": "in ",
+            "start": 16.582,
+            "end": 16.647
+          },
+          {
+            "word": "a ",
+            "start": 16.658,
+            "end": 16.702
+          },
+          {
+            "word": "crisis. ",
+            "start": 16.713,
+            "end": 17.321
+          },
+          {
+            "word": "The ",
+            "start": 18.071,
+            "end": 18.202
+          },
+          {
+            "word": "lesson ",
+            "start": 18.213,
+            "end": 18.506
+          },
+          {
+            "word": "that ",
+            "start": 18.517,
+            "end": 18.647
+          },
+          {
+            "word": "should ",
+            "start": 18.658,
+            "end": 18.789
+          },
+          {
+            "word": "have ",
+            "start": 18.8,
+            "end": 18.876
+          },
+          {
+            "word": "been ",
+            "start": 18.886,
+            "end": 19.017
+          },
+          {
+            "word": "drawn ",
+            "start": 19.028,
+            "end": 19.3
+          },
+          {
+            "word": "was ",
+            "start": 19.31,
+            "end": 19.473
+          },
+          {
+            "word": "not ",
+            "start": 19.484,
+            "end": 19.691
+          },
+          {
+            "word": "drawn.",
+            "start": 19.702,
+            "end": 20.136
+          }
+        ],
+        "start": 3099
+      }
+    ]
+  },
+  {
+    "id": "ep9_results",
+    "title": "Results",
+    "globalStart": 12031,
+    "duration": 3916,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Results"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep9_results_0",
+        "audio_exists": true,
+        "audioPath": "episodes/ep9/audio/ep9_results_0.wav",
+        "text": "LTCM was wound down by 2000. Its investors lost ninety cents on the dollar. The fund that had made four hundred million dollars in fees in 1997 had destroyed four billion dollars in value by the time it closed. Its principals started new funds using similar strategies. The industry concluded the problem had been bad luck, not bad models.",
+        "duration": 638,
+        "bgImage": "bg_wallstreet.jpg",
+        "wordTimings": [
+          {
+            "word": "LTCM ",
+            "start": 0.1,
+            "end": 0.828
+          },
+          {
+            "word": "was ",
+            "start": 0.839,
+            "end": 0.958
+          },
+          {
+            "word": "wound ",
+            "start": 0.969,
+            "end": 1.219
+          },
+          {
+            "word": "down ",
+            "start": 1.23,
+            "end": 1.436
+          },
+          {
+            "word": "by 2000. ",
+            "start": 1.447,
+            "end": 2.382
+          },
+          {
+            "word": "Its ",
+            "start": 3.126,
+            "end": 3.332
+          },
+          {
+            "word": "investors ",
+            "start": 3.343,
+            "end": 3.81
+          },
+          {
+            "word": "lost ",
+            "start": 3.821,
+            "end": 4.093
+          },
+          {
+            "word": "ninety ",
+            "start": 4.104,
+            "end": 4.386
+          },
+          {
+            "word": "cents ",
+            "start": 4.397,
+            "end": 4.68
+          },
+          {
+            "word": "on ",
+            "start": 4.691,
+            "end": 4.778
+          },
+          {
+            "word": "the ",
+            "start": 4.789,
+            "end": 4.854
+          },
+          {
+            "word": "dollar. ",
+            "start": 4.865,
+            "end": 5.223
+          },
+          {
+            "word": "The ",
+            "start": 5.973,
+            "end": 6.093
+          },
+          {
+            "word": "fund ",
+            "start": 6.104,
+            "end": 6.321
+          },
+          {
+            "word": "that ",
+            "start": 6.332,
+            "end": 6.43
+          },
+          {
+            "word": "had ",
+            "start": 6.441,
+            "end": 6.56
+          },
+          {
+            "word": "made ",
+            "start": 6.571,
+            "end": 6.821
+          },
+          {
+            "word": "four ",
+            "start": 6.832,
+            "end": 7.017
+          },
+          {
+            "word": "hundred ",
+            "start": 7.028,
+            "end": 7.3
+          },
+          {
+            "word": "million ",
+            "start": 7.31,
+            "end": 7.636
+          },
+          {
+            "word": "dollars ",
+            "start": 7.647,
+            "end": 7.93
+          },
+          {
+            "word": "in ",
+            "start": 7.941,
+            "end": 8.049
+          },
+          {
+            "word": "fees ",
+            "start": 8.06,
+            "end": 8.332
+          },
+          {
+            "word": "in 1997 ",
+            "start": 8.343,
+            "end": 9.376
+          },
+          {
+            "word": "had ",
+            "start": 9.386,
+            "end": 9.506
+          },
+          {
+            "word": "destroyed ",
+            "start": 9.517,
+            "end": 9.93
+          },
+          {
+            "word": "four ",
+            "start": 9.941,
+            "end": 10.06
+          },
+          {
+            "word": "billion ",
+            "start": 10.071,
+            "end": 10.408
+          },
+          {
+            "word": "dollars ",
+            "start": 10.419,
+            "end": 10.702
+          },
+          {
+            "word": "in ",
+            "start": 10.713,
+            "end": 10.81
+          },
+          {
+            "word": "value ",
+            "start": 10.821,
+            "end": 11.147
+          },
+          {
+            "word": "by ",
+            "start": 11.158,
+            "end": 11.31
+          },
+          {
+            "word": "the ",
+            "start": 11.321,
+            "end": 11.408
+          },
+          {
+            "word": "time ",
+            "start": 11.419,
+            "end": 11.658
+          },
+          {
+            "word": "it ",
+            "start": 11.669,
+            "end": 11.745
+          },
+          {
+            "word": "closed. ",
+            "start": 11.756,
+            "end": 12.256
+          },
+          {
+            "word": "Its ",
+            "start": 13.006,
+            "end": 13.202
+          },
+          {
+            "word": "principals ",
+            "start": 13.213,
+            "end": 13.68
+          },
+          {
+            "word": "started ",
+            "start": 13.691,
+            "end": 14.06
+          },
+          {
+            "word": "new ",
+            "start": 14.071,
+            "end": 14.278
+          },
+          {
+            "word": "funds ",
+            "start": 14.289,
+            "end": 14.658
+          },
+          {
+            "word": "using ",
+            "start": 14.669,
+            "end": 14.963
+          },
+          {
+            "word": "similar ",
+            "start": 14.973,
+            "end": 15.31
+          },
+          {
+            "word": "strategies. ",
+            "start": 15.321,
+            "end": 15.941
+          },
+          {
+            "word": "The ",
+            "start": 16.691,
+            "end": 16.832
+          },
+          {
+            "word": "industry ",
+            "start": 16.843,
+            "end": 17.245
+          },
+          {
+            "word": "concluded ",
+            "start": 17.256,
+            "end": 17.734
+          },
+          {
+            "word": "the ",
+            "start": 17.745,
+            "end": 17.81
+          },
+          {
+            "word": "problem ",
+            "start": 17.821,
+            "end": 18.147
+          },
+          {
+            "word": "had ",
+            "start": 18.158,
+            "end": 18.289
+          },
+          {
+            "word": "been ",
+            "start": 18.3,
+            "end": 18.43
+          },
+          {
+            "word": "bad ",
+            "start": 18.441,
+            "end": 18.691
+          },
+          {
+            "word": "luck, ",
+            "start": 18.702,
+            "end": 18.973
+          },
+          {
+            "word": "not ",
+            "start": 19.104,
+            "end": 19.343
+          },
+          {
+            "word": "bad ",
+            "start": 19.354,
+            "end": 19.571
+          },
+          {
+            "word": "models.",
+            "start": 19.582,
+            "end": 20.093
+          }
+        ],
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep9_results_1",
+        "audio_exists": true,
+        "audioPath": "episodes/ep9/audio/ep9_results_1.wav",
+        "text": "The broader financial system recovered quickly. By early 1999, markets had stabilised and the technology bubble was in full expansion. The memory of the crisis faded rapidly. The rapid recovery was precisely the problem — it removed the urgency to reform the conditions that had created the crisis.",
+        "duration": 528,
+        "bgImage": "bg_recovery.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "broader ",
+            "start": 0.241,
+            "end": 0.545
+          },
+          {
+            "word": "financial ",
+            "start": 0.556,
+            "end": 1.056
+          },
+          {
+            "word": "system ",
+            "start": 1.067,
+            "end": 1.426
+          },
+          {
+            "word": "recovered ",
+            "start": 1.436,
+            "end": 1.806
+          },
+          {
+            "word": "quickly. ",
+            "start": 1.817,
+            "end": 2.208
+          },
+          {
+            "word": "By ",
+            "start": 2.952,
+            "end": 3.169
+          },
+          {
+            "word": "early ",
+            "start": 3.18,
+            "end": 3.386
+          },
+          {
+            "word": "1999, ",
+            "start": 3.397,
+            "end": 4.332
+          },
+          {
+            "word": "markets ",
+            "start": 4.463,
+            "end": 4.81
+          },
+          {
+            "word": "had ",
+            "start": 4.821,
+            "end": 4.941
+          },
+          {
+            "word": "stabilised ",
+            "start": 4.952,
+            "end": 5.528
+          },
+          {
+            "word": "and ",
+            "start": 5.539,
+            "end": 5.626
+          },
+          {
+            "word": "the ",
+            "start": 5.636,
+            "end": 5.713
+          },
+          {
+            "word": "technology ",
+            "start": 5.723,
+            "end": 6.234
+          },
+          {
+            "word": "bubble ",
+            "start": 6.245,
+            "end": 6.539
+          },
+          {
+            "word": "was ",
+            "start": 6.55,
+            "end": 6.68
+          },
+          {
+            "word": "in ",
+            "start": 6.691,
+            "end": 6.789
+          },
+          {
+            "word": "full ",
+            "start": 6.8,
+            "end": 6.995
+          },
+          {
+            "word": "expansion. ",
+            "start": 7.006,
+            "end": 7.593
+          },
+          {
+            "word": "The ",
+            "start": 8.343,
+            "end": 8.473
+          },
+          {
+            "word": "memory ",
+            "start": 8.484,
+            "end": 8.821
+          },
+          {
+            "word": "of ",
+            "start": 8.832,
+            "end": 8.897
+          },
+          {
+            "word": "the ",
+            "start": 8.908,
+            "end": 8.984
+          },
+          {
+            "word": "crisis ",
+            "start": 8.995,
+            "end": 9.408
+          },
+          {
+            "word": "faded ",
+            "start": 9.419,
+            "end": 9.745
+          },
+          {
+            "word": "rapidly. ",
+            "start": 9.756,
+            "end": 10.234
+          },
+          {
+            "word": "The ",
+            "start": 10.984,
+            "end": 11.115
+          },
+          {
+            "word": "rapid ",
+            "start": 11.126,
+            "end": 11.419
+          },
+          {
+            "word": "recovery ",
+            "start": 11.43,
+            "end": 11.821
+          },
+          {
+            "word": "was ",
+            "start": 11.832,
+            "end": 11.973
+          },
+          {
+            "word": "precisely ",
+            "start": 11.984,
+            "end": 12.517
+          },
+          {
+            "word": "the ",
+            "start": 12.528,
+            "end": 12.615
+          },
+          {
+            "word": "problem — ",
+            "start": 12.626,
+            "end": 12.973
+          },
+          {
+            "word": "it ",
+            "start": 13.158,
+            "end": 13.234
+          },
+          {
+            "word": "removed ",
+            "start": 13.245,
+            "end": 13.615
+          },
+          {
+            "word": "the ",
+            "start": 13.626,
+            "end": 13.723
+          },
+          {
+            "word": "urgency ",
+            "start": 13.734,
+            "end": 14.115
+          },
+          {
+            "word": "to ",
+            "start": 14.126,
+            "end": 14.223
+          },
+          {
+            "word": "reform ",
+            "start": 14.234,
+            "end": 14.604
+          },
+          {
+            "word": "the ",
+            "start": 14.615,
+            "end": 14.669
+          },
+          {
+            "word": "conditions ",
+            "start": 14.68,
+            "end": 15.147
+          },
+          {
+            "word": "that ",
+            "start": 15.158,
+            "end": 15.256
+          },
+          {
+            "word": "had ",
+            "start": 15.267,
+            "end": 15.376
+          },
+          {
+            "word": "created ",
+            "start": 15.386,
+            "end": 15.756
+          },
+          {
+            "word": "the ",
+            "start": 15.767,
+            "end": 15.821
+          },
+          {
+            "word": "crisis.",
+            "start": 15.832,
+            "end": 16.419
+          }
+        ],
+        "start": 728
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep9_results_2",
+        "audio_exists": true,
+        "audioPath": "episodes/ep9/audio/ep9_results_2.wav",
+        "text": "The phrase 'too big to fail' — previously applied to industrial companies — entered the vocabulary of finance. Systemic risk was acknowledged as a real phenomenon: an institution could be dangerous to the entire financial system not because of its own size but because of its interconnections with others.",
+        "duration": 471,
+        "bgImage": "bg_interest_chart.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.219
+          },
+          {
+            "word": "phrase '",
+            "start": 0.23,
+            "end": 0.567
+          },
+          {
+            "word": "too ",
+            "start": 0.654,
+            "end": 0.839
+          },
+          {
+            "word": "big ",
+            "start": 0.85,
+            "end": 1.034
+          },
+          {
+            "word": "to ",
+            "start": 1.045,
+            "end": 1.121
+          },
+          {
+            "word": "fail' — ",
+            "start": 1.132,
+            "end": 1.469
+          },
+          {
+            "word": "previously ",
+            "start": 1.643,
+            "end": 2.132
+          },
+          {
+            "word": "applied ",
+            "start": 2.143,
+            "end": 2.469
+          },
+          {
+            "word": "to ",
+            "start": 2.48,
+            "end": 2.578
+          },
+          {
+            "word": "industrial ",
+            "start": 2.589,
+            "end": 3.1
+          },
+          {
+            "word": "companies — ",
+            "start": 3.11,
+            "end": 3.578
+          },
+          {
+            "word": "entered ",
+            "start": 3.763,
+            "end": 3.98
+          },
+          {
+            "word": "the ",
+            "start": 3.991,
+            "end": 4.045
+          },
+          {
+            "word": "vocabulary ",
+            "start": 4.056,
+            "end": 4.599
+          },
+          {
+            "word": "of ",
+            "start": 4.61,
+            "end": 4.697
+          },
+          {
+            "word": "finance. ",
+            "start": 4.708,
+            "end": 5.349
+          },
+          {
+            "word": "Systemic ",
+            "start": 6.093,
+            "end": 6.582
+          },
+          {
+            "word": "risk ",
+            "start": 6.593,
+            "end": 6.865
+          },
+          {
+            "word": "was ",
+            "start": 6.876,
+            "end": 6.995
+          },
+          {
+            "word": "acknowledged ",
+            "start": 7.006,
+            "end": 7.419
+          },
+          {
+            "word": "as ",
+            "start": 7.43,
+            "end": 7.549
+          },
+          {
+            "word": "a ",
+            "start": 7.56,
+            "end": 7.626
+          },
+          {
+            "word": "real ",
+            "start": 7.636,
+            "end": 7.973
+          },
+          {
+            "word": "phenomenon: ",
+            "start": 7.984,
+            "end": 8.441
+          },
+          {
+            "word": "an ",
+            "start": 8.604,
+            "end": 8.669
+          },
+          {
+            "word": "institution ",
+            "start": 8.68,
+            "end": 9.289
+          },
+          {
+            "word": "could ",
+            "start": 9.3,
+            "end": 9.452
+          },
+          {
+            "word": "be ",
+            "start": 9.463,
+            "end": 9.539
+          },
+          {
+            "word": "dangerous ",
+            "start": 9.55,
+            "end": 9.984
+          },
+          {
+            "word": "to ",
+            "start": 9.995,
+            "end": 10.071
+          },
+          {
+            "word": "the ",
+            "start": 10.082,
+            "end": 10.18
+          },
+          {
+            "word": "entire ",
+            "start": 10.191,
+            "end": 10.604
+          },
+          {
+            "word": "financial ",
+            "start": 10.615,
+            "end": 11.093
+          },
+          {
+            "word": "system ",
+            "start": 11.104,
+            "end": 11.441
+          },
+          {
+            "word": "not ",
+            "start": 11.452,
+            "end": 11.636
+          },
+          {
+            "word": "because ",
+            "start": 11.647,
+            "end": 11.843
+          },
+          {
+            "word": "of ",
+            "start": 11.854,
+            "end": 11.93
+          },
+          {
+            "word": "its ",
+            "start": 11.941,
+            "end": 12.071
+          },
+          {
+            "word": "own ",
+            "start": 12.082,
+            "end": 12.3
+          },
+          {
+            "word": "size ",
+            "start": 12.31,
+            "end": 12.702
+          },
+          {
+            "word": "but ",
+            "start": 12.713,
+            "end": 12.832
+          },
+          {
+            "word": "because ",
+            "start": 12.843,
+            "end": 13.049
+          },
+          {
+            "word": "of ",
+            "start": 13.06,
+            "end": 13.126
+          },
+          {
+            "word": "its ",
+            "start": 13.136,
+            "end": 13.267
+          },
+          {
+            "word": "interconnections ",
+            "start": 13.278,
+            "end": 14.017
+          },
+          {
+            "word": "with ",
+            "start": 14.028,
+            "end": 14.147
+          },
+          {
+            "word": "others.",
+            "start": 14.158,
+            "end": 14.539
+          }
+        ],
+        "start": 1256
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep9_results_3",
+        "audio_exists": true,
+        "audioPath": "episodes/ep9/audio/ep9_results_3.wav",
+        "text": "The regulatory legacy was almost nonexistent. Derivatives remained opaque. Leverage limits were not imposed. Hedge fund transparency was not required. The models that had failed at LTCM — Value-at-Risk, normal distribution assumptions — remained the industry standard for measuring risk at every major bank. The 2008 crisis would demonstrate the cost of this failure.",
+        "duration": 694,
+        "bgImage": "bg_city_night.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "regulatory ",
+            "start": 0.241,
+            "end": 0.795
+          },
+          {
+            "word": "legacy ",
+            "start": 0.806,
+            "end": 1.197
+          },
+          {
+            "word": "was ",
+            "start": 1.208,
+            "end": 1.36
+          },
+          {
+            "word": "almost ",
+            "start": 1.371,
+            "end": 1.697
+          },
+          {
+            "word": "nonexistent. ",
+            "start": 1.708,
+            "end": 2.415
+          },
+          {
+            "word": "Derivatives ",
+            "start": 3.158,
+            "end": 3.691
+          },
+          {
+            "word": "remained ",
+            "start": 3.702,
+            "end": 4.017
+          },
+          {
+            "word": "opaque. ",
+            "start": 4.028,
+            "end": 4.452
+          },
+          {
+            "word": "Leverage ",
+            "start": 5.202,
+            "end": 5.669
+          },
+          {
+            "word": "limits ",
+            "start": 5.68,
+            "end": 5.973
+          },
+          {
+            "word": "were ",
+            "start": 5.984,
+            "end": 6.082
+          },
+          {
+            "word": "not ",
+            "start": 6.093,
+            "end": 6.321
+          },
+          {
+            "word": "imposed. ",
+            "start": 6.332,
+            "end": 6.93
+          },
+          {
+            "word": "Hedge ",
+            "start": 7.68,
+            "end": 7.93
+          },
+          {
+            "word": "fund ",
+            "start": 7.941,
+            "end": 8.18
+          },
+          {
+            "word": "transparency ",
+            "start": 8.191,
+            "end": 8.854
+          },
+          {
+            "word": "was ",
+            "start": 8.865,
+            "end": 9.049
+          },
+          {
+            "word": "not ",
+            "start": 9.06,
+            "end": 9.3
+          },
+          {
+            "word": "required. ",
+            "start": 9.31,
+            "end": 9.886
+          },
+          {
+            "word": "The ",
+            "start": 10.636,
+            "end": 10.767
+          },
+          {
+            "word": "models ",
+            "start": 10.778,
+            "end": 11.093
+          },
+          {
+            "word": "that ",
+            "start": 11.104,
+            "end": 11.223
+          },
+          {
+            "word": "had ",
+            "start": 11.234,
+            "end": 11.365
+          },
+          {
+            "word": "failed ",
+            "start": 11.376,
+            "end": 11.691
+          },
+          {
+            "word": "at ",
+            "start": 11.702,
+            "end": 11.799
+          },
+          {
+            "word": "LTCM — ",
+            "start": 11.81,
+            "end": 12.582
+          },
+          {
+            "word": "Value-at-Risk, ",
+            "start": 12.745,
+            "end": 13.517
+          },
+          {
+            "word": "normal ",
+            "start": 13.691,
+            "end": 14.006
+          },
+          {
+            "word": "distribution ",
+            "start": 14.017,
+            "end": 14.571
+          },
+          {
+            "word": "assumptions — ",
+            "start": 14.582,
+            "end": 15.136
+          },
+          {
+            "word": "remained ",
+            "start": 15.332,
+            "end": 15.636
+          },
+          {
+            "word": "the ",
+            "start": 15.647,
+            "end": 15.713
+          },
+          {
+            "word": "industry ",
+            "start": 15.723,
+            "end": 16.115
+          },
+          {
+            "word": "standard ",
+            "start": 16.126,
+            "end": 16.495
+          },
+          {
+            "word": "for ",
+            "start": 16.506,
+            "end": 16.582
+          },
+          {
+            "word": "measuring ",
+            "start": 16.593,
+            "end": 16.963
+          },
+          {
+            "word": "risk ",
+            "start": 16.973,
+            "end": 17.213
+          },
+          {
+            "word": "at ",
+            "start": 17.223,
+            "end": 17.321
+          },
+          {
+            "word": "every ",
+            "start": 17.332,
+            "end": 17.539
+          },
+          {
+            "word": "major ",
+            "start": 17.55,
+            "end": 17.832
+          },
+          {
+            "word": "bank. ",
+            "start": 17.843,
+            "end": 18.234
+          },
+          {
+            "word": "The ",
+            "start": 18.984,
+            "end": 19.115
+          },
+          {
+            "word": "2008 ",
+            "start": 19.126,
+            "end": 19.843
+          },
+          {
+            "word": "crisis ",
+            "start": 19.854,
+            "end": 20.234
+          },
+          {
+            "word": "would ",
+            "start": 20.245,
+            "end": 20.386
+          },
+          {
+            "word": "demonstrate ",
+            "start": 20.397,
+            "end": 20.854
+          },
+          {
+            "word": "the ",
+            "start": 20.865,
+            "end": 20.93
+          },
+          {
+            "word": "cost ",
+            "start": 20.941,
+            "end": 21.223
+          },
+          {
+            "word": "of ",
+            "start": 21.234,
+            "end": 21.31
+          },
+          {
+            "word": "this ",
+            "start": 21.321,
+            "end": 21.495
+          },
+          {
+            "word": "failure.",
+            "start": 21.506,
+            "end": 21.941
+          }
+        ],
+        "start": 1727
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep9_results_4",
+        "audio_exists": true,
+        "audioPath": "episodes/ep9/audio/ep9_results_4.wav",
+        "text": "What the world should have learned: mathematical sophistication is not risk management. Leverage can destroy institutions that are correct about the direction of markets but wrong about the timing. The regulatory frameworks built for transparent, exchange-traded securities are inadequate for opaque, bilaterally negotiated derivatives.",
+        "duration": 541,
+        "bgImage": "bg_wallstreet.jpg",
+        "wordTimings": [
+          {
+            "word": "What ",
+            "start": 0.1,
+            "end": 0.306
+          },
+          {
+            "word": "the ",
+            "start": 0.317,
+            "end": 0.382
+          },
+          {
+            "word": "world ",
+            "start": 0.393,
+            "end": 0.719
+          },
+          {
+            "word": "should ",
+            "start": 0.73,
+            "end": 0.86
+          },
+          {
+            "word": "have ",
+            "start": 0.871,
+            "end": 0.958
+          },
+          {
+            "word": "learned: ",
+            "start": 0.969,
+            "end": 1.306
+          },
+          {
+            "word": "mathematical ",
+            "start": 1.469,
+            "end": 2.056
+          },
+          {
+            "word": "sophistication ",
+            "start": 2.067,
+            "end": 2.741
+          },
+          {
+            "word": "is ",
+            "start": 2.752,
+            "end": 2.882
+          },
+          {
+            "word": "not ",
+            "start": 2.893,
+            "end": 3.121
+          },
+          {
+            "word": "risk ",
+            "start": 3.132,
+            "end": 3.36
+          },
+          {
+            "word": "management. ",
+            "start": 3.371,
+            "end": 3.915
+          },
+          {
+            "word": "Leverage ",
+            "start": 4.658,
+            "end": 5.136
+          },
+          {
+            "word": "can ",
+            "start": 5.147,
+            "end": 5.267
+          },
+          {
+            "word": "destroy ",
+            "start": 5.278,
+            "end": 5.647
+          },
+          {
+            "word": "institutions ",
+            "start": 5.658,
+            "end": 6.289
+          },
+          {
+            "word": "that ",
+            "start": 6.3,
+            "end": 6.441
+          },
+          {
+            "word": "are ",
+            "start": 6.452,
+            "end": 6.484
+          },
+          {
+            "word": "correct ",
+            "start": 6.495,
+            "end": 6.843
+          },
+          {
+            "word": "about ",
+            "start": 6.854,
+            "end": 7.06
+          },
+          {
+            "word": "the ",
+            "start": 7.071,
+            "end": 7.147
+          },
+          {
+            "word": "direction ",
+            "start": 7.158,
+            "end": 7.582
+          },
+          {
+            "word": "of ",
+            "start": 7.593,
+            "end": 7.669
+          },
+          {
+            "word": "markets ",
+            "start": 7.68,
+            "end": 8.071
+          },
+          {
+            "word": "but ",
+            "start": 8.082,
+            "end": 8.256
+          },
+          {
+            "word": "wrong ",
+            "start": 8.267,
+            "end": 8.452
+          },
+          {
+            "word": "about ",
+            "start": 8.463,
+            "end": 8.691
+          },
+          {
+            "word": "the ",
+            "start": 8.702,
+            "end": 8.767
+          },
+          {
+            "word": "timing. ",
+            "start": 8.778,
+            "end": 9.245
+          },
+          {
+            "word": "The ",
+            "start": 9.995,
+            "end": 10.126
+          },
+          {
+            "word": "regulatory ",
+            "start": 10.136,
+            "end": 10.713
+          },
+          {
+            "word": "frameworks ",
+            "start": 10.723,
+            "end": 11.234
+          },
+          {
+            "word": "built ",
+            "start": 11.245,
+            "end": 11.484
+          },
+          {
+            "word": "for ",
+            "start": 11.495,
+            "end": 11.571
+          },
+          {
+            "word": "transparent, ",
+            "start": 11.582,
+            "end": 12.213
+          },
+          {
+            "word": "exchange-traded ",
+            "start": 12.397,
+            "end": 13.136
+          },
+          {
+            "word": "securities ",
+            "start": 13.147,
+            "end": 13.723
+          },
+          {
+            "word": "are ",
+            "start": 13.734,
+            "end": 13.854
+          },
+          {
+            "word": "inadequate ",
+            "start": 13.865,
+            "end": 14.343
+          },
+          {
+            "word": "for ",
+            "start": 14.354,
+            "end": 14.463
+          },
+          {
+            "word": "opaque, ",
+            "start": 14.473,
+            "end": 14.854
+          },
+          {
+            "word": "bilaterally ",
+            "start": 15.082,
+            "end": 15.56
+          },
+          {
+            "word": "negotiated ",
+            "start": 15.571,
+            "end": 16.234
+          },
+          {
+            "word": "derivatives.",
+            "start": 16.245,
+            "end": 16.865
+          }
+        ],
+        "start": 2421
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep9_results_5",
+        "audio_exists": true,
+        "audioPath": "episodes/ep9/audio/ep9_results_5.wav",
+        "text": "These lessons were articulated clearly in 1998. They were not applied until 2010, and only partially then. LTCM was a dress rehearsal for 2008. The audience watched the rehearsal, declared it a success, and forgot to change the script.",
+        "duration": 488,
+        "bgImage": "bg_recovery.jpg",
+        "wordTimings": [
+          {
+            "word": "These ",
+            "start": 0.1,
+            "end": 0.404
+          },
+          {
+            "word": "lessons ",
+            "start": 0.415,
+            "end": 0.763
+          },
+          {
+            "word": "were ",
+            "start": 0.773,
+            "end": 0.926
+          },
+          {
+            "word": "articulated ",
+            "start": 0.936,
+            "end": 1.545
+          },
+          {
+            "word": "clearly ",
+            "start": 1.556,
+            "end": 1.871
+          },
+          {
+            "word": "in 1998. ",
+            "start": 1.882,
+            "end": 2.991
+          },
+          {
+            "word": "They ",
+            "start": 3.734,
+            "end": 3.886
+          },
+          {
+            "word": "were ",
+            "start": 3.897,
+            "end": 3.995
+          },
+          {
+            "word": "not ",
+            "start": 4.006,
+            "end": 4.202
+          },
+          {
+            "word": "applied ",
+            "start": 4.213,
+            "end": 4.539
+          },
+          {
+            "word": "until 2010, ",
+            "start": 4.55,
+            "end": 5.441
+          },
+          {
+            "word": "and ",
+            "start": 5.604,
+            "end": 5.734
+          },
+          {
+            "word": "only ",
+            "start": 5.745,
+            "end": 5.952
+          },
+          {
+            "word": "partially ",
+            "start": 5.963,
+            "end": 6.386
+          },
+          {
+            "word": "then. ",
+            "start": 6.397,
+            "end": 6.734
+          },
+          {
+            "word": "LTCM ",
+            "start": 7.484,
+            "end": 8.202
+          },
+          {
+            "word": "was ",
+            "start": 8.213,
+            "end": 8.31
+          },
+          {
+            "word": "a ",
+            "start": 8.321,
+            "end": 8.386
+          },
+          {
+            "word": "dress ",
+            "start": 8.397,
+            "end": 8.658
+          },
+          {
+            "word": "rehearsal ",
+            "start": 8.669,
+            "end": 9.115
+          },
+          {
+            "word": "for ",
+            "start": 9.126,
+            "end": 9.213
+          },
+          {
+            "word": "2008. ",
+            "start": 9.223,
+            "end": 10.158
+          },
+          {
+            "word": "The ",
+            "start": 10.908,
+            "end": 11.049
+          },
+          {
+            "word": "audience ",
+            "start": 11.06,
+            "end": 11.484
+          },
+          {
+            "word": "watched ",
+            "start": 11.495,
+            "end": 11.799
+          },
+          {
+            "word": "the ",
+            "start": 11.81,
+            "end": 11.876
+          },
+          {
+            "word": "rehearsal, ",
+            "start": 11.886,
+            "end": 12.386
+          },
+          {
+            "word": "declared ",
+            "start": 12.517,
+            "end": 12.865
+          },
+          {
+            "word": "it ",
+            "start": 12.876,
+            "end": 12.952
+          },
+          {
+            "word": "a ",
+            "start": 12.963,
+            "end": 13.006
+          },
+          {
+            "word": "success, ",
+            "start": 13.017,
+            "end": 13.582
+          },
+          {
+            "word": "and ",
+            "start": 13.778,
+            "end": 13.865
+          },
+          {
+            "word": "forgot ",
+            "start": 13.876,
+            "end": 14.169
+          },
+          {
+            "word": "to ",
+            "start": 14.18,
+            "end": 14.245
+          },
+          {
+            "word": "change ",
+            "start": 14.256,
+            "end": 14.56
+          },
+          {
+            "word": "the ",
+            "start": 14.571,
+            "end": 14.647
+          },
+          {
+            "word": "script.",
+            "start": 14.658,
+            "end": 15.071
+          }
+        ],
+        "start": 2962
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep9_results_6",
+        "audio_exists": true,
+        "audioPath": "episodes/ep9/audio/ep9_results_6.wav",
+        "text": "LTCM's models had been built using data from the period before the Asian crisis (Episode 10) had fully resolved — which meant the correlation assumptions underpinning every position were calibrated on a market that no longer existed. The hedge against the last crisis is rarely the hedge for the next one.",
+        "duration": 466,
+        "bgImage": "bg_interest_chart.jpg",
+        "wordTimings": [
+          {
+            "word": "LTCM's ",
+            "start": 0.1,
+            "end": 0.817
+          },
+          {
+            "word": "models ",
+            "start": 0.828,
+            "end": 1.132
+          },
+          {
+            "word": "had ",
+            "start": 1.143,
+            "end": 1.263
+          },
+          {
+            "word": "been ",
+            "start": 1.273,
+            "end": 1.415
+          },
+          {
+            "word": "built ",
+            "start": 1.426,
+            "end": 1.665
+          },
+          {
+            "word": "using ",
+            "start": 1.676,
+            "end": 1.969
+          },
+          {
+            "word": "data ",
+            "start": 1.98,
+            "end": 2.284
+          },
+          {
+            "word": "from ",
+            "start": 2.295,
+            "end": 2.436
+          },
+          {
+            "word": "the ",
+            "start": 2.447,
+            "end": 2.513
+          },
+          {
+            "word": "period ",
+            "start": 2.523,
+            "end": 2.882
+          },
+          {
+            "word": "before ",
+            "start": 2.893,
+            "end": 3.132
+          },
+          {
+            "word": "the ",
+            "start": 3.143,
+            "end": 3.263
+          },
+          {
+            "word": "Asian ",
+            "start": 3.273,
+            "end": 3.534
+          },
+          {
+            "word": "crisis (",
+            "start": 3.545,
+            "end": 3.98
+          },
+          {
+            "word": "Episode ",
+            "start": 4.186,
+            "end": 4.567
+          },
+          {
+            "word": "10) ",
+            "start": 4.578,
+            "end": 4.86
+          },
+          {
+            "word": "had ",
+            "start": 5.078,
+            "end": 5.176
+          },
+          {
+            "word": "fully ",
+            "start": 5.186,
+            "end": 5.393
+          },
+          {
+            "word": "resolved — ",
+            "start": 5.404,
+            "end": 5.86
+          },
+          {
+            "word": "which ",
+            "start": 6.023,
+            "end": 6.154
+          },
+          {
+            "word": "meant ",
+            "start": 6.165,
+            "end": 6.339
+          },
+          {
+            "word": "the ",
+            "start": 6.35,
+            "end": 6.415
+          },
+          {
+            "word": "correlation ",
+            "start": 6.426,
+            "end": 6.893
+          },
+          {
+            "word": "assumptions ",
+            "start": 6.904,
+            "end": 7.404
+          },
+          {
+            "word": "underpinning ",
+            "start": 7.415,
+            "end": 7.86
+          },
+          {
+            "word": "every ",
+            "start": 7.871,
+            "end": 8.056
+          },
+          {
+            "word": "position ",
+            "start": 8.067,
+            "end": 8.436
+          },
+          {
+            "word": "were ",
+            "start": 8.447,
+            "end": 8.534
+          },
+          {
+            "word": "calibrated ",
+            "start": 8.545,
+            "end": 9.078
+          },
+          {
+            "word": "on ",
+            "start": 9.089,
+            "end": 9.176
+          },
+          {
+            "word": "a ",
+            "start": 9.186,
+            "end": 9.219
+          },
+          {
+            "word": "market ",
+            "start": 9.23,
+            "end": 9.61
+          },
+          {
+            "word": "that ",
+            "start": 9.621,
+            "end": 9.719
+          },
+          {
+            "word": "no ",
+            "start": 9.73,
+            "end": 9.882
+          },
+          {
+            "word": "longer ",
+            "start": 9.893,
+            "end": 10.208
+          },
+          {
+            "word": "existed. ",
+            "start": 10.219,
+            "end": 10.73
+          },
+          {
+            "word": "The ",
+            "start": 11.473,
+            "end": 11.582
+          },
+          {
+            "word": "hedge ",
+            "start": 11.593,
+            "end": 11.789
+          },
+          {
+            "word": "against ",
+            "start": 11.8,
+            "end": 12.082
+          },
+          {
+            "word": "the ",
+            "start": 12.093,
+            "end": 12.158
+          },
+          {
+            "word": "last ",
+            "start": 12.169,
+            "end": 12.441
+          },
+          {
+            "word": "crisis ",
+            "start": 12.452,
+            "end": 12.832
+          },
+          {
+            "word": "is ",
+            "start": 12.843,
+            "end": 12.963
+          },
+          {
+            "word": "rarely ",
+            "start": 12.973,
+            "end": 13.267
+          },
+          {
+            "word": "the ",
+            "start": 13.278,
+            "end": 13.354
+          },
+          {
+            "word": "hedge ",
+            "start": 13.365,
+            "end": 13.626
+          },
+          {
+            "word": "for ",
+            "start": 13.636,
+            "end": 13.713
+          },
+          {
+            "word": "the ",
+            "start": 13.723,
+            "end": 13.799
+          },
+          {
+            "word": "next ",
+            "start": 13.81,
+            "end": 14.082
+          },
+          {
+            "word": "one.",
+            "start": 14.093,
+            "end": 14.365
+          }
+        ],
+        "start": 3450
+      }
+    ]
+  },
+  {
+    "id": "credits",
+    "title": "Credits",
+    "globalStart": 15947,
+    "duration": 440,
+    "subSlides": [
+      {
+        "type": "credits",
+        "start": 0,
+        "duration": 440,
+        "audioSrc": "audio/outro_narration.wav"
+      }
+    ]
+  }
+]

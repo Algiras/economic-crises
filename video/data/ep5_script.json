@@ -3,329 +3,3684 @@
     "id": "intro",
     "title": "Intro",
     "globalStart": 0,
-    "duration": 1421,
+    "duration": 215,
+    "episode": 16,
+    "episodeMeta": {
+      "title": "The COVID-19 Economic Shock",
+      "subtitle": "2020"
+    },
     "subSlides": [
       {
         "type": "intro",
         "start": 0,
-        "duration": 1421,
-        "audioSrc": "audio/intro_narration.wav"
+        "duration": 215,
+        "audioSrc": "episodes/ep5/intro.wav"
       }
-    ],
-    "episode": 5,
-    "episodeMeta": {
-      "title": "The COVID-19 Economic Shock",
-      "subtitle": "2020"
-    }
+    ]
   },
   {
     "id": "ep5_event",
-    "title": "Episode 5 · Event",
-    "globalStart": 1421,
-    "duration": 2823,
+    "title": "Event",
+    "globalStart": 215,
+    "duration": 2629,
     "subSlides": [
       {
         "type": "bumper",
         "start": 0,
         "duration": 90,
-        "title": "Episode 5 · Event"
+        "title": "Event"
       },
       {
         "type": "quote",
         "chunk_id": "ep5_event_0",
         "audio_exists": true,
+        "audioPath": "episodes/ep5/audio/ep5_event_0.wav",
         "text": "On Thursday March 12, 2020, Nick Lore, a Philadelphia restaurateur, filled garbage bags with salmon fillets and called his eleven staff members one by one to tell them they were laid off.",
-        "duration": 362,
-        "bgImage": "bg_lab.jpg",
-        "wordTimings": null,
+        "duration": 321,
+        "bgImage": "bg_empty_street.jpg",
+        "wordTimings": [
+          {
+            "word": "On ",
+            "start": 0.1,
+            "end": 0.306
+          },
+          {
+            "word": "Thursday March 12, 2020, ",
+            "start": 0.317,
+            "end": 2.121
+          },
+          {
+            "word": "Nick ",
+            "start": 2.295,
+            "end": 2.491
+          },
+          {
+            "word": "Lore, ",
+            "start": 2.502,
+            "end": 2.849
+          },
+          {
+            "word": "a ",
+            "start": 3.045,
+            "end": 3.078
+          },
+          {
+            "word": "Philadelphia ",
+            "start": 3.089,
+            "end": 3.654
+          },
+          {
+            "word": "restaurateur, ",
+            "start": 3.665,
+            "end": 4.317
+          },
+          {
+            "word": "filled ",
+            "start": 4.523,
+            "end": 4.73
+          },
+          {
+            "word": "garbage ",
+            "start": 4.741,
+            "end": 5.11
+          },
+          {
+            "word": "bags ",
+            "start": 5.121,
+            "end": 5.436
+          },
+          {
+            "word": "with ",
+            "start": 5.447,
+            "end": 5.589
+          },
+          {
+            "word": "salmon ",
+            "start": 5.6,
+            "end": 5.904
+          },
+          {
+            "word": "fillets ",
+            "start": 5.915,
+            "end": 6.241
+          },
+          {
+            "word": "and ",
+            "start": 6.252,
+            "end": 6.339
+          },
+          {
+            "word": "called ",
+            "start": 6.35,
+            "end": 6.6
+          },
+          {
+            "word": "his ",
+            "start": 6.61,
+            "end": 6.708
+          },
+          {
+            "word": "eleven ",
+            "start": 6.719,
+            "end": 7.034
+          },
+          {
+            "word": "staff ",
+            "start": 7.045,
+            "end": 7.349
+          },
+          {
+            "word": "members ",
+            "start": 7.36,
+            "end": 7.643
+          },
+          {
+            "word": "one ",
+            "start": 7.654,
+            "end": 7.882
+          },
+          {
+            "word": "by ",
+            "start": 7.893,
+            "end": 8.034
+          },
+          {
+            "word": "one ",
+            "start": 8.045,
+            "end": 8.306
+          },
+          {
+            "word": "to ",
+            "start": 8.317,
+            "end": 8.404
+          },
+          {
+            "word": "tell ",
+            "start": 8.415,
+            "end": 8.61
+          },
+          {
+            "word": "them ",
+            "start": 8.621,
+            "end": 8.741
+          },
+          {
+            "word": "they ",
+            "start": 8.752,
+            "end": 8.86
+          },
+          {
+            "word": "were ",
+            "start": 8.871,
+            "end": 8.991
+          },
+          {
+            "word": "laid ",
+            "start": 9.002,
+            "end": 9.23
+          },
+          {
+            "word": "off.",
+            "start": 9.241,
+            "end": 9.545
+          }
+        ],
         "start": 90
       },
       {
         "type": "quote",
         "chunk_id": "ep5_event_1",
         "audio_exists": true,
+        "audioPath": "episodes/ep5/audio/ep5_event_1.wav",
         "text": "The same conversation was happening in restaurants, hotels, theatres, airports, and shopping centres across every developed economy simultaneously. The COVID-19 economic shock was unlike any crisis in this series.",
-        "duration": 417,
-        "bgImage": "bg_lab.jpg",
-        "wordTimings": null,
-        "start": 452
+        "duration": 387,
+        "bgImage": "bg_supply_chain.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "same ",
+            "start": 0.241,
+            "end": 0.469
+          },
+          {
+            "word": "conversation ",
+            "start": 0.48,
+            "end": 1.078
+          },
+          {
+            "word": "was ",
+            "start": 1.089,
+            "end": 1.208
+          },
+          {
+            "word": "happening ",
+            "start": 1.219,
+            "end": 1.578
+          },
+          {
+            "word": "in ",
+            "start": 1.589,
+            "end": 1.676
+          },
+          {
+            "word": "restaurants, ",
+            "start": 1.686,
+            "end": 2.165
+          },
+          {
+            "word": "hotels, ",
+            "start": 2.393,
+            "end": 2.947
+          },
+          {
+            "word": "theatres, ",
+            "start": 3.154,
+            "end": 3.578
+          },
+          {
+            "word": "airports, ",
+            "start": 3.784,
+            "end": 4.263
+          },
+          {
+            "word": "and ",
+            "start": 4.48,
+            "end": 4.578
+          },
+          {
+            "word": "shopping ",
+            "start": 4.589,
+            "end": 4.904
+          },
+          {
+            "word": "centres ",
+            "start": 4.915,
+            "end": 5.241
+          },
+          {
+            "word": "across ",
+            "start": 5.252,
+            "end": 5.578
+          },
+          {
+            "word": "every ",
+            "start": 5.589,
+            "end": 5.828
+          },
+          {
+            "word": "developed ",
+            "start": 5.839,
+            "end": 6.208
+          },
+          {
+            "word": "economy ",
+            "start": 6.219,
+            "end": 6.578
+          },
+          {
+            "word": "simultaneously. ",
+            "start": 6.589,
+            "end": 7.426
+          },
+          {
+            "word": "The ",
+            "start": 8.169,
+            "end": 8.299
+          },
+          {
+            "word": "COVID-19 ",
+            "start": 8.31,
+            "end": 9.147
+          },
+          {
+            "word": "economic ",
+            "start": 9.158,
+            "end": 9.593
+          },
+          {
+            "word": "shock ",
+            "start": 9.604,
+            "end": 9.854
+          },
+          {
+            "word": "was ",
+            "start": 9.865,
+            "end": 10.006
+          },
+          {
+            "word": "unlike ",
+            "start": 10.017,
+            "end": 10.365
+          },
+          {
+            "word": "any ",
+            "start": 10.376,
+            "end": 10.517
+          },
+          {
+            "word": "crisis ",
+            "start": 10.528,
+            "end": 10.952
+          },
+          {
+            "word": "in ",
+            "start": 10.963,
+            "end": 11.071
+          },
+          {
+            "word": "this ",
+            "start": 11.082,
+            "end": 11.213
+          },
+          {
+            "word": "series.",
+            "start": 11.223,
+            "end": 11.713
+          }
+        ],
+        "start": 411
       },
       {
         "type": "quote",
         "chunk_id": "ep5_event_2",
         "audio_exists": true,
+        "audioPath": "episodes/ep5/audio/ep5_event_2.wav",
         "text": "Previous crises had been caused by financial imbalances, policy failures, or supply disruptions that accumulated over months or years.",
-        "duration": 267,
-        "bgImage": "bg_lab.jpg",
-        "wordTimings": null,
-        "start": 869
+        "duration": 246,
+        "bgImage": "bg_city_night.jpg",
+        "wordTimings": [
+          {
+            "word": "Previous ",
+            "start": 0.1,
+            "end": 0.491
+          },
+          {
+            "word": "crises ",
+            "start": 0.502,
+            "end": 0.936
+          },
+          {
+            "word": "had ",
+            "start": 0.947,
+            "end": 1.056
+          },
+          {
+            "word": "been ",
+            "start": 1.067,
+            "end": 1.197
+          },
+          {
+            "word": "caused ",
+            "start": 1.208,
+            "end": 1.578
+          },
+          {
+            "word": "by ",
+            "start": 1.589,
+            "end": 1.719
+          },
+          {
+            "word": "financial ",
+            "start": 1.73,
+            "end": 2.284
+          },
+          {
+            "word": "imbalances, ",
+            "start": 2.295,
+            "end": 2.915
+          },
+          {
+            "word": "policy ",
+            "start": 3.1,
+            "end": 3.436
+          },
+          {
+            "word": "failures, ",
+            "start": 3.447,
+            "end": 3.947
+          },
+          {
+            "word": "or ",
+            "start": 4.132,
+            "end": 4.197
+          },
+          {
+            "word": "supply ",
+            "start": 4.208,
+            "end": 4.545
+          },
+          {
+            "word": "disruptions ",
+            "start": 4.556,
+            "end": 5.143
+          },
+          {
+            "word": "that ",
+            "start": 5.154,
+            "end": 5.306
+          },
+          {
+            "word": "accumulated ",
+            "start": 5.317,
+            "end": 5.904
+          },
+          {
+            "word": "over ",
+            "start": 5.915,
+            "end": 6.089
+          },
+          {
+            "word": "months ",
+            "start": 6.1,
+            "end": 6.393
+          },
+          {
+            "word": "or ",
+            "start": 6.404,
+            "end": 6.491
+          },
+          {
+            "word": "years.",
+            "start": 6.502,
+            "end": 7.045
+          }
+        ],
+        "start": 798
       },
       {
         "type": "quote",
         "chunk_id": "ep5_event_3",
         "audio_exists": true,
+        "audioPath": "episodes/ep5/audio/ep5_event_3.wav",
         "text": "This one was caused by a deliberate decision: governments shut their economies to prevent the spread of a lethal virus. The speed of the contraction was without precedent. The United States lost twenty-two million jobs in eight weeks.",
-        "duration": 393,
-        "bgImage": "bg_demographics.jpg",
-        "wordTimings": null,
-        "start": 1136
+        "duration": 390,
+        "bgImage": "bg_factory_dark.jpg",
+        "wordTimings": [
+          {
+            "word": "This ",
+            "start": 0.1,
+            "end": 0.328
+          },
+          {
+            "word": "one ",
+            "start": 0.339,
+            "end": 0.534
+          },
+          {
+            "word": "was ",
+            "start": 0.545,
+            "end": 0.665
+          },
+          {
+            "word": "caused ",
+            "start": 0.676,
+            "end": 1.023
+          },
+          {
+            "word": "by ",
+            "start": 1.034,
+            "end": 1.176
+          },
+          {
+            "word": "a ",
+            "start": 1.186,
+            "end": 1.241
+          },
+          {
+            "word": "deliberate ",
+            "start": 1.252,
+            "end": 1.621
+          },
+          {
+            "word": "decision: ",
+            "start": 1.632,
+            "end": 2.045
+          },
+          {
+            "word": "governments ",
+            "start": 2.197,
+            "end": 2.578
+          },
+          {
+            "word": "shut ",
+            "start": 2.589,
+            "end": 2.828
+          },
+          {
+            "word": "their ",
+            "start": 2.839,
+            "end": 2.947
+          },
+          {
+            "word": "economies ",
+            "start": 2.958,
+            "end": 3.426
+          },
+          {
+            "word": "to ",
+            "start": 3.436,
+            "end": 3.523
+          },
+          {
+            "word": "prevent ",
+            "start": 3.534,
+            "end": 3.839
+          },
+          {
+            "word": "the ",
+            "start": 3.85,
+            "end": 3.915
+          },
+          {
+            "word": "spread ",
+            "start": 3.926,
+            "end": 4.197
+          },
+          {
+            "word": "of ",
+            "start": 4.208,
+            "end": 4.273
+          },
+          {
+            "word": "a ",
+            "start": 4.284,
+            "end": 4.317
+          },
+          {
+            "word": "lethal ",
+            "start": 4.328,
+            "end": 4.676
+          },
+          {
+            "word": "virus. ",
+            "start": 4.686,
+            "end": 5.208
+          },
+          {
+            "word": "The ",
+            "start": 5.952,
+            "end": 6.104
+          },
+          {
+            "word": "speed ",
+            "start": 6.115,
+            "end": 6.376
+          },
+          {
+            "word": "of ",
+            "start": 6.386,
+            "end": 6.441
+          },
+          {
+            "word": "the ",
+            "start": 6.452,
+            "end": 6.517
+          },
+          {
+            "word": "contraction ",
+            "start": 6.528,
+            "end": 7.06
+          },
+          {
+            "word": "was ",
+            "start": 7.071,
+            "end": 7.191
+          },
+          {
+            "word": "without ",
+            "start": 7.202,
+            "end": 7.495
+          },
+          {
+            "word": "precedent. ",
+            "start": 7.506,
+            "end": 8.049
+          },
+          {
+            "word": "The ",
+            "start": 8.8,
+            "end": 8.919
+          },
+          {
+            "word": "United ",
+            "start": 8.93,
+            "end": 9.343
+          },
+          {
+            "word": "States ",
+            "start": 9.354,
+            "end": 9.647
+          },
+          {
+            "word": "lost ",
+            "start": 9.658,
+            "end": 9.897
+          },
+          {
+            "word": "twenty-two ",
+            "start": 9.908,
+            "end": 10.43
+          },
+          {
+            "word": "million ",
+            "start": 10.441,
+            "end": 10.81
+          },
+          {
+            "word": "jobs ",
+            "start": 10.821,
+            "end": 11.115
+          },
+          {
+            "word": "in ",
+            "start": 11.126,
+            "end": 11.213
+          },
+          {
+            "word": "eight ",
+            "start": 11.223,
+            "end": 11.386
+          },
+          {
+            "word": "weeks.",
+            "start": 11.397,
+            "end": 11.821
+          }
+        ],
+        "start": 1044
       },
       {
         "type": "quote",
         "chunk_id": "ep5_event_4",
         "audio_exists": true,
+        "audioPath": "episodes/ep5/audio/ep5_event_4.wav",
         "text": "The Great Financial Crisis had taken twenty-five months to produce nine million job losses. Twenty weeks into COVID, output had fallen more than it had in any full year of the Great Depression.",
-        "duration": 345,
-        "bgImage": "bg_toxicology.jpg",
-        "wordTimings": null,
-        "start": 1529
+        "duration": 323,
+        "bgImage": "bg_empty_street.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "Great ",
+            "start": 0.241,
+            "end": 0.523
+          },
+          {
+            "word": "Financial ",
+            "start": 0.534,
+            "end": 1.056
+          },
+          {
+            "word": "Crisis ",
+            "start": 1.067,
+            "end": 1.458
+          },
+          {
+            "word": "had ",
+            "start": 1.469,
+            "end": 1.61
+          },
+          {
+            "word": "taken ",
+            "start": 1.621,
+            "end": 1.915
+          },
+          {
+            "word": "twenty-five ",
+            "start": 1.926,
+            "end": 2.48
+          },
+          {
+            "word": "months ",
+            "start": 2.491,
+            "end": 2.773
+          },
+          {
+            "word": "to ",
+            "start": 2.784,
+            "end": 2.86
+          },
+          {
+            "word": "produce ",
+            "start": 2.871,
+            "end": 3.252
+          },
+          {
+            "word": "nine ",
+            "start": 3.263,
+            "end": 3.523
+          },
+          {
+            "word": "million ",
+            "start": 3.534,
+            "end": 3.849
+          },
+          {
+            "word": "job ",
+            "start": 3.86,
+            "end": 4.056
+          },
+          {
+            "word": "losses. ",
+            "start": 4.067,
+            "end": 4.534
+          },
+          {
+            "word": "Twenty ",
+            "start": 5.278,
+            "end": 5.582
+          },
+          {
+            "word": "weeks ",
+            "start": 5.593,
+            "end": 5.843
+          },
+          {
+            "word": "into ",
+            "start": 5.854,
+            "end": 6.093
+          },
+          {
+            "word": "COVID, ",
+            "start": 6.104,
+            "end": 6.484
+          },
+          {
+            "word": "output ",
+            "start": 6.702,
+            "end": 6.984
+          },
+          {
+            "word": "had ",
+            "start": 6.995,
+            "end": 7.104
+          },
+          {
+            "word": "fallen ",
+            "start": 7.115,
+            "end": 7.408
+          },
+          {
+            "word": "more ",
+            "start": 7.419,
+            "end": 7.528
+          },
+          {
+            "word": "than ",
+            "start": 7.539,
+            "end": 7.647
+          },
+          {
+            "word": "it ",
+            "start": 7.658,
+            "end": 7.734
+          },
+          {
+            "word": "had ",
+            "start": 7.745,
+            "end": 7.886
+          },
+          {
+            "word": "in ",
+            "start": 7.897,
+            "end": 8.006
+          },
+          {
+            "word": "any ",
+            "start": 8.017,
+            "end": 8.169
+          },
+          {
+            "word": "full ",
+            "start": 8.18,
+            "end": 8.397
+          },
+          {
+            "word": "year ",
+            "start": 8.408,
+            "end": 8.647
+          },
+          {
+            "word": "of ",
+            "start": 8.658,
+            "end": 8.713
+          },
+          {
+            "word": "the ",
+            "start": 8.723,
+            "end": 8.799
+          },
+          {
+            "word": "Great ",
+            "start": 8.81,
+            "end": 9.071
+          },
+          {
+            "word": "Depression.",
+            "start": 9.082,
+            "end": 9.593
+          }
+        ],
+        "start": 1434
       },
       {
         "type": "quote",
         "chunk_id": "ep5_event_5",
         "audio_exists": true,
+        "audioPath": "episodes/ep5/audio/ep5_event_5.wav",
         "text": "The speed of the policy response was also without precedent. The CARES Act — two-point-two trillion dollars — was signed seventeen days after the World Health Organisation declared a pandemic.",
-        "duration": 344,
-        "bgImage": "bg_lab.jpg",
-        "wordTimings": null,
-        "start": 1874
+        "duration": 327,
+        "bgImage": "bg_supply_chain.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.241
+          },
+          {
+            "word": "speed ",
+            "start": 0.252,
+            "end": 0.523
+          },
+          {
+            "word": "of ",
+            "start": 0.534,
+            "end": 0.589
+          },
+          {
+            "word": "the ",
+            "start": 0.6,
+            "end": 0.676
+          },
+          {
+            "word": "policy ",
+            "start": 0.686,
+            "end": 1.002
+          },
+          {
+            "word": "response ",
+            "start": 1.013,
+            "end": 1.415
+          },
+          {
+            "word": "was ",
+            "start": 1.426,
+            "end": 1.556
+          },
+          {
+            "word": "also ",
+            "start": 1.567,
+            "end": 1.882
+          },
+          {
+            "word": "without ",
+            "start": 1.893,
+            "end": 2.208
+          },
+          {
+            "word": "precedent. ",
+            "start": 2.219,
+            "end": 2.73
+          },
+          {
+            "word": "The ",
+            "start": 3.473,
+            "end": 3.604
+          },
+          {
+            "word": "CARES ",
+            "start": 3.615,
+            "end": 3.941
+          },
+          {
+            "word": "Act — ",
+            "start": 3.952,
+            "end": 4.223
+          },
+          {
+            "word": "two-point-two ",
+            "start": 4.376,
+            "end": 4.952
+          },
+          {
+            "word": "trillion ",
+            "start": 4.963,
+            "end": 5.321
+          },
+          {
+            "word": "dollars — ",
+            "start": 5.332,
+            "end": 5.68
+          },
+          {
+            "word": "was ",
+            "start": 5.865,
+            "end": 5.973
+          },
+          {
+            "word": "signed ",
+            "start": 5.984,
+            "end": 6.256
+          },
+          {
+            "word": "seventeen ",
+            "start": 6.267,
+            "end": 6.778
+          },
+          {
+            "word": "days ",
+            "start": 6.789,
+            "end": 7.126
+          },
+          {
+            "word": "after ",
+            "start": 7.136,
+            "end": 7.354
+          },
+          {
+            "word": "the ",
+            "start": 7.365,
+            "end": 7.441
+          },
+          {
+            "word": "World ",
+            "start": 7.452,
+            "end": 7.745
+          },
+          {
+            "word": "Health ",
+            "start": 7.756,
+            "end": 8.039
+          },
+          {
+            "word": "Organisation ",
+            "start": 8.05,
+            "end": 8.702
+          },
+          {
+            "word": "declared ",
+            "start": 8.713,
+            "end": 9.049
+          },
+          {
+            "word": "a ",
+            "start": 9.06,
+            "end": 9.115
+          },
+          {
+            "word": "pandemic.",
+            "start": 9.126,
+            "end": 9.723
+          }
+        ],
+        "start": 1757
       },
       {
         "type": "quote",
         "chunk_id": "ep5_event_6",
         "audio_exists": true,
+        "audioPath": "episodes/ep5/audio/ep5_event_6.wav",
         "text": "Direct payments to households, enhanced unemployment benefits, forgivable loans to small businesses, emergency backstops for financial markets.",
-        "duration": 288,
-        "bgImage": "bg_lifestyle.jpg",
-        "wordTimings": null,
-        "start": 2218
+        "duration": 253,
+        "bgImage": "bg_city_night.jpg",
+        "wordTimings": [
+          {
+            "word": "Direct ",
+            "start": 0.1,
+            "end": 0.447
+          },
+          {
+            "word": "payments ",
+            "start": 0.458,
+            "end": 0.817
+          },
+          {
+            "word": "to ",
+            "start": 0.828,
+            "end": 0.893
+          },
+          {
+            "word": "households, ",
+            "start": 0.904,
+            "end": 1.513
+          },
+          {
+            "word": "enhanced ",
+            "start": 1.697,
+            "end": 2.078
+          },
+          {
+            "word": "unemployment ",
+            "start": 2.089,
+            "end": 2.621
+          },
+          {
+            "word": "benefits, ",
+            "start": 2.632,
+            "end": 3.1
+          },
+          {
+            "word": "forgivable ",
+            "start": 3.273,
+            "end": 3.686
+          },
+          {
+            "word": "loans ",
+            "start": 3.697,
+            "end": 4.023
+          },
+          {
+            "word": "to ",
+            "start": 4.034,
+            "end": 4.11
+          },
+          {
+            "word": "small ",
+            "start": 4.121,
+            "end": 4.458
+          },
+          {
+            "word": "businesses, ",
+            "start": 4.469,
+            "end": 4.947
+          },
+          {
+            "word": "emergency ",
+            "start": 5.11,
+            "end": 5.621
+          },
+          {
+            "word": "backstops ",
+            "start": 5.632,
+            "end": 6.121
+          },
+          {
+            "word": "for ",
+            "start": 6.132,
+            "end": 6.219
+          },
+          {
+            "word": "financial ",
+            "start": 6.23,
+            "end": 6.741
+          },
+          {
+            "word": "markets.",
+            "start": 6.752,
+            "end": 7.263
+          }
+        ],
+        "start": 2084
       },
       {
         "type": "quote",
         "chunk_id": "ep5_event_7",
         "audio_exists": true,
+        "audioPath": "episodes/ep5/audio/ep5_event_7.wav",
         "text": "The Federal Reserve expanded its balance sheet from four trillion to seven trillion dollars in ninety days. The playbook of 2008 was deployed at five times the speed.",
-        "duration": 317,
-        "bgImage": "bg_lifestyle.jpg",
-        "wordTimings": null,
-        "start": 2506
+        "duration": 292,
+        "bgImage": "bg_factory_dark.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.219
+          },
+          {
+            "word": "Federal ",
+            "start": 0.23,
+            "end": 0.578
+          },
+          {
+            "word": "Reserve ",
+            "start": 0.589,
+            "end": 0.915
+          },
+          {
+            "word": "expanded ",
+            "start": 0.926,
+            "end": 1.36
+          },
+          {
+            "word": "its ",
+            "start": 1.371,
+            "end": 1.48
+          },
+          {
+            "word": "balance ",
+            "start": 1.491,
+            "end": 1.806
+          },
+          {
+            "word": "sheet ",
+            "start": 1.817,
+            "end": 2.045
+          },
+          {
+            "word": "from ",
+            "start": 2.056,
+            "end": 2.219
+          },
+          {
+            "word": "four ",
+            "start": 2.23,
+            "end": 2.317
+          },
+          {
+            "word": "trillion ",
+            "start": 2.328,
+            "end": 2.708
+          },
+          {
+            "word": "to ",
+            "start": 2.719,
+            "end": 2.806
+          },
+          {
+            "word": "seven ",
+            "start": 2.817,
+            "end": 3.121
+          },
+          {
+            "word": "trillion ",
+            "start": 3.132,
+            "end": 3.48
+          },
+          {
+            "word": "dollars ",
+            "start": 3.491,
+            "end": 3.784
+          },
+          {
+            "word": "in ",
+            "start": 3.795,
+            "end": 3.915
+          },
+          {
+            "word": "ninety ",
+            "start": 3.926,
+            "end": 4.197
+          },
+          {
+            "word": "days. ",
+            "start": 4.208,
+            "end": 4.654
+          },
+          {
+            "word": "The ",
+            "start": 5.397,
+            "end": 5.528
+          },
+          {
+            "word": "playbook ",
+            "start": 5.539,
+            "end": 5.908
+          },
+          {
+            "word": "of ",
+            "start": 5.919,
+            "end": 6.006
+          },
+          {
+            "word": "2008 ",
+            "start": 6.017,
+            "end": 6.734
+          },
+          {
+            "word": "was ",
+            "start": 6.745,
+            "end": 6.843
+          },
+          {
+            "word": "deployed ",
+            "start": 6.854,
+            "end": 7.267
+          },
+          {
+            "word": "at ",
+            "start": 7.278,
+            "end": 7.354
+          },
+          {
+            "word": "five ",
+            "start": 7.365,
+            "end": 7.68
+          },
+          {
+            "word": "times ",
+            "start": 7.691,
+            "end": 8.017
+          },
+          {
+            "word": "the ",
+            "start": 8.028,
+            "end": 8.104
+          },
+          {
+            "word": "speed.",
+            "start": 8.115,
+            "end": 8.56
+          }
+        ],
+        "start": 2337
       }
     ]
   },
   {
     "id": "ep5_problems",
-    "title": "Episode 5 · Problems",
-    "globalStart": 4244,
-    "duration": 2928,
+    "title": "Problems",
+    "globalStart": 2844,
+    "duration": 2681,
     "subSlides": [
       {
         "type": "bumper",
         "start": 0,
         "duration": 90,
-        "title": "Episode 5 · Problems"
+        "title": "Problems"
       },
       {
         "type": "quote",
         "chunk_id": "ep5_problems_0",
         "audio_exists": true,
+        "audioPath": "episodes/ep5/audio/ep5_problems_0.wav",
         "text": "The COVID economic shock posed a problem that no existing policy framework had been designed to address: a simultaneous supply and demand collapse, deliberately induced, of unknown duration.",
-        "duration": 375,
-        "bgImage": "bg_lab.jpg",
-        "wordTimings": null,
+        "duration": 307,
+        "bgImage": "bg_empty_street.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.219
+          },
+          {
+            "word": "COVID ",
+            "start": 0.23,
+            "end": 0.534
+          },
+          {
+            "word": "economic ",
+            "start": 0.545,
+            "end": 1.002
+          },
+          {
+            "word": "shock ",
+            "start": 1.013,
+            "end": 1.263
+          },
+          {
+            "word": "posed ",
+            "start": 1.273,
+            "end": 1.567
+          },
+          {
+            "word": "a ",
+            "start": 1.578,
+            "end": 1.621
+          },
+          {
+            "word": "problem ",
+            "start": 1.632,
+            "end": 1.98
+          },
+          {
+            "word": "that ",
+            "start": 1.991,
+            "end": 2.11
+          },
+          {
+            "word": "no ",
+            "start": 2.121,
+            "end": 2.317
+          },
+          {
+            "word": "existing ",
+            "start": 2.328,
+            "end": 2.73
+          },
+          {
+            "word": "policy ",
+            "start": 2.741,
+            "end": 3.089
+          },
+          {
+            "word": "framework ",
+            "start": 3.1,
+            "end": 3.567
+          },
+          {
+            "word": "had ",
+            "start": 3.578,
+            "end": 3.708
+          },
+          {
+            "word": "been ",
+            "start": 3.719,
+            "end": 3.817
+          },
+          {
+            "word": "designed ",
+            "start": 3.828,
+            "end": 4.197
+          },
+          {
+            "word": "to ",
+            "start": 4.208,
+            "end": 4.317
+          },
+          {
+            "word": "address: ",
+            "start": 4.328,
+            "end": 4.708
+          },
+          {
+            "word": "a ",
+            "start": 4.86,
+            "end": 4.904
+          },
+          {
+            "word": "simultaneous ",
+            "start": 4.915,
+            "end": 5.556
+          },
+          {
+            "word": "supply ",
+            "start": 5.567,
+            "end": 5.904
+          },
+          {
+            "word": "and ",
+            "start": 5.915,
+            "end": 6.002
+          },
+          {
+            "word": "demand ",
+            "start": 6.013,
+            "end": 6.349
+          },
+          {
+            "word": "collapse, ",
+            "start": 6.36,
+            "end": 6.85
+          },
+          {
+            "word": "deliberately ",
+            "start": 7.023,
+            "end": 7.491
+          },
+          {
+            "word": "induced, ",
+            "start": 7.502,
+            "end": 7.936
+          },
+          {
+            "word": "of ",
+            "start": 8.078,
+            "end": 8.154
+          },
+          {
+            "word": "unknown ",
+            "start": 8.165,
+            "end": 8.523
+          },
+          {
+            "word": "duration.",
+            "start": 8.534,
+            "end": 9.067
+          }
+        ],
         "start": 90
       },
       {
         "type": "quote",
         "chunk_id": "ep5_problems_1",
         "audio_exists": true,
+        "audioPath": "episodes/ep5/audio/ep5_problems_1.wav",
         "text": "The fourteen-point-seven percent unemployment rate in April 2020 masked a more complex reality. Most of the job losses were in in-person services — hospitality, retail, entertainment, travel. These workers could not work from home.",
         "duration": 435,
-        "bgImage": "bg_lifestyle.jpg",
-        "wordTimings": null,
-        "start": 465
+        "bgImage": "bg_supermarket.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.219
+          },
+          {
+            "word": "fourteen-point-seven ",
+            "start": 0.23,
+            "end": 1.121
+          },
+          {
+            "word": "percent ",
+            "start": 1.132,
+            "end": 1.469
+          },
+          {
+            "word": "unemployment ",
+            "start": 1.48,
+            "end": 2.023
+          },
+          {
+            "word": "rate ",
+            "start": 2.034,
+            "end": 2.252
+          },
+          {
+            "word": "in ",
+            "start": 2.263,
+            "end": 2.371
+          },
+          {
+            "word": "April 2020 ",
+            "start": 2.382,
+            "end": 3.208
+          },
+          {
+            "word": "masked ",
+            "start": 3.219,
+            "end": 3.545
+          },
+          {
+            "word": "a ",
+            "start": 3.556,
+            "end": 3.589
+          },
+          {
+            "word": "more ",
+            "start": 3.6,
+            "end": 3.773
+          },
+          {
+            "word": "complex ",
+            "start": 3.784,
+            "end": 4.208
+          },
+          {
+            "word": "reality. ",
+            "start": 4.219,
+            "end": 4.741
+          },
+          {
+            "word": "Most ",
+            "start": 5.484,
+            "end": 5.799
+          },
+          {
+            "word": "of ",
+            "start": 5.81,
+            "end": 5.865
+          },
+          {
+            "word": "the ",
+            "start": 5.876,
+            "end": 5.963
+          },
+          {
+            "word": "job ",
+            "start": 5.973,
+            "end": 6.158
+          },
+          {
+            "word": "losses ",
+            "start": 6.169,
+            "end": 6.473
+          },
+          {
+            "word": "were ",
+            "start": 6.484,
+            "end": 6.626
+          },
+          {
+            "word": "in ",
+            "start": 6.636,
+            "end": 6.734
+          },
+          {
+            "word": "in-person ",
+            "start": 6.745,
+            "end": 7.202
+          },
+          {
+            "word": "services — ",
+            "start": 7.213,
+            "end": 7.734
+          },
+          {
+            "word": "hospitality, ",
+            "start": 7.941,
+            "end": 8.56
+          },
+          {
+            "word": "retail, ",
+            "start": 8.789,
+            "end": 9.267
+          },
+          {
+            "word": "entertainment, ",
+            "start": 9.495,
+            "end": 10.136
+          },
+          {
+            "word": "travel. ",
+            "start": 10.3,
+            "end": 10.713
+          },
+          {
+            "word": "These ",
+            "start": 11.463,
+            "end": 11.745
+          },
+          {
+            "word": "workers ",
+            "start": 11.756,
+            "end": 12.104
+          },
+          {
+            "word": "could ",
+            "start": 12.115,
+            "end": 12.245
+          },
+          {
+            "word": "not ",
+            "start": 12.256,
+            "end": 12.463
+          },
+          {
+            "word": "work ",
+            "start": 12.473,
+            "end": 12.691
+          },
+          {
+            "word": "from ",
+            "start": 12.702,
+            "end": 12.832
+          },
+          {
+            "word": "home.",
+            "start": 12.843,
+            "end": 13.223
+          }
+        ],
+        "start": 397
       },
       {
         "type": "quote",
         "chunk_id": "ep5_problems_2",
         "audio_exists": true,
+        "audioPath": "episodes/ep5/audio/ep5_problems_2.wav",
         "text": "The professional services sector, which could, continued working with relatively minor disruption. A crisis that appeared uniform in the aggregate was profoundly unequal in its distribution.",
-        "duration": 348,
-        "bgImage": "bg_abstract.jpg",
-        "wordTimings": null,
-        "start": 900
+        "duration": 316,
+        "bgImage": "bg_supply_chain.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "professional ",
+            "start": 0.241,
+            "end": 0.73
+          },
+          {
+            "word": "services ",
+            "start": 0.741,
+            "end": 1.176
+          },
+          {
+            "word": "sector, ",
+            "start": 1.186,
+            "end": 1.513
+          },
+          {
+            "word": "which ",
+            "start": 1.676,
+            "end": 1.839
+          },
+          {
+            "word": "could, ",
+            "start": 1.85,
+            "end": 2.132
+          },
+          {
+            "word": "continued ",
+            "start": 2.306,
+            "end": 2.73
+          },
+          {
+            "word": "working ",
+            "start": 2.741,
+            "end": 3.078
+          },
+          {
+            "word": "with ",
+            "start": 3.089,
+            "end": 3.208
+          },
+          {
+            "word": "relatively ",
+            "start": 3.219,
+            "end": 3.697
+          },
+          {
+            "word": "minor ",
+            "start": 3.708,
+            "end": 4.013
+          },
+          {
+            "word": "disruption. ",
+            "start": 4.023,
+            "end": 4.61
+          },
+          {
+            "word": "A ",
+            "start": 5.354,
+            "end": 5.473
+          },
+          {
+            "word": "crisis ",
+            "start": 5.484,
+            "end": 5.876
+          },
+          {
+            "word": "that ",
+            "start": 5.886,
+            "end": 6.017
+          },
+          {
+            "word": "appeared ",
+            "start": 6.028,
+            "end": 6.321
+          },
+          {
+            "word": "uniform ",
+            "start": 6.332,
+            "end": 6.745
+          },
+          {
+            "word": "in ",
+            "start": 6.756,
+            "end": 6.821
+          },
+          {
+            "word": "the ",
+            "start": 6.832,
+            "end": 6.908
+          },
+          {
+            "word": "aggregate ",
+            "start": 6.919,
+            "end": 7.299
+          },
+          {
+            "word": "was ",
+            "start": 7.31,
+            "end": 7.43
+          },
+          {
+            "word": "profoundly ",
+            "start": 7.441,
+            "end": 7.963
+          },
+          {
+            "word": "unequal ",
+            "start": 7.973,
+            "end": 8.419
+          },
+          {
+            "word": "in ",
+            "start": 8.43,
+            "end": 8.517
+          },
+          {
+            "word": "its ",
+            "start": 8.528,
+            "end": 8.636
+          },
+          {
+            "word": "distribution.",
+            "start": 8.647,
+            "end": 9.343
+          }
+        ],
+        "start": 832
       },
       {
         "type": "quote",
         "chunk_id": "ep5_problems_3",
         "audio_exists": true,
+        "audioPath": "episodes/ep5/audio/ep5_problems_3.wav",
         "text": "The design of the response exposed sharp differences in economic philosophy.",
-        "duration": 162,
-        "bgImage": "bg_lifestyle.jpg",
-        "wordTimings": null,
-        "start": 1248
+        "duration": 137,
+        "bgImage": "bg_interest_chart.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.219
+          },
+          {
+            "word": "design ",
+            "start": 0.23,
+            "end": 0.567
+          },
+          {
+            "word": "of ",
+            "start": 0.578,
+            "end": 0.632
+          },
+          {
+            "word": "the ",
+            "start": 0.643,
+            "end": 0.708
+          },
+          {
+            "word": "response ",
+            "start": 0.719,
+            "end": 1.121
+          },
+          {
+            "word": "exposed ",
+            "start": 1.132,
+            "end": 1.589
+          },
+          {
+            "word": "sharp ",
+            "start": 1.6,
+            "end": 1.882
+          },
+          {
+            "word": "differences ",
+            "start": 1.893,
+            "end": 2.328
+          },
+          {
+            "word": "in ",
+            "start": 2.339,
+            "end": 2.426
+          },
+          {
+            "word": "economic ",
+            "start": 2.436,
+            "end": 2.839
+          },
+          {
+            "word": "philosophy.",
+            "start": 2.85,
+            "end": 3.393
+          }
+        ],
+        "start": 1148
       },
       {
         "type": "quote",
         "chunk_id": "ep5_problems_4",
         "audio_exists": true,
+        "audioPath": "episodes/ep5/audio/ep5_problems_4.wav",
         "text": "The United States paid unemployed workers six-hundred dollars per week above their existing unemployment benefits — a replacement rate that exceeded one-hundred percent for many service workers.",
-        "duration": 344,
-        "bgImage": "bg_lifestyle.jpg",
-        "wordTimings": null,
-        "start": 1410
+        "duration": 292,
+        "bgImage": "bg_empty_street.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.219
+          },
+          {
+            "word": "United ",
+            "start": 0.23,
+            "end": 0.632
+          },
+          {
+            "word": "States ",
+            "start": 0.643,
+            "end": 0.926
+          },
+          {
+            "word": "paid ",
+            "start": 0.936,
+            "end": 1.186
+          },
+          {
+            "word": "unemployed ",
+            "start": 1.197,
+            "end": 1.665
+          },
+          {
+            "word": "workers ",
+            "start": 1.676,
+            "end": 2.013
+          },
+          {
+            "word": "six-hundred ",
+            "start": 2.023,
+            "end": 2.502
+          },
+          {
+            "word": "dollars ",
+            "start": 2.513,
+            "end": 2.773
+          },
+          {
+            "word": "per ",
+            "start": 2.784,
+            "end": 2.915
+          },
+          {
+            "word": "week ",
+            "start": 2.926,
+            "end": 3.154
+          },
+          {
+            "word": "above ",
+            "start": 3.165,
+            "end": 3.436
+          },
+          {
+            "word": "their ",
+            "start": 3.447,
+            "end": 3.578
+          },
+          {
+            "word": "existing ",
+            "start": 3.589,
+            "end": 4.034
+          },
+          {
+            "word": "unemployment ",
+            "start": 4.045,
+            "end": 4.589
+          },
+          {
+            "word": "benefits — ",
+            "start": 4.6,
+            "end": 5.045
+          },
+          {
+            "word": "a ",
+            "start": 5.219,
+            "end": 5.263
+          },
+          {
+            "word": "replacement ",
+            "start": 5.273,
+            "end": 5.773
+          },
+          {
+            "word": "rate ",
+            "start": 5.784,
+            "end": 5.98
+          },
+          {
+            "word": "that ",
+            "start": 5.991,
+            "end": 6.132
+          },
+          {
+            "word": "exceeded ",
+            "start": 6.143,
+            "end": 6.523
+          },
+          {
+            "word": "one-hundred ",
+            "start": 6.534,
+            "end": 7.002
+          },
+          {
+            "word": "percent ",
+            "start": 7.013,
+            "end": 7.349
+          },
+          {
+            "word": "for ",
+            "start": 7.36,
+            "end": 7.458
+          },
+          {
+            "word": "many ",
+            "start": 7.469,
+            "end": 7.686
+          },
+          {
+            "word": "service ",
+            "start": 7.697,
+            "end": 8.034
+          },
+          {
+            "word": "workers.",
+            "start": 8.045,
+            "end": 8.567
+          }
+        ],
+        "start": 1285
       },
       {
         "type": "quote",
         "chunk_id": "ep5_problems_5",
         "audio_exists": true,
+        "audioPath": "episodes/ep5/audio/ep5_problems_5.wav",
         "text": "This was effective at preventing immediate poverty but created friction around reopening. Germany, by contrast, used Kurzarbeit — short-time work — covering six million workers at its April 2020 peak.",
-        "duration": 377,
-        "bgImage": "bg_lab.jpg",
-        "wordTimings": null,
-        "start": 1754
+        "duration": 370,
+        "bgImage": "bg_supermarket.jpg",
+        "wordTimings": [
+          {
+            "word": "This ",
+            "start": 0.1,
+            "end": 0.35
+          },
+          {
+            "word": "was ",
+            "start": 0.36,
+            "end": 0.48
+          },
+          {
+            "word": "effective ",
+            "start": 0.491,
+            "end": 0.893
+          },
+          {
+            "word": "at ",
+            "start": 0.904,
+            "end": 0.98
+          },
+          {
+            "word": "preventing ",
+            "start": 0.991,
+            "end": 1.404
+          },
+          {
+            "word": "immediate ",
+            "start": 1.415,
+            "end": 1.828
+          },
+          {
+            "word": "poverty ",
+            "start": 1.839,
+            "end": 2.208
+          },
+          {
+            "word": "but ",
+            "start": 2.219,
+            "end": 2.349
+          },
+          {
+            "word": "created ",
+            "start": 2.36,
+            "end": 2.763
+          },
+          {
+            "word": "friction ",
+            "start": 2.773,
+            "end": 3.132
+          },
+          {
+            "word": "around ",
+            "start": 3.143,
+            "end": 3.447
+          },
+          {
+            "word": "reopening. ",
+            "start": 3.458,
+            "end": 4.067
+          },
+          {
+            "word": "Germany, ",
+            "start": 4.81,
+            "end": 5.267
+          },
+          {
+            "word": "by ",
+            "start": 5.386,
+            "end": 5.517
+          },
+          {
+            "word": "contrast, ",
+            "start": 5.528,
+            "end": 6.104
+          },
+          {
+            "word": "used ",
+            "start": 6.267,
+            "end": 6.528
+          },
+          {
+            "word": "Kurzarbeit — ",
+            "start": 6.539,
+            "end": 7.082
+          },
+          {
+            "word": "short-time ",
+            "start": 7.245,
+            "end": 7.745
+          },
+          {
+            "word": "work — ",
+            "start": 7.756,
+            "end": 8.049
+          },
+          {
+            "word": "covering ",
+            "start": 8.267,
+            "end": 8.615
+          },
+          {
+            "word": "six ",
+            "start": 8.626,
+            "end": 8.897
+          },
+          {
+            "word": "million ",
+            "start": 8.908,
+            "end": 9.245
+          },
+          {
+            "word": "workers ",
+            "start": 9.256,
+            "end": 9.636
+          },
+          {
+            "word": "at ",
+            "start": 9.647,
+            "end": 9.756
+          },
+          {
+            "word": "its ",
+            "start": 9.767,
+            "end": 9.886
+          },
+          {
+            "word": "April 2020 ",
+            "start": 9.897,
+            "end": 10.789
+          },
+          {
+            "word": "peak.",
+            "start": 10.8,
+            "end": 11.169
+          }
+        ],
+        "start": 1577
       },
       {
         "type": "quote",
         "chunk_id": "ep5_problems_6",
         "audio_exists": true,
+        "audioPath": "episodes/ep5/audio/ep5_problems_6.wav",
         "text": "Rather than severing the employment relationship and paying unemployment, the government subsidised reduced hours, preserving the connection between worker and employer. When the economy reopened, German workers returned to existing jobs.",
-        "duration": 434,
-        "bgImage": "bg_lab.jpg",
-        "wordTimings": null,
-        "start": 2131
+        "duration": 385,
+        "bgImage": "bg_supply_chain.jpg",
+        "wordTimings": [
+          {
+            "word": "Rather ",
+            "start": 0.1,
+            "end": 0.426
+          },
+          {
+            "word": "than ",
+            "start": 0.436,
+            "end": 0.567
+          },
+          {
+            "word": "severing ",
+            "start": 0.578,
+            "end": 0.893
+          },
+          {
+            "word": "the ",
+            "start": 0.904,
+            "end": 1.023
+          },
+          {
+            "word": "employment ",
+            "start": 1.034,
+            "end": 1.436
+          },
+          {
+            "word": "relationship ",
+            "start": 1.447,
+            "end": 1.969
+          },
+          {
+            "word": "and ",
+            "start": 1.98,
+            "end": 2.067
+          },
+          {
+            "word": "paying ",
+            "start": 2.078,
+            "end": 2.393
+          },
+          {
+            "word": "unemployment, ",
+            "start": 2.404,
+            "end": 3.002
+          },
+          {
+            "word": "the ",
+            "start": 3.186,
+            "end": 3.273
+          },
+          {
+            "word": "government ",
+            "start": 3.284,
+            "end": 3.665
+          },
+          {
+            "word": "subsidised ",
+            "start": 3.676,
+            "end": 4.186
+          },
+          {
+            "word": "reduced ",
+            "start": 4.197,
+            "end": 4.621
+          },
+          {
+            "word": "hours, ",
+            "start": 4.632,
+            "end": 4.969
+          },
+          {
+            "word": "preserving ",
+            "start": 5.154,
+            "end": 5.567
+          },
+          {
+            "word": "the ",
+            "start": 5.578,
+            "end": 5.643
+          },
+          {
+            "word": "connection ",
+            "start": 5.654,
+            "end": 6.089
+          },
+          {
+            "word": "between ",
+            "start": 6.1,
+            "end": 6.436
+          },
+          {
+            "word": "worker ",
+            "start": 6.447,
+            "end": 6.73
+          },
+          {
+            "word": "and ",
+            "start": 6.741,
+            "end": 6.904
+          },
+          {
+            "word": "employer. ",
+            "start": 6.915,
+            "end": 7.415
+          },
+          {
+            "word": "When ",
+            "start": 8.158,
+            "end": 8.376
+          },
+          {
+            "word": "the ",
+            "start": 8.386,
+            "end": 8.473
+          },
+          {
+            "word": "economy ",
+            "start": 8.484,
+            "end": 8.81
+          },
+          {
+            "word": "reopened, ",
+            "start": 8.821,
+            "end": 9.31
+          },
+          {
+            "word": "German ",
+            "start": 9.484,
+            "end": 9.832
+          },
+          {
+            "word": "workers ",
+            "start": 9.843,
+            "end": 10.223
+          },
+          {
+            "word": "returned ",
+            "start": 10.234,
+            "end": 10.593
+          },
+          {
+            "word": "to ",
+            "start": 10.604,
+            "end": 10.702
+          },
+          {
+            "word": "existing ",
+            "start": 10.713,
+            "end": 11.169
+          },
+          {
+            "word": "jobs.",
+            "start": 11.18,
+            "end": 11.647
+          }
+        ],
+        "start": 1947
       },
       {
         "type": "quote",
         "chunk_id": "ep5_problems_7",
         "audio_exists": true,
+        "audioPath": "episodes/ep5/audio/ep5_problems_7.wav",
         "text": "American workers had to find new ones. Both approaches prevented catastrophe. The difference was in the speed of recovery and the scarring effects on labour markets that would play out over subsequent years.",
-        "duration": 363,
-        "bgImage": "bg_abstract.jpg",
-        "wordTimings": null,
-        "start": 2565
+        "duration": 349,
+        "bgImage": "bg_interest_chart.jpg",
+        "wordTimings": [
+          {
+            "word": "American ",
+            "start": 0.1,
+            "end": 0.589
+          },
+          {
+            "word": "workers ",
+            "start": 0.6,
+            "end": 0.915
+          },
+          {
+            "word": "had ",
+            "start": 0.926,
+            "end": 1.056
+          },
+          {
+            "word": "to ",
+            "start": 1.067,
+            "end": 1.121
+          },
+          {
+            "word": "find ",
+            "start": 1.132,
+            "end": 1.447
+          },
+          {
+            "word": "new ",
+            "start": 1.458,
+            "end": 1.61
+          },
+          {
+            "word": "ones. ",
+            "start": 1.621,
+            "end": 2.1
+          },
+          {
+            "word": "Both ",
+            "start": 2.843,
+            "end": 3.093
+          },
+          {
+            "word": "approaches ",
+            "start": 3.104,
+            "end": 3.528
+          },
+          {
+            "word": "prevented ",
+            "start": 3.539,
+            "end": 3.93
+          },
+          {
+            "word": "catastrophe. ",
+            "start": 3.941,
+            "end": 4.593
+          },
+          {
+            "word": "The ",
+            "start": 5.343,
+            "end": 5.473
+          },
+          {
+            "word": "difference ",
+            "start": 5.484,
+            "end": 5.832
+          },
+          {
+            "word": "was ",
+            "start": 5.843,
+            "end": 5.973
+          },
+          {
+            "word": "in ",
+            "start": 5.984,
+            "end": 6.06
+          },
+          {
+            "word": "the ",
+            "start": 6.071,
+            "end": 6.147
+          },
+          {
+            "word": "speed ",
+            "start": 6.158,
+            "end": 6.408
+          },
+          {
+            "word": "of ",
+            "start": 6.419,
+            "end": 6.484
+          },
+          {
+            "word": "recovery ",
+            "start": 6.495,
+            "end": 6.93
+          },
+          {
+            "word": "and ",
+            "start": 6.941,
+            "end": 7.028
+          },
+          {
+            "word": "the ",
+            "start": 7.039,
+            "end": 7.104
+          },
+          {
+            "word": "scarring ",
+            "start": 7.115,
+            "end": 7.517
+          },
+          {
+            "word": "effects ",
+            "start": 7.528,
+            "end": 7.843
+          },
+          {
+            "word": "on ",
+            "start": 7.854,
+            "end": 7.963
+          },
+          {
+            "word": "labour ",
+            "start": 7.973,
+            "end": 8.223
+          },
+          {
+            "word": "markets ",
+            "start": 8.234,
+            "end": 8.636
+          },
+          {
+            "word": "that ",
+            "start": 8.647,
+            "end": 8.756
+          },
+          {
+            "word": "would ",
+            "start": 8.767,
+            "end": 8.886
+          },
+          {
+            "word": "play ",
+            "start": 8.897,
+            "end": 9.104
+          },
+          {
+            "word": "out ",
+            "start": 9.115,
+            "end": 9.332
+          },
+          {
+            "word": "over ",
+            "start": 9.343,
+            "end": 9.495
+          },
+          {
+            "word": "subsequent ",
+            "start": 9.506,
+            "end": 10.028
+          },
+          {
+            "word": "years.",
+            "start": 10.039,
+            "end": 10.463
+          }
+        ],
+        "start": 2332
       }
     ]
   },
   {
     "id": "ep5_solutions",
-    "title": "Episode 5 · Solutions",
-    "globalStart": 7172,
-    "duration": 3169,
+    "title": "Solutions",
+    "globalStart": 5525,
+    "duration": 2897,
     "subSlides": [
       {
         "type": "bumper",
         "start": 0,
         "duration": 90,
-        "title": "Episode 5 · Solutions"
+        "title": "Solutions"
       },
       {
         "type": "quote",
         "chunk_id": "ep5_solutions_0",
         "audio_exists": true,
+        "audioPath": "episodes/ep5/audio/ep5_solutions_0.wav",
         "text": "On March 25, 2020, Mitch McConnell announced that the CARES Act had cleared the Senate by ninety-six votes to zero. The House passed it by voice vote the following day. The President signed it that evening.",
-        "duration": 384,
-        "bgImage": "bg_toxicology.jpg",
-        "wordTimings": null,
+        "duration": 371,
+        "bgImage": "bg_qe_printer.jpg",
+        "wordTimings": [
+          {
+            "word": "On ",
+            "start": 0.1,
+            "end": 0.306
+          },
+          {
+            "word": "March 25, 2020, ",
+            "start": 0.317,
+            "end": 1.969
+          },
+          {
+            "word": "Mitch ",
+            "start": 2.143,
+            "end": 2.349
+          },
+          {
+            "word": "McConnell ",
+            "start": 2.36,
+            "end": 2.697
+          },
+          {
+            "word": "announced ",
+            "start": 2.708,
+            "end": 3.023
+          },
+          {
+            "word": "that ",
+            "start": 3.034,
+            "end": 3.121
+          },
+          {
+            "word": "the ",
+            "start": 3.132,
+            "end": 3.197
+          },
+          {
+            "word": "CARES ",
+            "start": 3.208,
+            "end": 3.502
+          },
+          {
+            "word": "Act ",
+            "start": 3.513,
+            "end": 3.686
+          },
+          {
+            "word": "had ",
+            "start": 3.697,
+            "end": 3.817
+          },
+          {
+            "word": "cleared ",
+            "start": 3.828,
+            "end": 4.1
+          },
+          {
+            "word": "the ",
+            "start": 4.11,
+            "end": 4.176
+          },
+          {
+            "word": "Senate ",
+            "start": 4.186,
+            "end": 4.469
+          },
+          {
+            "word": "by ",
+            "start": 4.48,
+            "end": 4.599
+          },
+          {
+            "word": "ninety-six ",
+            "start": 4.61,
+            "end": 5.208
+          },
+          {
+            "word": "votes ",
+            "start": 5.219,
+            "end": 5.502
+          },
+          {
+            "word": "to ",
+            "start": 5.513,
+            "end": 5.61
+          },
+          {
+            "word": "zero. ",
+            "start": 5.621,
+            "end": 6.045
+          },
+          {
+            "word": "The ",
+            "start": 6.789,
+            "end": 6.897
+          },
+          {
+            "word": "House ",
+            "start": 6.908,
+            "end": 7.158
+          },
+          {
+            "word": "passed ",
+            "start": 7.169,
+            "end": 7.452
+          },
+          {
+            "word": "it ",
+            "start": 7.463,
+            "end": 7.56
+          },
+          {
+            "word": "by ",
+            "start": 7.571,
+            "end": 7.713
+          },
+          {
+            "word": "voice ",
+            "start": 7.723,
+            "end": 8.017
+          },
+          {
+            "word": "vote ",
+            "start": 8.028,
+            "end": 8.223
+          },
+          {
+            "word": "the ",
+            "start": 8.234,
+            "end": 8.299
+          },
+          {
+            "word": "following ",
+            "start": 8.31,
+            "end": 8.658
+          },
+          {
+            "word": "day. ",
+            "start": 8.669,
+            "end": 8.995
+          },
+          {
+            "word": "The ",
+            "start": 9.745,
+            "end": 9.876
+          },
+          {
+            "word": "President ",
+            "start": 9.886,
+            "end": 10.278
+          },
+          {
+            "word": "signed ",
+            "start": 10.289,
+            "end": 10.528
+          },
+          {
+            "word": "it ",
+            "start": 10.539,
+            "end": 10.615
+          },
+          {
+            "word": "that ",
+            "start": 10.626,
+            "end": 10.789
+          },
+          {
+            "word": "evening.",
+            "start": 10.8,
+            "end": 11.191
+          }
+        ],
         "start": 90
       },
       {
         "type": "quote",
         "chunk_id": "ep5_solutions_1",
         "audio_exists": true,
+        "audioPath": "episodes/ep5/audio/ep5_solutions_1.wav",
         "text": "Seventeen days from pandemic declaration to the largest emergency spending bill in American history. The architecture was comprehensive.",
-        "duration": 276,
-        "bgImage": "bg_abstract.jpg",
-        "wordTimings": null,
-        "start": 474
+        "duration": 248,
+        "bgImage": "bg_fed_building.jpg",
+        "wordTimings": [
+          {
+            "word": "Seventeen ",
+            "start": 0.1,
+            "end": 0.61
+          },
+          {
+            "word": "days ",
+            "start": 0.621,
+            "end": 0.926
+          },
+          {
+            "word": "from ",
+            "start": 0.936,
+            "end": 1.078
+          },
+          {
+            "word": "pandemic ",
+            "start": 1.089,
+            "end": 1.556
+          },
+          {
+            "word": "declaration ",
+            "start": 1.567,
+            "end": 2.11
+          },
+          {
+            "word": "to ",
+            "start": 2.121,
+            "end": 2.197
+          },
+          {
+            "word": "the ",
+            "start": 2.208,
+            "end": 2.284
+          },
+          {
+            "word": "largest ",
+            "start": 2.295,
+            "end": 2.686
+          },
+          {
+            "word": "emergency ",
+            "start": 2.697,
+            "end": 3.186
+          },
+          {
+            "word": "spending ",
+            "start": 3.197,
+            "end": 3.578
+          },
+          {
+            "word": "bill ",
+            "start": 3.589,
+            "end": 3.784
+          },
+          {
+            "word": "in ",
+            "start": 3.795,
+            "end": 3.871
+          },
+          {
+            "word": "American ",
+            "start": 3.882,
+            "end": 4.252
+          },
+          {
+            "word": "history. ",
+            "start": 4.263,
+            "end": 4.665
+          },
+          {
+            "word": "The ",
+            "start": 5.408,
+            "end": 5.571
+          },
+          {
+            "word": "architecture ",
+            "start": 5.582,
+            "end": 6.136
+          },
+          {
+            "word": "was ",
+            "start": 6.147,
+            "end": 6.289
+          },
+          {
+            "word": "comprehensive.",
+            "start": 6.3,
+            "end": 7.093
+          }
+        ],
+        "start": 461
       },
       {
         "type": "quote",
         "chunk_id": "ep5_solutions_2",
         "audio_exists": true,
+        "audioPath": "episodes/ep5/audio/ep5_solutions_2.wav",
         "text": "Two-hundred-and-ninety-two billion dollars in direct household payments — twelve-hundred dollars per adult, five-hundred per child.",
-        "duration": 249,
-        "bgImage": "bg_abstract.jpg",
-        "wordTimings": null,
-        "start": 750
+        "duration": 222,
+        "bgImage": "bg_city_night.jpg",
+        "wordTimings": [
+          {
+            "word": "Two-hundred-and-ninety-two ",
+            "start": 0.1,
+            "end": 1.186
+          },
+          {
+            "word": "billion ",
+            "start": 1.197,
+            "end": 1.534
+          },
+          {
+            "word": "dollars ",
+            "start": 1.545,
+            "end": 1.839
+          },
+          {
+            "word": "in ",
+            "start": 1.85,
+            "end": 1.947
+          },
+          {
+            "word": "direct ",
+            "start": 1.958,
+            "end": 2.241
+          },
+          {
+            "word": "household ",
+            "start": 2.252,
+            "end": 2.741
+          },
+          {
+            "word": "payments — ",
+            "start": 2.752,
+            "end": 3.186
+          },
+          {
+            "word": "twelve-hundred ",
+            "start": 3.36,
+            "end": 3.926
+          },
+          {
+            "word": "dollars ",
+            "start": 3.936,
+            "end": 4.23
+          },
+          {
+            "word": "per ",
+            "start": 4.241,
+            "end": 4.404
+          },
+          {
+            "word": "adult, ",
+            "start": 4.415,
+            "end": 4.773
+          },
+          {
+            "word": "five-hundred ",
+            "start": 5.002,
+            "end": 5.523
+          },
+          {
+            "word": "per ",
+            "start": 5.534,
+            "end": 5.676
+          },
+          {
+            "word": "child.",
+            "start": 5.686,
+            "end": 6.241
+          }
+        ],
+        "start": 709
       },
       {
         "type": "quote",
         "chunk_id": "ep5_solutions_3",
         "audio_exists": true,
+        "audioPath": "episodes/ep5/audio/ep5_solutions_3.wav",
         "text": "Two-hundred-and-sixty-eight billion in enhanced unemployment benefits, including the six-hundred-dollar weekly supplement and new coverage for gig workers who had never qualified for unemployment before.",
-        "duration": 360,
-        "bgImage": "bg_abstract.jpg",
-        "wordTimings": null,
-        "start": 999
+        "duration": 293,
+        "bgImage": "bg_recovery.jpg",
+        "wordTimings": [
+          {
+            "word": "Two-hundred-and-sixty-eight ",
+            "start": 0.1,
+            "end": 1.165
+          },
+          {
+            "word": "billion ",
+            "start": 1.176,
+            "end": 1.469
+          },
+          {
+            "word": "in ",
+            "start": 1.48,
+            "end": 1.556
+          },
+          {
+            "word": "enhanced ",
+            "start": 1.567,
+            "end": 1.947
+          },
+          {
+            "word": "unemployment ",
+            "start": 1.958,
+            "end": 2.523
+          },
+          {
+            "word": "benefits, ",
+            "start": 2.534,
+            "end": 2.98
+          },
+          {
+            "word": "including ",
+            "start": 3.154,
+            "end": 3.556
+          },
+          {
+            "word": "the ",
+            "start": 3.567,
+            "end": 3.632
+          },
+          {
+            "word": "six-hundred-dollar ",
+            "start": 3.643,
+            "end": 4.349
+          },
+          {
+            "word": "weekly ",
+            "start": 4.36,
+            "end": 4.654
+          },
+          {
+            "word": "supplement ",
+            "start": 4.665,
+            "end": 5.121
+          },
+          {
+            "word": "and ",
+            "start": 5.132,
+            "end": 5.219
+          },
+          {
+            "word": "new ",
+            "start": 5.23,
+            "end": 5.382
+          },
+          {
+            "word": "coverage ",
+            "start": 5.393,
+            "end": 5.763
+          },
+          {
+            "word": "for ",
+            "start": 5.773,
+            "end": 5.871
+          },
+          {
+            "word": "gig ",
+            "start": 5.882,
+            "end": 6.067
+          },
+          {
+            "word": "workers ",
+            "start": 6.078,
+            "end": 6.458
+          },
+          {
+            "word": "who ",
+            "start": 6.469,
+            "end": 6.589
+          },
+          {
+            "word": "had ",
+            "start": 6.6,
+            "end": 6.719
+          },
+          {
+            "word": "never ",
+            "start": 6.73,
+            "end": 6.936
+          },
+          {
+            "word": "qualified ",
+            "start": 6.947,
+            "end": 7.447
+          },
+          {
+            "word": "for ",
+            "start": 7.458,
+            "end": 7.567
+          },
+          {
+            "word": "unemployment ",
+            "start": 7.578,
+            "end": 8.165
+          },
+          {
+            "word": "before.",
+            "start": 8.176,
+            "end": 8.599
+          }
+        ],
+        "start": 931
       },
       {
         "type": "quote",
         "chunk_id": "ep5_solutions_4",
         "audio_exists": true,
+        "audioPath": "episodes/ep5/audio/ep5_solutions_4.wav",
         "text": "Eight-hundred-and-thirteen billion in total Paycheck Protection Program loans for small businesses, forgivable if companies retained their employees. The Federal Reserve activated nine separate emergency lending facilities in twenty-five days.",
-        "duration": 437,
-        "bgImage": "bg_lifestyle.jpg",
-        "wordTimings": null,
-        "start": 1359
+        "duration": 391,
+        "bgImage": "bg_qe_printer.jpg",
+        "wordTimings": [
+          {
+            "word": "Eight-hundred-and-thirteen ",
+            "start": 0.1,
+            "end": 1.056
+          },
+          {
+            "word": "billion ",
+            "start": 1.067,
+            "end": 1.371
+          },
+          {
+            "word": "in ",
+            "start": 1.382,
+            "end": 1.502
+          },
+          {
+            "word": "total ",
+            "start": 1.513,
+            "end": 1.828
+          },
+          {
+            "word": "Paycheck ",
+            "start": 1.839,
+            "end": 2.197
+          },
+          {
+            "word": "Protection ",
+            "start": 2.208,
+            "end": 2.643
+          },
+          {
+            "word": "Program ",
+            "start": 2.654,
+            "end": 3.067
+          },
+          {
+            "word": "loans ",
+            "start": 3.078,
+            "end": 3.447
+          },
+          {
+            "word": "for ",
+            "start": 3.458,
+            "end": 3.545
+          },
+          {
+            "word": "small ",
+            "start": 3.556,
+            "end": 3.871
+          },
+          {
+            "word": "businesses, ",
+            "start": 3.882,
+            "end": 4.371
+          },
+          {
+            "word": "forgivable ",
+            "start": 4.545,
+            "end": 4.947
+          },
+          {
+            "word": "if ",
+            "start": 4.958,
+            "end": 5.034
+          },
+          {
+            "word": "companies ",
+            "start": 5.045,
+            "end": 5.458
+          },
+          {
+            "word": "retained ",
+            "start": 5.469,
+            "end": 5.817
+          },
+          {
+            "word": "their ",
+            "start": 5.828,
+            "end": 5.947
+          },
+          {
+            "word": "employees. ",
+            "start": 5.958,
+            "end": 6.697
+          },
+          {
+            "word": "The ",
+            "start": 7.441,
+            "end": 7.582
+          },
+          {
+            "word": "Federal ",
+            "start": 7.593,
+            "end": 7.952
+          },
+          {
+            "word": "Reserve ",
+            "start": 7.963,
+            "end": 8.299
+          },
+          {
+            "word": "activated ",
+            "start": 8.31,
+            "end": 8.789
+          },
+          {
+            "word": "nine ",
+            "start": 8.8,
+            "end": 9.093
+          },
+          {
+            "word": "separate ",
+            "start": 9.104,
+            "end": 9.43
+          },
+          {
+            "word": "emergency ",
+            "start": 9.441,
+            "end": 9.919
+          },
+          {
+            "word": "lending ",
+            "start": 9.93,
+            "end": 10.213
+          },
+          {
+            "word": "facilities ",
+            "start": 10.223,
+            "end": 10.702
+          },
+          {
+            "word": "in ",
+            "start": 10.713,
+            "end": 10.821
+          },
+          {
+            "word": "twenty-five ",
+            "start": 10.832,
+            "end": 11.408
+          },
+          {
+            "word": "days.",
+            "start": 11.419,
+            "end": 11.876
+          }
+        ],
+        "start": 1224
       },
       {
         "type": "quote",
         "chunk_id": "ep5_solutions_5",
         "audio_exists": true,
+        "audioPath": "episodes/ep5/audio/ep5_solutions_5.wav",
         "text": "Some were adapted from 2008. Some were new — including, for the first time, a facility to purchase corporate bonds directly. The Fed moved faster and further than it had in the entire first year following Lehman Brothers.",
         "duration": 404,
-        "bgImage": "bg_toxicology.jpg",
-        "wordTimings": null,
-        "start": 1796
+        "bgImage": "bg_fed_building.jpg",
+        "wordTimings": [
+          {
+            "word": "Some ",
+            "start": 0.1,
+            "end": 0.371
+          },
+          {
+            "word": "were ",
+            "start": 0.382,
+            "end": 0.513
+          },
+          {
+            "word": "adapted ",
+            "start": 0.523,
+            "end": 0.915
+          },
+          {
+            "word": "from 2008. ",
+            "start": 0.926,
+            "end": 2.034
+          },
+          {
+            "word": "Some ",
+            "start": 2.778,
+            "end": 3.082
+          },
+          {
+            "word": "were ",
+            "start": 3.093,
+            "end": 3.169
+          },
+          {
+            "word": "new — ",
+            "start": 3.18,
+            "end": 3.484
+          },
+          {
+            "word": "including, ",
+            "start": 3.669,
+            "end": 4.136
+          },
+          {
+            "word": "for ",
+            "start": 4.31,
+            "end": 4.376
+          },
+          {
+            "word": "the ",
+            "start": 4.386,
+            "end": 4.463
+          },
+          {
+            "word": "first ",
+            "start": 4.473,
+            "end": 4.799
+          },
+          {
+            "word": "time, ",
+            "start": 4.81,
+            "end": 5.126
+          },
+          {
+            "word": "a ",
+            "start": 5.321,
+            "end": 5.354
+          },
+          {
+            "word": "facility ",
+            "start": 5.365,
+            "end": 5.854
+          },
+          {
+            "word": "to ",
+            "start": 5.865,
+            "end": 5.963
+          },
+          {
+            "word": "purchase ",
+            "start": 5.973,
+            "end": 6.365
+          },
+          {
+            "word": "corporate ",
+            "start": 6.376,
+            "end": 6.789
+          },
+          {
+            "word": "bonds ",
+            "start": 6.8,
+            "end": 7.039
+          },
+          {
+            "word": "directly. ",
+            "start": 7.05,
+            "end": 7.56
+          },
+          {
+            "word": "The ",
+            "start": 8.31,
+            "end": 8.43
+          },
+          {
+            "word": "Fed ",
+            "start": 8.441,
+            "end": 8.647
+          },
+          {
+            "word": "moved ",
+            "start": 8.658,
+            "end": 8.865
+          },
+          {
+            "word": "faster ",
+            "start": 8.876,
+            "end": 9.234
+          },
+          {
+            "word": "and ",
+            "start": 9.245,
+            "end": 9.397
+          },
+          {
+            "word": "further ",
+            "start": 9.408,
+            "end": 9.702
+          },
+          {
+            "word": "than ",
+            "start": 9.713,
+            "end": 9.821
+          },
+          {
+            "word": "it ",
+            "start": 9.832,
+            "end": 9.908
+          },
+          {
+            "word": "had ",
+            "start": 9.919,
+            "end": 10.06
+          },
+          {
+            "word": "in ",
+            "start": 10.071,
+            "end": 10.126
+          },
+          {
+            "word": "the ",
+            "start": 10.136,
+            "end": 10.213
+          },
+          {
+            "word": "entire ",
+            "start": 10.223,
+            "end": 10.604
+          },
+          {
+            "word": "first ",
+            "start": 10.615,
+            "end": 10.93
+          },
+          {
+            "word": "year ",
+            "start": 10.941,
+            "end": 11.18
+          },
+          {
+            "word": "following ",
+            "start": 11.191,
+            "end": 11.517
+          },
+          {
+            "word": "Lehman ",
+            "start": 11.528,
+            "end": 11.81
+          },
+          {
+            "word": "Brothers.",
+            "start": 11.821,
+            "end": 12.267
+          }
+        ],
+        "start": 1615
       },
       {
         "type": "quote",
         "chunk_id": "ep5_solutions_6",
         "audio_exists": true,
+        "audioPath": "episodes/ep5/audio/ep5_solutions_6.wav",
         "text": "The American Rescue Plan, signed in March 2021, added one-point-nine trillion in additional support.",
-        "duration": 222,
-        "bgImage": "bg_lab.jpg",
-        "wordTimings": null,
-        "start": 2200
+        "duration": 203,
+        "bgImage": "bg_city_night.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.263
+          },
+          {
+            "word": "American ",
+            "start": 0.273,
+            "end": 0.686
+          },
+          {
+            "word": "Rescue ",
+            "start": 0.697,
+            "end": 1.002
+          },
+          {
+            "word": "Plan, ",
+            "start": 1.013,
+            "end": 1.339
+          },
+          {
+            "word": "signed ",
+            "start": 1.491,
+            "end": 1.752
+          },
+          {
+            "word": "in ",
+            "start": 1.763,
+            "end": 1.871
+          },
+          {
+            "word": "March 2021, ",
+            "start": 1.882,
+            "end": 3.056
+          },
+          {
+            "word": "added ",
+            "start": 3.219,
+            "end": 3.436
+          },
+          {
+            "word": "one-point-nine ",
+            "start": 3.447,
+            "end": 4.176
+          },
+          {
+            "word": "trillion ",
+            "start": 4.186,
+            "end": 4.567
+          },
+          {
+            "word": "in ",
+            "start": 4.578,
+            "end": 4.686
+          },
+          {
+            "word": "additional ",
+            "start": 4.697,
+            "end": 5.11
+          },
+          {
+            "word": "support.",
+            "start": 5.121,
+            "end": 5.6
+          }
+        ],
+        "start": 2019
       },
       {
         "type": "quote",
         "chunk_id": "ep5_solutions_7",
         "audio_exists": true,
+        "audioPath": "episodes/ep5/audio/ep5_solutions_7.wav",
         "text": "The expanded Child Tax Credit, providing monthly payments to families with children, reduced child poverty to its lowest recorded level in American history — one of the most rapid anti-poverty interventions ever implemented.",
-        "duration": 418,
-        "bgImage": "bg_demographics.jpg",
-        "wordTimings": null,
-        "start": 2422
+        "duration": 342,
+        "bgImage": "bg_recovery.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.263
+          },
+          {
+            "word": "expanded ",
+            "start": 0.273,
+            "end": 0.719
+          },
+          {
+            "word": "Child ",
+            "start": 0.73,
+            "end": 1.034
+          },
+          {
+            "word": "Tax ",
+            "start": 1.045,
+            "end": 1.284
+          },
+          {
+            "word": "Credit, ",
+            "start": 1.295,
+            "end": 1.665
+          },
+          {
+            "word": "providing ",
+            "start": 1.806,
+            "end": 2.219
+          },
+          {
+            "word": "monthly ",
+            "start": 2.23,
+            "end": 2.523
+          },
+          {
+            "word": "payments ",
+            "start": 2.534,
+            "end": 2.893
+          },
+          {
+            "word": "to ",
+            "start": 2.904,
+            "end": 2.98
+          },
+          {
+            "word": "families ",
+            "start": 2.991,
+            "end": 3.404
+          },
+          {
+            "word": "with ",
+            "start": 3.415,
+            "end": 3.545
+          },
+          {
+            "word": "children, ",
+            "start": 3.556,
+            "end": 3.958
+          },
+          {
+            "word": "reduced ",
+            "start": 4.1,
+            "end": 4.436
+          },
+          {
+            "word": "child ",
+            "start": 4.447,
+            "end": 4.73
+          },
+          {
+            "word": "poverty ",
+            "start": 4.741,
+            "end": 5.056
+          },
+          {
+            "word": "to ",
+            "start": 5.067,
+            "end": 5.186
+          },
+          {
+            "word": "its ",
+            "start": 5.197,
+            "end": 5.328
+          },
+          {
+            "word": "lowest ",
+            "start": 5.339,
+            "end": 5.686
+          },
+          {
+            "word": "recorded ",
+            "start": 5.697,
+            "end": 6.11
+          },
+          {
+            "word": "level ",
+            "start": 6.121,
+            "end": 6.393
+          },
+          {
+            "word": "in ",
+            "start": 6.404,
+            "end": 6.469
+          },
+          {
+            "word": "American ",
+            "start": 6.48,
+            "end": 6.86
+          },
+          {
+            "word": "history — ",
+            "start": 6.871,
+            "end": 7.241
+          },
+          {
+            "word": "one ",
+            "start": 7.447,
+            "end": 7.589
+          },
+          {
+            "word": "of ",
+            "start": 7.6,
+            "end": 7.654
+          },
+          {
+            "word": "the ",
+            "start": 7.665,
+            "end": 7.719
+          },
+          {
+            "word": "most ",
+            "start": 7.73,
+            "end": 7.98
+          },
+          {
+            "word": "rapid ",
+            "start": 7.991,
+            "end": 8.273
+          },
+          {
+            "word": "anti-poverty ",
+            "start": 8.284,
+            "end": 8.86
+          },
+          {
+            "word": "interventions ",
+            "start": 8.871,
+            "end": 9.458
+          },
+          {
+            "word": "ever ",
+            "start": 9.469,
+            "end": 9.61
+          },
+          {
+            "word": "implemented.",
+            "start": 9.621,
+            "end": 10.219
+          }
+        ],
+        "start": 2222
       },
       {
         "type": "quote",
         "chunk_id": "ep5_solutions_8",
         "audio_exists": true,
+        "audioPath": "episodes/ep5/audio/ep5_solutions_8.wav",
         "text": "The scale of the response worked. Twenty-two million jobs were recovered in twenty-eight months. After 2008, the same number of jobs had taken seventy-eight months to recover.",
-        "duration": 329,
-        "bgImage": "bg_abstract.jpg",
-        "wordTimings": null,
-        "start": 2840
+        "duration": 333,
+        "bgImage": "bg_qe_printer.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "scale ",
+            "start": 0.241,
+            "end": 0.567
+          },
+          {
+            "word": "of ",
+            "start": 0.578,
+            "end": 0.632
+          },
+          {
+            "word": "the ",
+            "start": 0.643,
+            "end": 0.708
+          },
+          {
+            "word": "response ",
+            "start": 0.719,
+            "end": 1.132
+          },
+          {
+            "word": "worked. ",
+            "start": 1.143,
+            "end": 1.567
+          },
+          {
+            "word": "Twenty-two ",
+            "start": 2.31,
+            "end": 2.876
+          },
+          {
+            "word": "million ",
+            "start": 2.886,
+            "end": 3.245
+          },
+          {
+            "word": "jobs ",
+            "start": 3.256,
+            "end": 3.539
+          },
+          {
+            "word": "were ",
+            "start": 3.55,
+            "end": 3.647
+          },
+          {
+            "word": "recovered ",
+            "start": 3.658,
+            "end": 4.049
+          },
+          {
+            "word": "in ",
+            "start": 4.06,
+            "end": 4.158
+          },
+          {
+            "word": "twenty-eight ",
+            "start": 4.169,
+            "end": 4.647
+          },
+          {
+            "word": "months. ",
+            "start": 4.658,
+            "end": 5.104
+          },
+          {
+            "word": "After 2008, ",
+            "start": 5.854,
+            "end": 6.984
+          },
+          {
+            "word": "the ",
+            "start": 7.093,
+            "end": 7.18
+          },
+          {
+            "word": "same ",
+            "start": 7.191,
+            "end": 7.441
+          },
+          {
+            "word": "number ",
+            "start": 7.452,
+            "end": 7.68
+          },
+          {
+            "word": "of ",
+            "start": 7.691,
+            "end": 7.778
+          },
+          {
+            "word": "jobs ",
+            "start": 7.789,
+            "end": 8.104
+          },
+          {
+            "word": "had ",
+            "start": 8.115,
+            "end": 8.245
+          },
+          {
+            "word": "taken ",
+            "start": 8.256,
+            "end": 8.56
+          },
+          {
+            "word": "seventy-eight ",
+            "start": 8.571,
+            "end": 9.093
+          },
+          {
+            "word": "months ",
+            "start": 9.104,
+            "end": 9.354
+          },
+          {
+            "word": "to ",
+            "start": 9.365,
+            "end": 9.441
+          },
+          {
+            "word": "recover.",
+            "start": 9.452,
+            "end": 9.908
+          }
+        ],
+        "start": 2564
       }
     ]
   },
   {
     "id": "ep5_results",
-    "title": "Episode 5 · Results",
-    "globalStart": 10341,
-    "duration": 3718,
+    "title": "Results",
+    "globalStart": 8422,
+    "duration": 4164,
     "subSlides": [
       {
         "type": "bumper",
         "start": 0,
         "duration": 90,
-        "title": "Episode 5 · Results"
+        "title": "Results"
       },
       {
         "type": "chart",
         "start": 90,
-        "duration": 699,
+        "duration": 905,
         "chartSrc": "debt_gdp.png",
         "title": "Government Debt-to-GDP Ratio (G7, 1980–2024)",
         "audioSrc": "audio/charts/chart_debt_gdp.wav"
@@ -334,94 +3689,1497 @@
         "type": "quote",
         "chunk_id": "ep5_results_0",
         "audio_exists": true,
+        "audioPath": "episodes/ep5/audio/ep5_results_0.wav",
         "text": "The COVID-19 economic response produced contradictions so sharp that they read as almost deliberately constructed.",
-        "duration": 240,
-        "bgImage": "bg_demographics.jpg",
-        "wordTimings": null,
-        "start": 789
+        "duration": 198,
+        "bgImage": "bg_recovery.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.219
+          },
+          {
+            "word": "COVID-19 ",
+            "start": 0.23,
+            "end": 1.078
+          },
+          {
+            "word": "economic ",
+            "start": 1.089,
+            "end": 1.513
+          },
+          {
+            "word": "response ",
+            "start": 1.523,
+            "end": 1.915
+          },
+          {
+            "word": "produced ",
+            "start": 1.926,
+            "end": 2.306
+          },
+          {
+            "word": "contradictions ",
+            "start": 2.317,
+            "end": 2.936
+          },
+          {
+            "word": "so ",
+            "start": 2.947,
+            "end": 3.11
+          },
+          {
+            "word": "sharp ",
+            "start": 3.121,
+            "end": 3.404
+          },
+          {
+            "word": "that ",
+            "start": 3.415,
+            "end": 3.502
+          },
+          {
+            "word": "they ",
+            "start": 3.513,
+            "end": 3.599
+          },
+          {
+            "word": "read ",
+            "start": 3.61,
+            "end": 3.85
+          },
+          {
+            "word": "as ",
+            "start": 3.86,
+            "end": 3.969
+          },
+          {
+            "word": "almost ",
+            "start": 3.98,
+            "end": 4.306
+          },
+          {
+            "word": "deliberately ",
+            "start": 4.317,
+            "end": 4.773
+          },
+          {
+            "word": "constructed.",
+            "start": 4.784,
+            "end": 5.426
+          }
+        ],
+        "start": 995
       },
       {
         "type": "quote",
         "chunk_id": "ep5_results_1",
         "audio_exists": true,
+        "audioPath": "episodes/ep5/audio/ep5_results_1.wav",
         "text": "The same policy decisions that pushed child poverty to generational lows also contributed to an inflation surge that would consume real wages for two years.",
-        "duration": 300,
-        "bgImage": "bg_lab.jpg",
-        "wordTimings": null,
-        "start": 1029
+        "duration": 250,
+        "bgImage": "bg_inflation_cash.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "same ",
+            "start": 0.241,
+            "end": 0.458
+          },
+          {
+            "word": "policy ",
+            "start": 0.469,
+            "end": 0.784
+          },
+          {
+            "word": "decisions ",
+            "start": 0.795,
+            "end": 1.23
+          },
+          {
+            "word": "that ",
+            "start": 1.241,
+            "end": 1.404
+          },
+          {
+            "word": "pushed ",
+            "start": 1.415,
+            "end": 1.643
+          },
+          {
+            "word": "child ",
+            "start": 1.654,
+            "end": 1.947
+          },
+          {
+            "word": "poverty ",
+            "start": 1.958,
+            "end": 2.263
+          },
+          {
+            "word": "to ",
+            "start": 2.273,
+            "end": 2.36
+          },
+          {
+            "word": "generational ",
+            "start": 2.371,
+            "end": 2.947
+          },
+          {
+            "word": "lows ",
+            "start": 2.958,
+            "end": 3.241
+          },
+          {
+            "word": "also ",
+            "start": 3.252,
+            "end": 3.534
+          },
+          {
+            "word": "contributed ",
+            "start": 3.545,
+            "end": 4.078
+          },
+          {
+            "word": "to ",
+            "start": 4.089,
+            "end": 4.186
+          },
+          {
+            "word": "an ",
+            "start": 4.197,
+            "end": 4.263
+          },
+          {
+            "word": "inflation ",
+            "start": 4.273,
+            "end": 4.741
+          },
+          {
+            "word": "surge ",
+            "start": 4.752,
+            "end": 5.034
+          },
+          {
+            "word": "that ",
+            "start": 5.045,
+            "end": 5.165
+          },
+          {
+            "word": "would ",
+            "start": 5.176,
+            "end": 5.284
+          },
+          {
+            "word": "consume ",
+            "start": 5.295,
+            "end": 5.697
+          },
+          {
+            "word": "real ",
+            "start": 5.708,
+            "end": 5.958
+          },
+          {
+            "word": "wages ",
+            "start": 5.969,
+            "end": 6.306
+          },
+          {
+            "word": "for ",
+            "start": 6.317,
+            "end": 6.426
+          },
+          {
+            "word": "two ",
+            "start": 6.436,
+            "end": 6.676
+          },
+          {
+            "word": "years.",
+            "start": 6.686,
+            "end": 7.165
+          }
+        ],
+        "start": 1193
       },
       {
         "type": "quote",
         "chunk_id": "ep5_results_2",
         "audio_exists": true,
+        "audioPath": "episodes/ep5/audio/ep5_results_2.wav",
         "text": "The same emergency transfers that prevented economic collapse also seeded the fiscal and monetary conditions for the next crisis. The positive results were genuine. Twenty-two million jobs recovered in twenty-eight months.",
-        "duration": 414,
-        "bgImage": "bg_lifestyle.jpg",
-        "wordTimings": null,
-        "start": 1329
+        "duration": 383,
+        "bgImage": "bg_city_night.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.252
+          },
+          {
+            "word": "same ",
+            "start": 0.263,
+            "end": 0.502
+          },
+          {
+            "word": "emergency ",
+            "start": 0.513,
+            "end": 0.969
+          },
+          {
+            "word": "transfers ",
+            "start": 0.98,
+            "end": 1.469
+          },
+          {
+            "word": "that ",
+            "start": 1.48,
+            "end": 1.599
+          },
+          {
+            "word": "prevented ",
+            "start": 1.61,
+            "end": 1.98
+          },
+          {
+            "word": "economic ",
+            "start": 1.991,
+            "end": 2.393
+          },
+          {
+            "word": "collapse ",
+            "start": 2.404,
+            "end": 2.784
+          },
+          {
+            "word": "also ",
+            "start": 2.795,
+            "end": 3.143
+          },
+          {
+            "word": "seeded ",
+            "start": 3.154,
+            "end": 3.447
+          },
+          {
+            "word": "the ",
+            "start": 3.458,
+            "end": 3.523
+          },
+          {
+            "word": "fiscal ",
+            "start": 3.534,
+            "end": 3.926
+          },
+          {
+            "word": "and ",
+            "start": 3.936,
+            "end": 4.023
+          },
+          {
+            "word": "monetary ",
+            "start": 4.034,
+            "end": 4.382
+          },
+          {
+            "word": "conditions ",
+            "start": 4.393,
+            "end": 4.849
+          },
+          {
+            "word": "for ",
+            "start": 4.86,
+            "end": 4.926
+          },
+          {
+            "word": "the ",
+            "start": 4.936,
+            "end": 5.013
+          },
+          {
+            "word": "next ",
+            "start": 5.023,
+            "end": 5.295
+          },
+          {
+            "word": "crisis. ",
+            "start": 5.306,
+            "end": 5.882
+          },
+          {
+            "word": "The ",
+            "start": 6.626,
+            "end": 6.767
+          },
+          {
+            "word": "positive ",
+            "start": 6.778,
+            "end": 7.136
+          },
+          {
+            "word": "results ",
+            "start": 7.147,
+            "end": 7.506
+          },
+          {
+            "word": "were ",
+            "start": 7.517,
+            "end": 7.604
+          },
+          {
+            "word": "genuine. ",
+            "start": 7.615,
+            "end": 8.191
+          },
+          {
+            "word": "Twenty-two ",
+            "start": 8.941,
+            "end": 9.506
+          },
+          {
+            "word": "million ",
+            "start": 9.517,
+            "end": 9.876
+          },
+          {
+            "word": "jobs ",
+            "start": 9.886,
+            "end": 10.147
+          },
+          {
+            "word": "recovered ",
+            "start": 10.158,
+            "end": 10.528
+          },
+          {
+            "word": "in ",
+            "start": 10.539,
+            "end": 10.636
+          },
+          {
+            "word": "twenty-eight ",
+            "start": 10.647,
+            "end": 11.126
+          },
+          {
+            "word": "months.",
+            "start": 11.136,
+            "end": 11.582
+          }
+        ],
+        "start": 1443
       },
       {
         "type": "quote",
         "chunk_id": "ep5_results_3",
         "audio_exists": true,
+        "audioPath": "episodes/ep5/audio/ep5_results_3.wav",
         "text": "Child poverty rates fell from eighteen to twelve percent in a single year. Operation Warp Speed produced two authorised vaccines in under twelve months — a scientific achievement that had required eight to ten years on any previous timeline.",
-        "duration": 423,
-        "bgImage": "bg_toxicology.jpg",
-        "wordTimings": null,
-        "start": 1743
+        "duration": 389,
+        "bgImage": "bg_interest_chart.jpg",
+        "wordTimings": [
+          {
+            "word": "Child ",
+            "start": 0.1,
+            "end": 0.469
+          },
+          {
+            "word": "poverty ",
+            "start": 0.48,
+            "end": 0.773
+          },
+          {
+            "word": "rates ",
+            "start": 0.784,
+            "end": 1.045
+          },
+          {
+            "word": "fell ",
+            "start": 1.056,
+            "end": 1.273
+          },
+          {
+            "word": "from ",
+            "start": 1.284,
+            "end": 1.426
+          },
+          {
+            "word": "eighteen ",
+            "start": 1.436,
+            "end": 1.828
+          },
+          {
+            "word": "to ",
+            "start": 1.839,
+            "end": 1.926
+          },
+          {
+            "word": "twelve ",
+            "start": 1.936,
+            "end": 2.208
+          },
+          {
+            "word": "percent ",
+            "start": 2.219,
+            "end": 2.589
+          },
+          {
+            "word": "in ",
+            "start": 2.6,
+            "end": 2.676
+          },
+          {
+            "word": "a ",
+            "start": 2.686,
+            "end": 2.73
+          },
+          {
+            "word": "single ",
+            "start": 2.741,
+            "end": 3.099
+          },
+          {
+            "word": "year. ",
+            "start": 3.11,
+            "end": 3.447
+          },
+          {
+            "word": "Operation ",
+            "start": 4.191,
+            "end": 4.756
+          },
+          {
+            "word": "Warp ",
+            "start": 4.767,
+            "end": 5.028
+          },
+          {
+            "word": "Speed ",
+            "start": 5.039,
+            "end": 5.321
+          },
+          {
+            "word": "produced ",
+            "start": 5.332,
+            "end": 5.669
+          },
+          {
+            "word": "two ",
+            "start": 5.68,
+            "end": 5.886
+          },
+          {
+            "word": "authorised ",
+            "start": 5.897,
+            "end": 6.386
+          },
+          {
+            "word": "vaccines ",
+            "start": 6.397,
+            "end": 6.908
+          },
+          {
+            "word": "in ",
+            "start": 6.919,
+            "end": 7.006
+          },
+          {
+            "word": "under ",
+            "start": 7.017,
+            "end": 7.202
+          },
+          {
+            "word": "twelve ",
+            "start": 7.213,
+            "end": 7.506
+          },
+          {
+            "word": "months — ",
+            "start": 7.517,
+            "end": 7.821
+          },
+          {
+            "word": "a ",
+            "start": 7.995,
+            "end": 8.049
+          },
+          {
+            "word": "scientific ",
+            "start": 8.06,
+            "end": 8.636
+          },
+          {
+            "word": "achievement ",
+            "start": 8.647,
+            "end": 9.115
+          },
+          {
+            "word": "that ",
+            "start": 9.126,
+            "end": 9.223
+          },
+          {
+            "word": "had ",
+            "start": 9.234,
+            "end": 9.332
+          },
+          {
+            "word": "required ",
+            "start": 9.343,
+            "end": 9.745
+          },
+          {
+            "word": "eight ",
+            "start": 9.756,
+            "end": 9.897
+          },
+          {
+            "word": "to ",
+            "start": 9.908,
+            "end": 9.963
+          },
+          {
+            "word": "ten ",
+            "start": 9.973,
+            "end": 10.213
+          },
+          {
+            "word": "years ",
+            "start": 10.223,
+            "end": 10.506
+          },
+          {
+            "word": "on ",
+            "start": 10.517,
+            "end": 10.636
+          },
+          {
+            "word": "any ",
+            "start": 10.647,
+            "end": 10.81
+          },
+          {
+            "word": "previous ",
+            "start": 10.821,
+            "end": 11.234
+          },
+          {
+            "word": "timeline.",
+            "start": 11.245,
+            "end": 11.799
+          }
+        ],
+        "start": 1826
       },
       {
         "type": "quote",
         "chunk_id": "ep5_results_4",
         "audio_exists": true,
+        "audioPath": "episodes/ep5/audio/ep5_results_4.wav",
         "text": "Remote work, forced on reluctant employers by necessity, turned out to preserve eighty-seven percent of in-office productivity, permanently reshaping the geography of employment. The negative results were also genuine.",
-        "duration": 396,
-        "bgImage": "bg_demographics.jpg",
-        "wordTimings": null,
-        "start": 2166
+        "duration": 367,
+        "bgImage": "bg_recovery.jpg",
+        "wordTimings": [
+          {
+            "word": "Remote ",
+            "start": 0.1,
+            "end": 0.513
+          },
+          {
+            "word": "work, ",
+            "start": 0.523,
+            "end": 0.839
+          },
+          {
+            "word": "forced ",
+            "start": 1.013,
+            "end": 1.263
+          },
+          {
+            "word": "on ",
+            "start": 1.273,
+            "end": 1.393
+          },
+          {
+            "word": "reluctant ",
+            "start": 1.404,
+            "end": 1.806
+          },
+          {
+            "word": "employers ",
+            "start": 1.817,
+            "end": 2.219
+          },
+          {
+            "word": "by ",
+            "start": 2.23,
+            "end": 2.339
+          },
+          {
+            "word": "necessity, ",
+            "start": 2.35,
+            "end": 2.915
+          },
+          {
+            "word": "turned ",
+            "start": 3.11,
+            "end": 3.339
+          },
+          {
+            "word": "out ",
+            "start": 3.35,
+            "end": 3.502
+          },
+          {
+            "word": "to ",
+            "start": 3.513,
+            "end": 3.578
+          },
+          {
+            "word": "preserve ",
+            "start": 3.589,
+            "end": 3.991
+          },
+          {
+            "word": "eighty-seven ",
+            "start": 4.002,
+            "end": 4.502
+          },
+          {
+            "word": "percent ",
+            "start": 4.513,
+            "end": 4.849
+          },
+          {
+            "word": "of ",
+            "start": 4.86,
+            "end": 4.926
+          },
+          {
+            "word": "in-office ",
+            "start": 4.936,
+            "end": 5.284
+          },
+          {
+            "word": "productivity, ",
+            "start": 5.295,
+            "end": 5.947
+          },
+          {
+            "word": "permanently ",
+            "start": 6.132,
+            "end": 6.61
+          },
+          {
+            "word": "reshaping ",
+            "start": 6.621,
+            "end": 7.143
+          },
+          {
+            "word": "the ",
+            "start": 7.154,
+            "end": 7.23
+          },
+          {
+            "word": "geography ",
+            "start": 7.241,
+            "end": 7.773
+          },
+          {
+            "word": "of ",
+            "start": 7.784,
+            "end": 7.86
+          },
+          {
+            "word": "employment. ",
+            "start": 7.871,
+            "end": 8.469
+          },
+          {
+            "word": "The ",
+            "start": 9.213,
+            "end": 9.332
+          },
+          {
+            "word": "negative ",
+            "start": 9.343,
+            "end": 9.702
+          },
+          {
+            "word": "results ",
+            "start": 9.713,
+            "end": 10.06
+          },
+          {
+            "word": "were ",
+            "start": 10.071,
+            "end": 10.202
+          },
+          {
+            "word": "also ",
+            "start": 10.213,
+            "end": 10.539
+          },
+          {
+            "word": "genuine.",
+            "start": 10.55,
+            "end": 11.06
+          }
+        ],
+        "start": 2215
       },
       {
         "type": "quote",
         "chunk_id": "ep5_results_5",
         "audio_exists": true,
+        "audioPath": "episodes/ep5/audio/ep5_results_5.wav",
         "text": "One-point-two million excess deaths in the United States, concentrated among elderly and minority populations, representing the largest demographic shock since World War Two. Third-grade reading proficiency fell to its lowest level in thirty years.",
-        "duration": 449,
-        "bgImage": "bg_lifestyle.jpg",
-        "wordTimings": null,
-        "start": 2562
+        "duration": 419,
+        "bgImage": "bg_inflation_cash.jpg",
+        "wordTimings": [
+          {
+            "word": "One-point-two ",
+            "start": 0.1,
+            "end": 0.795
+          },
+          {
+            "word": "million ",
+            "start": 0.806,
+            "end": 1.121
+          },
+          {
+            "word": "excess ",
+            "start": 1.132,
+            "end": 1.447
+          },
+          {
+            "word": "deaths ",
+            "start": 1.458,
+            "end": 1.752
+          },
+          {
+            "word": "in ",
+            "start": 1.763,
+            "end": 1.839
+          },
+          {
+            "word": "the ",
+            "start": 1.85,
+            "end": 1.904
+          },
+          {
+            "word": "United ",
+            "start": 1.915,
+            "end": 2.349
+          },
+          {
+            "word": "States, ",
+            "start": 2.36,
+            "end": 2.763
+          },
+          {
+            "word": "concentrated ",
+            "start": 2.936,
+            "end": 3.534
+          },
+          {
+            "word": "among ",
+            "start": 3.545,
+            "end": 3.817
+          },
+          {
+            "word": "elderly ",
+            "start": 3.828,
+            "end": 4.143
+          },
+          {
+            "word": "and ",
+            "start": 4.154,
+            "end": 4.263
+          },
+          {
+            "word": "minority ",
+            "start": 4.273,
+            "end": 4.752
+          },
+          {
+            "word": "populations, ",
+            "start": 4.763,
+            "end": 5.447
+          },
+          {
+            "word": "representing ",
+            "start": 5.665,
+            "end": 6.176
+          },
+          {
+            "word": "the ",
+            "start": 6.186,
+            "end": 6.263
+          },
+          {
+            "word": "largest ",
+            "start": 6.273,
+            "end": 6.665
+          },
+          {
+            "word": "demographic ",
+            "start": 6.676,
+            "end": 7.186
+          },
+          {
+            "word": "shock ",
+            "start": 7.197,
+            "end": 7.447
+          },
+          {
+            "word": "since ",
+            "start": 7.458,
+            "end": 7.686
+          },
+          {
+            "word": "World ",
+            "start": 7.697,
+            "end": 7.969
+          },
+          {
+            "word": "War ",
+            "start": 7.98,
+            "end": 8.11
+          },
+          {
+            "word": "Two. ",
+            "start": 8.121,
+            "end": 8.48
+          },
+          {
+            "word": "Third-grade ",
+            "start": 9.223,
+            "end": 9.854
+          },
+          {
+            "word": "reading ",
+            "start": 9.865,
+            "end": 10.147
+          },
+          {
+            "word": "proficiency ",
+            "start": 10.158,
+            "end": 10.658
+          },
+          {
+            "word": "fell ",
+            "start": 10.669,
+            "end": 10.941
+          },
+          {
+            "word": "to ",
+            "start": 10.952,
+            "end": 11.06
+          },
+          {
+            "word": "its ",
+            "start": 11.071,
+            "end": 11.191
+          },
+          {
+            "word": "lowest ",
+            "start": 11.202,
+            "end": 11.56
+          },
+          {
+            "word": "level ",
+            "start": 11.571,
+            "end": 11.843
+          },
+          {
+            "word": "in ",
+            "start": 11.854,
+            "end": 11.963
+          },
+          {
+            "word": "thirty ",
+            "start": 11.973,
+            "end": 12.289
+          },
+          {
+            "word": "years.",
+            "start": 12.3,
+            "end": 12.8
+          }
+        ],
+        "start": 2582
       },
       {
         "type": "quote",
         "chunk_id": "ep5_results_6",
         "audio_exists": true,
+        "audioPath": "episodes/ep5/audio/ep5_results_6.wav",
         "text": "Emergency visits for adolescent suicide attempts rose fifty-one percent. The K-shaped recovery visible by late 2021 showed professional services fully recovered; leisure and hospitality still eight percent below pre-pandemic levels.",
-        "duration": 464,
-        "bgImage": "bg_lab.jpg",
-        "wordTimings": null,
-        "start": 3011
+        "duration": 401,
+        "bgImage": "bg_city_night.jpg",
+        "wordTimings": [
+          {
+            "word": "Emergency ",
+            "start": 0.1,
+            "end": 0.654
+          },
+          {
+            "word": "visits ",
+            "start": 0.665,
+            "end": 0.947
+          },
+          {
+            "word": "for ",
+            "start": 0.958,
+            "end": 1.067
+          },
+          {
+            "word": "adolescent ",
+            "start": 1.078,
+            "end": 1.545
+          },
+          {
+            "word": "suicide ",
+            "start": 1.556,
+            "end": 2.002
+          },
+          {
+            "word": "attempts ",
+            "start": 2.013,
+            "end": 2.371
+          },
+          {
+            "word": "rose ",
+            "start": 2.382,
+            "end": 2.676
+          },
+          {
+            "word": "fifty-one ",
+            "start": 2.686,
+            "end": 3.186
+          },
+          {
+            "word": "percent. ",
+            "start": 3.197,
+            "end": 3.665
+          },
+          {
+            "word": "The ",
+            "start": 4.408,
+            "end": 4.539
+          },
+          {
+            "word": "K-shaped ",
+            "start": 4.55,
+            "end": 4.984
+          },
+          {
+            "word": "recovery ",
+            "start": 4.995,
+            "end": 5.376
+          },
+          {
+            "word": "visible ",
+            "start": 5.386,
+            "end": 5.723
+          },
+          {
+            "word": "by ",
+            "start": 5.734,
+            "end": 5.843
+          },
+          {
+            "word": "late ",
+            "start": 5.854,
+            "end": 6.104
+          },
+          {
+            "word": "2021 ",
+            "start": 6.115,
+            "end": 6.908
+          },
+          {
+            "word": "showed ",
+            "start": 6.919,
+            "end": 7.147
+          },
+          {
+            "word": "professional ",
+            "start": 7.158,
+            "end": 7.647
+          },
+          {
+            "word": "services ",
+            "start": 7.658,
+            "end": 8.093
+          },
+          {
+            "word": "fully ",
+            "start": 8.104,
+            "end": 8.31
+          },
+          {
+            "word": "recovered; ",
+            "start": 8.321,
+            "end": 8.745
+          },
+          {
+            "word": "leisure ",
+            "start": 8.93,
+            "end": 9.245
+          },
+          {
+            "word": "and ",
+            "start": 9.256,
+            "end": 9.354
+          },
+          {
+            "word": "hospitality ",
+            "start": 9.365,
+            "end": 9.952
+          },
+          {
+            "word": "still ",
+            "start": 9.963,
+            "end": 10.202
+          },
+          {
+            "word": "eight ",
+            "start": 10.213,
+            "end": 10.365
+          },
+          {
+            "word": "percent ",
+            "start": 10.376,
+            "end": 10.702
+          },
+          {
+            "word": "below ",
+            "start": 10.713,
+            "end": 10.963
+          },
+          {
+            "word": "pre-pandemic ",
+            "start": 10.973,
+            "end": 11.647
+          },
+          {
+            "word": "levels.",
+            "start": 11.658,
+            "end": 12.169
+          }
+        ],
+        "start": 3001
       },
       {
         "type": "quote",
         "chunk_id": "ep5_results_7",
         "audio_exists": true,
+        "audioPath": "episodes/ep5/audio/ep5_results_7.wav",
         "text": "The crisis that appeared to threaten everyone had, in the end, distributed its costs with the same precision as every crisis before it.",
-        "duration": 243,
-        "bgImage": "bg_lab.jpg",
-        "wordTimings": null,
-        "start": 3475
+        "duration": 213,
+        "bgImage": "bg_interest_chart.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.219
+          },
+          {
+            "word": "crisis ",
+            "start": 0.23,
+            "end": 0.621
+          },
+          {
+            "word": "that ",
+            "start": 0.632,
+            "end": 0.763
+          },
+          {
+            "word": "appeared ",
+            "start": 0.773,
+            "end": 1.045
+          },
+          {
+            "word": "to ",
+            "start": 1.056,
+            "end": 1.11
+          },
+          {
+            "word": "threaten ",
+            "start": 1.121,
+            "end": 1.447
+          },
+          {
+            "word": "everyone ",
+            "start": 1.458,
+            "end": 1.784
+          },
+          {
+            "word": "had, ",
+            "start": 1.795,
+            "end": 2.023
+          },
+          {
+            "word": "in ",
+            "start": 2.219,
+            "end": 2.306
+          },
+          {
+            "word": "the ",
+            "start": 2.317,
+            "end": 2.426
+          },
+          {
+            "word": "end, ",
+            "start": 2.436,
+            "end": 2.686
+          },
+          {
+            "word": "distributed ",
+            "start": 2.871,
+            "end": 3.35
+          },
+          {
+            "word": "its ",
+            "start": 3.36,
+            "end": 3.458
+          },
+          {
+            "word": "costs ",
+            "start": 3.469,
+            "end": 3.817
+          },
+          {
+            "word": "with ",
+            "start": 3.828,
+            "end": 3.926
+          },
+          {
+            "word": "the ",
+            "start": 3.936,
+            "end": 4.013
+          },
+          {
+            "word": "same ",
+            "start": 4.023,
+            "end": 4.241
+          },
+          {
+            "word": "precision ",
+            "start": 4.252,
+            "end": 4.632
+          },
+          {
+            "word": "as ",
+            "start": 4.643,
+            "end": 4.763
+          },
+          {
+            "word": "every ",
+            "start": 4.773,
+            "end": 4.958
+          },
+          {
+            "word": "crisis ",
+            "start": 4.969,
+            "end": 5.393
+          },
+          {
+            "word": "before ",
+            "start": 5.404,
+            "end": 5.686
+          },
+          {
+            "word": "it.",
+            "start": 5.697,
+            "end": 5.926
+          }
+        ],
+        "start": 3402
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep5_results_8",
+        "audio_exists": true,
+        "audioPath": "episodes/ep5/audio/ep5_results_8.wav",
+        "text": "The speed of the 2020 policy response — measured in weeks rather than the years it took after the GFC (Episode 14) — reflected how much the institutional memory of 2008 had changed the reflexes of policymakers. Each crisis rewires the policy system. The question is always which wire gets crossed next.",
+        "duration": 549,
+        "bgImage": "bg_recovery.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.219
+          },
+          {
+            "word": "speed ",
+            "start": 0.23,
+            "end": 0.491
+          },
+          {
+            "word": "of ",
+            "start": 0.502,
+            "end": 0.556
+          },
+          {
+            "word": "the ",
+            "start": 0.567,
+            "end": 0.643
+          },
+          {
+            "word": "2020 ",
+            "start": 0.654,
+            "end": 1.197
+          },
+          {
+            "word": "policy ",
+            "start": 1.208,
+            "end": 1.534
+          },
+          {
+            "word": "response — ",
+            "start": 1.545,
+            "end": 2.023
+          },
+          {
+            "word": "measured ",
+            "start": 2.176,
+            "end": 2.458
+          },
+          {
+            "word": "in ",
+            "start": 2.469,
+            "end": 2.567
+          },
+          {
+            "word": "weeks ",
+            "start": 2.578,
+            "end": 2.839
+          },
+          {
+            "word": "rather ",
+            "start": 2.85,
+            "end": 3.143
+          },
+          {
+            "word": "than ",
+            "start": 3.154,
+            "end": 3.263
+          },
+          {
+            "word": "the ",
+            "start": 3.273,
+            "end": 3.339
+          },
+          {
+            "word": "years ",
+            "start": 3.35,
+            "end": 3.589
+          },
+          {
+            "word": "it ",
+            "start": 3.6,
+            "end": 3.708
+          },
+          {
+            "word": "took ",
+            "start": 3.719,
+            "end": 3.904
+          },
+          {
+            "word": "after ",
+            "start": 3.915,
+            "end": 4.132
+          },
+          {
+            "word": "the ",
+            "start": 4.143,
+            "end": 4.241
+          },
+          {
+            "word": "GFC (",
+            "start": 4.252,
+            "end": 4.839
+          },
+          {
+            "word": "Episode ",
+            "start": 5.056,
+            "end": 5.415
+          },
+          {
+            "word": "14) — ",
+            "start": 5.426,
+            "end": 5.926
+          },
+          {
+            "word": "reflected ",
+            "start": 6.132,
+            "end": 6.545
+          },
+          {
+            "word": "how ",
+            "start": 6.556,
+            "end": 6.708
+          },
+          {
+            "word": "much ",
+            "start": 6.719,
+            "end": 6.915
+          },
+          {
+            "word": "the ",
+            "start": 6.926,
+            "end": 7.013
+          },
+          {
+            "word": "institutional ",
+            "start": 7.023,
+            "end": 7.697
+          },
+          {
+            "word": "memory ",
+            "start": 7.708,
+            "end": 8.002
+          },
+          {
+            "word": "of ",
+            "start": 8.013,
+            "end": 8.121
+          },
+          {
+            "word": "2008 ",
+            "start": 8.132,
+            "end": 8.936
+          },
+          {
+            "word": "had ",
+            "start": 8.947,
+            "end": 9.056
+          },
+          {
+            "word": "changed ",
+            "start": 9.067,
+            "end": 9.393
+          },
+          {
+            "word": "the ",
+            "start": 9.404,
+            "end": 9.48
+          },
+          {
+            "word": "reflexes ",
+            "start": 9.491,
+            "end": 10.034
+          },
+          {
+            "word": "of ",
+            "start": 10.045,
+            "end": 10.121
+          },
+          {
+            "word": "policymakers. ",
+            "start": 10.132,
+            "end": 10.915
+          },
+          {
+            "word": "Each ",
+            "start": 11.658,
+            "end": 11.897
+          },
+          {
+            "word": "crisis ",
+            "start": 11.908,
+            "end": 12.321
+          },
+          {
+            "word": "rewires ",
+            "start": 12.332,
+            "end": 12.93
+          },
+          {
+            "word": "the ",
+            "start": 12.941,
+            "end": 13.028
+          },
+          {
+            "word": "policy ",
+            "start": 13.039,
+            "end": 13.408
+          },
+          {
+            "word": "system. ",
+            "start": 13.419,
+            "end": 13.876
+          },
+          {
+            "word": "The ",
+            "start": 14.626,
+            "end": 14.745
+          },
+          {
+            "word": "question ",
+            "start": 14.756,
+            "end": 15.126
+          },
+          {
+            "word": "is ",
+            "start": 15.136,
+            "end": 15.245
+          },
+          {
+            "word": "always ",
+            "start": 15.256,
+            "end": 15.571
+          },
+          {
+            "word": "which ",
+            "start": 15.582,
+            "end": 15.778
+          },
+          {
+            "word": "wire ",
+            "start": 15.789,
+            "end": 16.126
+          },
+          {
+            "word": "gets ",
+            "start": 16.136,
+            "end": 16.365
+          },
+          {
+            "word": "crossed ",
+            "start": 16.376,
+            "end": 16.723
+          },
+          {
+            "word": "next.",
+            "start": 16.734,
+            "end": 17.115
+          }
+        ],
+        "start": 3615
       }
     ]
   },
   {
     "id": "credits",
     "title": "Credits",
-    "globalStart": 14059,
-    "duration": 1375,
+    "globalStart": 12586,
+    "duration": 440,
     "subSlides": [
       {
         "type": "credits",
         "start": 0,
-        "duration": 1375,
+        "duration": 440,
         "audioSrc": "audio/outro_narration.wav"
       }
     ]

@@ -1,0 +1,6387 @@
+[
+  {
+    "id": "intro",
+    "title": "Intro",
+    "globalStart": 0,
+    "duration": 195,
+    "episode": 4,
+    "episodeMeta": {
+      "title": "The Weimar Hyperinflation",
+      "subtitle": "1921–1923"
+    },
+    "subSlides": [
+      {
+        "type": "intro",
+        "start": 0,
+        "duration": 195,
+        "audioSrc": "episodes/ep7/intro.wav"
+      }
+    ]
+  },
+  {
+    "id": "ep7_event",
+    "title": "Event",
+    "globalStart": 195,
+    "duration": 3572,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Event"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep7_event_0",
+        "audio_exists": true,
+        "audioPath": "episodes/ep7/audio/ep7_event_0.wav",
+        "text": "In November 1923, a loaf of bread in Berlin cost two hundred billion marks. A month earlier it had cost five billion. A year earlier, two hundred marks. A German professor who had saved his entire career had enough money, by November 1923, to buy a single metro ticket.",
+        "duration": 550,
+        "bgImage": "bg_breadline.jpg",
+        "wordTimings": [
+          {
+            "word": "In ",
+            "start": 0.1,
+            "end": 0.273
+          },
+          {
+            "word": "November 1923, ",
+            "start": 0.284,
+            "end": 1.61
+          },
+          {
+            "word": "a ",
+            "start": 1.806,
+            "end": 1.828
+          },
+          {
+            "word": "loaf ",
+            "start": 1.839,
+            "end": 2.11
+          },
+          {
+            "word": "of ",
+            "start": 2.121,
+            "end": 2.23
+          },
+          {
+            "word": "bread ",
+            "start": 2.241,
+            "end": 2.469
+          },
+          {
+            "word": "in ",
+            "start": 2.48,
+            "end": 2.589
+          },
+          {
+            "word": "Berlin ",
+            "start": 2.6,
+            "end": 2.915
+          },
+          {
+            "word": "cost ",
+            "start": 2.926,
+            "end": 3.208
+          },
+          {
+            "word": "two ",
+            "start": 3.219,
+            "end": 3.404
+          },
+          {
+            "word": "hundred ",
+            "start": 3.415,
+            "end": 3.676
+          },
+          {
+            "word": "billion ",
+            "start": 3.686,
+            "end": 4.002
+          },
+          {
+            "word": "marks. ",
+            "start": 4.013,
+            "end": 4.48
+          },
+          {
+            "word": "A ",
+            "start": 5.223,
+            "end": 5.343
+          },
+          {
+            "word": "month ",
+            "start": 5.354,
+            "end": 5.615
+          },
+          {
+            "word": "earlier ",
+            "start": 5.626,
+            "end": 5.93
+          },
+          {
+            "word": "it ",
+            "start": 5.941,
+            "end": 6.039
+          },
+          {
+            "word": "had ",
+            "start": 6.05,
+            "end": 6.169
+          },
+          {
+            "word": "cost ",
+            "start": 6.18,
+            "end": 6.473
+          },
+          {
+            "word": "five ",
+            "start": 6.484,
+            "end": 6.81
+          },
+          {
+            "word": "billion. ",
+            "start": 6.821,
+            "end": 7.223
+          },
+          {
+            "word": "A ",
+            "start": 7.973,
+            "end": 8.093
+          },
+          {
+            "word": "year ",
+            "start": 8.104,
+            "end": 8.419
+          },
+          {
+            "word": "earlier, ",
+            "start": 8.43,
+            "end": 8.832
+          },
+          {
+            "word": "two ",
+            "start": 9.017,
+            "end": 9.213
+          },
+          {
+            "word": "hundred ",
+            "start": 9.223,
+            "end": 9.517
+          },
+          {
+            "word": "marks. ",
+            "start": 9.528,
+            "end": 10.039
+          },
+          {
+            "word": "A ",
+            "start": 10.789,
+            "end": 10.908
+          },
+          {
+            "word": "German ",
+            "start": 10.919,
+            "end": 11.234
+          },
+          {
+            "word": "professor ",
+            "start": 11.245,
+            "end": 11.636
+          },
+          {
+            "word": "who ",
+            "start": 11.647,
+            "end": 11.778
+          },
+          {
+            "word": "had ",
+            "start": 11.789,
+            "end": 11.941
+          },
+          {
+            "word": "saved ",
+            "start": 11.952,
+            "end": 12.256
+          },
+          {
+            "word": "his ",
+            "start": 12.267,
+            "end": 12.386
+          },
+          {
+            "word": "entire ",
+            "start": 12.397,
+            "end": 12.745
+          },
+          {
+            "word": "career ",
+            "start": 12.756,
+            "end": 13.093
+          },
+          {
+            "word": "had ",
+            "start": 13.104,
+            "end": 13.223
+          },
+          {
+            "word": "enough ",
+            "start": 13.234,
+            "end": 13.484
+          },
+          {
+            "word": "money, ",
+            "start": 13.495,
+            "end": 13.745
+          },
+          {
+            "word": "by ",
+            "start": 13.886,
+            "end": 13.995
+          },
+          {
+            "word": "November 1923, ",
+            "start": 14.006,
+            "end": 15.408
+          },
+          {
+            "word": "to ",
+            "start": 15.626,
+            "end": 15.723
+          },
+          {
+            "word": "buy ",
+            "start": 15.734,
+            "end": 15.973
+          },
+          {
+            "word": "a ",
+            "start": 15.984,
+            "end": 16.049
+          },
+          {
+            "word": "single ",
+            "start": 16.06,
+            "end": 16.397
+          },
+          {
+            "word": "metro ",
+            "start": 16.408,
+            "end": 16.756
+          },
+          {
+            "word": "ticket.",
+            "start": 16.767,
+            "end": 17.169
+          }
+        ],
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep7_event_1",
+        "audio_exists": true,
+        "audioPath": "episodes/ep7/audio/ep7_event_1.wav",
+        "text": "The hyperinflation had a specific origin. Germany had financed the First World War entirely through debt, expecting victory to pay the bill. After defeat, the Treaty of Versailles imposed reparations of one hundred and thirty-two billion gold marks — roughly three times Germany's entire national income.",
+        "duration": 514,
+        "bgImage": "bg_inflation_cash.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.208
+          },
+          {
+            "word": "hyperinflation ",
+            "start": 0.219,
+            "end": 0.958
+          },
+          {
+            "word": "had ",
+            "start": 0.969,
+            "end": 1.11
+          },
+          {
+            "word": "a ",
+            "start": 1.121,
+            "end": 1.165
+          },
+          {
+            "word": "specific ",
+            "start": 1.176,
+            "end": 1.632
+          },
+          {
+            "word": "origin. ",
+            "start": 1.643,
+            "end": 2.099
+          },
+          {
+            "word": "Germany ",
+            "start": 2.843,
+            "end": 3.256
+          },
+          {
+            "word": "had ",
+            "start": 3.267,
+            "end": 3.408
+          },
+          {
+            "word": "financed ",
+            "start": 3.419,
+            "end": 3.854
+          },
+          {
+            "word": "the ",
+            "start": 3.865,
+            "end": 3.93
+          },
+          {
+            "word": "First ",
+            "start": 3.941,
+            "end": 4.278
+          },
+          {
+            "word": "World ",
+            "start": 4.289,
+            "end": 4.539
+          },
+          {
+            "word": "War ",
+            "start": 4.55,
+            "end": 4.723
+          },
+          {
+            "word": "entirely ",
+            "start": 4.734,
+            "end": 5.18
+          },
+          {
+            "word": "through ",
+            "start": 5.191,
+            "end": 5.397
+          },
+          {
+            "word": "debt, ",
+            "start": 5.408,
+            "end": 5.68
+          },
+          {
+            "word": "expecting ",
+            "start": 5.897,
+            "end": 6.365
+          },
+          {
+            "word": "victory ",
+            "start": 6.376,
+            "end": 6.756
+          },
+          {
+            "word": "to ",
+            "start": 6.767,
+            "end": 6.865
+          },
+          {
+            "word": "pay ",
+            "start": 6.876,
+            "end": 7.06
+          },
+          {
+            "word": "the ",
+            "start": 7.071,
+            "end": 7.147
+          },
+          {
+            "word": "bill. ",
+            "start": 7.158,
+            "end": 7.473
+          },
+          {
+            "word": "After ",
+            "start": 8.223,
+            "end": 8.517
+          },
+          {
+            "word": "defeat, ",
+            "start": 8.528,
+            "end": 8.919
+          },
+          {
+            "word": "the ",
+            "start": 9.082,
+            "end": 9.158
+          },
+          {
+            "word": "Treaty ",
+            "start": 9.169,
+            "end": 9.495
+          },
+          {
+            "word": "of ",
+            "start": 9.506,
+            "end": 9.582
+          },
+          {
+            "word": "Versailles ",
+            "start": 9.593,
+            "end": 9.984
+          },
+          {
+            "word": "imposed ",
+            "start": 9.995,
+            "end": 10.43
+          },
+          {
+            "word": "reparations ",
+            "start": 10.441,
+            "end": 10.995
+          },
+          {
+            "word": "of ",
+            "start": 11.006,
+            "end": 11.093
+          },
+          {
+            "word": "one ",
+            "start": 11.104,
+            "end": 11.321
+          },
+          {
+            "word": "hundred ",
+            "start": 11.332,
+            "end": 11.582
+          },
+          {
+            "word": "and ",
+            "start": 11.593,
+            "end": 11.658
+          },
+          {
+            "word": "thirty-two ",
+            "start": 11.669,
+            "end": 12.18
+          },
+          {
+            "word": "billion ",
+            "start": 12.191,
+            "end": 12.506
+          },
+          {
+            "word": "gold ",
+            "start": 12.517,
+            "end": 12.8
+          },
+          {
+            "word": "marks — ",
+            "start": 12.81,
+            "end": 13.191
+          },
+          {
+            "word": "roughly ",
+            "start": 13.397,
+            "end": 13.68
+          },
+          {
+            "word": "three ",
+            "start": 13.691,
+            "end": 13.93
+          },
+          {
+            "word": "times ",
+            "start": 13.941,
+            "end": 14.289
+          },
+          {
+            "word": "Germany's ",
+            "start": 14.3,
+            "end": 14.745
+          },
+          {
+            "word": "entire ",
+            "start": 14.756,
+            "end": 15.147
+          },
+          {
+            "word": "national ",
+            "start": 15.158,
+            "end": 15.539
+          },
+          {
+            "word": "income.",
+            "start": 15.55,
+            "end": 15.952
+          }
+        ],
+        "start": 640
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep7_event_2",
+        "audio_exists": true,
+        "audioPath": "episodes/ep7/audio/ep7_event_2.wav",
+        "text": "When Germany fell behind on reparations in January 1923, France and Belgium occupied the Ruhr, Germany's industrial heartland. The German government responded by printing money to pay striking workers in passive resistance — financing a general strike through the printing press.",
+        "duration": 464,
+        "bgImage": "bg_factory_dark.jpg",
+        "wordTimings": [
+          {
+            "word": "When ",
+            "start": 0.1,
+            "end": 0.339
+          },
+          {
+            "word": "Germany ",
+            "start": 0.35,
+            "end": 0.632
+          },
+          {
+            "word": "fell ",
+            "start": 0.643,
+            "end": 0.86
+          },
+          {
+            "word": "behind ",
+            "start": 0.871,
+            "end": 1.208
+          },
+          {
+            "word": "on ",
+            "start": 1.219,
+            "end": 1.317
+          },
+          {
+            "word": "reparations ",
+            "start": 1.328,
+            "end": 1.871
+          },
+          {
+            "word": "in ",
+            "start": 1.882,
+            "end": 2.023
+          },
+          {
+            "word": "January 1923, ",
+            "start": 2.034,
+            "end": 3.393
+          },
+          {
+            "word": "France ",
+            "start": 3.578,
+            "end": 3.904
+          },
+          {
+            "word": "and ",
+            "start": 3.915,
+            "end": 4.023
+          },
+          {
+            "word": "Belgium ",
+            "start": 4.034,
+            "end": 4.393
+          },
+          {
+            "word": "occupied ",
+            "start": 4.404,
+            "end": 4.86
+          },
+          {
+            "word": "the ",
+            "start": 4.871,
+            "end": 4.936
+          },
+          {
+            "word": "Ruhr, ",
+            "start": 4.947,
+            "end": 5.295
+          },
+          {
+            "word": "Germany's ",
+            "start": 5.458,
+            "end": 5.871
+          },
+          {
+            "word": "industrial ",
+            "start": 5.882,
+            "end": 6.436
+          },
+          {
+            "word": "heartland. ",
+            "start": 6.447,
+            "end": 7.013
+          },
+          {
+            "word": "The ",
+            "start": 7.756,
+            "end": 7.908
+          },
+          {
+            "word": "German ",
+            "start": 7.919,
+            "end": 8.202
+          },
+          {
+            "word": "government ",
+            "start": 8.213,
+            "end": 8.56
+          },
+          {
+            "word": "responded ",
+            "start": 8.571,
+            "end": 8.995
+          },
+          {
+            "word": "by ",
+            "start": 9.006,
+            "end": 9.136
+          },
+          {
+            "word": "printing ",
+            "start": 9.147,
+            "end": 9.506
+          },
+          {
+            "word": "money ",
+            "start": 9.517,
+            "end": 9.734
+          },
+          {
+            "word": "to ",
+            "start": 9.745,
+            "end": 9.832
+          },
+          {
+            "word": "pay ",
+            "start": 9.843,
+            "end": 10.006
+          },
+          {
+            "word": "striking ",
+            "start": 10.017,
+            "end": 10.43
+          },
+          {
+            "word": "workers ",
+            "start": 10.441,
+            "end": 10.767
+          },
+          {
+            "word": "in ",
+            "start": 10.778,
+            "end": 10.876
+          },
+          {
+            "word": "passive ",
+            "start": 10.886,
+            "end": 11.213
+          },
+          {
+            "word": "resistance — ",
+            "start": 11.223,
+            "end": 11.745
+          },
+          {
+            "word": "financing ",
+            "start": 11.941,
+            "end": 12.473
+          },
+          {
+            "word": "a ",
+            "start": 12.484,
+            "end": 12.539
+          },
+          {
+            "word": "general ",
+            "start": 12.55,
+            "end": 12.886
+          },
+          {
+            "word": "strike ",
+            "start": 12.897,
+            "end": 13.202
+          },
+          {
+            "word": "through ",
+            "start": 13.213,
+            "end": 13.408
+          },
+          {
+            "word": "the ",
+            "start": 13.419,
+            "end": 13.506
+          },
+          {
+            "word": "printing ",
+            "start": 13.517,
+            "end": 13.843
+          },
+          {
+            "word": "press.",
+            "start": 13.854,
+            "end": 14.299
+          }
+        ],
+        "start": 1154
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep7_event_3",
+        "audio_exists": true,
+        "audioPath": "episodes/ep7/audio/ep7_event_3.wav",
+        "text": "Workers received wages daily. Housewives rushed to spend money within hours of receiving it, before it lost further value. Prices were updated multiple times per day. The exchange rate collapsed from four marks per dollar in 1914 to four trillion marks per dollar by November 1923.",
+        "duration": 528,
+        "bgImage": "bg_protest_70s.jpg",
+        "wordTimings": [
+          {
+            "word": "Workers ",
+            "start": 0.1,
+            "end": 0.502
+          },
+          {
+            "word": "received ",
+            "start": 0.513,
+            "end": 0.871
+          },
+          {
+            "word": "wages ",
+            "start": 0.882,
+            "end": 1.263
+          },
+          {
+            "word": "daily. ",
+            "start": 1.273,
+            "end": 1.665
+          },
+          {
+            "word": "Housewives ",
+            "start": 2.408,
+            "end": 3.006
+          },
+          {
+            "word": "rushed ",
+            "start": 3.017,
+            "end": 3.289
+          },
+          {
+            "word": "to ",
+            "start": 3.3,
+            "end": 3.354
+          },
+          {
+            "word": "spend ",
+            "start": 3.365,
+            "end": 3.636
+          },
+          {
+            "word": "money ",
+            "start": 3.647,
+            "end": 3.854
+          },
+          {
+            "word": "within ",
+            "start": 3.865,
+            "end": 4.104
+          },
+          {
+            "word": "hours ",
+            "start": 4.115,
+            "end": 4.343
+          },
+          {
+            "word": "of ",
+            "start": 4.354,
+            "end": 4.43
+          },
+          {
+            "word": "receiving ",
+            "start": 4.441,
+            "end": 4.886
+          },
+          {
+            "word": "it, ",
+            "start": 4.897,
+            "end": 5.039
+          },
+          {
+            "word": "before ",
+            "start": 5.191,
+            "end": 5.43
+          },
+          {
+            "word": "it ",
+            "start": 5.441,
+            "end": 5.539
+          },
+          {
+            "word": "lost ",
+            "start": 5.55,
+            "end": 5.832
+          },
+          {
+            "word": "further ",
+            "start": 5.843,
+            "end": 6.115
+          },
+          {
+            "word": "value. ",
+            "start": 6.126,
+            "end": 6.539
+          },
+          {
+            "word": "Prices ",
+            "start": 7.289,
+            "end": 7.68
+          },
+          {
+            "word": "were ",
+            "start": 7.691,
+            "end": 7.832
+          },
+          {
+            "word": "updated ",
+            "start": 7.843,
+            "end": 8.289
+          },
+          {
+            "word": "multiple ",
+            "start": 8.3,
+            "end": 8.713
+          },
+          {
+            "word": "times ",
+            "start": 8.723,
+            "end": 9.039
+          },
+          {
+            "word": "per ",
+            "start": 9.05,
+            "end": 9.191
+          },
+          {
+            "word": "day. ",
+            "start": 9.202,
+            "end": 9.539
+          },
+          {
+            "word": "The ",
+            "start": 10.289,
+            "end": 10.441
+          },
+          {
+            "word": "exchange ",
+            "start": 10.452,
+            "end": 10.854
+          },
+          {
+            "word": "rate ",
+            "start": 10.865,
+            "end": 11.082
+          },
+          {
+            "word": "collapsed ",
+            "start": 11.093,
+            "end": 11.484
+          },
+          {
+            "word": "from ",
+            "start": 11.495,
+            "end": 11.636
+          },
+          {
+            "word": "four ",
+            "start": 11.647,
+            "end": 11.767
+          },
+          {
+            "word": "marks ",
+            "start": 11.778,
+            "end": 12.06
+          },
+          {
+            "word": "per ",
+            "start": 12.071,
+            "end": 12.202
+          },
+          {
+            "word": "dollar ",
+            "start": 12.213,
+            "end": 12.495
+          },
+          {
+            "word": "in 1914 ",
+            "start": 12.506,
+            "end": 13.495
+          },
+          {
+            "word": "to ",
+            "start": 13.506,
+            "end": 13.593
+          },
+          {
+            "word": "four ",
+            "start": 13.604,
+            "end": 13.713
+          },
+          {
+            "word": "trillion ",
+            "start": 13.723,
+            "end": 14.082
+          },
+          {
+            "word": "marks ",
+            "start": 14.093,
+            "end": 14.332
+          },
+          {
+            "word": "per ",
+            "start": 14.343,
+            "end": 14.484
+          },
+          {
+            "word": "dollar ",
+            "start": 14.495,
+            "end": 14.778
+          },
+          {
+            "word": "by ",
+            "start": 14.789,
+            "end": 14.897
+          },
+          {
+            "word": "November 1923.",
+            "start": 14.908,
+            "end": 16.43
+          }
+        ],
+        "start": 1618
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep7_event_4",
+        "audio_exists": true,
+        "audioPath": "episodes/ep7/audio/ep7_event_4.wav",
+        "text": "The German central bank was printing banknotes so fast that the ink had not dried before they were handed out. Savings, bonds, and life insurance policies denominated in marks became worthless. The middle class — those who had saved rather than borrowed — was wiped out.",
+        "duration": 457,
+        "bgImage": "bg_breadline.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.252
+          },
+          {
+            "word": "German ",
+            "start": 0.263,
+            "end": 0.578
+          },
+          {
+            "word": "central ",
+            "start": 0.589,
+            "end": 0.915
+          },
+          {
+            "word": "bank ",
+            "start": 0.926,
+            "end": 1.132
+          },
+          {
+            "word": "was ",
+            "start": 1.143,
+            "end": 1.252
+          },
+          {
+            "word": "printing ",
+            "start": 1.263,
+            "end": 1.599
+          },
+          {
+            "word": "banknotes ",
+            "start": 1.61,
+            "end": 2.056
+          },
+          {
+            "word": "so ",
+            "start": 2.067,
+            "end": 2.23
+          },
+          {
+            "word": "fast ",
+            "start": 2.241,
+            "end": 2.556
+          },
+          {
+            "word": "that ",
+            "start": 2.567,
+            "end": 2.654
+          },
+          {
+            "word": "the ",
+            "start": 2.665,
+            "end": 2.752
+          },
+          {
+            "word": "ink ",
+            "start": 2.763,
+            "end": 2.915
+          },
+          {
+            "word": "had ",
+            "start": 2.926,
+            "end": 3.013
+          },
+          {
+            "word": "not ",
+            "start": 3.023,
+            "end": 3.208
+          },
+          {
+            "word": "dried ",
+            "start": 3.219,
+            "end": 3.545
+          },
+          {
+            "word": "before ",
+            "start": 3.556,
+            "end": 3.795
+          },
+          {
+            "word": "they ",
+            "start": 3.806,
+            "end": 3.926
+          },
+          {
+            "word": "were ",
+            "start": 3.936,
+            "end": 4.034
+          },
+          {
+            "word": "handed ",
+            "start": 4.045,
+            "end": 4.339
+          },
+          {
+            "word": "out. ",
+            "start": 4.35,
+            "end": 4.654
+          },
+          {
+            "word": "Savings, ",
+            "start": 5.397,
+            "end": 5.995
+          },
+          {
+            "word": "bonds, ",
+            "start": 6.104,
+            "end": 6.452
+          },
+          {
+            "word": "and ",
+            "start": 6.571,
+            "end": 6.713
+          },
+          {
+            "word": "life ",
+            "start": 6.723,
+            "end": 6.973
+          },
+          {
+            "word": "insurance ",
+            "start": 6.984,
+            "end": 7.43
+          },
+          {
+            "word": "policies ",
+            "start": 7.441,
+            "end": 7.821
+          },
+          {
+            "word": "denominated ",
+            "start": 7.832,
+            "end": 8.365
+          },
+          {
+            "word": "in ",
+            "start": 8.376,
+            "end": 8.473
+          },
+          {
+            "word": "marks ",
+            "start": 8.484,
+            "end": 8.745
+          },
+          {
+            "word": "became ",
+            "start": 8.756,
+            "end": 9.082
+          },
+          {
+            "word": "worthless. ",
+            "start": 9.093,
+            "end": 9.691
+          },
+          {
+            "word": "The ",
+            "start": 10.441,
+            "end": 10.56
+          },
+          {
+            "word": "middle ",
+            "start": 10.571,
+            "end": 10.832
+          },
+          {
+            "word": "class — ",
+            "start": 10.843,
+            "end": 11.278
+          },
+          {
+            "word": "those ",
+            "start": 11.43,
+            "end": 11.636
+          },
+          {
+            "word": "who ",
+            "start": 11.647,
+            "end": 11.745
+          },
+          {
+            "word": "had ",
+            "start": 11.756,
+            "end": 11.886
+          },
+          {
+            "word": "saved ",
+            "start": 11.897,
+            "end": 12.245
+          },
+          {
+            "word": "rather ",
+            "start": 12.256,
+            "end": 12.539
+          },
+          {
+            "word": "than ",
+            "start": 12.55,
+            "end": 12.691
+          },
+          {
+            "word": "borrowed — ",
+            "start": 12.702,
+            "end": 13.082
+          },
+          {
+            "word": "was ",
+            "start": 13.234,
+            "end": 13.354
+          },
+          {
+            "word": "wiped ",
+            "start": 13.365,
+            "end": 13.691
+          },
+          {
+            "word": "out.",
+            "start": 13.702,
+            "end": 14.06
+          }
+        ],
+        "start": 2146
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep7_event_5",
+        "audio_exists": true,
+        "audioPath": "episodes/ep7/audio/ep7_event_5.wav",
+        "text": "Those who had borrowed in marks could pay off mortgages and loans with nearly worthless currency. A new word entered the economic vocabulary: hyperinflation, defined as monthly price increases exceeding fifty percent. Germany's peak monthly inflation in October 1923 was twenty-nine thousand percent.",
+        "duration": 525,
+        "bgImage": "bg_inflation_cash.jpg",
+        "wordTimings": [
+          {
+            "word": "Those ",
+            "start": 0.1,
+            "end": 0.36
+          },
+          {
+            "word": "who ",
+            "start": 0.371,
+            "end": 0.469
+          },
+          {
+            "word": "had ",
+            "start": 0.48,
+            "end": 0.61
+          },
+          {
+            "word": "borrowed ",
+            "start": 0.621,
+            "end": 0.926
+          },
+          {
+            "word": "in ",
+            "start": 0.936,
+            "end": 1.034
+          },
+          {
+            "word": "marks ",
+            "start": 1.045,
+            "end": 1.328
+          },
+          {
+            "word": "could ",
+            "start": 1.339,
+            "end": 1.502
+          },
+          {
+            "word": "pay ",
+            "start": 1.513,
+            "end": 1.697
+          },
+          {
+            "word": "off ",
+            "start": 1.708,
+            "end": 1.882
+          },
+          {
+            "word": "mortgages ",
+            "start": 1.893,
+            "end": 2.339
+          },
+          {
+            "word": "and ",
+            "start": 2.35,
+            "end": 2.436
+          },
+          {
+            "word": "loans ",
+            "start": 2.447,
+            "end": 2.817
+          },
+          {
+            "word": "with ",
+            "start": 2.828,
+            "end": 2.958
+          },
+          {
+            "word": "nearly ",
+            "start": 2.969,
+            "end": 3.241
+          },
+          {
+            "word": "worthless ",
+            "start": 3.252,
+            "end": 3.686
+          },
+          {
+            "word": "currency. ",
+            "start": 3.697,
+            "end": 4.197
+          },
+          {
+            "word": "A ",
+            "start": 4.941,
+            "end": 5.06
+          },
+          {
+            "word": "new ",
+            "start": 5.071,
+            "end": 5.289
+          },
+          {
+            "word": "word ",
+            "start": 5.3,
+            "end": 5.56
+          },
+          {
+            "word": "entered ",
+            "start": 5.571,
+            "end": 5.821
+          },
+          {
+            "word": "the ",
+            "start": 5.832,
+            "end": 5.919
+          },
+          {
+            "word": "economic ",
+            "start": 5.93,
+            "end": 6.419
+          },
+          {
+            "word": "vocabulary: ",
+            "start": 6.43,
+            "end": 7.017
+          },
+          {
+            "word": "hyperinflation, ",
+            "start": 7.213,
+            "end": 8.028
+          },
+          {
+            "word": "defined ",
+            "start": 8.136,
+            "end": 8.517
+          },
+          {
+            "word": "as ",
+            "start": 8.528,
+            "end": 8.615
+          },
+          {
+            "word": "monthly ",
+            "start": 8.626,
+            "end": 8.963
+          },
+          {
+            "word": "price ",
+            "start": 8.973,
+            "end": 9.267
+          },
+          {
+            "word": "increases ",
+            "start": 9.278,
+            "end": 9.756
+          },
+          {
+            "word": "exceeding ",
+            "start": 9.767,
+            "end": 10.213
+          },
+          {
+            "word": "fifty ",
+            "start": 10.223,
+            "end": 10.528
+          },
+          {
+            "word": "percent. ",
+            "start": 10.539,
+            "end": 11.028
+          },
+          {
+            "word": "Germany's ",
+            "start": 11.778,
+            "end": 12.278
+          },
+          {
+            "word": "peak ",
+            "start": 12.289,
+            "end": 12.517
+          },
+          {
+            "word": "monthly ",
+            "start": 12.528,
+            "end": 12.865
+          },
+          {
+            "word": "inflation ",
+            "start": 12.876,
+            "end": 13.343
+          },
+          {
+            "word": "in ",
+            "start": 13.354,
+            "end": 13.452
+          },
+          {
+            "word": "October 1923 ",
+            "start": 13.463,
+            "end": 14.778
+          },
+          {
+            "word": "was ",
+            "start": 14.789,
+            "end": 14.941
+          },
+          {
+            "word": "twenty-nine ",
+            "start": 14.952,
+            "end": 15.495
+          },
+          {
+            "word": "thousand ",
+            "start": 15.506,
+            "end": 15.876
+          },
+          {
+            "word": "percent.",
+            "start": 15.886,
+            "end": 16.321
+          }
+        ],
+        "start": 2603
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep7_event_6",
+        "audio_exists": true,
+        "audioPath": "episodes/ep7/audio/ep7_event_6.wav",
+        "text": "The experience would scar a generation and reshape political movements that would haunt Europe for decades. It would also permanently define how one nation — and through that nation, much of Europe — thought about the relationship between governments, central banks, and the value of money.",
+        "duration": 444,
+        "bgImage": "bg_factory_dark.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.273
+          },
+          {
+            "word": "experience ",
+            "start": 0.284,
+            "end": 0.806
+          },
+          {
+            "word": "would ",
+            "start": 0.817,
+            "end": 0.958
+          },
+          {
+            "word": "scar ",
+            "start": 0.969,
+            "end": 1.263
+          },
+          {
+            "word": "a ",
+            "start": 1.273,
+            "end": 1.339
+          },
+          {
+            "word": "generation ",
+            "start": 1.35,
+            "end": 1.86
+          },
+          {
+            "word": "and ",
+            "start": 1.871,
+            "end": 2.013
+          },
+          {
+            "word": "reshape ",
+            "start": 2.023,
+            "end": 2.415
+          },
+          {
+            "word": "political ",
+            "start": 2.426,
+            "end": 2.839
+          },
+          {
+            "word": "movements ",
+            "start": 2.85,
+            "end": 3.241
+          },
+          {
+            "word": "that ",
+            "start": 3.252,
+            "end": 3.371
+          },
+          {
+            "word": "would ",
+            "start": 3.382,
+            "end": 3.502
+          },
+          {
+            "word": "haunt ",
+            "start": 3.513,
+            "end": 3.741
+          },
+          {
+            "word": "Europe ",
+            "start": 3.752,
+            "end": 4.023
+          },
+          {
+            "word": "for ",
+            "start": 4.034,
+            "end": 4.132
+          },
+          {
+            "word": "decades. ",
+            "start": 4.143,
+            "end": 4.708
+          },
+          {
+            "word": "It ",
+            "start": 5.452,
+            "end": 5.593
+          },
+          {
+            "word": "would ",
+            "start": 5.604,
+            "end": 5.702
+          },
+          {
+            "word": "also ",
+            "start": 5.713,
+            "end": 5.963
+          },
+          {
+            "word": "permanently ",
+            "start": 5.973,
+            "end": 6.473
+          },
+          {
+            "word": "define ",
+            "start": 6.484,
+            "end": 6.843
+          },
+          {
+            "word": "how ",
+            "start": 6.854,
+            "end": 7.017
+          },
+          {
+            "word": "one ",
+            "start": 7.028,
+            "end": 7.278
+          },
+          {
+            "word": "nation — ",
+            "start": 7.289,
+            "end": 7.658
+          },
+          {
+            "word": "and ",
+            "start": 7.876,
+            "end": 7.984
+          },
+          {
+            "word": "through ",
+            "start": 7.995,
+            "end": 8.213
+          },
+          {
+            "word": "that ",
+            "start": 8.223,
+            "end": 8.386
+          },
+          {
+            "word": "nation, ",
+            "start": 8.397,
+            "end": 8.745
+          },
+          {
+            "word": "much ",
+            "start": 8.919,
+            "end": 9.093
+          },
+          {
+            "word": "of ",
+            "start": 9.104,
+            "end": 9.191
+          },
+          {
+            "word": "Europe — ",
+            "start": 9.202,
+            "end": 9.539
+          },
+          {
+            "word": "thought ",
+            "start": 9.713,
+            "end": 9.93
+          },
+          {
+            "word": "about ",
+            "start": 9.941,
+            "end": 10.158
+          },
+          {
+            "word": "the ",
+            "start": 10.169,
+            "end": 10.234
+          },
+          {
+            "word": "relationship ",
+            "start": 10.245,
+            "end": 10.854
+          },
+          {
+            "word": "between ",
+            "start": 10.865,
+            "end": 11.18
+          },
+          {
+            "word": "governments, ",
+            "start": 11.191,
+            "end": 11.647
+          },
+          {
+            "word": "central ",
+            "start": 11.81,
+            "end": 12.147
+          },
+          {
+            "word": "banks, ",
+            "start": 12.158,
+            "end": 12.484
+          },
+          {
+            "word": "and ",
+            "start": 12.702,
+            "end": 12.789
+          },
+          {
+            "word": "the ",
+            "start": 12.8,
+            "end": 12.876
+          },
+          {
+            "word": "value ",
+            "start": 12.886,
+            "end": 13.234
+          },
+          {
+            "word": "of ",
+            "start": 13.245,
+            "end": 13.332
+          },
+          {
+            "word": "money.",
+            "start": 13.343,
+            "end": 13.615
+          }
+        ],
+        "start": 3128
+      }
+    ]
+  },
+  {
+    "id": "ep7_problems",
+    "title": "Problems",
+    "globalStart": 3767,
+    "duration": 3697,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Problems"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep7_problems_0",
+        "audio_exists": true,
+        "audioPath": "episodes/ep7/audio/ep7_problems_0.wav",
+        "text": "The hyperinflation destroyed something more fundamental than wealth: it destroyed economic calculation itself. When prices change by the hour, businesses cannot plan. When a worker earns enough for a meal at nine in the morning and enough for a coffee by afternoon, the market economy ceases to function.",
+        "duration": 494,
+        "bgImage": "bg_inflation_cash.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.208
+          },
+          {
+            "word": "hyperinflation ",
+            "start": 0.219,
+            "end": 0.969
+          },
+          {
+            "word": "destroyed ",
+            "start": 0.98,
+            "end": 1.415
+          },
+          {
+            "word": "something ",
+            "start": 1.426,
+            "end": 1.763
+          },
+          {
+            "word": "more ",
+            "start": 1.773,
+            "end": 1.926
+          },
+          {
+            "word": "fundamental ",
+            "start": 1.936,
+            "end": 2.426
+          },
+          {
+            "word": "than ",
+            "start": 2.436,
+            "end": 2.556
+          },
+          {
+            "word": "wealth: ",
+            "start": 2.567,
+            "end": 2.882
+          },
+          {
+            "word": "it ",
+            "start": 3.078,
+            "end": 3.143
+          },
+          {
+            "word": "destroyed ",
+            "start": 3.154,
+            "end": 3.578
+          },
+          {
+            "word": "economic ",
+            "start": 3.589,
+            "end": 3.991
+          },
+          {
+            "word": "calculation ",
+            "start": 4.002,
+            "end": 4.556
+          },
+          {
+            "word": "itself. ",
+            "start": 4.567,
+            "end": 5.078
+          },
+          {
+            "word": "When ",
+            "start": 5.821,
+            "end": 6.05
+          },
+          {
+            "word": "prices ",
+            "start": 6.06,
+            "end": 6.43
+          },
+          {
+            "word": "change ",
+            "start": 6.441,
+            "end": 6.745
+          },
+          {
+            "word": "by ",
+            "start": 6.756,
+            "end": 6.897
+          },
+          {
+            "word": "the ",
+            "start": 6.908,
+            "end": 7.049
+          },
+          {
+            "word": "hour, ",
+            "start": 7.06,
+            "end": 7.354
+          },
+          {
+            "word": "businesses ",
+            "start": 7.484,
+            "end": 7.908
+          },
+          {
+            "word": "cannot ",
+            "start": 7.919,
+            "end": 8.267
+          },
+          {
+            "word": "plan. ",
+            "start": 8.278,
+            "end": 8.636
+          },
+          {
+            "word": "When ",
+            "start": 9.386,
+            "end": 9.582
+          },
+          {
+            "word": "a ",
+            "start": 9.593,
+            "end": 9.636
+          },
+          {
+            "word": "worker ",
+            "start": 9.647,
+            "end": 9.984
+          },
+          {
+            "word": "earns ",
+            "start": 9.995,
+            "end": 10.223
+          },
+          {
+            "word": "enough ",
+            "start": 10.234,
+            "end": 10.495
+          },
+          {
+            "word": "for ",
+            "start": 10.506,
+            "end": 10.615
+          },
+          {
+            "word": "a ",
+            "start": 10.626,
+            "end": 10.669
+          },
+          {
+            "word": "meal ",
+            "start": 10.68,
+            "end": 10.952
+          },
+          {
+            "word": "at ",
+            "start": 10.963,
+            "end": 11.049
+          },
+          {
+            "word": "nine ",
+            "start": 11.06,
+            "end": 11.3
+          },
+          {
+            "word": "in ",
+            "start": 11.31,
+            "end": 11.376
+          },
+          {
+            "word": "the ",
+            "start": 11.386,
+            "end": 11.441
+          },
+          {
+            "word": "morning ",
+            "start": 11.452,
+            "end": 11.789
+          },
+          {
+            "word": "and ",
+            "start": 11.8,
+            "end": 11.897
+          },
+          {
+            "word": "enough ",
+            "start": 11.908,
+            "end": 12.169
+          },
+          {
+            "word": "for ",
+            "start": 12.18,
+            "end": 12.289
+          },
+          {
+            "word": "a ",
+            "start": 12.3,
+            "end": 12.343
+          },
+          {
+            "word": "coffee ",
+            "start": 12.354,
+            "end": 12.626
+          },
+          {
+            "word": "by ",
+            "start": 12.636,
+            "end": 12.843
+          },
+          {
+            "word": "afternoon, ",
+            "start": 12.854,
+            "end": 13.397
+          },
+          {
+            "word": "the ",
+            "start": 13.56,
+            "end": 13.626
+          },
+          {
+            "word": "market ",
+            "start": 13.636,
+            "end": 13.963
+          },
+          {
+            "word": "economy ",
+            "start": 13.973,
+            "end": 14.332
+          },
+          {
+            "word": "ceases ",
+            "start": 14.343,
+            "end": 14.702
+          },
+          {
+            "word": "to ",
+            "start": 14.713,
+            "end": 14.799
+          },
+          {
+            "word": "function.",
+            "start": 14.81,
+            "end": 15.289
+          }
+        ],
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep7_problems_1",
+        "audio_exists": true,
+        "audioPath": "episodes/ep7/audio/ep7_problems_1.wav",
+        "text": "Inflation became self-fulfilling. As prices rose faster, people spent money faster to avoid further loss. As velocity accelerated, the money supply needed to expand to meet transactions. The central bank accommodated, which accelerated inflation further. There was no natural stopping point.",
+        "duration": 558,
+        "bgImage": "bg_breadline.jpg",
+        "wordTimings": [
+          {
+            "word": "Inflation ",
+            "start": 0.1,
+            "end": 0.621
+          },
+          {
+            "word": "became ",
+            "start": 0.632,
+            "end": 0.947
+          },
+          {
+            "word": "self-fulfilling. ",
+            "start": 0.958,
+            "end": 1.719
+          },
+          {
+            "word": "As ",
+            "start": 2.463,
+            "end": 2.626
+          },
+          {
+            "word": "prices ",
+            "start": 2.636,
+            "end": 3.017
+          },
+          {
+            "word": "rose ",
+            "start": 3.028,
+            "end": 3.289
+          },
+          {
+            "word": "faster, ",
+            "start": 3.3,
+            "end": 3.702
+          },
+          {
+            "word": "people ",
+            "start": 3.876,
+            "end": 4.136
+          },
+          {
+            "word": "spent ",
+            "start": 4.147,
+            "end": 4.386
+          },
+          {
+            "word": "money ",
+            "start": 4.397,
+            "end": 4.593
+          },
+          {
+            "word": "faster ",
+            "start": 4.604,
+            "end": 4.995
+          },
+          {
+            "word": "to ",
+            "start": 5.006,
+            "end": 5.136
+          },
+          {
+            "word": "avoid ",
+            "start": 5.147,
+            "end": 5.441
+          },
+          {
+            "word": "further ",
+            "start": 5.452,
+            "end": 5.734
+          },
+          {
+            "word": "loss. ",
+            "start": 5.745,
+            "end": 6.169
+          },
+          {
+            "word": "As ",
+            "start": 6.919,
+            "end": 7.104
+          },
+          {
+            "word": "velocity ",
+            "start": 7.115,
+            "end": 7.582
+          },
+          {
+            "word": "accelerated, ",
+            "start": 7.593,
+            "end": 8.256
+          },
+          {
+            "word": "the ",
+            "start": 8.441,
+            "end": 8.517
+          },
+          {
+            "word": "money ",
+            "start": 8.528,
+            "end": 8.745
+          },
+          {
+            "word": "supply ",
+            "start": 8.756,
+            "end": 9.104
+          },
+          {
+            "word": "needed ",
+            "start": 9.115,
+            "end": 9.441
+          },
+          {
+            "word": "to ",
+            "start": 9.452,
+            "end": 9.528
+          },
+          {
+            "word": "expand ",
+            "start": 9.539,
+            "end": 9.941
+          },
+          {
+            "word": "to ",
+            "start": 9.952,
+            "end": 10.028
+          },
+          {
+            "word": "meet ",
+            "start": 10.039,
+            "end": 10.234
+          },
+          {
+            "word": "transactions. ",
+            "start": 10.245,
+            "end": 11.082
+          },
+          {
+            "word": "The ",
+            "start": 11.832,
+            "end": 11.984
+          },
+          {
+            "word": "central ",
+            "start": 11.995,
+            "end": 12.343
+          },
+          {
+            "word": "bank ",
+            "start": 12.354,
+            "end": 12.56
+          },
+          {
+            "word": "accommodated, ",
+            "start": 12.571,
+            "end": 13.169
+          },
+          {
+            "word": "which ",
+            "start": 13.31,
+            "end": 13.463
+          },
+          {
+            "word": "accelerated ",
+            "start": 13.473,
+            "end": 14.028
+          },
+          {
+            "word": "inflation ",
+            "start": 14.039,
+            "end": 14.495
+          },
+          {
+            "word": "further. ",
+            "start": 14.506,
+            "end": 14.952
+          },
+          {
+            "word": "There ",
+            "start": 15.702,
+            "end": 15.886
+          },
+          {
+            "word": "was ",
+            "start": 15.897,
+            "end": 16.049
+          },
+          {
+            "word": "no ",
+            "start": 16.06,
+            "end": 16.289
+          },
+          {
+            "word": "natural ",
+            "start": 16.3,
+            "end": 16.713
+          },
+          {
+            "word": "stopping ",
+            "start": 16.723,
+            "end": 17.039
+          },
+          {
+            "word": "point.",
+            "start": 17.05,
+            "end": 17.441
+          }
+        ],
+        "start": 584
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep7_problems_2",
+        "audio_exists": true,
+        "audioPath": "episodes/ep7/audio/ep7_problems_2.wav",
+        "text": "The hyperinflation did not destroy all groups equally. Debtors — including the German state — benefited enormously. Creditors, savers, and fixed-income recipients were destroyed. This redistribution was so extreme and so visible that it generated deep social resentment against the republic, the banks, and perceived beneficiaries.",
+        "duration": 583,
+        "bgImage": "bg_protest_70s.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.219
+          },
+          {
+            "word": "hyperinflation ",
+            "start": 0.23,
+            "end": 0.969
+          },
+          {
+            "word": "did ",
+            "start": 0.98,
+            "end": 1.099
+          },
+          {
+            "word": "not ",
+            "start": 1.11,
+            "end": 1.284
+          },
+          {
+            "word": "destroy ",
+            "start": 1.295,
+            "end": 1.665
+          },
+          {
+            "word": "all ",
+            "start": 1.676,
+            "end": 1.839
+          },
+          {
+            "word": "groups ",
+            "start": 1.85,
+            "end": 2.121
+          },
+          {
+            "word": "equally. ",
+            "start": 2.132,
+            "end": 2.523
+          },
+          {
+            "word": "Debtors — ",
+            "start": 3.267,
+            "end": 3.691
+          },
+          {
+            "word": "including ",
+            "start": 3.876,
+            "end": 4.332
+          },
+          {
+            "word": "the ",
+            "start": 4.343,
+            "end": 4.43
+          },
+          {
+            "word": "German ",
+            "start": 4.441,
+            "end": 4.745
+          },
+          {
+            "word": "state — ",
+            "start": 4.756,
+            "end": 5.104
+          },
+          {
+            "word": "benefited ",
+            "start": 5.31,
+            "end": 5.734
+          },
+          {
+            "word": "enormously. ",
+            "start": 5.745,
+            "end": 6.332
+          },
+          {
+            "word": "Creditors, ",
+            "start": 7.082,
+            "end": 7.604
+          },
+          {
+            "word": "savers, ",
+            "start": 7.778,
+            "end": 8.234
+          },
+          {
+            "word": "and ",
+            "start": 8.419,
+            "end": 8.539
+          },
+          {
+            "word": "fixed-income ",
+            "start": 8.55,
+            "end": 9.126
+          },
+          {
+            "word": "recipients ",
+            "start": 9.136,
+            "end": 9.658
+          },
+          {
+            "word": "were ",
+            "start": 9.669,
+            "end": 9.756
+          },
+          {
+            "word": "destroyed. ",
+            "start": 9.767,
+            "end": 10.386
+          },
+          {
+            "word": "This ",
+            "start": 11.136,
+            "end": 11.386
+          },
+          {
+            "word": "redistribution ",
+            "start": 11.397,
+            "end": 12.082
+          },
+          {
+            "word": "was ",
+            "start": 12.093,
+            "end": 12.234
+          },
+          {
+            "word": "so ",
+            "start": 12.245,
+            "end": 12.419
+          },
+          {
+            "word": "extreme ",
+            "start": 12.43,
+            "end": 12.876
+          },
+          {
+            "word": "and ",
+            "start": 12.886,
+            "end": 12.984
+          },
+          {
+            "word": "so ",
+            "start": 12.995,
+            "end": 13.202
+          },
+          {
+            "word": "visible ",
+            "start": 13.213,
+            "end": 13.539
+          },
+          {
+            "word": "that ",
+            "start": 13.55,
+            "end": 13.669
+          },
+          {
+            "word": "it ",
+            "start": 13.68,
+            "end": 13.789
+          },
+          {
+            "word": "generated ",
+            "start": 13.8,
+            "end": 14.267
+          },
+          {
+            "word": "deep ",
+            "start": 14.278,
+            "end": 14.473
+          },
+          {
+            "word": "social ",
+            "start": 14.484,
+            "end": 14.789
+          },
+          {
+            "word": "resentment ",
+            "start": 14.8,
+            "end": 15.245
+          },
+          {
+            "word": "against ",
+            "start": 15.256,
+            "end": 15.528
+          },
+          {
+            "word": "the ",
+            "start": 15.539,
+            "end": 15.604
+          },
+          {
+            "word": "republic, ",
+            "start": 15.615,
+            "end": 16.126
+          },
+          {
+            "word": "the ",
+            "start": 16.31,
+            "end": 16.386
+          },
+          {
+            "word": "banks, ",
+            "start": 16.397,
+            "end": 16.799
+          },
+          {
+            "word": "and ",
+            "start": 16.995,
+            "end": 17.071
+          },
+          {
+            "word": "perceived ",
+            "start": 17.082,
+            "end": 17.495
+          },
+          {
+            "word": "beneficiaries.",
+            "start": 17.506,
+            "end": 18.245
+          }
+        ],
+        "start": 1142
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep7_problems_3",
+        "audio_exists": true,
+        "audioPath": "episodes/ep7/audio/ep7_problems_3.wav",
+        "text": "Wealthy Germans who held foreign currency, real estate, or physical commodities preserved their wealth. The middle class — holders of savings accounts, war bonds, pension entitlements — was devastated. They would not forget. The political consequences of this would unfold over the next decade.",
+        "duration": 525,
+        "bgImage": "bg_gold_bars.jpg",
+        "wordTimings": [
+          {
+            "word": "Wealthy ",
+            "start": 0.1,
+            "end": 0.48
+          },
+          {
+            "word": "Germans ",
+            "start": 0.491,
+            "end": 0.904
+          },
+          {
+            "word": "who ",
+            "start": 0.915,
+            "end": 1.023
+          },
+          {
+            "word": "held ",
+            "start": 1.034,
+            "end": 1.284
+          },
+          {
+            "word": "foreign ",
+            "start": 1.295,
+            "end": 1.589
+          },
+          {
+            "word": "currency, ",
+            "start": 1.6,
+            "end": 2.045
+          },
+          {
+            "word": "real ",
+            "start": 2.197,
+            "end": 2.382
+          },
+          {
+            "word": "estate, ",
+            "start": 2.393,
+            "end": 2.784
+          },
+          {
+            "word": "or ",
+            "start": 2.98,
+            "end": 3.067
+          },
+          {
+            "word": "physical ",
+            "start": 3.078,
+            "end": 3.48
+          },
+          {
+            "word": "commodities ",
+            "start": 3.491,
+            "end": 3.98
+          },
+          {
+            "word": "preserved ",
+            "start": 3.991,
+            "end": 4.393
+          },
+          {
+            "word": "their ",
+            "start": 4.404,
+            "end": 4.502
+          },
+          {
+            "word": "wealth. ",
+            "start": 4.513,
+            "end": 4.969
+          },
+          {
+            "word": "The ",
+            "start": 5.713,
+            "end": 5.854
+          },
+          {
+            "word": "middle ",
+            "start": 5.865,
+            "end": 6.126
+          },
+          {
+            "word": "class — ",
+            "start": 6.136,
+            "end": 6.549
+          },
+          {
+            "word": "holders ",
+            "start": 6.745,
+            "end": 7.06
+          },
+          {
+            "word": "of ",
+            "start": 7.071,
+            "end": 7.158
+          },
+          {
+            "word": "savings ",
+            "start": 7.169,
+            "end": 7.549
+          },
+          {
+            "word": "accounts, ",
+            "start": 7.56,
+            "end": 8.006
+          },
+          {
+            "word": "war ",
+            "start": 8.18,
+            "end": 8.365
+          },
+          {
+            "word": "bonds, ",
+            "start": 8.376,
+            "end": 8.799
+          },
+          {
+            "word": "pension ",
+            "start": 8.995,
+            "end": 9.278
+          },
+          {
+            "word": "entitlements — ",
+            "start": 9.289,
+            "end": 9.897
+          },
+          {
+            "word": "was ",
+            "start": 10.06,
+            "end": 10.223
+          },
+          {
+            "word": "devastated. ",
+            "start": 10.234,
+            "end": 10.952
+          },
+          {
+            "word": "They ",
+            "start": 11.702,
+            "end": 11.854
+          },
+          {
+            "word": "would ",
+            "start": 11.865,
+            "end": 11.995
+          },
+          {
+            "word": "not ",
+            "start": 12.006,
+            "end": 12.191
+          },
+          {
+            "word": "forget. ",
+            "start": 12.202,
+            "end": 12.626
+          },
+          {
+            "word": "The ",
+            "start": 13.376,
+            "end": 13.517
+          },
+          {
+            "word": "political ",
+            "start": 13.528,
+            "end": 13.952
+          },
+          {
+            "word": "consequences ",
+            "start": 13.963,
+            "end": 14.549
+          },
+          {
+            "word": "of ",
+            "start": 14.56,
+            "end": 14.636
+          },
+          {
+            "word": "this ",
+            "start": 14.647,
+            "end": 14.821
+          },
+          {
+            "word": "would ",
+            "start": 14.832,
+            "end": 14.952
+          },
+          {
+            "word": "unfold ",
+            "start": 14.963,
+            "end": 15.376
+          },
+          {
+            "word": "over ",
+            "start": 15.386,
+            "end": 15.528
+          },
+          {
+            "word": "the ",
+            "start": 15.539,
+            "end": 15.615
+          },
+          {
+            "word": "next ",
+            "start": 15.626,
+            "end": 15.854
+          },
+          {
+            "word": "decade.",
+            "start": 15.865,
+            "end": 16.321
+          }
+        ],
+        "start": 1725
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep7_problems_4",
+        "audio_exists": true,
+        "audioPath": "episodes/ep7/audio/ep7_problems_4.wav",
+        "text": "Germany's economy depended on imported raw materials. Hyperinflation meant that every import became astronomically expensive in mark terms. Industrial production collapsed not from lack of demand but from inability to purchase the inputs needed to produce anything.",
+        "duration": 439,
+        "bgImage": "bg_inflation_cash.jpg",
+        "wordTimings": [
+          {
+            "word": "Germany's ",
+            "start": 0.1,
+            "end": 0.578
+          },
+          {
+            "word": "economy ",
+            "start": 0.589,
+            "end": 0.947
+          },
+          {
+            "word": "depended ",
+            "start": 0.958,
+            "end": 1.371
+          },
+          {
+            "word": "on ",
+            "start": 1.382,
+            "end": 1.48
+          },
+          {
+            "word": "imported ",
+            "start": 1.491,
+            "end": 1.915
+          },
+          {
+            "word": "raw ",
+            "start": 1.926,
+            "end": 2.089
+          },
+          {
+            "word": "materials. ",
+            "start": 2.1,
+            "end": 2.839
+          },
+          {
+            "word": "Hyperinflation ",
+            "start": 3.582,
+            "end": 4.376
+          },
+          {
+            "word": "meant ",
+            "start": 4.386,
+            "end": 4.549
+          },
+          {
+            "word": "that ",
+            "start": 4.56,
+            "end": 4.691
+          },
+          {
+            "word": "every ",
+            "start": 4.702,
+            "end": 4.908
+          },
+          {
+            "word": "import ",
+            "start": 4.919,
+            "end": 5.256
+          },
+          {
+            "word": "became ",
+            "start": 5.267,
+            "end": 5.571
+          },
+          {
+            "word": "astronomically ",
+            "start": 5.582,
+            "end": 6.136
+          },
+          {
+            "word": "expensive ",
+            "start": 6.147,
+            "end": 6.593
+          },
+          {
+            "word": "in ",
+            "start": 6.604,
+            "end": 6.702
+          },
+          {
+            "word": "mark ",
+            "start": 6.713,
+            "end": 6.963
+          },
+          {
+            "word": "terms. ",
+            "start": 6.973,
+            "end": 7.463
+          },
+          {
+            "word": "Industrial ",
+            "start": 8.213,
+            "end": 8.799
+          },
+          {
+            "word": "production ",
+            "start": 8.81,
+            "end": 9.213
+          },
+          {
+            "word": "collapsed ",
+            "start": 9.223,
+            "end": 9.626
+          },
+          {
+            "word": "not ",
+            "start": 9.636,
+            "end": 9.81
+          },
+          {
+            "word": "from ",
+            "start": 9.821,
+            "end": 9.952
+          },
+          {
+            "word": "lack ",
+            "start": 9.963,
+            "end": 10.126
+          },
+          {
+            "word": "of ",
+            "start": 10.136,
+            "end": 10.191
+          },
+          {
+            "word": "demand ",
+            "start": 10.202,
+            "end": 10.582
+          },
+          {
+            "word": "but ",
+            "start": 10.593,
+            "end": 10.702
+          },
+          {
+            "word": "from ",
+            "start": 10.713,
+            "end": 10.865
+          },
+          {
+            "word": "inability ",
+            "start": 10.876,
+            "end": 11.343
+          },
+          {
+            "word": "to ",
+            "start": 11.354,
+            "end": 11.452
+          },
+          {
+            "word": "purchase ",
+            "start": 11.463,
+            "end": 11.843
+          },
+          {
+            "word": "the ",
+            "start": 11.854,
+            "end": 11.941
+          },
+          {
+            "word": "inputs ",
+            "start": 11.952,
+            "end": 12.267
+          },
+          {
+            "word": "needed ",
+            "start": 12.278,
+            "end": 12.56
+          },
+          {
+            "word": "to ",
+            "start": 12.571,
+            "end": 12.636
+          },
+          {
+            "word": "produce ",
+            "start": 12.647,
+            "end": 13.017
+          },
+          {
+            "word": "anything.",
+            "start": 13.028,
+            "end": 13.463
+          }
+        ],
+        "start": 2250
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep7_problems_5",
+        "audio_exists": true,
+        "audioPath": "episodes/ep7/audio/ep7_problems_5.wav",
+        "text": "The international dimension made the crisis intractable. The reparations obligation was denominated in gold, not marks. Printing marks did not help Germany pay gold reparations — it simply destroyed domestic purchasing power while the foreign obligation remained unchanged.",
+        "duration": 466,
+        "bgImage": "bg_breadline.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "international ",
+            "start": 0.241,
+            "end": 0.806
+          },
+          {
+            "word": "dimension ",
+            "start": 0.817,
+            "end": 1.317
+          },
+          {
+            "word": "made ",
+            "start": 1.328,
+            "end": 1.502
+          },
+          {
+            "word": "the ",
+            "start": 1.513,
+            "end": 1.578
+          },
+          {
+            "word": "crisis ",
+            "start": 1.589,
+            "end": 1.98
+          },
+          {
+            "word": "intractable. ",
+            "start": 1.991,
+            "end": 2.632
+          },
+          {
+            "word": "The ",
+            "start": 3.376,
+            "end": 3.517
+          },
+          {
+            "word": "reparations ",
+            "start": 3.528,
+            "end": 4.104
+          },
+          {
+            "word": "obligation ",
+            "start": 4.115,
+            "end": 4.615
+          },
+          {
+            "word": "was ",
+            "start": 4.626,
+            "end": 4.734
+          },
+          {
+            "word": "denominated ",
+            "start": 4.745,
+            "end": 5.278
+          },
+          {
+            "word": "in ",
+            "start": 5.289,
+            "end": 5.376
+          },
+          {
+            "word": "gold, ",
+            "start": 5.386,
+            "end": 5.778
+          },
+          {
+            "word": "not ",
+            "start": 5.963,
+            "end": 6.191
+          },
+          {
+            "word": "marks. ",
+            "start": 6.202,
+            "end": 6.723
+          },
+          {
+            "word": "Printing ",
+            "start": 7.473,
+            "end": 7.843
+          },
+          {
+            "word": "marks ",
+            "start": 7.854,
+            "end": 8.115
+          },
+          {
+            "word": "did ",
+            "start": 8.126,
+            "end": 8.256
+          },
+          {
+            "word": "not ",
+            "start": 8.267,
+            "end": 8.43
+          },
+          {
+            "word": "help ",
+            "start": 8.441,
+            "end": 8.658
+          },
+          {
+            "word": "Germany ",
+            "start": 8.669,
+            "end": 8.995
+          },
+          {
+            "word": "pay ",
+            "start": 9.006,
+            "end": 9.213
+          },
+          {
+            "word": "gold ",
+            "start": 9.223,
+            "end": 9.473
+          },
+          {
+            "word": "reparations — ",
+            "start": 9.484,
+            "end": 10.136
+          },
+          {
+            "word": "it ",
+            "start": 10.343,
+            "end": 10.43
+          },
+          {
+            "word": "simply ",
+            "start": 10.441,
+            "end": 10.745
+          },
+          {
+            "word": "destroyed ",
+            "start": 10.756,
+            "end": 11.191
+          },
+          {
+            "word": "domestic ",
+            "start": 11.202,
+            "end": 11.571
+          },
+          {
+            "word": "purchasing ",
+            "start": 11.582,
+            "end": 12.017
+          },
+          {
+            "word": "power ",
+            "start": 12.028,
+            "end": 12.278
+          },
+          {
+            "word": "while ",
+            "start": 12.289,
+            "end": 12.495
+          },
+          {
+            "word": "the ",
+            "start": 12.506,
+            "end": 12.571
+          },
+          {
+            "word": "foreign ",
+            "start": 12.582,
+            "end": 12.886
+          },
+          {
+            "word": "obligation ",
+            "start": 12.897,
+            "end": 13.397
+          },
+          {
+            "word": "remained ",
+            "start": 13.408,
+            "end": 13.734
+          },
+          {
+            "word": "unchanged.",
+            "start": 13.745,
+            "end": 14.354
+          }
+        ],
+        "start": 2689
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep7_problems_6",
+        "audio_exists": true,
+        "audioPath": "episodes/ep7/audio/ep7_problems_6.wav",
+        "text": "By mid-1923, the German economy had bifurcated. In cities, an exchange economy in foreign currency or barter had replaced the official mark economy. Workers were paid in bread, coal, or potatoes. The currency had ceased to function as a medium of exchange for practical purposes.",
+        "duration": 542,
+        "bgImage": "bg_protest_70s.jpg",
+        "wordTimings": [
+          {
+            "word": "By ",
+            "start": 0.1,
+            "end": 0.263
+          },
+          {
+            "word": "mid-1923, ",
+            "start": 0.273,
+            "end": 1.589
+          },
+          {
+            "word": "the ",
+            "start": 1.708,
+            "end": 1.806
+          },
+          {
+            "word": "German ",
+            "start": 1.817,
+            "end": 2.154
+          },
+          {
+            "word": "economy ",
+            "start": 2.165,
+            "end": 2.534
+          },
+          {
+            "word": "had ",
+            "start": 2.545,
+            "end": 2.708
+          },
+          {
+            "word": "bifurcated. ",
+            "start": 2.719,
+            "end": 3.436
+          },
+          {
+            "word": "In ",
+            "start": 4.18,
+            "end": 4.354
+          },
+          {
+            "word": "cities, ",
+            "start": 4.365,
+            "end": 4.767
+          },
+          {
+            "word": "an ",
+            "start": 4.952,
+            "end": 5.017
+          },
+          {
+            "word": "exchange ",
+            "start": 5.028,
+            "end": 5.408
+          },
+          {
+            "word": "economy ",
+            "start": 5.419,
+            "end": 5.81
+          },
+          {
+            "word": "in ",
+            "start": 5.821,
+            "end": 5.973
+          },
+          {
+            "word": "foreign ",
+            "start": 5.984,
+            "end": 6.299
+          },
+          {
+            "word": "currency ",
+            "start": 6.31,
+            "end": 6.734
+          },
+          {
+            "word": "or ",
+            "start": 6.745,
+            "end": 6.876
+          },
+          {
+            "word": "barter ",
+            "start": 6.886,
+            "end": 7.213
+          },
+          {
+            "word": "had ",
+            "start": 7.223,
+            "end": 7.376
+          },
+          {
+            "word": "replaced ",
+            "start": 7.386,
+            "end": 7.767
+          },
+          {
+            "word": "the ",
+            "start": 7.778,
+            "end": 7.854
+          },
+          {
+            "word": "official ",
+            "start": 7.865,
+            "end": 8.202
+          },
+          {
+            "word": "mark ",
+            "start": 8.213,
+            "end": 8.43
+          },
+          {
+            "word": "economy. ",
+            "start": 8.441,
+            "end": 8.865
+          },
+          {
+            "word": "Workers ",
+            "start": 9.615,
+            "end": 10.049
+          },
+          {
+            "word": "were ",
+            "start": 10.06,
+            "end": 10.147
+          },
+          {
+            "word": "paid ",
+            "start": 10.158,
+            "end": 10.43
+          },
+          {
+            "word": "in ",
+            "start": 10.441,
+            "end": 10.539
+          },
+          {
+            "word": "bread, ",
+            "start": 10.55,
+            "end": 10.843
+          },
+          {
+            "word": "coal, ",
+            "start": 11.039,
+            "end": 11.3
+          },
+          {
+            "word": "or ",
+            "start": 11.506,
+            "end": 11.615
+          },
+          {
+            "word": "potatoes. ",
+            "start": 11.626,
+            "end": 12.386
+          },
+          {
+            "word": "The ",
+            "start": 13.136,
+            "end": 13.267
+          },
+          {
+            "word": "currency ",
+            "start": 13.278,
+            "end": 13.691
+          },
+          {
+            "word": "had ",
+            "start": 13.702,
+            "end": 13.843
+          },
+          {
+            "word": "ceased ",
+            "start": 13.854,
+            "end": 14.093
+          },
+          {
+            "word": "to ",
+            "start": 14.104,
+            "end": 14.158
+          },
+          {
+            "word": "function ",
+            "start": 14.169,
+            "end": 14.56
+          },
+          {
+            "word": "as ",
+            "start": 14.571,
+            "end": 14.669
+          },
+          {
+            "word": "a ",
+            "start": 14.68,
+            "end": 14.723
+          },
+          {
+            "word": "medium ",
+            "start": 14.734,
+            "end": 15.136
+          },
+          {
+            "word": "of ",
+            "start": 15.147,
+            "end": 15.223
+          },
+          {
+            "word": "exchange ",
+            "start": 15.234,
+            "end": 15.691
+          },
+          {
+            "word": "for ",
+            "start": 15.702,
+            "end": 15.799
+          },
+          {
+            "word": "practical ",
+            "start": 15.81,
+            "end": 16.256
+          },
+          {
+            "word": "purposes.",
+            "start": 16.267,
+            "end": 16.886
+          }
+        ],
+        "start": 3155
+      }
+    ]
+  },
+  {
+    "id": "ep7_solutions",
+    "title": "Solutions",
+    "globalStart": 7464,
+    "duration": 3593,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Solutions"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep7_solutions_0",
+        "audio_exists": true,
+        "audioPath": "episodes/ep7/audio/ep7_solutions_0.wav",
+        "text": "On November 15, 1923 — the day Hitler was arrested following the failed Beer Hall Putsch — Germany introduced the Rentenmark. The new currency was backed not by gold, which Germany did not have, but by a symbolic lien on German land and industrial assets. The scheme was largely fictitious in its backing, but it worked.",
+        "duration": 564,
+        "bgImage": "bg_gold_bars.jpg",
+        "wordTimings": [
+          {
+            "word": "On ",
+            "start": 0.1,
+            "end": 0.295
+          },
+          {
+            "word": "November 15, 1923 — ",
+            "start": 0.306,
+            "end": 2.295
+          },
+          {
+            "word": "the ",
+            "start": 2.48,
+            "end": 2.567
+          },
+          {
+            "word": "day ",
+            "start": 2.578,
+            "end": 2.763
+          },
+          {
+            "word": "Hitler ",
+            "start": 2.773,
+            "end": 3.045
+          },
+          {
+            "word": "was ",
+            "start": 3.056,
+            "end": 3.186
+          },
+          {
+            "word": "arrested ",
+            "start": 3.197,
+            "end": 3.599
+          },
+          {
+            "word": "following ",
+            "start": 3.61,
+            "end": 3.893
+          },
+          {
+            "word": "the ",
+            "start": 3.904,
+            "end": 3.958
+          },
+          {
+            "word": "failed ",
+            "start": 3.969,
+            "end": 4.328
+          },
+          {
+            "word": "Beer ",
+            "start": 4.339,
+            "end": 4.513
+          },
+          {
+            "word": "Hall ",
+            "start": 4.523,
+            "end": 4.719
+          },
+          {
+            "word": "Putsch — ",
+            "start": 4.73,
+            "end": 4.991
+          },
+          {
+            "word": "Germany ",
+            "start": 5.121,
+            "end": 5.469
+          },
+          {
+            "word": "introduced ",
+            "start": 5.48,
+            "end": 6.002
+          },
+          {
+            "word": "the ",
+            "start": 6.013,
+            "end": 6.078
+          },
+          {
+            "word": "Rentenmark. ",
+            "start": 6.089,
+            "end": 6.784
+          },
+          {
+            "word": "The ",
+            "start": 7.528,
+            "end": 7.669
+          },
+          {
+            "word": "new ",
+            "start": 7.68,
+            "end": 7.886
+          },
+          {
+            "word": "currency ",
+            "start": 7.897,
+            "end": 8.332
+          },
+          {
+            "word": "was ",
+            "start": 8.343,
+            "end": 8.484
+          },
+          {
+            "word": "backed ",
+            "start": 8.495,
+            "end": 8.734
+          },
+          {
+            "word": "not ",
+            "start": 8.745,
+            "end": 8.952
+          },
+          {
+            "word": "by ",
+            "start": 8.963,
+            "end": 9.093
+          },
+          {
+            "word": "gold, ",
+            "start": 9.104,
+            "end": 9.539
+          },
+          {
+            "word": "which ",
+            "start": 9.658,
+            "end": 9.832
+          },
+          {
+            "word": "Germany ",
+            "start": 9.843,
+            "end": 10.223
+          },
+          {
+            "word": "did ",
+            "start": 10.234,
+            "end": 10.354
+          },
+          {
+            "word": "not ",
+            "start": 10.365,
+            "end": 10.539
+          },
+          {
+            "word": "have, ",
+            "start": 10.55,
+            "end": 10.789
+          },
+          {
+            "word": "but ",
+            "start": 10.919,
+            "end": 11.049
+          },
+          {
+            "word": "by ",
+            "start": 11.06,
+            "end": 11.234
+          },
+          {
+            "word": "a ",
+            "start": 11.245,
+            "end": 11.31
+          },
+          {
+            "word": "symbolic ",
+            "start": 11.321,
+            "end": 11.767
+          },
+          {
+            "word": "lien ",
+            "start": 11.778,
+            "end": 12.017
+          },
+          {
+            "word": "on ",
+            "start": 12.028,
+            "end": 12.158
+          },
+          {
+            "word": "German ",
+            "start": 12.169,
+            "end": 12.506
+          },
+          {
+            "word": "land ",
+            "start": 12.517,
+            "end": 12.789
+          },
+          {
+            "word": "and ",
+            "start": 12.8,
+            "end": 12.886
+          },
+          {
+            "word": "industrial ",
+            "start": 12.897,
+            "end": 13.408
+          },
+          {
+            "word": "assets. ",
+            "start": 13.419,
+            "end": 13.897
+          },
+          {
+            "word": "The ",
+            "start": 14.647,
+            "end": 14.789
+          },
+          {
+            "word": "scheme ",
+            "start": 14.8,
+            "end": 15.136
+          },
+          {
+            "word": "was ",
+            "start": 15.147,
+            "end": 15.299
+          },
+          {
+            "word": "largely ",
+            "start": 15.31,
+            "end": 15.691
+          },
+          {
+            "word": "fictitious ",
+            "start": 15.702,
+            "end": 16.18
+          },
+          {
+            "word": "in ",
+            "start": 16.191,
+            "end": 16.278
+          },
+          {
+            "word": "its ",
+            "start": 16.289,
+            "end": 16.408
+          },
+          {
+            "word": "backing, ",
+            "start": 16.419,
+            "end": 16.789
+          },
+          {
+            "word": "but ",
+            "start": 16.973,
+            "end": 17.071
+          },
+          {
+            "word": "it ",
+            "start": 17.082,
+            "end": 17.18
+          },
+          {
+            "word": "worked.",
+            "start": 17.191,
+            "end": 17.615
+          }
+        ],
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep7_solutions_1",
+        "audio_exists": true,
+        "audioPath": "episodes/ep7/audio/ep7_solutions_1.wav",
+        "text": "The Rentenmark worked because it was scarce. The government strictly limited the supply. For the first time in years, a mark could not be printed at will. Prices stabilized within weeks. The hyperinflation ended not through a gradual unwinding but through a credible break in expectations.",
+        "duration": 509,
+        "bgImage": "bg_fed_building.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.252
+          },
+          {
+            "word": "Rentenmark ",
+            "start": 0.263,
+            "end": 0.763
+          },
+          {
+            "word": "worked ",
+            "start": 0.773,
+            "end": 1.056
+          },
+          {
+            "word": "because ",
+            "start": 1.067,
+            "end": 1.263
+          },
+          {
+            "word": "it ",
+            "start": 1.273,
+            "end": 1.36
+          },
+          {
+            "word": "was ",
+            "start": 1.371,
+            "end": 1.491
+          },
+          {
+            "word": "scarce. ",
+            "start": 1.502,
+            "end": 2.013
+          },
+          {
+            "word": "The ",
+            "start": 2.756,
+            "end": 2.876
+          },
+          {
+            "word": "government ",
+            "start": 2.886,
+            "end": 3.267
+          },
+          {
+            "word": "strictly ",
+            "start": 3.278,
+            "end": 3.636
+          },
+          {
+            "word": "limited ",
+            "start": 3.647,
+            "end": 4.006
+          },
+          {
+            "word": "the ",
+            "start": 4.017,
+            "end": 4.071
+          },
+          {
+            "word": "supply. ",
+            "start": 4.082,
+            "end": 4.539
+          },
+          {
+            "word": "For ",
+            "start": 5.289,
+            "end": 5.43
+          },
+          {
+            "word": "the ",
+            "start": 5.441,
+            "end": 5.517
+          },
+          {
+            "word": "first ",
+            "start": 5.528,
+            "end": 5.821
+          },
+          {
+            "word": "time ",
+            "start": 5.832,
+            "end": 6.039
+          },
+          {
+            "word": "in ",
+            "start": 6.05,
+            "end": 6.126
+          },
+          {
+            "word": "years, ",
+            "start": 6.136,
+            "end": 6.484
+          },
+          {
+            "word": "a ",
+            "start": 6.647,
+            "end": 6.68
+          },
+          {
+            "word": "mark ",
+            "start": 6.691,
+            "end": 6.984
+          },
+          {
+            "word": "could ",
+            "start": 6.995,
+            "end": 7.115
+          },
+          {
+            "word": "not ",
+            "start": 7.126,
+            "end": 7.31
+          },
+          {
+            "word": "be ",
+            "start": 7.321,
+            "end": 7.408
+          },
+          {
+            "word": "printed ",
+            "start": 7.419,
+            "end": 7.734
+          },
+          {
+            "word": "at ",
+            "start": 7.745,
+            "end": 7.821
+          },
+          {
+            "word": "will. ",
+            "start": 7.832,
+            "end": 8.126
+          },
+          {
+            "word": "Prices ",
+            "start": 8.876,
+            "end": 9.289
+          },
+          {
+            "word": "stabilized ",
+            "start": 9.3,
+            "end": 9.81
+          },
+          {
+            "word": "within ",
+            "start": 9.821,
+            "end": 10.082
+          },
+          {
+            "word": "weeks. ",
+            "start": 10.093,
+            "end": 10.56
+          },
+          {
+            "word": "The ",
+            "start": 11.31,
+            "end": 11.43
+          },
+          {
+            "word": "hyperinflation ",
+            "start": 11.441,
+            "end": 12.191
+          },
+          {
+            "word": "ended ",
+            "start": 12.202,
+            "end": 12.43
+          },
+          {
+            "word": "not ",
+            "start": 12.441,
+            "end": 12.593
+          },
+          {
+            "word": "through ",
+            "start": 12.604,
+            "end": 12.789
+          },
+          {
+            "word": "a ",
+            "start": 12.8,
+            "end": 12.843
+          },
+          {
+            "word": "gradual ",
+            "start": 12.854,
+            "end": 13.278
+          },
+          {
+            "word": "unwinding ",
+            "start": 13.289,
+            "end": 13.767
+          },
+          {
+            "word": "but ",
+            "start": 13.778,
+            "end": 13.886
+          },
+          {
+            "word": "through ",
+            "start": 13.897,
+            "end": 14.104
+          },
+          {
+            "word": "a ",
+            "start": 14.115,
+            "end": 14.158
+          },
+          {
+            "word": "credible ",
+            "start": 14.169,
+            "end": 14.56
+          },
+          {
+            "word": "break ",
+            "start": 14.571,
+            "end": 14.8
+          },
+          {
+            "word": "in ",
+            "start": 14.81,
+            "end": 14.897
+          },
+          {
+            "word": "expectations.",
+            "start": 14.908,
+            "end": 15.799
+          }
+        ],
+        "start": 654
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep7_solutions_2",
+        "audio_exists": true,
+        "audioPath": "episodes/ep7/audio/ep7_solutions_2.wav",
+        "text": "The Dawes Plan of 1924, negotiated with American involvement, restructured Germany's reparations payments to a sustainable schedule and injected American capital into the German banking system. International legitimacy supported domestic monetary credibility.",
+        "duration": 447,
+        "bgImage": "bg_recovery.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.241
+          },
+          {
+            "word": "Dawes ",
+            "start": 0.252,
+            "end": 0.513
+          },
+          {
+            "word": "Plan ",
+            "start": 0.523,
+            "end": 0.719
+          },
+          {
+            "word": "of ",
+            "start": 0.73,
+            "end": 0.806
+          },
+          {
+            "word": "1924, ",
+            "start": 0.817,
+            "end": 1.828
+          },
+          {
+            "word": "negotiated ",
+            "start": 2.078,
+            "end": 2.676
+          },
+          {
+            "word": "with ",
+            "start": 2.686,
+            "end": 2.795
+          },
+          {
+            "word": "American ",
+            "start": 2.806,
+            "end": 3.154
+          },
+          {
+            "word": "involvement, ",
+            "start": 3.165,
+            "end": 3.676
+          },
+          {
+            "word": "restructured ",
+            "start": 3.893,
+            "end": 4.458
+          },
+          {
+            "word": "Germany's ",
+            "start": 4.469,
+            "end": 4.904
+          },
+          {
+            "word": "reparations ",
+            "start": 4.915,
+            "end": 5.469
+          },
+          {
+            "word": "payments ",
+            "start": 5.48,
+            "end": 5.839
+          },
+          {
+            "word": "to ",
+            "start": 5.85,
+            "end": 5.969
+          },
+          {
+            "word": "a ",
+            "start": 5.98,
+            "end": 6.023
+          },
+          {
+            "word": "sustainable ",
+            "start": 6.034,
+            "end": 6.589
+          },
+          {
+            "word": "schedule ",
+            "start": 6.6,
+            "end": 7.002
+          },
+          {
+            "word": "and ",
+            "start": 7.013,
+            "end": 7.089
+          },
+          {
+            "word": "injected ",
+            "start": 7.1,
+            "end": 7.589
+          },
+          {
+            "word": "American ",
+            "start": 7.6,
+            "end": 8.002
+          },
+          {
+            "word": "capital ",
+            "start": 8.013,
+            "end": 8.415
+          },
+          {
+            "word": "into ",
+            "start": 8.426,
+            "end": 8.621
+          },
+          {
+            "word": "the ",
+            "start": 8.632,
+            "end": 8.73
+          },
+          {
+            "word": "German ",
+            "start": 8.741,
+            "end": 9.078
+          },
+          {
+            "word": "banking ",
+            "start": 9.089,
+            "end": 9.447
+          },
+          {
+            "word": "system. ",
+            "start": 9.458,
+            "end": 9.882
+          },
+          {
+            "word": "International ",
+            "start": 10.626,
+            "end": 11.278
+          },
+          {
+            "word": "legitimacy ",
+            "start": 11.289,
+            "end": 11.854
+          },
+          {
+            "word": "supported ",
+            "start": 11.865,
+            "end": 12.299
+          },
+          {
+            "word": "domestic ",
+            "start": 12.31,
+            "end": 12.702
+          },
+          {
+            "word": "monetary ",
+            "start": 12.713,
+            "end": 13.104
+          },
+          {
+            "word": "credibility.",
+            "start": 13.115,
+            "end": 13.723
+          }
+        ],
+        "start": 1163
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep7_solutions_3",
+        "audio_exists": true,
+        "audioPath": "episodes/ep7/audio/ep7_solutions_3.wav",
+        "text": "The Reichsbank's new president, Hjalmar Schacht, raised interest rates to extraordinary levels — creating a brief but severe credit crunch. Stabilization required pain. The question was whether concentrated pain now was preferable to distributed pain forever. Schacht chose the concentrated pain.",
+        "duration": 527,
+        "bgImage": "bg_city_night.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.241
+          },
+          {
+            "word": "Reichsbank's ",
+            "start": 0.252,
+            "end": 0.817
+          },
+          {
+            "word": "new ",
+            "start": 0.828,
+            "end": 1.002
+          },
+          {
+            "word": "president, ",
+            "start": 1.013,
+            "end": 1.469
+          },
+          {
+            "word": "Hjalmar ",
+            "start": 1.6,
+            "end": 1.926
+          },
+          {
+            "word": "Schacht, ",
+            "start": 1.936,
+            "end": 2.273
+          },
+          {
+            "word": "raised ",
+            "start": 2.415,
+            "end": 2.632
+          },
+          {
+            "word": "interest ",
+            "start": 2.643,
+            "end": 3.034
+          },
+          {
+            "word": "rates ",
+            "start": 3.045,
+            "end": 3.306
+          },
+          {
+            "word": "to ",
+            "start": 3.317,
+            "end": 3.404
+          },
+          {
+            "word": "extraordinary ",
+            "start": 3.415,
+            "end": 4.034
+          },
+          {
+            "word": "levels — ",
+            "start": 4.045,
+            "end": 4.48
+          },
+          {
+            "word": "creating ",
+            "start": 4.643,
+            "end": 5.056
+          },
+          {
+            "word": "a ",
+            "start": 5.067,
+            "end": 5.121
+          },
+          {
+            "word": "brief ",
+            "start": 5.132,
+            "end": 5.491
+          },
+          {
+            "word": "but ",
+            "start": 5.502,
+            "end": 5.621
+          },
+          {
+            "word": "severe ",
+            "start": 5.632,
+            "end": 6.002
+          },
+          {
+            "word": "credit ",
+            "start": 6.013,
+            "end": 6.306
+          },
+          {
+            "word": "crunch. ",
+            "start": 6.317,
+            "end": 6.784
+          },
+          {
+            "word": "Stabilization ",
+            "start": 7.528,
+            "end": 8.397
+          },
+          {
+            "word": "required ",
+            "start": 8.408,
+            "end": 8.821
+          },
+          {
+            "word": "pain. ",
+            "start": 8.832,
+            "end": 9.267
+          },
+          {
+            "word": "The ",
+            "start": 10.017,
+            "end": 10.136
+          },
+          {
+            "word": "question ",
+            "start": 10.147,
+            "end": 10.506
+          },
+          {
+            "word": "was ",
+            "start": 10.517,
+            "end": 10.647
+          },
+          {
+            "word": "whether ",
+            "start": 10.658,
+            "end": 10.854
+          },
+          {
+            "word": "concentrated ",
+            "start": 10.865,
+            "end": 11.473
+          },
+          {
+            "word": "pain ",
+            "start": 11.484,
+            "end": 11.745
+          },
+          {
+            "word": "now ",
+            "start": 11.756,
+            "end": 11.941
+          },
+          {
+            "word": "was ",
+            "start": 11.952,
+            "end": 12.093
+          },
+          {
+            "word": "preferable ",
+            "start": 12.104,
+            "end": 12.539
+          },
+          {
+            "word": "to ",
+            "start": 12.55,
+            "end": 12.626
+          },
+          {
+            "word": "distributed ",
+            "start": 12.636,
+            "end": 13.169
+          },
+          {
+            "word": "pain ",
+            "start": 13.18,
+            "end": 13.408
+          },
+          {
+            "word": "forever. ",
+            "start": 13.419,
+            "end": 13.876
+          },
+          {
+            "word": "Schacht ",
+            "start": 14.626,
+            "end": 14.995
+          },
+          {
+            "word": "chose ",
+            "start": 15.006,
+            "end": 15.256
+          },
+          {
+            "word": "the ",
+            "start": 15.267,
+            "end": 15.343
+          },
+          {
+            "word": "concentrated ",
+            "start": 15.354,
+            "end": 15.984
+          },
+          {
+            "word": "pain.",
+            "start": 15.995,
+            "end": 16.408
+          }
+        ],
+        "start": 1610
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep7_solutions_4",
+        "audio_exists": true,
+        "audioPath": "episodes/ep7/audio/ep7_solutions_4.wav",
+        "text": "The lesson was counterintuitive: in a hyperinflation, the cure is immediately deflationary. Once the printing stops and credibility is established, real economic activity can resume. The velocity of money slows, prices stabilize, and transactions return to the official economy.",
+        "duration": 491,
+        "bgImage": "bg_gold_bars.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.219
+          },
+          {
+            "word": "lesson ",
+            "start": 0.23,
+            "end": 0.534
+          },
+          {
+            "word": "was ",
+            "start": 0.545,
+            "end": 0.676
+          },
+          {
+            "word": "counterintuitive: ",
+            "start": 0.686,
+            "end": 1.48
+          },
+          {
+            "word": "in ",
+            "start": 1.654,
+            "end": 1.73
+          },
+          {
+            "word": "a ",
+            "start": 1.741,
+            "end": 1.773
+          },
+          {
+            "word": "hyperinflation, ",
+            "start": 1.784,
+            "end": 2.61
+          },
+          {
+            "word": "the ",
+            "start": 2.806,
+            "end": 2.882
+          },
+          {
+            "word": "cure ",
+            "start": 2.893,
+            "end": 3.208
+          },
+          {
+            "word": "is ",
+            "start": 3.219,
+            "end": 3.415
+          },
+          {
+            "word": "immediately ",
+            "start": 3.426,
+            "end": 3.98
+          },
+          {
+            "word": "deflationary. ",
+            "start": 3.991,
+            "end": 4.654
+          },
+          {
+            "word": "Once ",
+            "start": 5.397,
+            "end": 5.691
+          },
+          {
+            "word": "the ",
+            "start": 5.702,
+            "end": 5.789
+          },
+          {
+            "word": "printing ",
+            "start": 5.8,
+            "end": 6.115
+          },
+          {
+            "word": "stops ",
+            "start": 6.126,
+            "end": 6.419
+          },
+          {
+            "word": "and ",
+            "start": 6.43,
+            "end": 6.517
+          },
+          {
+            "word": "credibility ",
+            "start": 6.528,
+            "end": 7.05
+          },
+          {
+            "word": "is ",
+            "start": 7.06,
+            "end": 7.147
+          },
+          {
+            "word": "established, ",
+            "start": 7.158,
+            "end": 7.723
+          },
+          {
+            "word": "real ",
+            "start": 7.941,
+            "end": 8.158
+          },
+          {
+            "word": "economic ",
+            "start": 8.169,
+            "end": 8.604
+          },
+          {
+            "word": "activity ",
+            "start": 8.615,
+            "end": 9.028
+          },
+          {
+            "word": "can ",
+            "start": 9.039,
+            "end": 9.18
+          },
+          {
+            "word": "resume. ",
+            "start": 9.191,
+            "end": 9.68
+          },
+          {
+            "word": "The ",
+            "start": 10.43,
+            "end": 10.549
+          },
+          {
+            "word": "velocity ",
+            "start": 10.56,
+            "end": 11.028
+          },
+          {
+            "word": "of ",
+            "start": 11.039,
+            "end": 11.126
+          },
+          {
+            "word": "money ",
+            "start": 11.136,
+            "end": 11.376
+          },
+          {
+            "word": "slows, ",
+            "start": 11.386,
+            "end": 11.854
+          },
+          {
+            "word": "prices ",
+            "start": 12.006,
+            "end": 12.354
+          },
+          {
+            "word": "stabilize, ",
+            "start": 12.365,
+            "end": 12.963
+          },
+          {
+            "word": "and ",
+            "start": 13.147,
+            "end": 13.245
+          },
+          {
+            "word": "transactions ",
+            "start": 13.256,
+            "end": 13.865
+          },
+          {
+            "word": "return ",
+            "start": 13.876,
+            "end": 14.223
+          },
+          {
+            "word": "to ",
+            "start": 14.234,
+            "end": 14.31
+          },
+          {
+            "word": "the ",
+            "start": 14.321,
+            "end": 14.419
+          },
+          {
+            "word": "official ",
+            "start": 14.43,
+            "end": 14.778
+          },
+          {
+            "word": "economy.",
+            "start": 14.789,
+            "end": 15.213
+          }
+        ],
+        "start": 2137
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep7_solutions_5",
+        "audio_exists": true,
+        "audioPath": "episodes/ep7/audio/ep7_solutions_5.wav",
+        "text": "By 1924, German industrial production was recovering. By 1925, unemployment had fallen sharply. The stabilisation proved that hyperinflations could end quickly once the monetary anchor was restored — the damage, however, was not quickly undone.",
+        "duration": 485,
+        "bgImage": "bg_fed_building.jpg",
+        "wordTimings": [
+          {
+            "word": "By 1924, ",
+            "start": 0.1,
+            "end": 1.339
+          },
+          {
+            "word": "German ",
+            "start": 1.534,
+            "end": 1.849
+          },
+          {
+            "word": "industrial ",
+            "start": 1.86,
+            "end": 2.382
+          },
+          {
+            "word": "production ",
+            "start": 2.393,
+            "end": 2.828
+          },
+          {
+            "word": "was ",
+            "start": 2.839,
+            "end": 2.98
+          },
+          {
+            "word": "recovering. ",
+            "start": 2.991,
+            "end": 3.523
+          },
+          {
+            "word": "By 1925, ",
+            "start": 4.267,
+            "end": 5.528
+          },
+          {
+            "word": "unemployment ",
+            "start": 5.669,
+            "end": 6.245
+          },
+          {
+            "word": "had ",
+            "start": 6.256,
+            "end": 6.376
+          },
+          {
+            "word": "fallen ",
+            "start": 6.386,
+            "end": 6.778
+          },
+          {
+            "word": "sharply. ",
+            "start": 6.789,
+            "end": 7.256
+          },
+          {
+            "word": "The ",
+            "start": 8.006,
+            "end": 8.136
+          },
+          {
+            "word": "stabilisation ",
+            "start": 8.147,
+            "end": 8.919
+          },
+          {
+            "word": "proved ",
+            "start": 8.93,
+            "end": 9.234
+          },
+          {
+            "word": "that ",
+            "start": 9.245,
+            "end": 9.332
+          },
+          {
+            "word": "hyperinflations ",
+            "start": 9.343,
+            "end": 10.136
+          },
+          {
+            "word": "could ",
+            "start": 10.147,
+            "end": 10.289
+          },
+          {
+            "word": "end ",
+            "start": 10.3,
+            "end": 10.506
+          },
+          {
+            "word": "quickly ",
+            "start": 10.517,
+            "end": 10.8
+          },
+          {
+            "word": "once ",
+            "start": 10.81,
+            "end": 11.06
+          },
+          {
+            "word": "the ",
+            "start": 11.071,
+            "end": 11.147
+          },
+          {
+            "word": "monetary ",
+            "start": 11.158,
+            "end": 11.539
+          },
+          {
+            "word": "anchor ",
+            "start": 11.55,
+            "end": 11.832
+          },
+          {
+            "word": "was ",
+            "start": 11.843,
+            "end": 11.984
+          },
+          {
+            "word": "restored — ",
+            "start": 11.995,
+            "end": 12.473
+          },
+          {
+            "word": "the ",
+            "start": 12.647,
+            "end": 12.723
+          },
+          {
+            "word": "damage, ",
+            "start": 12.734,
+            "end": 13.104
+          },
+          {
+            "word": "however, ",
+            "start": 13.321,
+            "end": 13.669
+          },
+          {
+            "word": "was ",
+            "start": 13.843,
+            "end": 13.984
+          },
+          {
+            "word": "not ",
+            "start": 13.995,
+            "end": 14.191
+          },
+          {
+            "word": "quickly ",
+            "start": 14.202,
+            "end": 14.517
+          },
+          {
+            "word": "undone.",
+            "start": 14.528,
+            "end": 14.995
+          }
+        ],
+        "start": 2628
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep7_solutions_6",
+        "audio_exists": true,
+        "audioPath": "episodes/ep7/audio/ep7_solutions_6.wav",
+        "text": "The institutional lesson was incorporated into the post-war design of the German central bank. The Bundesbank was given statutory independence and a mandate focused on price stability above all other objectives. The law was written to make 1923 constitutionally impossible to repeat.",
+        "duration": 480,
+        "bgImage": "bg_recovery.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.241
+          },
+          {
+            "word": "institutional ",
+            "start": 0.252,
+            "end": 0.936
+          },
+          {
+            "word": "lesson ",
+            "start": 0.947,
+            "end": 1.252
+          },
+          {
+            "word": "was ",
+            "start": 1.263,
+            "end": 1.382
+          },
+          {
+            "word": "incorporated ",
+            "start": 1.393,
+            "end": 1.98
+          },
+          {
+            "word": "into ",
+            "start": 1.991,
+            "end": 2.197
+          },
+          {
+            "word": "the ",
+            "start": 2.208,
+            "end": 2.284
+          },
+          {
+            "word": "post-war ",
+            "start": 2.295,
+            "end": 2.752
+          },
+          {
+            "word": "design ",
+            "start": 2.763,
+            "end": 3.154
+          },
+          {
+            "word": "of ",
+            "start": 3.165,
+            "end": 3.23
+          },
+          {
+            "word": "the ",
+            "start": 3.241,
+            "end": 3.339
+          },
+          {
+            "word": "German ",
+            "start": 3.35,
+            "end": 3.686
+          },
+          {
+            "word": "central ",
+            "start": 3.697,
+            "end": 4.067
+          },
+          {
+            "word": "bank. ",
+            "start": 4.078,
+            "end": 4.447
+          },
+          {
+            "word": "The ",
+            "start": 5.191,
+            "end": 5.321
+          },
+          {
+            "word": "Bundesbank ",
+            "start": 5.332,
+            "end": 5.854
+          },
+          {
+            "word": "was ",
+            "start": 5.865,
+            "end": 5.973
+          },
+          {
+            "word": "given ",
+            "start": 5.984,
+            "end": 6.213
+          },
+          {
+            "word": "statutory ",
+            "start": 6.223,
+            "end": 6.713
+          },
+          {
+            "word": "independence ",
+            "start": 6.723,
+            "end": 7.278
+          },
+          {
+            "word": "and ",
+            "start": 7.289,
+            "end": 7.386
+          },
+          {
+            "word": "a ",
+            "start": 7.397,
+            "end": 7.441
+          },
+          {
+            "word": "mandate ",
+            "start": 7.452,
+            "end": 7.821
+          },
+          {
+            "word": "focused ",
+            "start": 7.832,
+            "end": 8.213
+          },
+          {
+            "word": "on ",
+            "start": 8.223,
+            "end": 8.332
+          },
+          {
+            "word": "price ",
+            "start": 8.343,
+            "end": 8.615
+          },
+          {
+            "word": "stability ",
+            "start": 8.626,
+            "end": 9.104
+          },
+          {
+            "word": "above ",
+            "start": 9.115,
+            "end": 9.386
+          },
+          {
+            "word": "all ",
+            "start": 9.397,
+            "end": 9.636
+          },
+          {
+            "word": "other ",
+            "start": 9.647,
+            "end": 9.799
+          },
+          {
+            "word": "objectives. ",
+            "start": 9.81,
+            "end": 10.43
+          },
+          {
+            "word": "The ",
+            "start": 11.18,
+            "end": 11.31
+          },
+          {
+            "word": "law ",
+            "start": 11.321,
+            "end": 11.495
+          },
+          {
+            "word": "was ",
+            "start": 11.506,
+            "end": 11.658
+          },
+          {
+            "word": "written ",
+            "start": 11.669,
+            "end": 11.908
+          },
+          {
+            "word": "to ",
+            "start": 11.919,
+            "end": 12.006
+          },
+          {
+            "word": "make ",
+            "start": 12.017,
+            "end": 12.202
+          },
+          {
+            "word": "1923 ",
+            "start": 12.213,
+            "end": 13.093
+          },
+          {
+            "word": "constitutionally ",
+            "start": 13.104,
+            "end": 13.799
+          },
+          {
+            "word": "impossible ",
+            "start": 13.81,
+            "end": 14.245
+          },
+          {
+            "word": "to ",
+            "start": 14.256,
+            "end": 14.332
+          },
+          {
+            "word": "repeat.",
+            "start": 14.343,
+            "end": 14.81
+          }
+        ],
+        "start": 3113
+      }
+    ]
+  },
+  {
+    "id": "ep7_results",
+    "title": "Results",
+    "globalStart": 11057,
+    "duration": 3775,
+    "subSlides": [
+      {
+        "type": "bumper",
+        "start": 0,
+        "duration": 90,
+        "title": "Results"
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep7_results_0",
+        "audio_exists": true,
+        "audioPath": "episodes/ep7/audio/ep7_results_0.wav",
+        "text": "The hyperinflation ended. Its consequences did not. The redistribution of wealth it had produced was permanent. The middle class that had been destroyed never fully recovered its economic and political confidence. German political culture was permanently marked.",
+        "duration": 474,
+        "bgImage": "bg_recovery.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.219
+          },
+          {
+            "word": "hyperinflation ",
+            "start": 0.23,
+            "end": 1.023
+          },
+          {
+            "word": "ended. ",
+            "start": 1.034,
+            "end": 1.382
+          },
+          {
+            "word": "Its ",
+            "start": 2.126,
+            "end": 2.332
+          },
+          {
+            "word": "consequences ",
+            "start": 2.343,
+            "end": 3.006
+          },
+          {
+            "word": "did ",
+            "start": 3.017,
+            "end": 3.169
+          },
+          {
+            "word": "not. ",
+            "start": 3.18,
+            "end": 3.517
+          },
+          {
+            "word": "The ",
+            "start": 4.267,
+            "end": 4.408
+          },
+          {
+            "word": "redistribution ",
+            "start": 4.419,
+            "end": 5.115
+          },
+          {
+            "word": "of ",
+            "start": 5.126,
+            "end": 5.191
+          },
+          {
+            "word": "wealth ",
+            "start": 5.202,
+            "end": 5.506
+          },
+          {
+            "word": "it ",
+            "start": 5.517,
+            "end": 5.604
+          },
+          {
+            "word": "had ",
+            "start": 5.615,
+            "end": 5.713
+          },
+          {
+            "word": "produced ",
+            "start": 5.723,
+            "end": 6.115
+          },
+          {
+            "word": "was ",
+            "start": 6.126,
+            "end": 6.245
+          },
+          {
+            "word": "permanent. ",
+            "start": 6.256,
+            "end": 6.789
+          },
+          {
+            "word": "The ",
+            "start": 7.539,
+            "end": 7.68
+          },
+          {
+            "word": "middle ",
+            "start": 7.691,
+            "end": 7.93
+          },
+          {
+            "word": "class ",
+            "start": 7.941,
+            "end": 8.234
+          },
+          {
+            "word": "that ",
+            "start": 8.245,
+            "end": 8.354
+          },
+          {
+            "word": "had ",
+            "start": 8.365,
+            "end": 8.463
+          },
+          {
+            "word": "been ",
+            "start": 8.473,
+            "end": 8.582
+          },
+          {
+            "word": "destroyed ",
+            "start": 8.593,
+            "end": 9.017
+          },
+          {
+            "word": "never ",
+            "start": 9.028,
+            "end": 9.245
+          },
+          {
+            "word": "fully ",
+            "start": 9.256,
+            "end": 9.484
+          },
+          {
+            "word": "recovered ",
+            "start": 9.495,
+            "end": 9.865
+          },
+          {
+            "word": "its ",
+            "start": 9.876,
+            "end": 9.995
+          },
+          {
+            "word": "economic ",
+            "start": 10.006,
+            "end": 10.441
+          },
+          {
+            "word": "and ",
+            "start": 10.452,
+            "end": 10.528
+          },
+          {
+            "word": "political ",
+            "start": 10.539,
+            "end": 10.963
+          },
+          {
+            "word": "confidence. ",
+            "start": 10.973,
+            "end": 11.582
+          },
+          {
+            "word": "German ",
+            "start": 12.332,
+            "end": 12.669
+          },
+          {
+            "word": "political ",
+            "start": 12.68,
+            "end": 13.104
+          },
+          {
+            "word": "culture ",
+            "start": 13.115,
+            "end": 13.473
+          },
+          {
+            "word": "was ",
+            "start": 13.484,
+            "end": 13.626
+          },
+          {
+            "word": "permanently ",
+            "start": 13.636,
+            "end": 14.158
+          },
+          {
+            "word": "marked.",
+            "start": 14.169,
+            "end": 14.636
+          }
+        ],
+        "start": 90
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep7_results_1",
+        "audio_exists": true,
+        "audioPath": "episodes/ep7/audio/ep7_results_1.wav",
+        "text": "The experience created what economists now call hyperinflation aversion — a deep, institutional hostility to any monetary accommodation of fiscal deficits. Germany's resistance to ECB bond purchases in the 2010s traces directly to November 1923. Trauma this severe is transmitted across generations through institutions.",
+        "duration": 581,
+        "bgImage": "bg_breadline.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.263
+          },
+          {
+            "word": "experience ",
+            "start": 0.273,
+            "end": 0.806
+          },
+          {
+            "word": "created ",
+            "start": 0.817,
+            "end": 1.186
+          },
+          {
+            "word": "what ",
+            "start": 1.197,
+            "end": 1.36
+          },
+          {
+            "word": "economists ",
+            "start": 1.371,
+            "end": 1.86
+          },
+          {
+            "word": "now ",
+            "start": 1.871,
+            "end": 2.056
+          },
+          {
+            "word": "call ",
+            "start": 2.067,
+            "end": 2.35
+          },
+          {
+            "word": "hyperinflation ",
+            "start": 2.36,
+            "end": 3.089
+          },
+          {
+            "word": "aversion — ",
+            "start": 3.1,
+            "end": 3.502
+          },
+          {
+            "word": "a ",
+            "start": 3.665,
+            "end": 3.73
+          },
+          {
+            "word": "deep, ",
+            "start": 3.741,
+            "end": 4.045
+          },
+          {
+            "word": "institutional ",
+            "start": 4.252,
+            "end": 4.904
+          },
+          {
+            "word": "hostility ",
+            "start": 4.915,
+            "end": 5.415
+          },
+          {
+            "word": "to ",
+            "start": 5.426,
+            "end": 5.513
+          },
+          {
+            "word": "any ",
+            "start": 5.523,
+            "end": 5.686
+          },
+          {
+            "word": "monetary ",
+            "start": 5.697,
+            "end": 6.099
+          },
+          {
+            "word": "accommodation ",
+            "start": 6.11,
+            "end": 6.654
+          },
+          {
+            "word": "of ",
+            "start": 6.665,
+            "end": 6.73
+          },
+          {
+            "word": "fiscal ",
+            "start": 6.741,
+            "end": 7.067
+          },
+          {
+            "word": "deficits. ",
+            "start": 7.078,
+            "end": 7.654
+          },
+          {
+            "word": "Germany's ",
+            "start": 8.397,
+            "end": 8.876
+          },
+          {
+            "word": "resistance ",
+            "start": 8.886,
+            "end": 9.343
+          },
+          {
+            "word": "to ",
+            "start": 9.354,
+            "end": 9.43
+          },
+          {
+            "word": "ECB ",
+            "start": 9.441,
+            "end": 9.952
+          },
+          {
+            "word": "bond ",
+            "start": 9.963,
+            "end": 10.234
+          },
+          {
+            "word": "purchases ",
+            "start": 10.245,
+            "end": 10.669
+          },
+          {
+            "word": "in ",
+            "start": 10.68,
+            "end": 10.745
+          },
+          {
+            "word": "the ",
+            "start": 10.756,
+            "end": 10.832
+          },
+          {
+            "word": "2010s ",
+            "start": 10.843,
+            "end": 11.43
+          },
+          {
+            "word": "traces ",
+            "start": 11.441,
+            "end": 11.799
+          },
+          {
+            "word": "directly ",
+            "start": 11.81,
+            "end": 12.234
+          },
+          {
+            "word": "to ",
+            "start": 12.245,
+            "end": 12.354
+          },
+          {
+            "word": "November 1923. ",
+            "start": 12.365,
+            "end": 13.897
+          },
+          {
+            "word": "Trauma ",
+            "start": 14.647,
+            "end": 15.006
+          },
+          {
+            "word": "this ",
+            "start": 15.017,
+            "end": 15.191
+          },
+          {
+            "word": "severe ",
+            "start": 15.202,
+            "end": 15.593
+          },
+          {
+            "word": "is ",
+            "start": 15.604,
+            "end": 15.723
+          },
+          {
+            "word": "transmitted ",
+            "start": 15.734,
+            "end": 16.202
+          },
+          {
+            "word": "across ",
+            "start": 16.213,
+            "end": 16.517
+          },
+          {
+            "word": "generations ",
+            "start": 16.528,
+            "end": 17.136
+          },
+          {
+            "word": "through ",
+            "start": 17.147,
+            "end": 17.343
+          },
+          {
+            "word": "institutions.",
+            "start": 17.354,
+            "end": 18.18
+          }
+        ],
+        "start": 564
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep7_results_2",
+        "audio_exists": true,
+        "audioPath": "episodes/ep7/audio/ep7_results_2.wav",
+        "text": "The institutional lesson is now standard: central bank independence is not a technical preference but a political safeguard. Monetary financing of government deficits can accelerate into dynamics that no institution can control once started.",
+        "duration": 394,
+        "bgImage": "bg_factory_dark.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.219
+          },
+          {
+            "word": "institutional ",
+            "start": 0.23,
+            "end": 0.936
+          },
+          {
+            "word": "lesson ",
+            "start": 0.947,
+            "end": 1.23
+          },
+          {
+            "word": "is ",
+            "start": 1.241,
+            "end": 1.393
+          },
+          {
+            "word": "now ",
+            "start": 1.404,
+            "end": 1.578
+          },
+          {
+            "word": "standard: ",
+            "start": 1.589,
+            "end": 2.023
+          },
+          {
+            "word": "central ",
+            "start": 2.186,
+            "end": 2.523
+          },
+          {
+            "word": "bank ",
+            "start": 2.534,
+            "end": 2.763
+          },
+          {
+            "word": "independence ",
+            "start": 2.773,
+            "end": 3.306
+          },
+          {
+            "word": "is ",
+            "start": 3.317,
+            "end": 3.447
+          },
+          {
+            "word": "not ",
+            "start": 3.458,
+            "end": 3.632
+          },
+          {
+            "word": "a ",
+            "start": 3.643,
+            "end": 3.697
+          },
+          {
+            "word": "technical ",
+            "start": 3.708,
+            "end": 4.099
+          },
+          {
+            "word": "preference ",
+            "start": 4.11,
+            "end": 4.534
+          },
+          {
+            "word": "but ",
+            "start": 4.545,
+            "end": 4.665
+          },
+          {
+            "word": "a ",
+            "start": 4.676,
+            "end": 4.73
+          },
+          {
+            "word": "political ",
+            "start": 4.741,
+            "end": 5.176
+          },
+          {
+            "word": "safeguard. ",
+            "start": 5.186,
+            "end": 5.773
+          },
+          {
+            "word": "Monetary ",
+            "start": 6.517,
+            "end": 6.952
+          },
+          {
+            "word": "financing ",
+            "start": 6.963,
+            "end": 7.473
+          },
+          {
+            "word": "of ",
+            "start": 7.484,
+            "end": 7.56
+          },
+          {
+            "word": "government ",
+            "start": 7.571,
+            "end": 7.908
+          },
+          {
+            "word": "deficits ",
+            "start": 7.919,
+            "end": 8.289
+          },
+          {
+            "word": "can ",
+            "start": 8.3,
+            "end": 8.408
+          },
+          {
+            "word": "accelerate ",
+            "start": 8.419,
+            "end": 8.973
+          },
+          {
+            "word": "into ",
+            "start": 8.984,
+            "end": 9.202
+          },
+          {
+            "word": "dynamics ",
+            "start": 9.213,
+            "end": 9.68
+          },
+          {
+            "word": "that ",
+            "start": 9.691,
+            "end": 9.81
+          },
+          {
+            "word": "no ",
+            "start": 9.821,
+            "end": 10.006
+          },
+          {
+            "word": "institution ",
+            "start": 10.017,
+            "end": 10.636
+          },
+          {
+            "word": "can ",
+            "start": 10.647,
+            "end": 10.767
+          },
+          {
+            "word": "control ",
+            "start": 10.778,
+            "end": 11.223
+          },
+          {
+            "word": "once ",
+            "start": 11.234,
+            "end": 11.463
+          },
+          {
+            "word": "started.",
+            "start": 11.473,
+            "end": 11.963
+          }
+        ],
+        "start": 1145
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep7_results_3",
+        "audio_exists": true,
+        "audioPath": "episodes/ep7/audio/ep7_results_3.wav",
+        "text": "A direct causal line runs from the 1923 hyperinflation through the 1930 unemployment crisis to the 1933 Nazi seizure of power. Economics does not cause politics. But economic trauma creates the conditions in which political catastrophe becomes possible. The hyperinflation was not the only cause. It was a necessary one.",
+        "duration": 628,
+        "bgImage": "bg_city_night.jpg",
+        "wordTimings": [
+          {
+            "word": "A ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "direct ",
+            "start": 0.241,
+            "end": 0.556
+          },
+          {
+            "word": "causal ",
+            "start": 0.567,
+            "end": 0.915
+          },
+          {
+            "word": "line ",
+            "start": 0.926,
+            "end": 1.165
+          },
+          {
+            "word": "runs ",
+            "start": 1.176,
+            "end": 1.415
+          },
+          {
+            "word": "from ",
+            "start": 1.426,
+            "end": 1.545
+          },
+          {
+            "word": "the ",
+            "start": 1.556,
+            "end": 1.61
+          },
+          {
+            "word": "1923 ",
+            "start": 1.621,
+            "end": 2.513
+          },
+          {
+            "word": "hyperinflation ",
+            "start": 2.523,
+            "end": 3.263
+          },
+          {
+            "word": "through ",
+            "start": 3.273,
+            "end": 3.48
+          },
+          {
+            "word": "the ",
+            "start": 3.491,
+            "end": 3.567
+          },
+          {
+            "word": "1930 ",
+            "start": 3.578,
+            "end": 4.295
+          },
+          {
+            "word": "unemployment ",
+            "start": 4.306,
+            "end": 4.86
+          },
+          {
+            "word": "crisis ",
+            "start": 4.871,
+            "end": 5.252
+          },
+          {
+            "word": "to ",
+            "start": 5.263,
+            "end": 5.349
+          },
+          {
+            "word": "the ",
+            "start": 5.36,
+            "end": 5.436
+          },
+          {
+            "word": "1933 ",
+            "start": 5.447,
+            "end": 6.415
+          },
+          {
+            "word": "Nazi ",
+            "start": 6.426,
+            "end": 6.763
+          },
+          {
+            "word": "seizure ",
+            "start": 6.773,
+            "end": 7.121
+          },
+          {
+            "word": "of ",
+            "start": 7.132,
+            "end": 7.23
+          },
+          {
+            "word": "power. ",
+            "start": 7.241,
+            "end": 7.632
+          },
+          {
+            "word": "Economics ",
+            "start": 8.376,
+            "end": 8.93
+          },
+          {
+            "word": "does ",
+            "start": 8.941,
+            "end": 9.093
+          },
+          {
+            "word": "not ",
+            "start": 9.104,
+            "end": 9.289
+          },
+          {
+            "word": "cause ",
+            "start": 9.3,
+            "end": 9.55
+          },
+          {
+            "word": "politics. ",
+            "start": 9.56,
+            "end": 10.202
+          },
+          {
+            "word": "But ",
+            "start": 10.952,
+            "end": 11.115
+          },
+          {
+            "word": "economic ",
+            "start": 11.126,
+            "end": 11.539
+          },
+          {
+            "word": "trauma ",
+            "start": 11.55,
+            "end": 11.865
+          },
+          {
+            "word": "creates ",
+            "start": 11.876,
+            "end": 12.223
+          },
+          {
+            "word": "the ",
+            "start": 12.234,
+            "end": 12.31
+          },
+          {
+            "word": "conditions ",
+            "start": 12.321,
+            "end": 12.767
+          },
+          {
+            "word": "in ",
+            "start": 12.778,
+            "end": 12.865
+          },
+          {
+            "word": "which ",
+            "start": 12.876,
+            "end": 13.049
+          },
+          {
+            "word": "political ",
+            "start": 13.06,
+            "end": 13.506
+          },
+          {
+            "word": "catastrophe ",
+            "start": 13.517,
+            "end": 14.071
+          },
+          {
+            "word": "becomes ",
+            "start": 14.082,
+            "end": 14.463
+          },
+          {
+            "word": "possible. ",
+            "start": 14.473,
+            "end": 14.952
+          },
+          {
+            "word": "The ",
+            "start": 15.702,
+            "end": 15.821
+          },
+          {
+            "word": "hyperinflation ",
+            "start": 15.832,
+            "end": 16.571
+          },
+          {
+            "word": "was ",
+            "start": 16.582,
+            "end": 16.734
+          },
+          {
+            "word": "not ",
+            "start": 16.745,
+            "end": 16.952
+          },
+          {
+            "word": "the ",
+            "start": 16.963,
+            "end": 17.071
+          },
+          {
+            "word": "only ",
+            "start": 17.082,
+            "end": 17.321
+          },
+          {
+            "word": "cause. ",
+            "start": 17.332,
+            "end": 17.843
+          },
+          {
+            "word": "It ",
+            "start": 18.593,
+            "end": 18.734
+          },
+          {
+            "word": "was ",
+            "start": 18.745,
+            "end": 18.843
+          },
+          {
+            "word": "a ",
+            "start": 18.854,
+            "end": 18.908
+          },
+          {
+            "word": "necessary ",
+            "start": 18.919,
+            "end": 19.419
+          },
+          {
+            "word": "one.",
+            "start": 19.43,
+            "end": 19.767
+          }
+        ],
+        "start": 1539
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep7_results_4",
+        "audio_exists": true,
+        "audioPath": "episodes/ep7/audio/ep7_results_4.wav",
+        "text": "The Rentenmark stabilisation also taught that currency crises can end faster than they begin — if the monetary anchor is credibly reestablished. The hyperinflation that took three years to destroy the German economy was ended in three weeks. Credibility, once lost, can be rebuilt. The damage it inflicts on its way out rarely is.",
+        "duration": 573,
+        "bgImage": "bg_recovery.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.241
+          },
+          {
+            "word": "Rentenmark ",
+            "start": 0.252,
+            "end": 0.763
+          },
+          {
+            "word": "stabilisation ",
+            "start": 0.773,
+            "end": 1.545
+          },
+          {
+            "word": "also ",
+            "start": 1.556,
+            "end": 1.86
+          },
+          {
+            "word": "taught ",
+            "start": 1.871,
+            "end": 2.089
+          },
+          {
+            "word": "that ",
+            "start": 2.1,
+            "end": 2.23
+          },
+          {
+            "word": "currency ",
+            "start": 2.241,
+            "end": 2.599
+          },
+          {
+            "word": "crises ",
+            "start": 2.61,
+            "end": 3.034
+          },
+          {
+            "word": "can ",
+            "start": 3.045,
+            "end": 3.186
+          },
+          {
+            "word": "end ",
+            "start": 3.197,
+            "end": 3.371
+          },
+          {
+            "word": "faster ",
+            "start": 3.382,
+            "end": 3.73
+          },
+          {
+            "word": "than ",
+            "start": 3.741,
+            "end": 3.871
+          },
+          {
+            "word": "they ",
+            "start": 3.882,
+            "end": 3.969
+          },
+          {
+            "word": "begin — ",
+            "start": 3.98,
+            "end": 4.339
+          },
+          {
+            "word": "if ",
+            "start": 4.567,
+            "end": 4.643
+          },
+          {
+            "word": "the ",
+            "start": 4.654,
+            "end": 4.719
+          },
+          {
+            "word": "monetary ",
+            "start": 4.73,
+            "end": 5.121
+          },
+          {
+            "word": "anchor ",
+            "start": 5.132,
+            "end": 5.404
+          },
+          {
+            "word": "is ",
+            "start": 5.415,
+            "end": 5.545
+          },
+          {
+            "word": "credibly ",
+            "start": 5.556,
+            "end": 5.926
+          },
+          {
+            "word": "reestablished. ",
+            "start": 5.936,
+            "end": 6.741
+          },
+          {
+            "word": "The ",
+            "start": 7.484,
+            "end": 7.604
+          },
+          {
+            "word": "hyperinflation ",
+            "start": 7.615,
+            "end": 8.376
+          },
+          {
+            "word": "that ",
+            "start": 8.386,
+            "end": 8.517
+          },
+          {
+            "word": "took ",
+            "start": 8.528,
+            "end": 8.647
+          },
+          {
+            "word": "three ",
+            "start": 8.658,
+            "end": 8.897
+          },
+          {
+            "word": "years ",
+            "start": 8.908,
+            "end": 9.202
+          },
+          {
+            "word": "to ",
+            "start": 9.213,
+            "end": 9.289
+          },
+          {
+            "word": "destroy ",
+            "start": 9.3,
+            "end": 9.647
+          },
+          {
+            "word": "the ",
+            "start": 9.658,
+            "end": 9.756
+          },
+          {
+            "word": "German ",
+            "start": 9.767,
+            "end": 10.071
+          },
+          {
+            "word": "economy ",
+            "start": 10.082,
+            "end": 10.419
+          },
+          {
+            "word": "was ",
+            "start": 10.43,
+            "end": 10.582
+          },
+          {
+            "word": "ended ",
+            "start": 10.593,
+            "end": 10.821
+          },
+          {
+            "word": "in ",
+            "start": 10.832,
+            "end": 10.93
+          },
+          {
+            "word": "three ",
+            "start": 10.941,
+            "end": 11.169
+          },
+          {
+            "word": "weeks. ",
+            "start": 11.18,
+            "end": 11.636
+          },
+          {
+            "word": "Credibility, ",
+            "start": 12.386,
+            "end": 13.017
+          },
+          {
+            "word": "once ",
+            "start": 13.213,
+            "end": 13.441
+          },
+          {
+            "word": "lost, ",
+            "start": 13.452,
+            "end": 13.843
+          },
+          {
+            "word": "can ",
+            "start": 14.028,
+            "end": 14.191
+          },
+          {
+            "word": "be ",
+            "start": 14.202,
+            "end": 14.299
+          },
+          {
+            "word": "rebuilt. ",
+            "start": 14.31,
+            "end": 14.941
+          },
+          {
+            "word": "The ",
+            "start": 15.691,
+            "end": 15.832
+          },
+          {
+            "word": "damage ",
+            "start": 15.843,
+            "end": 16.126
+          },
+          {
+            "word": "it ",
+            "start": 16.136,
+            "end": 16.223
+          },
+          {
+            "word": "inflicts ",
+            "start": 16.234,
+            "end": 16.636
+          },
+          {
+            "word": "on ",
+            "start": 16.647,
+            "end": 16.723
+          },
+          {
+            "word": "its ",
+            "start": 16.734,
+            "end": 16.843
+          },
+          {
+            "word": "way ",
+            "start": 16.854,
+            "end": 17.071
+          },
+          {
+            "word": "out ",
+            "start": 17.082,
+            "end": 17.256
+          },
+          {
+            "word": "rarely ",
+            "start": 17.267,
+            "end": 17.56
+          },
+          {
+            "word": "is.",
+            "start": 17.571,
+            "end": 17.908
+          }
+        ],
+        "start": 2167
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep7_results_5",
+        "audio_exists": true,
+        "audioPath": "episodes/ep7/audio/ep7_results_5.wav",
+        "text": "What the world learned: central bank independence is a political safeguard, not an economic preference. The economic destruction of a middle class carries political consequences measured not in years but in decades. And the memory of monetary catastrophe — encoded in institutions — is one of history's most durable forces.",
+        "duration": 530,
+        "bgImage": "bg_breadline.jpg",
+        "wordTimings": [
+          {
+            "word": "What ",
+            "start": 0.1,
+            "end": 0.306
+          },
+          {
+            "word": "the ",
+            "start": 0.317,
+            "end": 0.382
+          },
+          {
+            "word": "world ",
+            "start": 0.393,
+            "end": 0.708
+          },
+          {
+            "word": "learned: ",
+            "start": 0.719,
+            "end": 0.98
+          },
+          {
+            "word": "central ",
+            "start": 1.143,
+            "end": 1.491
+          },
+          {
+            "word": "bank ",
+            "start": 1.502,
+            "end": 1.719
+          },
+          {
+            "word": "independence ",
+            "start": 1.73,
+            "end": 2.273
+          },
+          {
+            "word": "is ",
+            "start": 2.284,
+            "end": 2.393
+          },
+          {
+            "word": "a ",
+            "start": 2.404,
+            "end": 2.469
+          },
+          {
+            "word": "political ",
+            "start": 2.48,
+            "end": 2.904
+          },
+          {
+            "word": "safeguard, ",
+            "start": 2.915,
+            "end": 3.469
+          },
+          {
+            "word": "not ",
+            "start": 3.676,
+            "end": 3.86
+          },
+          {
+            "word": "an ",
+            "start": 3.871,
+            "end": 3.958
+          },
+          {
+            "word": "economic ",
+            "start": 3.969,
+            "end": 4.404
+          },
+          {
+            "word": "preference. ",
+            "start": 4.415,
+            "end": 4.958
+          },
+          {
+            "word": "The ",
+            "start": 5.702,
+            "end": 5.865
+          },
+          {
+            "word": "economic ",
+            "start": 5.876,
+            "end": 6.289
+          },
+          {
+            "word": "destruction ",
+            "start": 6.3,
+            "end": 6.756
+          },
+          {
+            "word": "of ",
+            "start": 6.767,
+            "end": 6.843
+          },
+          {
+            "word": "a ",
+            "start": 6.854,
+            "end": 6.886
+          },
+          {
+            "word": "middle ",
+            "start": 6.897,
+            "end": 7.158
+          },
+          {
+            "word": "class ",
+            "start": 7.169,
+            "end": 7.473
+          },
+          {
+            "word": "carries ",
+            "start": 7.484,
+            "end": 7.778
+          },
+          {
+            "word": "political ",
+            "start": 7.789,
+            "end": 8.223
+          },
+          {
+            "word": "consequences ",
+            "start": 8.234,
+            "end": 8.81
+          },
+          {
+            "word": "measured ",
+            "start": 8.821,
+            "end": 9.115
+          },
+          {
+            "word": "not ",
+            "start": 9.126,
+            "end": 9.332
+          },
+          {
+            "word": "in ",
+            "start": 9.343,
+            "end": 9.43
+          },
+          {
+            "word": "years ",
+            "start": 9.441,
+            "end": 9.756
+          },
+          {
+            "word": "but ",
+            "start": 9.767,
+            "end": 9.897
+          },
+          {
+            "word": "in ",
+            "start": 9.908,
+            "end": 10.006
+          },
+          {
+            "word": "decades. ",
+            "start": 10.017,
+            "end": 10.593
+          },
+          {
+            "word": "And ",
+            "start": 11.343,
+            "end": 11.506
+          },
+          {
+            "word": "the ",
+            "start": 11.517,
+            "end": 11.571
+          },
+          {
+            "word": "memory ",
+            "start": 11.582,
+            "end": 11.886
+          },
+          {
+            "word": "of ",
+            "start": 11.897,
+            "end": 11.984
+          },
+          {
+            "word": "monetary ",
+            "start": 11.995,
+            "end": 12.397
+          },
+          {
+            "word": "catastrophe — ",
+            "start": 12.408,
+            "end": 12.995
+          },
+          {
+            "word": "encoded ",
+            "start": 13.169,
+            "end": 13.549
+          },
+          {
+            "word": "in ",
+            "start": 13.56,
+            "end": 13.647
+          },
+          {
+            "word": "institutions — ",
+            "start": 13.658,
+            "end": 14.354
+          },
+          {
+            "word": "is ",
+            "start": 14.528,
+            "end": 14.626
+          },
+          {
+            "word": "one ",
+            "start": 14.636,
+            "end": 14.789
+          },
+          {
+            "word": "of ",
+            "start": 14.8,
+            "end": 14.865
+          },
+          {
+            "word": "history's ",
+            "start": 14.876,
+            "end": 15.278
+          },
+          {
+            "word": "most ",
+            "start": 15.289,
+            "end": 15.528
+          },
+          {
+            "word": "durable ",
+            "start": 15.539,
+            "end": 15.919
+          },
+          {
+            "word": "forces.",
+            "start": 15.93,
+            "end": 16.506
+          }
+        ],
+        "start": 2740
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep7_results_6",
+        "audio_exists": true,
+        "audioPath": "episodes/ep7/audio/ep7_results_6.wav",
+        "text": "The Reichsbank's failure demonstrated, at the most extreme scale in history, why central bank independence matters. The Federal Reserve, created after the Panic of 1907 (Episode 3), faced its own test of independence just a decade later — and failed it, contributing to the catastrophe that followed.",
+        "duration": 505,
+        "bgImage": "bg_factory_dark.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "Reichsbank's ",
+            "start": 0.241,
+            "end": 0.795
+          },
+          {
+            "word": "failure ",
+            "start": 0.806,
+            "end": 1.121
+          },
+          {
+            "word": "demonstrated, ",
+            "start": 1.132,
+            "end": 1.73
+          },
+          {
+            "word": "at ",
+            "start": 1.904,
+            "end": 1.98
+          },
+          {
+            "word": "the ",
+            "start": 1.991,
+            "end": 2.056
+          },
+          {
+            "word": "most ",
+            "start": 2.067,
+            "end": 2.317
+          },
+          {
+            "word": "extreme ",
+            "start": 2.328,
+            "end": 2.741
+          },
+          {
+            "word": "scale ",
+            "start": 2.752,
+            "end": 3.056
+          },
+          {
+            "word": "in ",
+            "start": 3.067,
+            "end": 3.132
+          },
+          {
+            "word": "history, ",
+            "start": 3.143,
+            "end": 3.491
+          },
+          {
+            "word": "why ",
+            "start": 3.686,
+            "end": 3.849
+          },
+          {
+            "word": "central ",
+            "start": 3.86,
+            "end": 4.241
+          },
+          {
+            "word": "bank ",
+            "start": 4.252,
+            "end": 4.491
+          },
+          {
+            "word": "independence ",
+            "start": 4.502,
+            "end": 5.023
+          },
+          {
+            "word": "matters. ",
+            "start": 5.034,
+            "end": 5.491
+          },
+          {
+            "word": "The ",
+            "start": 6.234,
+            "end": 6.354
+          },
+          {
+            "word": "Federal ",
+            "start": 6.365,
+            "end": 6.713
+          },
+          {
+            "word": "Reserve, ",
+            "start": 6.723,
+            "end": 7.202
+          },
+          {
+            "word": "created ",
+            "start": 7.365,
+            "end": 7.767
+          },
+          {
+            "word": "after ",
+            "start": 7.778,
+            "end": 7.984
+          },
+          {
+            "word": "the ",
+            "start": 7.995,
+            "end": 8.071
+          },
+          {
+            "word": "Panic ",
+            "start": 8.082,
+            "end": 8.321
+          },
+          {
+            "word": "of ",
+            "start": 8.332,
+            "end": 8.419
+          },
+          {
+            "word": "1907 (",
+            "start": 8.43,
+            "end": 9.332
+          },
+          {
+            "word": "Episode ",
+            "start": 9.506,
+            "end": 9.843
+          },
+          {
+            "word": "3), ",
+            "start": 9.854,
+            "end": 10.18
+          },
+          {
+            "word": "faced ",
+            "start": 10.408,
+            "end": 10.647
+          },
+          {
+            "word": "its ",
+            "start": 10.658,
+            "end": 10.756
+          },
+          {
+            "word": "own ",
+            "start": 10.767,
+            "end": 10.952
+          },
+          {
+            "word": "test ",
+            "start": 10.963,
+            "end": 11.223
+          },
+          {
+            "word": "of ",
+            "start": 11.234,
+            "end": 11.299
+          },
+          {
+            "word": "independence ",
+            "start": 11.31,
+            "end": 11.821
+          },
+          {
+            "word": "just ",
+            "start": 11.832,
+            "end": 12.028
+          },
+          {
+            "word": "a ",
+            "start": 12.039,
+            "end": 12.104
+          },
+          {
+            "word": "decade ",
+            "start": 12.115,
+            "end": 12.452
+          },
+          {
+            "word": "later — ",
+            "start": 12.463,
+            "end": 12.778
+          },
+          {
+            "word": "and ",
+            "start": 12.984,
+            "end": 13.082
+          },
+          {
+            "word": "failed ",
+            "start": 13.093,
+            "end": 13.397
+          },
+          {
+            "word": "it, ",
+            "start": 13.408,
+            "end": 13.549
+          },
+          {
+            "word": "contributing ",
+            "start": 13.723,
+            "end": 14.256
+          },
+          {
+            "word": "to ",
+            "start": 14.267,
+            "end": 14.343
+          },
+          {
+            "word": "the ",
+            "start": 14.354,
+            "end": 14.419
+          },
+          {
+            "word": "catastrophe ",
+            "start": 14.43,
+            "end": 15.017
+          },
+          {
+            "word": "that ",
+            "start": 15.028,
+            "end": 15.18
+          },
+          {
+            "word": "followed.",
+            "start": 15.191,
+            "end": 15.658
+          }
+        ],
+        "start": 3270
+      }
+    ]
+  },
+  {
+    "id": "credits",
+    "title": "Credits",
+    "globalStart": 14832,
+    "duration": 440,
+    "subSlides": [
+      {
+        "type": "credits",
+        "start": 0,
+        "duration": 440,
+        "audioSrc": "audio/outro_narration.wav"
+      }
+    ]
+  }
+]

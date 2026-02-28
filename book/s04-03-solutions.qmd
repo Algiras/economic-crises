@@ -1,0 +1,33 @@
+# The Solutions
+
+## The Rentenmark: Credibility from Fiction
+
+On November 15, 1923 — the same day, by historical coincidence, that Adolf Hitler was arrested in Munich following the failed Beer Hall Putsch — Germany introduced a new currency. The Rentenmark was backed not by gold, which Germany did not have, nor by foreign exchange reserves, which Germany had exhausted, but by a symbolic lien on German land and industrial assets. The scheme was largely fictitious in its technical backing: a lien on agricultural land and industrial enterprises cannot be meaningfully converted into currency in the way gold can.
+
+It worked anyway.
+
+The Rentenmark worked because it was scarce. The government strictly limited the total amount of Rentenmarks that could be issued — one billion Rentenmarks, a fixed quantity that the Reichsbank was prohibited from expanding at will. For the first time in years, a mark had a value that could not be destroyed by the printing press because the printing press was no longer permitted to run without restraint.
+
+The credibility of the new currency rested not on its formal backing — which, as contemporaries understood, was symbolic — but on the institutional commitment to maintain its scarcity. Prices, which had been changing hourly, stabilized within days of the Rentenmark's introduction. Merchants who had been posting new price lists every hour resumed normal pricing. Workers who had been demanding daily wage adjustments found that yesterday's wage had not been eroded by the time they received next week's pay. The hyperinflation ended not through a gradual unwinding but through a credible break in expectations. Once people believed the currency was stable, it became stable.
+
+## Schacht's Credit Crunch
+
+The Reichsbank's new president, Hjalmar Schacht, applied the monetary brake with extreme firmness. Interest rates were raised to extraordinary levels — creating a severe credit crunch in late 1923 and early 1924. Businesses that had survived through the hyperinflation by borrowing continuously now found credit unavailable at any price. Many failed. Unemployment, which had been masked by the fictitious activity of the inflation economy, spiked sharply.
+
+This was the calculated cost of stabilization. Schacht's analysis was that concentrated, acute pain — a brief severe deflation and credit crunch — was necessary to re-anchor expectations and restore the currency's credibility. Distributed, chronic pain — the continuing destruction of everyone's economic position that the hyperinflation was producing — was the alternative. The stabilization crisis was severe. It was also short.
+
+By the spring of 1924, German industrial production was recovering. The currency was holding its value. The institutional commitment to stability, maintained through the Reichsbank's refusal to accommodate deficits with newly printed money, was establishing the credibility that the Rentenmark's formal backing could not provide. Credibility is not guaranteed by technical design; it is established through demonstrated willingness to bear the costs of maintaining the commitment.
+
+## The Dawes Plan
+
+International legitimacy was provided by the Dawes Plan, negotiated with American involvement in 1924. The plan restructured Germany's reparations payments to a more sustainable schedule and arranged for American loans to flow into the German banking system — loans that would provide the foreign exchange needed to service reparations at the new reduced schedule.
+
+The Dawes Plan's significance went beyond its financial terms. It signaled that Germany's reparations burden, which had seemed entirely beyond any realistic capacity to pay, was being treated as a problem to be managed through negotiation rather than a punishment to be enforced regardless of consequences. American investment in Germany's stabilization provided both financial support and political cover for the necessary domestic adjustments. German acceptance of the plan, in turn, made possible the withdrawal of French troops from the Ruhr — removing the immediate cause of the most recent monetary expansion.
+
+The circular nature of the arrangement was widely noted at the time: American banks lent to Germany, Germany paid reparations to France and Britain, France and Britain paid war debts to the United States. The money flowed around the triangle, providing the liquidity that made each step of the cycle possible. The fragility of this arrangement — entirely dependent on continued American lending — would become apparent when that lending ceased in 1929.
+
+## The Institutional Lesson
+
+The Reichsbank, thoroughly discredited by its role in financing the hyperinflation, was restructured as part of the Dawes Plan to be more independent of political pressure. The principle that a central bank should be insulated from political direction — that monetary policy should be governed by institutional rules rather than political expediency — was enacted into German law as a direct consequence of the experience of 1923.
+
+This institutional lesson was ultimately the most durable product of the stabilization. The Bundesbank, Germany's postwar central bank, was designed with statutory independence and a mandate focused on price stability above all other objectives specifically because 1923 had demonstrated what happened when a central bank served political rather than monetary purposes. The law was written to make 1923 constitutionally impossible to repeat. In Germany, at least, it succeeded — though the political cost of that success, reflected in Germany's resistance to monetary accommodation during subsequent European crises, remained visible and contested a century later.

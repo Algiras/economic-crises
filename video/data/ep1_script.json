@@ -3,175 +3,1852 @@
     "id": "intro",
     "title": "Intro",
     "globalStart": 0,
-    "duration": 1421,
+    "duration": 176,
+    "episode": 5,
+    "episodeMeta": {
+      "title": "The Great Depression",
+      "subtitle": "1929–1939"
+    },
     "subSlides": [
       {
         "type": "intro",
         "start": 0,
-        "duration": 1421,
-        "audioSrc": "audio/intro_narration.wav"
+        "duration": 176,
+        "audioSrc": "episodes/ep1/intro.wav"
       }
-    ],
-    "episode": 1,
-    "episodeMeta": {
-      "title": "The Great Depression",
-      "subtitle": "1929–1939"
-    }
+    ]
   },
   {
     "id": "ep1_event",
-    "title": "Episode 1 · Event",
-    "globalStart": 1421,
-    "duration": 1912,
+    "title": "Event",
+    "globalStart": 176,
+    "duration": 1944,
     "subSlides": [
       {
         "type": "bumper",
         "start": 0,
         "duration": 90,
-        "title": "Episode 1 · Event"
+        "title": "Event"
       },
       {
         "type": "quote",
         "chunk_id": "ep1_event_0",
         "audio_exists": true,
+        "audioPath": "episodes/ep1/audio/ep1_event_0.wav",
         "text": "On the morning of October 29, 1929, Charles Mitchell, chairman of National City Bank, watched the ticker tape fall two hours behind. The numbers scrolling past represented the accumulated savings of millions of Americans being destroyed in real time.",
-        "duration": 480,
-        "bgImage": "bg_abstract.jpg",
-        "wordTimings": null,
+        "duration": 445,
+        "bgImage": "bg_stock_red.jpg",
+        "wordTimings": [
+          {
+            "word": "On ",
+            "start": 0.1,
+            "end": 0.263
+          },
+          {
+            "word": "the ",
+            "start": 0.273,
+            "end": 0.328
+          },
+          {
+            "word": "morning ",
+            "start": 0.339,
+            "end": 0.632
+          },
+          {
+            "word": "of ",
+            "start": 0.643,
+            "end": 0.719
+          },
+          {
+            "word": "October 29, 1929, ",
+            "start": 0.73,
+            "end": 2.806
+          },
+          {
+            "word": "Charles ",
+            "start": 2.947,
+            "end": 3.295
+          },
+          {
+            "word": "Mitchell, ",
+            "start": 3.306,
+            "end": 3.654
+          },
+          {
+            "word": "chairman ",
+            "start": 3.806,
+            "end": 4.143
+          },
+          {
+            "word": "of ",
+            "start": 4.154,
+            "end": 4.23
+          },
+          {
+            "word": "National ",
+            "start": 4.241,
+            "end": 4.599
+          },
+          {
+            "word": "City ",
+            "start": 4.61,
+            "end": 4.839
+          },
+          {
+            "word": "Bank, ",
+            "start": 4.85,
+            "end": 5.132
+          },
+          {
+            "word": "watched ",
+            "start": 5.317,
+            "end": 5.556
+          },
+          {
+            "word": "the ",
+            "start": 5.567,
+            "end": 5.632
+          },
+          {
+            "word": "ticker ",
+            "start": 5.643,
+            "end": 5.893
+          },
+          {
+            "word": "tape ",
+            "start": 5.904,
+            "end": 6.143
+          },
+          {
+            "word": "fall ",
+            "start": 6.154,
+            "end": 6.426
+          },
+          {
+            "word": "two ",
+            "start": 6.436,
+            "end": 6.697
+          },
+          {
+            "word": "hours ",
+            "start": 6.708,
+            "end": 7.023
+          },
+          {
+            "word": "behind. ",
+            "start": 7.034,
+            "end": 7.61
+          },
+          {
+            "word": "The ",
+            "start": 8.354,
+            "end": 8.495
+          },
+          {
+            "word": "numbers ",
+            "start": 8.506,
+            "end": 8.789
+          },
+          {
+            "word": "scrolling ",
+            "start": 8.8,
+            "end": 9.202
+          },
+          {
+            "word": "past ",
+            "start": 9.213,
+            "end": 9.517
+          },
+          {
+            "word": "represented ",
+            "start": 9.528,
+            "end": 10.039
+          },
+          {
+            "word": "the ",
+            "start": 10.05,
+            "end": 10.158
+          },
+          {
+            "word": "accumulated ",
+            "start": 10.169,
+            "end": 10.767
+          },
+          {
+            "word": "savings ",
+            "start": 10.778,
+            "end": 11.169
+          },
+          {
+            "word": "of ",
+            "start": 11.18,
+            "end": 11.256
+          },
+          {
+            "word": "millions ",
+            "start": 11.267,
+            "end": 11.626
+          },
+          {
+            "word": "of ",
+            "start": 11.636,
+            "end": 11.713
+          },
+          {
+            "word": "Americans ",
+            "start": 11.723,
+            "end": 12.223
+          },
+          {
+            "word": "being ",
+            "start": 12.234,
+            "end": 12.43
+          },
+          {
+            "word": "destroyed ",
+            "start": 12.441,
+            "end": 12.843
+          },
+          {
+            "word": "in ",
+            "start": 12.854,
+            "end": 12.963
+          },
+          {
+            "word": "real ",
+            "start": 12.973,
+            "end": 13.245
+          },
+          {
+            "word": "time.",
+            "start": 13.256,
+            "end": 13.658
+          }
+        ],
         "start": 90
       },
       {
         "type": "quote",
         "chunk_id": "ep1_event_1",
         "audio_exists": true,
+        "audioPath": "episodes/ep1/audio/ep1_event_1.wav",
         "text": "The crash was not the cause of the Great Depression. It was the signal flare that revealed what had already gone wrong. Credit had expanded beyond any productive use. Speculators were buying stocks on ninety percent margin.",
-        "duration": 387,
-        "bgImage": "bg_demographics.jpg",
-        "wordTimings": null,
-        "start": 570
+        "duration": 402,
+        "bgImage": "bg_wallstreet.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.219
+          },
+          {
+            "word": "crash ",
+            "start": 0.23,
+            "end": 0.545
+          },
+          {
+            "word": "was ",
+            "start": 0.556,
+            "end": 0.708
+          },
+          {
+            "word": "not ",
+            "start": 0.719,
+            "end": 0.86
+          },
+          {
+            "word": "the ",
+            "start": 0.871,
+            "end": 0.936
+          },
+          {
+            "word": "cause ",
+            "start": 0.947,
+            "end": 1.208
+          },
+          {
+            "word": "of ",
+            "start": 1.219,
+            "end": 1.284
+          },
+          {
+            "word": "the ",
+            "start": 1.295,
+            "end": 1.371
+          },
+          {
+            "word": "Great ",
+            "start": 1.382,
+            "end": 1.654
+          },
+          {
+            "word": "Depression. ",
+            "start": 1.665,
+            "end": 2.165
+          },
+          {
+            "word": "It ",
+            "start": 2.908,
+            "end": 3.039
+          },
+          {
+            "word": "was ",
+            "start": 3.05,
+            "end": 3.169
+          },
+          {
+            "word": "the ",
+            "start": 3.18,
+            "end": 3.267
+          },
+          {
+            "word": "signal ",
+            "start": 3.278,
+            "end": 3.582
+          },
+          {
+            "word": "flare ",
+            "start": 3.593,
+            "end": 3.865
+          },
+          {
+            "word": "that ",
+            "start": 3.876,
+            "end": 4.039
+          },
+          {
+            "word": "revealed ",
+            "start": 4.05,
+            "end": 4.408
+          },
+          {
+            "word": "what ",
+            "start": 4.419,
+            "end": 4.539
+          },
+          {
+            "word": "had ",
+            "start": 4.55,
+            "end": 4.658
+          },
+          {
+            "word": "already ",
+            "start": 4.669,
+            "end": 5.028
+          },
+          {
+            "word": "gone ",
+            "start": 5.039,
+            "end": 5.278
+          },
+          {
+            "word": "wrong. ",
+            "start": 5.289,
+            "end": 5.702
+          },
+          {
+            "word": "Credit ",
+            "start": 6.452,
+            "end": 6.789
+          },
+          {
+            "word": "had ",
+            "start": 6.8,
+            "end": 6.941
+          },
+          {
+            "word": "expanded ",
+            "start": 6.952,
+            "end": 7.419
+          },
+          {
+            "word": "beyond ",
+            "start": 7.43,
+            "end": 7.723
+          },
+          {
+            "word": "any ",
+            "start": 7.734,
+            "end": 7.897
+          },
+          {
+            "word": "productive ",
+            "start": 7.908,
+            "end": 8.321
+          },
+          {
+            "word": "use. ",
+            "start": 8.332,
+            "end": 8.8
+          },
+          {
+            "word": "Speculators ",
+            "start": 9.55,
+            "end": 10.256
+          },
+          {
+            "word": "were ",
+            "start": 10.267,
+            "end": 10.365
+          },
+          {
+            "word": "buying ",
+            "start": 10.376,
+            "end": 10.647
+          },
+          {
+            "word": "stocks ",
+            "start": 10.658,
+            "end": 10.963
+          },
+          {
+            "word": "on ",
+            "start": 10.973,
+            "end": 11.104
+          },
+          {
+            "word": "ninety ",
+            "start": 11.115,
+            "end": 11.408
+          },
+          {
+            "word": "percent ",
+            "start": 11.419,
+            "end": 11.745
+          },
+          {
+            "word": "margin.",
+            "start": 11.756,
+            "end": 12.234
+          }
+        ],
+        "start": 535
       },
       {
         "type": "quote",
         "chunk_id": "ep1_event_2",
         "audio_exists": true,
+        "audioPath": "episodes/ep1/audio/ep1_event_2.wav",
         "text": "When prices fell, margin calls forced selling, which forced more margin calls. The spiral had no floor. What followed was not a recession. It was a structural collapse. Over the next three years, nine thousand banks failed.",
-        "duration": 397,
-        "bgImage": "bg_demographics.jpg",
-        "wordTimings": null,
-        "start": 957
+        "duration": 458,
+        "bgImage": "bg_nyse_floor.jpg",
+        "wordTimings": [
+          {
+            "word": "When ",
+            "start": 0.1,
+            "end": 0.35
+          },
+          {
+            "word": "prices ",
+            "start": 0.36,
+            "end": 0.719
+          },
+          {
+            "word": "fell, ",
+            "start": 0.73,
+            "end": 1.034
+          },
+          {
+            "word": "margin ",
+            "start": 1.23,
+            "end": 1.578
+          },
+          {
+            "word": "calls ",
+            "start": 1.589,
+            "end": 1.86
+          },
+          {
+            "word": "forced ",
+            "start": 1.871,
+            "end": 2.121
+          },
+          {
+            "word": "selling, ",
+            "start": 2.132,
+            "end": 2.426
+          },
+          {
+            "word": "which ",
+            "start": 2.621,
+            "end": 2.763
+          },
+          {
+            "word": "forced ",
+            "start": 2.773,
+            "end": 3.045
+          },
+          {
+            "word": "more ",
+            "start": 3.056,
+            "end": 3.197
+          },
+          {
+            "word": "margin ",
+            "start": 3.208,
+            "end": 3.621
+          },
+          {
+            "word": "calls. ",
+            "start": 3.632,
+            "end": 4.132
+          },
+          {
+            "word": "The ",
+            "start": 4.876,
+            "end": 5.006
+          },
+          {
+            "word": "spiral ",
+            "start": 5.017,
+            "end": 5.463
+          },
+          {
+            "word": "had ",
+            "start": 5.473,
+            "end": 5.593
+          },
+          {
+            "word": "no ",
+            "start": 5.604,
+            "end": 5.799
+          },
+          {
+            "word": "floor. ",
+            "start": 5.81,
+            "end": 6.245
+          },
+          {
+            "word": "What ",
+            "start": 6.995,
+            "end": 7.202
+          },
+          {
+            "word": "followed ",
+            "start": 7.213,
+            "end": 7.549
+          },
+          {
+            "word": "was ",
+            "start": 7.56,
+            "end": 7.691
+          },
+          {
+            "word": "not ",
+            "start": 7.702,
+            "end": 7.886
+          },
+          {
+            "word": "a ",
+            "start": 7.897,
+            "end": 7.941
+          },
+          {
+            "word": "recession. ",
+            "start": 7.952,
+            "end": 8.506
+          },
+          {
+            "word": "It ",
+            "start": 9.256,
+            "end": 9.397
+          },
+          {
+            "word": "was ",
+            "start": 9.408,
+            "end": 9.506
+          },
+          {
+            "word": "a ",
+            "start": 9.517,
+            "end": 9.571
+          },
+          {
+            "word": "structural ",
+            "start": 9.582,
+            "end": 10.115
+          },
+          {
+            "word": "collapse. ",
+            "start": 10.126,
+            "end": 10.68
+          },
+          {
+            "word": "Over ",
+            "start": 11.43,
+            "end": 11.647
+          },
+          {
+            "word": "the ",
+            "start": 11.658,
+            "end": 11.734
+          },
+          {
+            "word": "next ",
+            "start": 11.745,
+            "end": 11.995
+          },
+          {
+            "word": "three ",
+            "start": 12.006,
+            "end": 12.202
+          },
+          {
+            "word": "years, ",
+            "start": 12.213,
+            "end": 12.604
+          },
+          {
+            "word": "nine ",
+            "start": 12.702,
+            "end": 12.963
+          },
+          {
+            "word": "thousand ",
+            "start": 12.973,
+            "end": 13.354
+          },
+          {
+            "word": "banks ",
+            "start": 13.365,
+            "end": 13.615
+          },
+          {
+            "word": "failed.",
+            "start": 13.626,
+            "end": 14.104
+          }
+        ],
+        "start": 937
       },
       {
         "type": "quote",
         "chunk_id": "ep1_event_3",
         "audio_exists": true,
+        "audioPath": "episodes/ep1/audio/ep1_event_3.wav",
         "text": "Twenty-seven percent of all prices fell. Industrial production dropped by half. By 1933, one in four Americans who wanted work could not find it.",
-        "duration": 296,
-        "bgImage": "bg_toxicology.jpg",
-        "wordTimings": null,
-        "start": 1354
+        "duration": 324,
+        "bgImage": "bg_breadline.jpg",
+        "wordTimings": [
+          {
+            "word": "Twenty-seven ",
+            "start": 0.1,
+            "end": 0.686
+          },
+          {
+            "word": "percent ",
+            "start": 0.697,
+            "end": 1.056
+          },
+          {
+            "word": "of ",
+            "start": 1.067,
+            "end": 1.154
+          },
+          {
+            "word": "all ",
+            "start": 1.165,
+            "end": 1.317
+          },
+          {
+            "word": "prices ",
+            "start": 1.328,
+            "end": 1.686
+          },
+          {
+            "word": "fell. ",
+            "start": 1.697,
+            "end": 2.045
+          },
+          {
+            "word": "Industrial ",
+            "start": 2.789,
+            "end": 3.397
+          },
+          {
+            "word": "production ",
+            "start": 3.408,
+            "end": 3.832
+          },
+          {
+            "word": "dropped ",
+            "start": 3.843,
+            "end": 4.136
+          },
+          {
+            "word": "by ",
+            "start": 4.147,
+            "end": 4.289
+          },
+          {
+            "word": "half. ",
+            "start": 4.3,
+            "end": 4.789
+          },
+          {
+            "word": "By 1933, ",
+            "start": 5.539,
+            "end": 6.789
+          },
+          {
+            "word": "one ",
+            "start": 7.006,
+            "end": 7.202
+          },
+          {
+            "word": "in ",
+            "start": 7.213,
+            "end": 7.332
+          },
+          {
+            "word": "four ",
+            "start": 7.343,
+            "end": 7.528
+          },
+          {
+            "word": "Americans ",
+            "start": 7.539,
+            "end": 8.017
+          },
+          {
+            "word": "who ",
+            "start": 8.028,
+            "end": 8.136
+          },
+          {
+            "word": "wanted ",
+            "start": 8.147,
+            "end": 8.463
+          },
+          {
+            "word": "work ",
+            "start": 8.473,
+            "end": 8.756
+          },
+          {
+            "word": "could ",
+            "start": 8.767,
+            "end": 8.908
+          },
+          {
+            "word": "not ",
+            "start": 8.919,
+            "end": 9.126
+          },
+          {
+            "word": "find ",
+            "start": 9.136,
+            "end": 9.43
+          },
+          {
+            "word": "it.",
+            "start": 9.441,
+            "end": 9.636
+          }
+        ],
+        "start": 1395
       },
       {
         "type": "quote",
         "chunk_id": "ep1_event_4",
         "audio_exists": true,
+        "audioPath": "episodes/ep1/audio/ep1_event_4.wav",
         "text": "The unemployment rate peaked at twenty-five percent — a number so extreme that no economic model of the era had a mechanism to explain it.",
-        "duration": 262,
-        "bgImage": "bg_abstract.jpg",
-        "wordTimings": null,
-        "start": 1650
+        "duration": 225,
+        "bgImage": "bg_stock_red.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.241
+          },
+          {
+            "word": "unemployment ",
+            "start": 0.252,
+            "end": 0.828
+          },
+          {
+            "word": "rate ",
+            "start": 0.839,
+            "end": 1.034
+          },
+          {
+            "word": "peaked ",
+            "start": 1.045,
+            "end": 1.263
+          },
+          {
+            "word": "at ",
+            "start": 1.273,
+            "end": 1.349
+          },
+          {
+            "word": "twenty-five ",
+            "start": 1.36,
+            "end": 1.904
+          },
+          {
+            "word": "percent — ",
+            "start": 1.915,
+            "end": 2.317
+          },
+          {
+            "word": "a ",
+            "start": 2.447,
+            "end": 2.491
+          },
+          {
+            "word": "number ",
+            "start": 2.502,
+            "end": 2.752
+          },
+          {
+            "word": "so ",
+            "start": 2.763,
+            "end": 2.936
+          },
+          {
+            "word": "extreme ",
+            "start": 2.947,
+            "end": 3.36
+          },
+          {
+            "word": "that ",
+            "start": 3.371,
+            "end": 3.502
+          },
+          {
+            "word": "no ",
+            "start": 3.513,
+            "end": 3.708
+          },
+          {
+            "word": "economic ",
+            "start": 3.719,
+            "end": 4.165
+          },
+          {
+            "word": "model ",
+            "start": 4.176,
+            "end": 4.393
+          },
+          {
+            "word": "of ",
+            "start": 4.404,
+            "end": 4.469
+          },
+          {
+            "word": "the ",
+            "start": 4.48,
+            "end": 4.589
+          },
+          {
+            "word": "era ",
+            "start": 4.6,
+            "end": 4.871
+          },
+          {
+            "word": "had ",
+            "start": 4.882,
+            "end": 5.034
+          },
+          {
+            "word": "a ",
+            "start": 5.045,
+            "end": 5.089
+          },
+          {
+            "word": "mechanism ",
+            "start": 5.1,
+            "end": 5.589
+          },
+          {
+            "word": "to ",
+            "start": 5.6,
+            "end": 5.697
+          },
+          {
+            "word": "explain ",
+            "start": 5.708,
+            "end": 6.121
+          },
+          {
+            "word": "it.",
+            "start": 6.132,
+            "end": 6.328
+          }
+        ],
+        "start": 1719
       }
     ]
   },
   {
     "id": "ep1_problems",
-    "title": "Episode 1 · Problems",
-    "globalStart": 3333,
-    "duration": 2377,
+    "title": "Problems",
+    "globalStart": 2120,
+    "duration": 2278,
     "subSlides": [
       {
         "type": "bumper",
         "start": 0,
         "duration": 90,
-        "title": "Episode 1 · Problems"
+        "title": "Problems"
       },
       {
         "type": "quote",
         "chunk_id": "ep1_problems_0",
         "audio_exists": true,
+        "audioPath": "episodes/ep1/audio/ep1_problems_0.wav",
         "text": "The Great Depression revealed four interlocking failures that no single policy lever could address simultaneously. First, the banking system collapsed. Nine thousand bank failures between 1930 and 1933 destroyed seven billion dollars in deposits.",
-        "duration": 468,
-        "bgImage": "bg_toxicology.jpg",
-        "wordTimings": null,
+        "duration": 462,
+        "bgImage": "bg_breadline.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "Great ",
+            "start": 0.241,
+            "end": 0.469
+          },
+          {
+            "word": "Depression ",
+            "start": 0.48,
+            "end": 0.849
+          },
+          {
+            "word": "revealed ",
+            "start": 0.86,
+            "end": 1.23
+          },
+          {
+            "word": "four ",
+            "start": 1.241,
+            "end": 1.339
+          },
+          {
+            "word": "interlocking ",
+            "start": 1.35,
+            "end": 1.839
+          },
+          {
+            "word": "failures ",
+            "start": 1.85,
+            "end": 2.252
+          },
+          {
+            "word": "that ",
+            "start": 2.263,
+            "end": 2.393
+          },
+          {
+            "word": "no ",
+            "start": 2.404,
+            "end": 2.578
+          },
+          {
+            "word": "single ",
+            "start": 2.589,
+            "end": 2.926
+          },
+          {
+            "word": "policy ",
+            "start": 2.936,
+            "end": 3.295
+          },
+          {
+            "word": "lever ",
+            "start": 3.306,
+            "end": 3.61
+          },
+          {
+            "word": "could ",
+            "start": 3.621,
+            "end": 3.763
+          },
+          {
+            "word": "address ",
+            "start": 3.773,
+            "end": 4.11
+          },
+          {
+            "word": "simultaneously. ",
+            "start": 4.121,
+            "end": 4.915
+          },
+          {
+            "word": "First, ",
+            "start": 5.658,
+            "end": 6.158
+          },
+          {
+            "word": "the ",
+            "start": 6.278,
+            "end": 6.365
+          },
+          {
+            "word": "banking ",
+            "start": 6.376,
+            "end": 6.756
+          },
+          {
+            "word": "system ",
+            "start": 6.767,
+            "end": 7.136
+          },
+          {
+            "word": "collapsed. ",
+            "start": 7.147,
+            "end": 7.713
+          },
+          {
+            "word": "Nine ",
+            "start": 8.463,
+            "end": 8.778
+          },
+          {
+            "word": "thousand ",
+            "start": 8.789,
+            "end": 9.147
+          },
+          {
+            "word": "bank ",
+            "start": 9.158,
+            "end": 9.365
+          },
+          {
+            "word": "failures ",
+            "start": 9.376,
+            "end": 9.832
+          },
+          {
+            "word": "between 1930 and 1933 ",
+            "start": 9.843,
+            "end": 12.104
+          },
+          {
+            "word": "destroyed ",
+            "start": 12.115,
+            "end": 12.571
+          },
+          {
+            "word": "seven ",
+            "start": 12.582,
+            "end": 12.876
+          },
+          {
+            "word": "billion ",
+            "start": 12.886,
+            "end": 13.213
+          },
+          {
+            "word": "dollars ",
+            "start": 13.223,
+            "end": 13.549
+          },
+          {
+            "word": "in ",
+            "start": 13.56,
+            "end": 13.636
+          },
+          {
+            "word": "deposits.",
+            "start": 13.647,
+            "end": 14.223
+          }
+        ],
         "start": 90
       },
       {
         "type": "quote",
         "chunk_id": "ep1_problems_1",
         "audio_exists": true,
+        "audioPath": "episodes/ep1/audio/ep1_problems_1.wav",
         "text": "Bank failures were contagious — when one bank failed, depositors at other banks panicked and withdrew their savings, forcing more closures. Second, deflation created a debt trap.",
-        "duration": 321,
-        "bgImage": "bg_lab.jpg",
-        "wordTimings": null,
-        "start": 558
+        "duration": 332,
+        "bgImage": "bg_factory_dark.jpg",
+        "wordTimings": [
+          {
+            "word": "Bank ",
+            "start": 0.1,
+            "end": 0.371
+          },
+          {
+            "word": "failures ",
+            "start": 0.382,
+            "end": 0.795
+          },
+          {
+            "word": "were ",
+            "start": 0.806,
+            "end": 0.893
+          },
+          {
+            "word": "contagious — ",
+            "start": 0.904,
+            "end": 1.523
+          },
+          {
+            "word": "when ",
+            "start": 1.697,
+            "end": 1.882
+          },
+          {
+            "word": "one ",
+            "start": 1.893,
+            "end": 2.089
+          },
+          {
+            "word": "bank ",
+            "start": 2.1,
+            "end": 2.371
+          },
+          {
+            "word": "failed, ",
+            "start": 2.382,
+            "end": 2.773
+          },
+          {
+            "word": "depositors ",
+            "start": 2.969,
+            "end": 3.502
+          },
+          {
+            "word": "at ",
+            "start": 3.513,
+            "end": 3.632
+          },
+          {
+            "word": "other ",
+            "start": 3.643,
+            "end": 3.795
+          },
+          {
+            "word": "banks ",
+            "start": 3.806,
+            "end": 4.067
+          },
+          {
+            "word": "panicked ",
+            "start": 4.078,
+            "end": 4.426
+          },
+          {
+            "word": "and ",
+            "start": 4.436,
+            "end": 4.534
+          },
+          {
+            "word": "withdrew ",
+            "start": 4.545,
+            "end": 4.926
+          },
+          {
+            "word": "their ",
+            "start": 4.936,
+            "end": 5.089
+          },
+          {
+            "word": "savings, ",
+            "start": 5.1,
+            "end": 5.621
+          },
+          {
+            "word": "forcing ",
+            "start": 5.839,
+            "end": 6.186
+          },
+          {
+            "word": "more ",
+            "start": 6.197,
+            "end": 6.371
+          },
+          {
+            "word": "closures. ",
+            "start": 6.382,
+            "end": 6.98
+          },
+          {
+            "word": "Second, ",
+            "start": 7.723,
+            "end": 8.223
+          },
+          {
+            "word": "deflation ",
+            "start": 8.365,
+            "end": 8.799
+          },
+          {
+            "word": "created ",
+            "start": 8.81,
+            "end": 9.202
+          },
+          {
+            "word": "a ",
+            "start": 9.213,
+            "end": 9.278
+          },
+          {
+            "word": "debt ",
+            "start": 9.289,
+            "end": 9.506
+          },
+          {
+            "word": "trap.",
+            "start": 9.517,
+            "end": 9.886
+          }
+        ],
+        "start": 552
       },
       {
         "type": "quote",
         "chunk_id": "ep1_problems_2",
         "audio_exists": true,
+        "audioPath": "episodes/ep1/audio/ep1_problems_2.wav",
         "text": "With prices falling twenty-seven percent cumulatively, the real value of debts rose even as incomes fell. Farmers, businesses, and households could not service loans denominated in dollars that were becoming more valuable every month.",
-        "duration": 426,
-        "bgImage": "bg_lifestyle.jpg",
-        "wordTimings": null,
-        "start": 879
+        "duration": 385,
+        "bgImage": "bg_gold_bars.jpg",
+        "wordTimings": [
+          {
+            "word": "With ",
+            "start": 0.1,
+            "end": 0.295
+          },
+          {
+            "word": "prices ",
+            "start": 0.306,
+            "end": 0.665
+          },
+          {
+            "word": "falling ",
+            "start": 0.676,
+            "end": 0.991
+          },
+          {
+            "word": "twenty-seven ",
+            "start": 1.002,
+            "end": 1.567
+          },
+          {
+            "word": "percent ",
+            "start": 1.578,
+            "end": 1.871
+          },
+          {
+            "word": "cumulatively, ",
+            "start": 1.882,
+            "end": 2.523
+          },
+          {
+            "word": "the ",
+            "start": 2.697,
+            "end": 2.795
+          },
+          {
+            "word": "real ",
+            "start": 2.806,
+            "end": 3.121
+          },
+          {
+            "word": "value ",
+            "start": 3.132,
+            "end": 3.48
+          },
+          {
+            "word": "of ",
+            "start": 3.491,
+            "end": 3.599
+          },
+          {
+            "word": "debts ",
+            "start": 3.61,
+            "end": 3.828
+          },
+          {
+            "word": "rose ",
+            "start": 3.839,
+            "end": 4.121
+          },
+          {
+            "word": "even ",
+            "start": 4.132,
+            "end": 4.382
+          },
+          {
+            "word": "as ",
+            "start": 4.393,
+            "end": 4.502
+          },
+          {
+            "word": "incomes ",
+            "start": 4.513,
+            "end": 4.926
+          },
+          {
+            "word": "fell. ",
+            "start": 4.936,
+            "end": 5.295
+          },
+          {
+            "word": "Farmers, ",
+            "start": 6.039,
+            "end": 6.56
+          },
+          {
+            "word": "businesses, ",
+            "start": 6.68,
+            "end": 7.147
+          },
+          {
+            "word": "and ",
+            "start": 7.321,
+            "end": 7.408
+          },
+          {
+            "word": "households ",
+            "start": 7.419,
+            "end": 7.908
+          },
+          {
+            "word": "could ",
+            "start": 7.919,
+            "end": 8.049
+          },
+          {
+            "word": "not ",
+            "start": 8.06,
+            "end": 8.223
+          },
+          {
+            "word": "service ",
+            "start": 8.234,
+            "end": 8.582
+          },
+          {
+            "word": "loans ",
+            "start": 8.593,
+            "end": 8.886
+          },
+          {
+            "word": "denominated ",
+            "start": 8.897,
+            "end": 9.441
+          },
+          {
+            "word": "in ",
+            "start": 9.452,
+            "end": 9.549
+          },
+          {
+            "word": "dollars ",
+            "start": 9.56,
+            "end": 9.865
+          },
+          {
+            "word": "that ",
+            "start": 9.876,
+            "end": 9.995
+          },
+          {
+            "word": "were ",
+            "start": 10.006,
+            "end": 10.071
+          },
+          {
+            "word": "becoming ",
+            "start": 10.082,
+            "end": 10.463
+          },
+          {
+            "word": "more ",
+            "start": 10.473,
+            "end": 10.626
+          },
+          {
+            "word": "valuable ",
+            "start": 10.636,
+            "end": 11.071
+          },
+          {
+            "word": "every ",
+            "start": 11.082,
+            "end": 11.256
+          },
+          {
+            "word": "month.",
+            "start": 11.267,
+            "end": 11.669
+          }
+        ],
+        "start": 884
       },
       {
         "type": "quote",
         "chunk_id": "ep1_problems_3",
         "audio_exists": true,
+        "audioPath": "episodes/ep1/audio/ep1_problems_3.wav",
         "text": "Third, the gold standard transmitted the crisis globally. Countries on gold could not expand their money supplies to fight deflation without risking a run on their reserves.",
-        "duration": 309,
-        "bgImage": "bg_lab.jpg",
-        "wordTimings": null,
-        "start": 1305
+        "duration": 285,
+        "bgImage": "bg_bank_run.jpg",
+        "wordTimings": [
+          {
+            "word": "Third, ",
+            "start": 0.1,
+            "end": 0.502
+          },
+          {
+            "word": "the ",
+            "start": 0.621,
+            "end": 0.697
+          },
+          {
+            "word": "gold ",
+            "start": 0.708,
+            "end": 0.958
+          },
+          {
+            "word": "standard ",
+            "start": 0.969,
+            "end": 1.339
+          },
+          {
+            "word": "transmitted ",
+            "start": 1.35,
+            "end": 1.784
+          },
+          {
+            "word": "the ",
+            "start": 1.795,
+            "end": 1.86
+          },
+          {
+            "word": "crisis ",
+            "start": 1.871,
+            "end": 2.263
+          },
+          {
+            "word": "globally. ",
+            "start": 2.273,
+            "end": 2.741
+          },
+          {
+            "word": "Countries ",
+            "start": 3.484,
+            "end": 3.908
+          },
+          {
+            "word": "on ",
+            "start": 3.919,
+            "end": 4.017
+          },
+          {
+            "word": "gold ",
+            "start": 4.028,
+            "end": 4.332
+          },
+          {
+            "word": "could ",
+            "start": 4.343,
+            "end": 4.473
+          },
+          {
+            "word": "not ",
+            "start": 4.484,
+            "end": 4.636
+          },
+          {
+            "word": "expand ",
+            "start": 4.647,
+            "end": 5.017
+          },
+          {
+            "word": "their ",
+            "start": 5.028,
+            "end": 5.136
+          },
+          {
+            "word": "money ",
+            "start": 5.147,
+            "end": 5.397
+          },
+          {
+            "word": "supplies ",
+            "start": 5.408,
+            "end": 5.789
+          },
+          {
+            "word": "to ",
+            "start": 5.8,
+            "end": 5.876
+          },
+          {
+            "word": "fight ",
+            "start": 5.886,
+            "end": 6.115
+          },
+          {
+            "word": "deflation ",
+            "start": 6.126,
+            "end": 6.571
+          },
+          {
+            "word": "without ",
+            "start": 6.582,
+            "end": 6.897
+          },
+          {
+            "word": "risking ",
+            "start": 6.908,
+            "end": 7.213
+          },
+          {
+            "word": "a ",
+            "start": 7.223,
+            "end": 7.256
+          },
+          {
+            "word": "run ",
+            "start": 7.267,
+            "end": 7.506
+          },
+          {
+            "word": "on ",
+            "start": 7.517,
+            "end": 7.604
+          },
+          {
+            "word": "their ",
+            "start": 7.615,
+            "end": 7.702
+          },
+          {
+            "word": "reserves.",
+            "start": 7.713,
+            "end": 8.343
+          }
+        ],
+        "start": 1269
       },
       {
         "type": "quote",
         "chunk_id": "ep1_problems_4",
         "audio_exists": true,
+        "audioPath": "episodes/ep1/audio/ep1_problems_4.wav",
         "text": "The mechanism designed to ensure monetary stability became the mechanism of monetary destruction. Hoover tried voluntarism — asking businesses not to cut wages. He then raised taxes in 1932 to balance the budget, contracting demand further.",
-        "duration": 489,
-        "bgImage": "bg_abstract.jpg",
-        "wordTimings": null,
-        "start": 1614
+        "duration": 438,
+        "bgImage": "bg_breadline.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "mechanism ",
+            "start": 0.241,
+            "end": 0.686
+          },
+          {
+            "word": "designed ",
+            "start": 0.697,
+            "end": 1.023
+          },
+          {
+            "word": "to ",
+            "start": 1.034,
+            "end": 1.121
+          },
+          {
+            "word": "ensure ",
+            "start": 1.132,
+            "end": 1.436
+          },
+          {
+            "word": "monetary ",
+            "start": 1.447,
+            "end": 1.849
+          },
+          {
+            "word": "stability ",
+            "start": 1.86,
+            "end": 2.339
+          },
+          {
+            "word": "became ",
+            "start": 2.35,
+            "end": 2.665
+          },
+          {
+            "word": "the ",
+            "start": 2.676,
+            "end": 2.73
+          },
+          {
+            "word": "mechanism ",
+            "start": 2.741,
+            "end": 3.197
+          },
+          {
+            "word": "of ",
+            "start": 3.208,
+            "end": 3.295
+          },
+          {
+            "word": "monetary ",
+            "start": 3.306,
+            "end": 3.686
+          },
+          {
+            "word": "destruction. ",
+            "start": 3.697,
+            "end": 4.263
+          },
+          {
+            "word": "Hoover ",
+            "start": 5.006,
+            "end": 5.299
+          },
+          {
+            "word": "tried ",
+            "start": 5.31,
+            "end": 5.615
+          },
+          {
+            "word": "voluntarism — ",
+            "start": 5.626,
+            "end": 6.213
+          },
+          {
+            "word": "asking ",
+            "start": 6.397,
+            "end": 6.745
+          },
+          {
+            "word": "businesses ",
+            "start": 6.756,
+            "end": 7.191
+          },
+          {
+            "word": "not ",
+            "start": 7.202,
+            "end": 7.43
+          },
+          {
+            "word": "to ",
+            "start": 7.441,
+            "end": 7.495
+          },
+          {
+            "word": "cut ",
+            "start": 7.506,
+            "end": 7.734
+          },
+          {
+            "word": "wages. ",
+            "start": 7.745,
+            "end": 8.289
+          },
+          {
+            "word": "He ",
+            "start": 9.039,
+            "end": 9.202
+          },
+          {
+            "word": "then ",
+            "start": 9.213,
+            "end": 9.397
+          },
+          {
+            "word": "raised ",
+            "start": 9.408,
+            "end": 9.669
+          },
+          {
+            "word": "taxes ",
+            "start": 9.68,
+            "end": 10.028
+          },
+          {
+            "word": "in 1932 ",
+            "start": 10.039,
+            "end": 11.071
+          },
+          {
+            "word": "to ",
+            "start": 11.082,
+            "end": 11.18
+          },
+          {
+            "word": "balance ",
+            "start": 11.191,
+            "end": 11.506
+          },
+          {
+            "word": "the ",
+            "start": 11.517,
+            "end": 11.604
+          },
+          {
+            "word": "budget, ",
+            "start": 11.615,
+            "end": 11.984
+          },
+          {
+            "word": "contracting ",
+            "start": 12.126,
+            "end": 12.636
+          },
+          {
+            "word": "demand ",
+            "start": 12.647,
+            "end": 12.984
+          },
+          {
+            "word": "further.",
+            "start": 12.995,
+            "end": 13.419
+          }
+        ],
+        "start": 1554
       },
       {
         "type": "quote",
         "chunk_id": "ep1_problems_5",
         "audio_exists": true,
+        "audioPath": "episodes/ep1/audio/ep1_problems_5.wav",
         "text": "Britain left the gold standard in 1931 and began recovering almost immediately. The evidence was available. The lesson was not acted on.",
-        "duration": 274,
-        "bgImage": "bg_lifestyle.jpg",
-        "wordTimings": null,
-        "start": 2103
+        "duration": 286,
+        "bgImage": "bg_factory_dark.jpg",
+        "wordTimings": [
+          {
+            "word": "Britain ",
+            "start": 0.1,
+            "end": 0.436
+          },
+          {
+            "word": "left ",
+            "start": 0.447,
+            "end": 0.654
+          },
+          {
+            "word": "the ",
+            "start": 0.665,
+            "end": 0.741
+          },
+          {
+            "word": "gold ",
+            "start": 0.752,
+            "end": 0.98
+          },
+          {
+            "word": "standard ",
+            "start": 0.991,
+            "end": 1.339
+          },
+          {
+            "word": "in 1931 ",
+            "start": 1.35,
+            "end": 2.415
+          },
+          {
+            "word": "and ",
+            "start": 2.426,
+            "end": 2.534
+          },
+          {
+            "word": "began ",
+            "start": 2.545,
+            "end": 2.849
+          },
+          {
+            "word": "recovering ",
+            "start": 2.86,
+            "end": 3.317
+          },
+          {
+            "word": "almost ",
+            "start": 3.328,
+            "end": 3.686
+          },
+          {
+            "word": "immediately. ",
+            "start": 3.697,
+            "end": 4.263
+          },
+          {
+            "word": "The ",
+            "start": 5.006,
+            "end": 5.147
+          },
+          {
+            "word": "evidence ",
+            "start": 5.158,
+            "end": 5.506
+          },
+          {
+            "word": "was ",
+            "start": 5.517,
+            "end": 5.658
+          },
+          {
+            "word": "available. ",
+            "start": 5.669,
+            "end": 6.191
+          },
+          {
+            "word": "The ",
+            "start": 6.941,
+            "end": 7.071
+          },
+          {
+            "word": "lesson ",
+            "start": 7.082,
+            "end": 7.408
+          },
+          {
+            "word": "was ",
+            "start": 7.419,
+            "end": 7.571
+          },
+          {
+            "word": "not ",
+            "start": 7.582,
+            "end": 7.8
+          },
+          {
+            "word": "acted ",
+            "start": 7.81,
+            "end": 8.071
+          },
+          {
+            "word": "on.",
+            "start": 8.082,
+            "end": 8.354
+          }
+        ],
+        "start": 1992
       }
     ]
   },
   {
     "id": "ep1_solutions",
-    "title": "Episode 1 · Solutions",
-    "globalStart": 5710,
-    "duration": 3147,
+    "title": "Solutions",
+    "globalStart": 4398,
+    "duration": 3049,
     "subSlides": [
       {
         "type": "bumper",
         "start": 0,
         "duration": 90,
-        "title": "Episode 1 · Solutions"
+        "title": "Solutions"
       },
       {
         "type": "chart",
         "start": 90,
-        "duration": 732,
+        "duration": 853,
         "chartSrc": "complexity_index.png",
         "title": "Economic Complexity Index vs Long-Run Growth",
         "audioSrc": "audio/charts/chart_complexity_index.wav"
@@ -180,148 +1857,2309 @@
         "type": "quote",
         "chunk_id": "ep1_solutions_0",
         "audio_exists": true,
+        "audioPath": "episodes/ep1/audio/ep1_solutions_0.wav",
         "text": "On March 4, 1933, Franklin Roosevelt declared a national bank holiday. Every bank in the United States closed. The Emergency Banking Act passed Congress in a single day — the House voted on a bill no member had yet read.",
-        "duration": 423,
-        "bgImage": "bg_lab.jpg",
-        "wordTimings": null,
-        "start": 822
+        "duration": 431,
+        "bgImage": "bg_fed_building.jpg",
+        "wordTimings": [
+          {
+            "word": "On ",
+            "start": 0.1,
+            "end": 0.306
+          },
+          {
+            "word": "March 4, 1933, ",
+            "start": 0.317,
+            "end": 2.121
+          },
+          {
+            "word": "Franklin ",
+            "start": 2.317,
+            "end": 2.741
+          },
+          {
+            "word": "Roosevelt ",
+            "start": 2.752,
+            "end": 3.23
+          },
+          {
+            "word": "declared ",
+            "start": 3.241,
+            "end": 3.545
+          },
+          {
+            "word": "a ",
+            "start": 3.556,
+            "end": 3.599
+          },
+          {
+            "word": "national ",
+            "start": 3.61,
+            "end": 4.023
+          },
+          {
+            "word": "bank ",
+            "start": 4.034,
+            "end": 4.273
+          },
+          {
+            "word": "holiday. ",
+            "start": 4.284,
+            "end": 4.773
+          },
+          {
+            "word": "Every ",
+            "start": 5.517,
+            "end": 5.756
+          },
+          {
+            "word": "bank ",
+            "start": 5.767,
+            "end": 5.984
+          },
+          {
+            "word": "in ",
+            "start": 5.995,
+            "end": 6.071
+          },
+          {
+            "word": "the ",
+            "start": 6.082,
+            "end": 6.136
+          },
+          {
+            "word": "United ",
+            "start": 6.147,
+            "end": 6.571
+          },
+          {
+            "word": "States ",
+            "start": 6.582,
+            "end": 6.886
+          },
+          {
+            "word": "closed. ",
+            "start": 6.897,
+            "end": 7.408
+          },
+          {
+            "word": "The ",
+            "start": 8.158,
+            "end": 8.31
+          },
+          {
+            "word": "Emergency ",
+            "start": 8.321,
+            "end": 8.789
+          },
+          {
+            "word": "Banking ",
+            "start": 8.8,
+            "end": 9.147
+          },
+          {
+            "word": "Act ",
+            "start": 9.158,
+            "end": 9.332
+          },
+          {
+            "word": "passed ",
+            "start": 9.343,
+            "end": 9.626
+          },
+          {
+            "word": "Congress ",
+            "start": 9.636,
+            "end": 10.06
+          },
+          {
+            "word": "in ",
+            "start": 10.071,
+            "end": 10.147
+          },
+          {
+            "word": "a ",
+            "start": 10.158,
+            "end": 10.202
+          },
+          {
+            "word": "single ",
+            "start": 10.213,
+            "end": 10.528
+          },
+          {
+            "word": "day — ",
+            "start": 10.539,
+            "end": 10.789
+          },
+          {
+            "word": "the ",
+            "start": 10.963,
+            "end": 11.028
+          },
+          {
+            "word": "House ",
+            "start": 11.039,
+            "end": 11.31
+          },
+          {
+            "word": "voted ",
+            "start": 11.321,
+            "end": 11.615
+          },
+          {
+            "word": "on ",
+            "start": 11.626,
+            "end": 11.713
+          },
+          {
+            "word": "a ",
+            "start": 11.723,
+            "end": 11.767
+          },
+          {
+            "word": "bill ",
+            "start": 11.778,
+            "end": 12.028
+          },
+          {
+            "word": "no ",
+            "start": 12.039,
+            "end": 12.191
+          },
+          {
+            "word": "member ",
+            "start": 12.202,
+            "end": 12.473
+          },
+          {
+            "word": "had ",
+            "start": 12.484,
+            "end": 12.658
+          },
+          {
+            "word": "yet ",
+            "start": 12.669,
+            "end": 12.876
+          },
+          {
+            "word": "read.",
+            "start": 12.886,
+            "end": 13.18
+          }
+        ],
+        "start": 943
       },
       {
         "type": "quote",
         "chunk_id": "ep1_solutions_1",
         "audio_exists": true,
+        "audioPath": "episodes/ep1/audio/ep1_solutions_1.wav",
         "text": "Within seventy-two hours, the Federal Reserve began certifying healthy banks for reopening. The interventions that followed were comprehensive. The Glass-Steagall Act separated commercial from investment banking.",
-        "duration": 384,
-        "bgImage": "bg_lab.jpg",
-        "wordTimings": null,
-        "start": 1245
+        "duration": 367,
+        "bgImage": "bg_gold_bars.jpg",
+        "wordTimings": [
+          {
+            "word": "Within ",
+            "start": 0.1,
+            "end": 0.436
+          },
+          {
+            "word": "seventy-two ",
+            "start": 0.447,
+            "end": 0.991
+          },
+          {
+            "word": "hours, ",
+            "start": 1.002,
+            "end": 1.36
+          },
+          {
+            "word": "the ",
+            "start": 1.523,
+            "end": 1.61
+          },
+          {
+            "word": "Federal ",
+            "start": 1.621,
+            "end": 1.969
+          },
+          {
+            "word": "Reserve ",
+            "start": 1.98,
+            "end": 2.306
+          },
+          {
+            "word": "began ",
+            "start": 2.317,
+            "end": 2.632
+          },
+          {
+            "word": "certifying ",
+            "start": 2.643,
+            "end": 3.197
+          },
+          {
+            "word": "healthy ",
+            "start": 3.208,
+            "end": 3.491
+          },
+          {
+            "word": "banks ",
+            "start": 3.502,
+            "end": 3.773
+          },
+          {
+            "word": "for ",
+            "start": 3.784,
+            "end": 3.871
+          },
+          {
+            "word": "reopening. ",
+            "start": 3.882,
+            "end": 4.523
+          },
+          {
+            "word": "The ",
+            "start": 5.267,
+            "end": 5.408
+          },
+          {
+            "word": "interventions ",
+            "start": 5.419,
+            "end": 5.973
+          },
+          {
+            "word": "that ",
+            "start": 5.984,
+            "end": 6.115
+          },
+          {
+            "word": "followed ",
+            "start": 6.126,
+            "end": 6.441
+          },
+          {
+            "word": "were ",
+            "start": 6.452,
+            "end": 6.517
+          },
+          {
+            "word": "comprehensive. ",
+            "start": 6.528,
+            "end": 7.31
+          },
+          {
+            "word": "The ",
+            "start": 8.06,
+            "end": 8.202
+          },
+          {
+            "word": "Glass-Steagall ",
+            "start": 8.213,
+            "end": 8.941
+          },
+          {
+            "word": "Act ",
+            "start": 8.952,
+            "end": 9.104
+          },
+          {
+            "word": "separated ",
+            "start": 9.115,
+            "end": 9.571
+          },
+          {
+            "word": "commercial ",
+            "start": 9.582,
+            "end": 10.017
+          },
+          {
+            "word": "from ",
+            "start": 10.028,
+            "end": 10.158
+          },
+          {
+            "word": "investment ",
+            "start": 10.169,
+            "end": 10.636
+          },
+          {
+            "word": "banking.",
+            "start": 10.647,
+            "end": 11.082
+          }
+        ],
+        "start": 1374
       },
       {
         "type": "quote",
         "chunk_id": "ep1_solutions_2",
         "audio_exists": true,
+        "audioPath": "episodes/ep1/audio/ep1_solutions_2.wav",
         "text": "The Federal Deposit Insurance Corporation guaranteed deposits up to twenty-five hundred dollars, ending the logic of bank runs. The Securities and Exchange Commission introduced mandatory disclosure requirements.",
-        "duration": 386,
-        "bgImage": "bg_abstract.jpg",
-        "wordTimings": null,
-        "start": 1629
+        "duration": 346,
+        "bgImage": "bg_recovery.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "Federal ",
+            "start": 0.241,
+            "end": 0.567
+          },
+          {
+            "word": "Deposit ",
+            "start": 0.578,
+            "end": 0.958
+          },
+          {
+            "word": "Insurance ",
+            "start": 0.969,
+            "end": 1.404
+          },
+          {
+            "word": "Corporation ",
+            "start": 1.415,
+            "end": 1.958
+          },
+          {
+            "word": "guaranteed ",
+            "start": 1.969,
+            "end": 2.436
+          },
+          {
+            "word": "deposits ",
+            "start": 2.447,
+            "end": 2.86
+          },
+          {
+            "word": "up ",
+            "start": 2.871,
+            "end": 2.991
+          },
+          {
+            "word": "to ",
+            "start": 3.002,
+            "end": 3.067
+          },
+          {
+            "word": "twenty-five ",
+            "start": 3.078,
+            "end": 3.643
+          },
+          {
+            "word": "hundred ",
+            "start": 3.654,
+            "end": 3.915
+          },
+          {
+            "word": "dollars, ",
+            "start": 3.926,
+            "end": 4.23
+          },
+          {
+            "word": "ending ",
+            "start": 4.415,
+            "end": 4.643
+          },
+          {
+            "word": "the ",
+            "start": 4.654,
+            "end": 4.708
+          },
+          {
+            "word": "logic ",
+            "start": 4.719,
+            "end": 5.023
+          },
+          {
+            "word": "of ",
+            "start": 5.034,
+            "end": 5.132
+          },
+          {
+            "word": "bank ",
+            "start": 5.143,
+            "end": 5.393
+          },
+          {
+            "word": "runs. ",
+            "start": 5.404,
+            "end": 5.828
+          },
+          {
+            "word": "The ",
+            "start": 6.571,
+            "end": 6.723
+          },
+          {
+            "word": "Securities ",
+            "start": 6.734,
+            "end": 7.343
+          },
+          {
+            "word": "and ",
+            "start": 7.354,
+            "end": 7.419
+          },
+          {
+            "word": "Exchange ",
+            "start": 7.43,
+            "end": 7.843
+          },
+          {
+            "word": "Commission ",
+            "start": 7.854,
+            "end": 8.223
+          },
+          {
+            "word": "introduced ",
+            "start": 8.234,
+            "end": 8.734
+          },
+          {
+            "word": "mandatory ",
+            "start": 8.745,
+            "end": 9.169
+          },
+          {
+            "word": "disclosure ",
+            "start": 9.18,
+            "end": 9.615
+          },
+          {
+            "word": "requirements.",
+            "start": 9.626,
+            "end": 10.343
+          }
+        ],
+        "start": 1741
       },
       {
         "type": "quote",
         "chunk_id": "ep1_solutions_3",
         "audio_exists": true,
+        "audioPath": "episodes/ep1/audio/ep1_solutions_3.wav",
         "text": "And in January 1934, Roosevelt devalued the dollar by forty-one percent against gold — ending the deflationary constraint in a single executive order.",
-        "duration": 316,
-        "bgImage": "bg_lifestyle.jpg",
-        "wordTimings": null,
-        "start": 2015
+        "duration": 268,
+        "bgImage": "bg_city_night.jpg",
+        "wordTimings": [
+          {
+            "word": "And ",
+            "start": 0.1,
+            "end": 0.273
+          },
+          {
+            "word": "in ",
+            "start": 0.284,
+            "end": 0.436
+          },
+          {
+            "word": "January 1934, ",
+            "start": 0.447,
+            "end": 1.806
+          },
+          {
+            "word": "Roosevelt ",
+            "start": 2.045,
+            "end": 2.523
+          },
+          {
+            "word": "devalued ",
+            "start": 2.534,
+            "end": 2.947
+          },
+          {
+            "word": "the ",
+            "start": 2.958,
+            "end": 3.034
+          },
+          {
+            "word": "dollar ",
+            "start": 3.045,
+            "end": 3.328
+          },
+          {
+            "word": "by ",
+            "start": 3.339,
+            "end": 3.491
+          },
+          {
+            "word": "forty-one ",
+            "start": 3.502,
+            "end": 4.002
+          },
+          {
+            "word": "percent ",
+            "start": 4.013,
+            "end": 4.349
+          },
+          {
+            "word": "against ",
+            "start": 4.36,
+            "end": 4.643
+          },
+          {
+            "word": "gold — ",
+            "start": 4.654,
+            "end": 4.947
+          },
+          {
+            "word": "ending ",
+            "start": 5.165,
+            "end": 5.382
+          },
+          {
+            "word": "the ",
+            "start": 5.393,
+            "end": 5.458
+          },
+          {
+            "word": "deflationary ",
+            "start": 5.469,
+            "end": 6.002
+          },
+          {
+            "word": "constraint ",
+            "start": 6.013,
+            "end": 6.447
+          },
+          {
+            "word": "in ",
+            "start": 6.458,
+            "end": 6.545
+          },
+          {
+            "word": "a ",
+            "start": 6.556,
+            "end": 6.589
+          },
+          {
+            "word": "single ",
+            "start": 6.6,
+            "end": 6.926
+          },
+          {
+            "word": "executive ",
+            "start": 6.936,
+            "end": 7.393
+          },
+          {
+            "word": "order.",
+            "start": 7.404,
+            "end": 7.773
+          }
+        ],
+        "start": 2087
       },
       {
         "type": "quote",
         "chunk_id": "ep1_solutions_4",
         "audio_exists": true,
+        "audioPath": "episodes/ep1/audio/ep1_solutions_4.wav",
         "text": "What made these solutions work was not any single measure but the combination: restoring confidence in the banking system, removing the gold constraint, providing direct relief to unemployed workers, and creating institutional frameworks that made future crises less likely.",
-        "duration": 483,
-        "bgImage": "bg_abstract.jpg",
-        "wordTimings": null,
-        "start": 2331
+        "duration": 416,
+        "bgImage": "bg_fed_building.jpg",
+        "wordTimings": [
+          {
+            "word": "What ",
+            "start": 0.1,
+            "end": 0.328
+          },
+          {
+            "word": "made ",
+            "start": 0.339,
+            "end": 0.545
+          },
+          {
+            "word": "these ",
+            "start": 0.556,
+            "end": 0.752
+          },
+          {
+            "word": "solutions ",
+            "start": 0.763,
+            "end": 1.23
+          },
+          {
+            "word": "work ",
+            "start": 1.241,
+            "end": 1.502
+          },
+          {
+            "word": "was ",
+            "start": 1.513,
+            "end": 1.632
+          },
+          {
+            "word": "not ",
+            "start": 1.643,
+            "end": 1.828
+          },
+          {
+            "word": "any ",
+            "start": 1.839,
+            "end": 1.991
+          },
+          {
+            "word": "single ",
+            "start": 2.002,
+            "end": 2.328
+          },
+          {
+            "word": "measure ",
+            "start": 2.339,
+            "end": 2.643
+          },
+          {
+            "word": "but ",
+            "start": 2.654,
+            "end": 2.741
+          },
+          {
+            "word": "the ",
+            "start": 2.752,
+            "end": 2.817
+          },
+          {
+            "word": "combination: ",
+            "start": 2.828,
+            "end": 3.426
+          },
+          {
+            "word": "restoring ",
+            "start": 3.632,
+            "end": 4.067
+          },
+          {
+            "word": "confidence ",
+            "start": 4.078,
+            "end": 4.513
+          },
+          {
+            "word": "in ",
+            "start": 4.523,
+            "end": 4.589
+          },
+          {
+            "word": "the ",
+            "start": 4.6,
+            "end": 4.676
+          },
+          {
+            "word": "banking ",
+            "start": 4.686,
+            "end": 5.013
+          },
+          {
+            "word": "system, ",
+            "start": 5.023,
+            "end": 5.371
+          },
+          {
+            "word": "removing ",
+            "start": 5.556,
+            "end": 5.915
+          },
+          {
+            "word": "the ",
+            "start": 5.926,
+            "end": 6.002
+          },
+          {
+            "word": "gold ",
+            "start": 6.013,
+            "end": 6.263
+          },
+          {
+            "word": "constraint, ",
+            "start": 6.273,
+            "end": 6.817
+          },
+          {
+            "word": "providing ",
+            "start": 6.947,
+            "end": 7.349
+          },
+          {
+            "word": "direct ",
+            "start": 7.36,
+            "end": 7.665
+          },
+          {
+            "word": "relief ",
+            "start": 7.676,
+            "end": 8.013
+          },
+          {
+            "word": "to ",
+            "start": 8.023,
+            "end": 8.099
+          },
+          {
+            "word": "unemployed ",
+            "start": 8.11,
+            "end": 8.578
+          },
+          {
+            "word": "workers, ",
+            "start": 8.589,
+            "end": 9.013
+          },
+          {
+            "word": "and ",
+            "start": 9.197,
+            "end": 9.284
+          },
+          {
+            "word": "creating ",
+            "start": 9.295,
+            "end": 9.752
+          },
+          {
+            "word": "institutional ",
+            "start": 9.763,
+            "end": 10.382
+          },
+          {
+            "word": "frameworks ",
+            "start": 10.393,
+            "end": 10.904
+          },
+          {
+            "word": "that ",
+            "start": 10.915,
+            "end": 11.013
+          },
+          {
+            "word": "made ",
+            "start": 11.023,
+            "end": 11.241
+          },
+          {
+            "word": "future ",
+            "start": 11.252,
+            "end": 11.578
+          },
+          {
+            "word": "crises ",
+            "start": 11.589,
+            "end": 12.013
+          },
+          {
+            "word": "less ",
+            "start": 12.023,
+            "end": 12.23
+          },
+          {
+            "word": "likely.",
+            "start": 12.241,
+            "end": 12.676
+          }
+        ],
+        "start": 2355
       },
       {
         "type": "quote",
         "chunk_id": "ep1_solutions_5",
         "audio_exists": true,
+        "audioPath": "episodes/ep1/audio/ep1_solutions_5.wav",
         "text": "The New Deal did not end the Depression — that required the spending of World War Two — but it prevented total collapse and built the architecture that stabilised the economy for decades.",
-        "duration": 333,
-        "bgImage": "bg_toxicology.jpg",
-        "wordTimings": null,
-        "start": 2814
+        "duration": 278,
+        "bgImage": "bg_gold_bars.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "New ",
+            "start": 0.241,
+            "end": 0.436
+          },
+          {
+            "word": "Deal ",
+            "start": 0.447,
+            "end": 0.686
+          },
+          {
+            "word": "did ",
+            "start": 0.697,
+            "end": 0.806
+          },
+          {
+            "word": "not ",
+            "start": 0.817,
+            "end": 1.002
+          },
+          {
+            "word": "end ",
+            "start": 1.013,
+            "end": 1.154
+          },
+          {
+            "word": "the ",
+            "start": 1.165,
+            "end": 1.23
+          },
+          {
+            "word": "Depression — ",
+            "start": 1.241,
+            "end": 1.73
+          },
+          {
+            "word": "that ",
+            "start": 1.936,
+            "end": 2.056
+          },
+          {
+            "word": "required ",
+            "start": 2.067,
+            "end": 2.447
+          },
+          {
+            "word": "the ",
+            "start": 2.458,
+            "end": 2.513
+          },
+          {
+            "word": "spending ",
+            "start": 2.523,
+            "end": 2.904
+          },
+          {
+            "word": "of ",
+            "start": 2.915,
+            "end": 2.98
+          },
+          {
+            "word": "World ",
+            "start": 2.991,
+            "end": 3.317
+          },
+          {
+            "word": "War ",
+            "start": 3.328,
+            "end": 3.458
+          },
+          {
+            "word": "Two — ",
+            "start": 3.469,
+            "end": 3.763
+          },
+          {
+            "word": "but ",
+            "start": 4.013,
+            "end": 4.11
+          },
+          {
+            "word": "it ",
+            "start": 4.121,
+            "end": 4.197
+          },
+          {
+            "word": "prevented ",
+            "start": 4.208,
+            "end": 4.632
+          },
+          {
+            "word": "total ",
+            "start": 4.643,
+            "end": 4.926
+          },
+          {
+            "word": "collapse ",
+            "start": 4.936,
+            "end": 5.328
+          },
+          {
+            "word": "and ",
+            "start": 5.339,
+            "end": 5.426
+          },
+          {
+            "word": "built ",
+            "start": 5.436,
+            "end": 5.632
+          },
+          {
+            "word": "the ",
+            "start": 5.643,
+            "end": 5.741
+          },
+          {
+            "word": "architecture ",
+            "start": 5.752,
+            "end": 6.252
+          },
+          {
+            "word": "that ",
+            "start": 6.263,
+            "end": 6.404
+          },
+          {
+            "word": "stabilised ",
+            "start": 6.415,
+            "end": 6.958
+          },
+          {
+            "word": "the ",
+            "start": 6.969,
+            "end": 7.045
+          },
+          {
+            "word": "economy ",
+            "start": 7.056,
+            "end": 7.404
+          },
+          {
+            "word": "for ",
+            "start": 7.415,
+            "end": 7.534
+          },
+          {
+            "word": "decades.",
+            "start": 7.545,
+            "end": 8.11
+          }
+        ],
+        "start": 2771
       }
     ]
   },
   {
     "id": "ep1_results",
-    "title": "Episode 1 · Results",
-    "globalStart": 8857,
-    "duration": 2416,
+    "title": "Results",
+    "globalStart": 7447,
+    "duration": 2859,
     "subSlides": [
       {
         "type": "bumper",
         "start": 0,
         "duration": 90,
-        "title": "Episode 1 · Results"
+        "title": "Results"
       },
       {
         "type": "quote",
         "chunk_id": "ep1_results_0",
         "audio_exists": true,
+        "audioPath": "episodes/ep1/audio/ep1_results_0.wav",
         "text": "The results of the Great Depression response were deeply contradictory — as they would be for every crisis in this series. On the positive side: the Federal Deposit Insurance Corporation ended bank runs as a feature of American economic life.",
-        "duration": 435,
-        "bgImage": "bg_abstract.jpg",
-        "wordTimings": null,
+        "duration": 380,
+        "bgImage": "bg_recovery.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "results ",
+            "start": 0.241,
+            "end": 0.578
+          },
+          {
+            "word": "of ",
+            "start": 0.589,
+            "end": 0.654
+          },
+          {
+            "word": "the ",
+            "start": 0.665,
+            "end": 0.752
+          },
+          {
+            "word": "Great ",
+            "start": 0.763,
+            "end": 0.991
+          },
+          {
+            "word": "Depression ",
+            "start": 1.002,
+            "end": 1.36
+          },
+          {
+            "word": "response ",
+            "start": 1.371,
+            "end": 1.773
+          },
+          {
+            "word": "were ",
+            "start": 1.784,
+            "end": 1.871
+          },
+          {
+            "word": "deeply ",
+            "start": 1.882,
+            "end": 2.197
+          },
+          {
+            "word": "contradictory — ",
+            "start": 2.208,
+            "end": 2.86
+          },
+          {
+            "word": "as ",
+            "start": 3.045,
+            "end": 3.143
+          },
+          {
+            "word": "they ",
+            "start": 3.154,
+            "end": 3.252
+          },
+          {
+            "word": "would ",
+            "start": 3.263,
+            "end": 3.415
+          },
+          {
+            "word": "be ",
+            "start": 3.426,
+            "end": 3.513
+          },
+          {
+            "word": "for ",
+            "start": 3.523,
+            "end": 3.665
+          },
+          {
+            "word": "every ",
+            "start": 3.676,
+            "end": 3.871
+          },
+          {
+            "word": "crisis ",
+            "start": 3.882,
+            "end": 4.295
+          },
+          {
+            "word": "in ",
+            "start": 4.306,
+            "end": 4.415
+          },
+          {
+            "word": "this ",
+            "start": 4.426,
+            "end": 4.567
+          },
+          {
+            "word": "series. ",
+            "start": 4.578,
+            "end": 5.056
+          },
+          {
+            "word": "On ",
+            "start": 5.8,
+            "end": 5.984
+          },
+          {
+            "word": "the ",
+            "start": 5.995,
+            "end": 6.06
+          },
+          {
+            "word": "positive ",
+            "start": 6.071,
+            "end": 6.419
+          },
+          {
+            "word": "side: ",
+            "start": 6.43,
+            "end": 6.789
+          },
+          {
+            "word": "the ",
+            "start": 6.952,
+            "end": 7.028
+          },
+          {
+            "word": "Federal ",
+            "start": 7.039,
+            "end": 7.343
+          },
+          {
+            "word": "Deposit ",
+            "start": 7.354,
+            "end": 7.745
+          },
+          {
+            "word": "Insurance ",
+            "start": 7.756,
+            "end": 8.191
+          },
+          {
+            "word": "Corporation ",
+            "start": 8.202,
+            "end": 8.745
+          },
+          {
+            "word": "ended ",
+            "start": 8.756,
+            "end": 9.017
+          },
+          {
+            "word": "bank ",
+            "start": 9.028,
+            "end": 9.267
+          },
+          {
+            "word": "runs ",
+            "start": 9.278,
+            "end": 9.56
+          },
+          {
+            "word": "as ",
+            "start": 9.571,
+            "end": 9.669
+          },
+          {
+            "word": "a ",
+            "start": 9.68,
+            "end": 9.723
+          },
+          {
+            "word": "feature ",
+            "start": 9.734,
+            "end": 10.093
+          },
+          {
+            "word": "of ",
+            "start": 10.104,
+            "end": 10.202
+          },
+          {
+            "word": "American ",
+            "start": 10.213,
+            "end": 10.604
+          },
+          {
+            "word": "economic ",
+            "start": 10.615,
+            "end": 11.071
+          },
+          {
+            "word": "life.",
+            "start": 11.082,
+            "end": 11.473
+          }
+        ],
         "start": 90
       },
       {
         "type": "quote",
         "chunk_id": "ep1_results_1",
         "audio_exists": true,
+        "audioPath": "episodes/ep1/audio/ep1_results_1.wav",
         "text": "The Securities and Exchange Commission created a regulated capital market. Social Security introduced an automatic stabiliser that would cushion every subsequent recession.",
-        "duration": 321,
-        "bgImage": "bg_abstract.jpg",
-        "wordTimings": null,
-        "start": 525
+        "duration": 296,
+        "bgImage": "bg_wallstreet.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.241
+          },
+          {
+            "word": "Securities ",
+            "start": 0.252,
+            "end": 0.849
+          },
+          {
+            "word": "and ",
+            "start": 0.86,
+            "end": 0.926
+          },
+          {
+            "word": "Exchange ",
+            "start": 0.936,
+            "end": 1.36
+          },
+          {
+            "word": "Commission ",
+            "start": 1.371,
+            "end": 1.741
+          },
+          {
+            "word": "created ",
+            "start": 1.752,
+            "end": 2.121
+          },
+          {
+            "word": "a ",
+            "start": 2.132,
+            "end": 2.176
+          },
+          {
+            "word": "regulated ",
+            "start": 2.186,
+            "end": 2.719
+          },
+          {
+            "word": "capital ",
+            "start": 2.73,
+            "end": 3.11
+          },
+          {
+            "word": "market. ",
+            "start": 3.121,
+            "end": 3.578
+          },
+          {
+            "word": "Social ",
+            "start": 4.321,
+            "end": 4.702
+          },
+          {
+            "word": "Security ",
+            "start": 4.713,
+            "end": 5.169
+          },
+          {
+            "word": "introduced ",
+            "start": 5.18,
+            "end": 5.691
+          },
+          {
+            "word": "an ",
+            "start": 5.702,
+            "end": 5.799
+          },
+          {
+            "word": "automatic ",
+            "start": 5.81,
+            "end": 6.3
+          },
+          {
+            "word": "stabiliser ",
+            "start": 6.31,
+            "end": 6.865
+          },
+          {
+            "word": "that ",
+            "start": 6.876,
+            "end": 7.017
+          },
+          {
+            "word": "would ",
+            "start": 7.028,
+            "end": 7.147
+          },
+          {
+            "word": "cushion ",
+            "start": 7.158,
+            "end": 7.463
+          },
+          {
+            "word": "every ",
+            "start": 7.473,
+            "end": 7.68
+          },
+          {
+            "word": "subsequent ",
+            "start": 7.691,
+            "end": 8.18
+          },
+          {
+            "word": "recession.",
+            "start": 8.191,
+            "end": 8.691
+          }
+        ],
+        "start": 470
       },
       {
         "type": "quote",
         "chunk_id": "ep1_results_2",
         "audio_exists": true,
+        "audioPath": "episodes/ep1/audio/ep1_results_2.wav",
         "text": "And the Keynesian framework — the idea that governments could and should spend to offset private sector collapse — became the dominant policy paradigm for the next forty years. On the negative side: the human cost was catastrophic and permanent.",
-        "duration": 424,
-        "bgImage": "bg_lifestyle.jpg",
-        "wordTimings": null,
-        "start": 846
+        "duration": 388,
+        "bgImage": "bg_city_night.jpg",
+        "wordTimings": [
+          {
+            "word": "And ",
+            "start": 0.1,
+            "end": 0.252
+          },
+          {
+            "word": "the ",
+            "start": 0.263,
+            "end": 0.328
+          },
+          {
+            "word": "Keynesian ",
+            "start": 0.339,
+            "end": 0.763
+          },
+          {
+            "word": "framework — ",
+            "start": 0.773,
+            "end": 1.284
+          },
+          {
+            "word": "the ",
+            "start": 1.502,
+            "end": 1.599
+          },
+          {
+            "word": "idea ",
+            "start": 1.61,
+            "end": 1.958
+          },
+          {
+            "word": "that ",
+            "start": 1.969,
+            "end": 2.089
+          },
+          {
+            "word": "governments ",
+            "start": 2.1,
+            "end": 2.469
+          },
+          {
+            "word": "could ",
+            "start": 2.48,
+            "end": 2.621
+          },
+          {
+            "word": "and ",
+            "start": 2.632,
+            "end": 2.708
+          },
+          {
+            "word": "should ",
+            "start": 2.719,
+            "end": 2.882
+          },
+          {
+            "word": "spend ",
+            "start": 2.893,
+            "end": 3.143
+          },
+          {
+            "word": "to ",
+            "start": 3.154,
+            "end": 3.208
+          },
+          {
+            "word": "offset ",
+            "start": 3.219,
+            "end": 3.599
+          },
+          {
+            "word": "private ",
+            "start": 3.61,
+            "end": 3.947
+          },
+          {
+            "word": "sector ",
+            "start": 3.958,
+            "end": 4.23
+          },
+          {
+            "word": "collapse — ",
+            "start": 4.241,
+            "end": 4.697
+          },
+          {
+            "word": "became ",
+            "start": 4.871,
+            "end": 5.165
+          },
+          {
+            "word": "the ",
+            "start": 5.176,
+            "end": 5.263
+          },
+          {
+            "word": "dominant ",
+            "start": 5.273,
+            "end": 5.632
+          },
+          {
+            "word": "policy ",
+            "start": 5.643,
+            "end": 5.969
+          },
+          {
+            "word": "paradigm ",
+            "start": 5.98,
+            "end": 6.436
+          },
+          {
+            "word": "for ",
+            "start": 6.447,
+            "end": 6.523
+          },
+          {
+            "word": "the ",
+            "start": 6.534,
+            "end": 6.61
+          },
+          {
+            "word": "next ",
+            "start": 6.621,
+            "end": 6.893
+          },
+          {
+            "word": "forty ",
+            "start": 6.904,
+            "end": 7.197
+          },
+          {
+            "word": "years. ",
+            "start": 7.208,
+            "end": 7.73
+          },
+          {
+            "word": "On ",
+            "start": 8.473,
+            "end": 8.647
+          },
+          {
+            "word": "the ",
+            "start": 8.658,
+            "end": 8.723
+          },
+          {
+            "word": "negative ",
+            "start": 8.734,
+            "end": 9.093
+          },
+          {
+            "word": "side: ",
+            "start": 9.104,
+            "end": 9.441
+          },
+          {
+            "word": "the ",
+            "start": 9.604,
+            "end": 9.669
+          },
+          {
+            "word": "human ",
+            "start": 9.68,
+            "end": 10.017
+          },
+          {
+            "word": "cost ",
+            "start": 10.028,
+            "end": 10.332
+          },
+          {
+            "word": "was ",
+            "start": 10.343,
+            "end": 10.463
+          },
+          {
+            "word": "catastrophic ",
+            "start": 10.473,
+            "end": 11.082
+          },
+          {
+            "word": "and ",
+            "start": 11.093,
+            "end": 11.18
+          },
+          {
+            "word": "permanent.",
+            "start": 11.191,
+            "end": 11.734
+          }
+        ],
+        "start": 766
       },
       {
         "type": "quote",
         "chunk_id": "ep1_results_3",
         "audio_exists": true,
+        "audioPath": "episodes/ep1/audio/ep1_results_3.wav",
         "text": "Historians estimate between five hundred thousand and one million excess deaths during the Depression decade. The Dust Bowl displaced two and a half million people.",
-        "duration": 301,
-        "bgImage": "bg_lifestyle.jpg",
-        "wordTimings": null,
-        "start": 1270
+        "duration": 281,
+        "bgImage": "bg_factory_dark.jpg",
+        "wordTimings": [
+          {
+            "word": "Historians ",
+            "start": 0.1,
+            "end": 0.697
+          },
+          {
+            "word": "estimate ",
+            "start": 0.708,
+            "end": 1.067
+          },
+          {
+            "word": "between ",
+            "start": 1.078,
+            "end": 1.404
+          },
+          {
+            "word": "five ",
+            "start": 1.415,
+            "end": 1.697
+          },
+          {
+            "word": "hundred ",
+            "start": 1.708,
+            "end": 1.969
+          },
+          {
+            "word": "thousand ",
+            "start": 1.98,
+            "end": 2.317
+          },
+          {
+            "word": "and ",
+            "start": 2.328,
+            "end": 2.415
+          },
+          {
+            "word": "one ",
+            "start": 2.426,
+            "end": 2.643
+          },
+          {
+            "word": "million ",
+            "start": 2.654,
+            "end": 2.947
+          },
+          {
+            "word": "excess ",
+            "start": 2.958,
+            "end": 3.252
+          },
+          {
+            "word": "deaths ",
+            "start": 3.263,
+            "end": 3.589
+          },
+          {
+            "word": "during ",
+            "start": 3.6,
+            "end": 3.882
+          },
+          {
+            "word": "the ",
+            "start": 3.893,
+            "end": 3.958
+          },
+          {
+            "word": "Depression ",
+            "start": 3.969,
+            "end": 4.393
+          },
+          {
+            "word": "decade. ",
+            "start": 4.404,
+            "end": 4.893
+          },
+          {
+            "word": "The ",
+            "start": 5.636,
+            "end": 5.789
+          },
+          {
+            "word": "Dust ",
+            "start": 5.8,
+            "end": 6.05
+          },
+          {
+            "word": "Bowl ",
+            "start": 6.06,
+            "end": 6.245
+          },
+          {
+            "word": "displaced ",
+            "start": 6.256,
+            "end": 6.658
+          },
+          {
+            "word": "two ",
+            "start": 6.669,
+            "end": 6.93
+          },
+          {
+            "word": "and ",
+            "start": 6.941,
+            "end": 7.049
+          },
+          {
+            "word": "a ",
+            "start": 7.06,
+            "end": 7.093
+          },
+          {
+            "word": "half ",
+            "start": 7.104,
+            "end": 7.43
+          },
+          {
+            "word": "million ",
+            "start": 7.441,
+            "end": 7.778
+          },
+          {
+            "word": "people.",
+            "start": 7.789,
+            "end": 8.18
+          }
+        ],
+        "start": 1154
       },
       {
         "type": "quote",
         "chunk_id": "ep1_results_4",
         "audio_exists": true,
+        "audioPath": "episodes/ep1/audio/ep1_results_4.wav",
         "text": "The psychological scarring of the Depression generation shaped American savings behaviour and political preferences for the rest of the century. The lesson that was absorbed: banking systems need deposit insurance and regulatory oversight.",
-        "duration": 434,
-        "bgImage": "bg_lifestyle.jpg",
-        "wordTimings": null,
-        "start": 1571
+        "duration": 372,
+        "bgImage": "bg_recovery.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "psychological ",
+            "start": 0.241,
+            "end": 0.882
+          },
+          {
+            "word": "scarring ",
+            "start": 0.893,
+            "end": 1.284
+          },
+          {
+            "word": "of ",
+            "start": 1.295,
+            "end": 1.349
+          },
+          {
+            "word": "the ",
+            "start": 1.36,
+            "end": 1.436
+          },
+          {
+            "word": "Depression ",
+            "start": 1.447,
+            "end": 1.839
+          },
+          {
+            "word": "generation ",
+            "start": 1.85,
+            "end": 2.35
+          },
+          {
+            "word": "shaped ",
+            "start": 2.36,
+            "end": 2.589
+          },
+          {
+            "word": "American ",
+            "start": 2.6,
+            "end": 3.002
+          },
+          {
+            "word": "savings ",
+            "start": 3.013,
+            "end": 3.404
+          },
+          {
+            "word": "behaviour ",
+            "start": 3.415,
+            "end": 3.871
+          },
+          {
+            "word": "and ",
+            "start": 3.882,
+            "end": 4.023
+          },
+          {
+            "word": "political ",
+            "start": 4.034,
+            "end": 4.469
+          },
+          {
+            "word": "preferences ",
+            "start": 4.48,
+            "end": 4.969
+          },
+          {
+            "word": "for ",
+            "start": 4.98,
+            "end": 5.056
+          },
+          {
+            "word": "the ",
+            "start": 5.067,
+            "end": 5.154
+          },
+          {
+            "word": "rest ",
+            "start": 5.165,
+            "end": 5.404
+          },
+          {
+            "word": "of ",
+            "start": 5.415,
+            "end": 5.469
+          },
+          {
+            "word": "the ",
+            "start": 5.48,
+            "end": 5.556
+          },
+          {
+            "word": "century. ",
+            "start": 5.567,
+            "end": 6.002
+          },
+          {
+            "word": "The ",
+            "start": 6.745,
+            "end": 6.865
+          },
+          {
+            "word": "lesson ",
+            "start": 6.876,
+            "end": 7.169
+          },
+          {
+            "word": "that ",
+            "start": 7.18,
+            "end": 7.31
+          },
+          {
+            "word": "was ",
+            "start": 7.321,
+            "end": 7.441
+          },
+          {
+            "word": "absorbed: ",
+            "start": 7.452,
+            "end": 7.897
+          },
+          {
+            "word": "banking ",
+            "start": 8.071,
+            "end": 8.397
+          },
+          {
+            "word": "systems ",
+            "start": 8.408,
+            "end": 8.843
+          },
+          {
+            "word": "need ",
+            "start": 8.854,
+            "end": 9.049
+          },
+          {
+            "word": "deposit ",
+            "start": 9.06,
+            "end": 9.43
+          },
+          {
+            "word": "insurance ",
+            "start": 9.441,
+            "end": 9.919
+          },
+          {
+            "word": "and ",
+            "start": 9.93,
+            "end": 10.039
+          },
+          {
+            "word": "regulatory ",
+            "start": 10.05,
+            "end": 10.636
+          },
+          {
+            "word": "oversight.",
+            "start": 10.647,
+            "end": 11.213
+          }
+        ],
+        "start": 1435
       },
       {
         "type": "quote",
         "chunk_id": "ep1_results_5",
         "audio_exists": true,
+        "audioPath": "episodes/ep1/audio/ep1_results_5.wav",
         "text": "The lesson that was forgotten: the speed of the policy response matters as much as its eventual size. The two years of inaction between 1930 and 1932 turned a financial crisis into a civilisational trauma.",
-        "duration": 411,
-        "bgImage": "bg_demographics.jpg",
-        "wordTimings": null,
-        "start": 2005
+        "duration": 377,
+        "bgImage": "bg_wallstreet.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.219
+          },
+          {
+            "word": "lesson ",
+            "start": 0.23,
+            "end": 0.523
+          },
+          {
+            "word": "that ",
+            "start": 0.534,
+            "end": 0.676
+          },
+          {
+            "word": "was ",
+            "start": 0.686,
+            "end": 0.817
+          },
+          {
+            "word": "forgotten: ",
+            "start": 0.828,
+            "end": 1.23
+          },
+          {
+            "word": "the ",
+            "start": 1.393,
+            "end": 1.48
+          },
+          {
+            "word": "speed ",
+            "start": 1.491,
+            "end": 1.773
+          },
+          {
+            "word": "of ",
+            "start": 1.784,
+            "end": 1.839
+          },
+          {
+            "word": "the ",
+            "start": 1.85,
+            "end": 1.936
+          },
+          {
+            "word": "policy ",
+            "start": 1.947,
+            "end": 2.273
+          },
+          {
+            "word": "response ",
+            "start": 2.284,
+            "end": 2.708
+          },
+          {
+            "word": "matters ",
+            "start": 2.719,
+            "end": 3.067
+          },
+          {
+            "word": "as ",
+            "start": 3.078,
+            "end": 3.186
+          },
+          {
+            "word": "much ",
+            "start": 3.197,
+            "end": 3.393
+          },
+          {
+            "word": "as ",
+            "start": 3.404,
+            "end": 3.48
+          },
+          {
+            "word": "its ",
+            "start": 3.491,
+            "end": 3.61
+          },
+          {
+            "word": "eventual ",
+            "start": 3.621,
+            "end": 4.056
+          },
+          {
+            "word": "size. ",
+            "start": 4.067,
+            "end": 4.589
+          },
+          {
+            "word": "The ",
+            "start": 5.332,
+            "end": 5.473
+          },
+          {
+            "word": "two ",
+            "start": 5.484,
+            "end": 5.713
+          },
+          {
+            "word": "years ",
+            "start": 5.723,
+            "end": 6.006
+          },
+          {
+            "word": "of ",
+            "start": 6.017,
+            "end": 6.071
+          },
+          {
+            "word": "inaction ",
+            "start": 6.082,
+            "end": 6.463
+          },
+          {
+            "word": "between 1930 and 1932 ",
+            "start": 6.473,
+            "end": 8.604
+          },
+          {
+            "word": "turned ",
+            "start": 8.615,
+            "end": 8.865
+          },
+          {
+            "word": "a ",
+            "start": 8.876,
+            "end": 8.919
+          },
+          {
+            "word": "financial ",
+            "start": 8.93,
+            "end": 9.452
+          },
+          {
+            "word": "crisis ",
+            "start": 9.463,
+            "end": 9.821
+          },
+          {
+            "word": "into ",
+            "start": 9.832,
+            "end": 10.082
+          },
+          {
+            "word": "a ",
+            "start": 10.093,
+            "end": 10.147
+          },
+          {
+            "word": "civilisational ",
+            "start": 10.158,
+            "end": 10.963
+          },
+          {
+            "word": "trauma.",
+            "start": 10.973,
+            "end": 11.386
+          }
+        ],
+        "start": 1807
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep1_results_6",
+        "audio_exists": true,
+        "audioPath": "episodes/ep1/audio/ep1_results_6.wav",
+        "text": "The Fed's ultimate failure in the Depression was inseparable from its institutional origins in the Panic of 1907 (Episode 3). The institution J.P. Morgan made necessary through his personal indispensability was still learning, in 1929, how to perform the function it had been built to fulfil. Crises create institutions. Institutions take generations to master their mandates.",
+        "duration": 675,
+        "bgImage": "bg_city_night.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.219
+          },
+          {
+            "word": "Fed's ",
+            "start": 0.23,
+            "end": 0.48
+          },
+          {
+            "word": "ultimate ",
+            "start": 0.491,
+            "end": 0.828
+          },
+          {
+            "word": "failure ",
+            "start": 0.839,
+            "end": 1.186
+          },
+          {
+            "word": "in ",
+            "start": 1.197,
+            "end": 1.284
+          },
+          {
+            "word": "the ",
+            "start": 1.295,
+            "end": 1.371
+          },
+          {
+            "word": "Depression ",
+            "start": 1.382,
+            "end": 1.839
+          },
+          {
+            "word": "was ",
+            "start": 1.85,
+            "end": 1.969
+          },
+          {
+            "word": "inseparable ",
+            "start": 1.98,
+            "end": 2.523
+          },
+          {
+            "word": "from ",
+            "start": 2.534,
+            "end": 2.676
+          },
+          {
+            "word": "its ",
+            "start": 2.686,
+            "end": 2.795
+          },
+          {
+            "word": "institutional ",
+            "start": 2.806,
+            "end": 3.469
+          },
+          {
+            "word": "origins ",
+            "start": 3.48,
+            "end": 3.893
+          },
+          {
+            "word": "in ",
+            "start": 3.904,
+            "end": 3.969
+          },
+          {
+            "word": "the ",
+            "start": 3.98,
+            "end": 4.056
+          },
+          {
+            "word": "Panic ",
+            "start": 4.067,
+            "end": 4.328
+          },
+          {
+            "word": "of ",
+            "start": 4.339,
+            "end": 4.426
+          },
+          {
+            "word": "1907 (",
+            "start": 4.436,
+            "end": 5.328
+          },
+          {
+            "word": "Episode ",
+            "start": 5.48,
+            "end": 5.839
+          },
+          {
+            "word": "3). ",
+            "start": 5.85,
+            "end": 6.241
+          },
+          {
+            "word": "The ",
+            "start": 6.984,
+            "end": 7.115
+          },
+          {
+            "word": "institution ",
+            "start": 7.126,
+            "end": 7.767
+          },
+          {
+            "word": "J.P. ",
+            "start": 7.778,
+            "end": 8.104
+          },
+          {
+            "word": "Morgan ",
+            "start": 8.115,
+            "end": 8.484
+          },
+          {
+            "word": "made ",
+            "start": 8.495,
+            "end": 8.691
+          },
+          {
+            "word": "necessary ",
+            "start": 8.702,
+            "end": 9.191
+          },
+          {
+            "word": "through ",
+            "start": 9.202,
+            "end": 9.397
+          },
+          {
+            "word": "his ",
+            "start": 9.408,
+            "end": 9.56
+          },
+          {
+            "word": "personal ",
+            "start": 9.571,
+            "end": 9.952
+          },
+          {
+            "word": "indispensability ",
+            "start": 9.963,
+            "end": 10.734
+          },
+          {
+            "word": "was ",
+            "start": 10.745,
+            "end": 10.886
+          },
+          {
+            "word": "still ",
+            "start": 10.897,
+            "end": 11.147
+          },
+          {
+            "word": "learning, ",
+            "start": 11.158,
+            "end": 11.506
+          },
+          {
+            "word": "in 1929, ",
+            "start": 11.756,
+            "end": 12.832
+          },
+          {
+            "word": "how ",
+            "start": 13.104,
+            "end": 13.191
+          },
+          {
+            "word": "to ",
+            "start": 13.202,
+            "end": 13.31
+          },
+          {
+            "word": "perform ",
+            "start": 13.321,
+            "end": 13.658
+          },
+          {
+            "word": "the ",
+            "start": 13.669,
+            "end": 13.734
+          },
+          {
+            "word": "function ",
+            "start": 13.745,
+            "end": 14.093
+          },
+          {
+            "word": "it ",
+            "start": 14.104,
+            "end": 14.18
+          },
+          {
+            "word": "had ",
+            "start": 14.191,
+            "end": 14.321
+          },
+          {
+            "word": "been ",
+            "start": 14.332,
+            "end": 14.463
+          },
+          {
+            "word": "built ",
+            "start": 14.473,
+            "end": 14.691
+          },
+          {
+            "word": "to ",
+            "start": 14.702,
+            "end": 14.767
+          },
+          {
+            "word": "fulfil. ",
+            "start": 14.778,
+            "end": 15.278
+          },
+          {
+            "word": "Crises ",
+            "start": 16.028,
+            "end": 16.463
+          },
+          {
+            "word": "create ",
+            "start": 16.473,
+            "end": 16.821
+          },
+          {
+            "word": "institutions. ",
+            "start": 16.832,
+            "end": 17.723
+          },
+          {
+            "word": "Institutions ",
+            "start": 18.473,
+            "end": 19.223
+          },
+          {
+            "word": "take ",
+            "start": 19.234,
+            "end": 19.452
+          },
+          {
+            "word": "generations ",
+            "start": 19.463,
+            "end": 20.049
+          },
+          {
+            "word": "to ",
+            "start": 20.06,
+            "end": 20.158
+          },
+          {
+            "word": "master ",
+            "start": 20.169,
+            "end": 20.517
+          },
+          {
+            "word": "their ",
+            "start": 20.528,
+            "end": 20.669
+          },
+          {
+            "word": "mandates.",
+            "start": 20.68,
+            "end": 21.31
+          }
+        ],
+        "start": 2184
       }
     ]
   },
   {
     "id": "credits",
     "title": "Credits",
-    "globalStart": 11273,
-    "duration": 1375,
+    "globalStart": 10306,
+    "duration": 440,
     "subSlides": [
       {
         "type": "credits",
         "start": 0,
-        "duration": 1375,
+        "duration": 440,
         "audioSrc": "audio/outro_narration.wav"
       }
     ]

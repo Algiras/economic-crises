@@ -1,10 +1,31 @@
 [
   {
     "id": "intro_narration",
-    "text": "Every major economic crisis of the past century was, in the months before it happened, declared impossible by the people responsible for preventing it.\n\nIn 1928, the president of the New York Federal Reserve declared the system beyond the reach of money panics. The following year, nine thousand banks failed. In 2007, the Treasury Secretary said the housing market had largely stabilised. The following year, eleven trillion dollars in household wealth was destroyed. In 2021, the Chair of the Federal Reserve called inflation transitory. The following year, it hit a forty-year high.\n\nThis is Economic Crises Explained. Six episodes. Six crises. A century of economic management — its successes, its failures, and the human cost of both."
+    "text": "Three hundred years. Seventeen crises. Each one came with warnings nobody wanted to hear.\n\nThis is Economic Crises Explained."
   },
   {
+    "id": "series_overview",
+    "text": "We begin in 1720 with the South Sea Bubble — the first great financial mania of the modern era — and follow the wreckage forward: through hyperinflation and depression, through lost decades and debt crises, all the way to the crash of 2008 and the inflation shock of 2021.\n\nFor every crisis, the same four questions: what lit the fuse, why no one stopped it, how governments responded, and what it ultimately cost. The answers are almost never comfortable.\n\nSeventeen episodes. Three hundred years. One argument that history has been making the whole time."
+  },
+  { "id": "ep1_intro",  "text": "This is Economic Crises Explained. Episode five — The Great Depression." },
+  { "id": "ep2_intro",  "text": "Welcome back to Economic Crises Explained. Episode six — The 1970s Stagflation." },
+  { "id": "ep3_intro",  "text": "Welcome back to Economic Crises Explained. Episode ten — The Asian Financial Crisis." },
+  { "id": "ep4_intro",  "text": "Welcome back to Economic Crises Explained. Episode fourteen — The Global Financial Crisis." },
+  { "id": "ep5_intro",  "text": "Welcome back to Economic Crises Explained. Episode sixteen — The COVID-19 Economic Shock." },
+  { "id": "ep6_intro",  "text": "This is Economic Crises Explained. Episode seventeen — The Great Inflation." },
+  { "id": "ep7_intro",  "text": "Welcome back to Economic Crises Explained. Episode four — The Weimar Hyperinflation." },
+  { "id": "ep8_intro",  "text": "This is Economic Crises Explained. Episode nine — The Japanese Lost Decade." },
+  { "id": "ep9_intro",  "text": "This is Economic Crises Explained. Episode eleven — The LTCM Collapse." },
+  { "id": "ep10_intro", "text": "Welcome back to Economic Crises Explained. Episode fifteen — The Eurozone Debt Crisis." },
+  { "id": "ep11_intro", "text": "This is Economic Crises Explained. Episode three — The Panic of 1907." },
+  { "id": "ep12_intro", "text": "This is Economic Crises Explained. Episode seven — The Latin American Debt Crisis." },
+  { "id": "ep13_intro", "text": "Welcome back to Economic Crises Explained. Episode eight — Black Monday." },
+  { "id": "ep14_intro", "text": "Welcome back to Economic Crises Explained. Episode twelve — The Dot-com Crash." },
+  { "id": "ep15_intro", "text": "This is Economic Crises Explained. Episode thirteen — The Argentine Crisis." },
+  { "id": "ep16_intro", "text": "Welcome back to Economic Crises Explained. Episode two — The Long Depression." },
+  { "id": "ep17_intro", "text": "This is Economic Crises Explained. Episode one — The South Sea Bubble." },
+  {
     "id": "outro_narration",
-    "text": "Six crises. Six different triggers. Six different responses. And running through all of them, the same recurring pattern: confident predictions proved wrong, policy frameworks revealed as inadequate, and the costs distributed to those least able to absorb them.\n\nThe lesson of a century of economic management is not that intervention fails, or that markets are self-correcting, or that any particular school of economics has the answers. It is that economies are more complex than our models of them, that the knowledge required to manage them perfectly is permanently unavailable, and that the honest acknowledgment of that uncertainty is the beginning of wisdom.\n\nEconomic Crises Explained. 2026."
+    "text": "The patterns repeat. The faces change. The cost is always borne by those who had no say.\n\nEconomic Crises Explained. 2026."
   }
 ]

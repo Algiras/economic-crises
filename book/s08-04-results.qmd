@@ -1,0 +1,29 @@
+# The Results
+
+## The Dog That Did Not Bark
+
+The most striking result of Black Monday was what did not happen. The feared recession did not materialize. Consumer confidence dipped in October and November 1987 but recovered quickly. Business investment continued growing. Employment held. The American economy grew by three point five percent in 1988. The recession that historical precedent suggested should follow a twenty-two percent single-day market decline — the 1929 crash, after all, had presaged the Great Depression — did not arrive.
+
+The reasons for this non-event illuminate what determines whether a financial market crash becomes a macroeconomic catastrophe. The 1929 crash had spread to the banking system through a sequence of failures: banks had lent against stock collateral, collateral values had fallen, loans had soured, banks had failed, deposits had been destroyed, credit had contracted, and businesses unable to borrow had contracted production and employment. In 1987, the Fed's rapid intervention broke this chain at its second link: by ensuring that the banking system remained liquid and that credit continued to flow to solvent institutions, it prevented the stock market crash from becoming a credit crisis. The stock prices had fallen. The credit system had not.
+
+This outcome was not inevitable. It was the product of a specific decision, made under extreme pressure, by an institution with the capacity and the mandate to act. The performance of the Fed in October 1987 became a benchmark — consciously referenced by subsequent central bankers — for how to manage financial market crises.
+
+## The Greenspan Put
+
+Black Monday established what financial markets would come to call the "Greenspan put" — the expectation that the Federal Reserve would intervene to stabilize financial markets when they faced severe stress. The name derived from options terminology: a "put" is a financial instrument that protects the holder against losses below a specified price. The "Greenspan put" was the market's perception that the Fed provided an implicit insurance policy against catastrophic market declines.
+
+This expectation had consequences that were not immediately visible but would compound over the following two decades. If investors believed that the Fed would cushion downturns, the perceived risk of holding equities and other risky assets was reduced. Reduced perceived risk justified higher valuations. Higher valuations increased the economy's sensitivity to asset price movements. And the implicit Fed backstop reduced the cost of risk-taking, encouraging more of it.
+
+The moral hazard created by the Greenspan put was not immediately apparent in 1988. It became visible, incrementally, in each subsequent episode: the LTCM rescue of 1998, the rate cuts after the dot-com crash of 2000–2001, the extended period of low rates through 2004 that inflated the housing bubble. Each intervention solved the immediate problem while creating the conditions — through moral hazard, through the asset price inflation that loose money produced, through the expectations of future intervention that each rescue reinforced — for the next one.
+
+## Circuit Breakers and Their Limits
+
+The structural reforms implemented after 1987 addressed the specific failure modes of Black Monday with reasonable effectiveness. Circuit breakers have been triggered on multiple occasions since their implementation — most dramatically during the COVID pandemic crash in March 2020, when circuit breakers halted trading several times over several days — and have generally succeeded in providing brief pauses during which selling pressure could be assessed rather than mechanically amplified.
+
+But circuit breakers are a regulatory patch on a structural vulnerability that continues to evolve. Every generation of financial technology creates new potential feedback loops between markets: high-frequency trading algorithms, volatility-targeting strategies, risk parity funds, and ETF arbitrage mechanisms all create potential for rapid, correlated selling during market stress. The specific mechanism of 1987 — portfolio insurance selling through index futures — was constrained by regulatory reform. The underlying dynamic — strategies that individually appear to manage risk but collectively amplify it — has been reproduced in different forms with each new generation of financial innovation.
+
+## The Greenspan Template
+
+Alan Greenspan's response to Black Monday established a template that he would apply repeatedly over his eighteen-year tenure as Federal Reserve chairman: rapid liquidity provision during financial market stress, followed by sustained accommodative monetary policy to support recovery, followed by gradual normalization as conditions stabilized. The template worked in 1987. It worked after the LTCM crisis in 1998. It worked after the dot-com crash in 2001–2002.
+
+What it created, in each application, was a lower threshold of expected return required by investors — because the risk of catastrophic loss appeared insured by the Fed — and a cycle of monetary accommodation that, over time, inflated successive asset bubbles. The credibility that Volcker had built by demonstrating the Fed's willingness to bear the short-term costs of anti-inflation policy was deployed by Greenspan in a different direction: demonstrating the Fed's willingness to bear the long-term costs of asset price inflation to avoid short-term financial crises. Each success made the next crisis larger.

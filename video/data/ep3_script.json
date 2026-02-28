@@ -3,377 +3,4682 @@
     "id": "intro",
     "title": "Intro",
     "globalStart": 0,
-    "duration": 1421,
+    "duration": 204,
+    "episode": 10,
+    "episodeMeta": {
+      "title": "The Asian Financial Crisis",
+      "subtitle": "1997–1998"
+    },
     "subSlides": [
       {
         "type": "intro",
         "start": 0,
-        "duration": 1421,
-        "audioSrc": "audio/intro_narration.wav"
+        "duration": 204,
+        "audioSrc": "episodes/ep3/intro.wav"
       }
-    ],
-    "episode": 3,
-    "episodeMeta": {
-      "title": "The Asian Financial Crisis",
-      "subtitle": "1997–1998"
-    }
+    ]
   },
   {
     "id": "ep3_event",
-    "title": "Episode 3 · Event",
-    "globalStart": 1421,
-    "duration": 2672,
+    "title": "Event",
+    "globalStart": 204,
+    "duration": 2592,
     "subSlides": [
       {
         "type": "bumper",
         "start": 0,
         "duration": 90,
-        "title": "Episode 3 · Event"
+        "title": "Event"
       },
       {
         "type": "quote",
         "chunk_id": "ep3_event_0",
         "audio_exists": true,
+        "audioPath": "episodes/ep3/audio/ep3_event_0.wav",
         "text": "On July 2, 1997, Thailand abandoned its currency peg to the US dollar. The baht fell fifteen percent in a single day and would eventually lose forty percent of its value.",
-        "duration": 345,
-        "bgImage": "bg_abstract.jpg",
-        "wordTimings": null,
+        "duration": 333,
+        "bgImage": "bg_asia_skyline.jpg",
+        "wordTimings": [
+          {
+            "word": "On ",
+            "start": 0.1,
+            "end": 0.284
+          },
+          {
+            "word": "July 2, 1997, ",
+            "start": 0.295,
+            "end": 2.165
+          },
+          {
+            "word": "Thailand ",
+            "start": 2.36,
+            "end": 2.719
+          },
+          {
+            "word": "abandoned ",
+            "start": 2.73,
+            "end": 3.11
+          },
+          {
+            "word": "its ",
+            "start": 3.121,
+            "end": 3.23
+          },
+          {
+            "word": "currency ",
+            "start": 3.241,
+            "end": 3.621
+          },
+          {
+            "word": "peg ",
+            "start": 3.632,
+            "end": 3.893
+          },
+          {
+            "word": "to ",
+            "start": 3.904,
+            "end": 3.98
+          },
+          {
+            "word": "the ",
+            "start": 3.991,
+            "end": 4.056
+          },
+          {
+            "word": "US ",
+            "start": 4.067,
+            "end": 4.458
+          },
+          {
+            "word": "dollar. ",
+            "start": 4.469,
+            "end": 4.806
+          },
+          {
+            "word": "The ",
+            "start": 5.55,
+            "end": 5.68
+          },
+          {
+            "word": "baht ",
+            "start": 5.691,
+            "end": 5.908
+          },
+          {
+            "word": "fell ",
+            "start": 5.919,
+            "end": 6.147
+          },
+          {
+            "word": "fifteen ",
+            "start": 6.158,
+            "end": 6.571
+          },
+          {
+            "word": "percent ",
+            "start": 6.582,
+            "end": 6.93
+          },
+          {
+            "word": "in ",
+            "start": 6.941,
+            "end": 7.017
+          },
+          {
+            "word": "a ",
+            "start": 7.028,
+            "end": 7.071
+          },
+          {
+            "word": "single ",
+            "start": 7.082,
+            "end": 7.386
+          },
+          {
+            "word": "day ",
+            "start": 7.397,
+            "end": 7.647
+          },
+          {
+            "word": "and ",
+            "start": 7.658,
+            "end": 7.756
+          },
+          {
+            "word": "would ",
+            "start": 7.767,
+            "end": 7.876
+          },
+          {
+            "word": "eventually ",
+            "start": 7.886,
+            "end": 8.299
+          },
+          {
+            "word": "lose ",
+            "start": 8.31,
+            "end": 8.593
+          },
+          {
+            "word": "forty ",
+            "start": 8.604,
+            "end": 8.919
+          },
+          {
+            "word": "percent ",
+            "start": 8.93,
+            "end": 9.267
+          },
+          {
+            "word": "of ",
+            "start": 9.278,
+            "end": 9.343
+          },
+          {
+            "word": "its ",
+            "start": 9.354,
+            "end": 9.484
+          },
+          {
+            "word": "value.",
+            "start": 9.495,
+            "end": 9.908
+          }
+        ],
         "start": 90
       },
       {
         "type": "quote",
         "chunk_id": "ep3_event_1",
         "audio_exists": true,
+        "audioPath": "episodes/ep3/audio/ep3_event_1.wav",
         "text": "What happened next was not predicted by any major financial institution, economic model, or government — including the governments of the countries about to be devastated.",
-        "duration": 316,
-        "bgImage": "bg_demographics.jpg",
-        "wordTimings": null,
-        "start": 435
+        "duration": 267,
+        "bgImage": "bg_currency_trade.jpg",
+        "wordTimings": [
+          {
+            "word": "What ",
+            "start": 0.1,
+            "end": 0.284
+          },
+          {
+            "word": "happened ",
+            "start": 0.295,
+            "end": 0.545
+          },
+          {
+            "word": "next ",
+            "start": 0.556,
+            "end": 0.828
+          },
+          {
+            "word": "was ",
+            "start": 0.839,
+            "end": 0.958
+          },
+          {
+            "word": "not ",
+            "start": 0.969,
+            "end": 1.143
+          },
+          {
+            "word": "predicted ",
+            "start": 1.154,
+            "end": 1.545
+          },
+          {
+            "word": "by ",
+            "start": 1.556,
+            "end": 1.697
+          },
+          {
+            "word": "any ",
+            "start": 1.708,
+            "end": 1.882
+          },
+          {
+            "word": "major ",
+            "start": 1.893,
+            "end": 2.197
+          },
+          {
+            "word": "financial ",
+            "start": 2.208,
+            "end": 2.73
+          },
+          {
+            "word": "institution, ",
+            "start": 2.741,
+            "end": 3.349
+          },
+          {
+            "word": "economic ",
+            "start": 3.556,
+            "end": 3.991
+          },
+          {
+            "word": "model, ",
+            "start": 4.002,
+            "end": 4.263
+          },
+          {
+            "word": "or ",
+            "start": 4.436,
+            "end": 4.545
+          },
+          {
+            "word": "government — ",
+            "start": 4.556,
+            "end": 4.969
+          },
+          {
+            "word": "including ",
+            "start": 5.165,
+            "end": 5.534
+          },
+          {
+            "word": "the ",
+            "start": 5.545,
+            "end": 5.621
+          },
+          {
+            "word": "governments ",
+            "start": 5.632,
+            "end": 6.023
+          },
+          {
+            "word": "of ",
+            "start": 6.034,
+            "end": 6.099
+          },
+          {
+            "word": "the ",
+            "start": 6.11,
+            "end": 6.186
+          },
+          {
+            "word": "countries ",
+            "start": 6.197,
+            "end": 6.61
+          },
+          {
+            "word": "about ",
+            "start": 6.621,
+            "end": 6.85
+          },
+          {
+            "word": "to ",
+            "start": 6.86,
+            "end": 6.915
+          },
+          {
+            "word": "be ",
+            "start": 6.926,
+            "end": 7.023
+          },
+          {
+            "word": "devastated.",
+            "start": 7.034,
+            "end": 7.708
+          }
+        ],
+        "start": 423
       },
       {
         "type": "quote",
         "chunk_id": "ep3_event_2",
         "audio_exists": true,
+        "audioPath": "episodes/ep3/audio/ep3_event_2.wav",
         "text": "For more than a decade, Southeast Asia had been the economic success story of the era. Thailand averaged nine percent growth from 1985 to 1995. Malaysia, Indonesia, the Philippines — all posting similar numbers. Foreign capital poured in.",
-        "duration": 488,
-        "bgImage": "bg_abstract.jpg",
-        "wordTimings": null,
-        "start": 751
+        "duration": 493,
+        "bgImage": "bg_global_map.jpg",
+        "wordTimings": [
+          {
+            "word": "For ",
+            "start": 0.1,
+            "end": 0.252
+          },
+          {
+            "word": "more ",
+            "start": 0.263,
+            "end": 0.426
+          },
+          {
+            "word": "than ",
+            "start": 0.436,
+            "end": 0.567
+          },
+          {
+            "word": "a ",
+            "start": 0.578,
+            "end": 0.632
+          },
+          {
+            "word": "decade, ",
+            "start": 0.643,
+            "end": 1.045
+          },
+          {
+            "word": "Southeast ",
+            "start": 1.197,
+            "end": 1.665
+          },
+          {
+            "word": "Asia ",
+            "start": 1.676,
+            "end": 1.904
+          },
+          {
+            "word": "had ",
+            "start": 1.915,
+            "end": 2.078
+          },
+          {
+            "word": "been ",
+            "start": 2.089,
+            "end": 2.23
+          },
+          {
+            "word": "the ",
+            "start": 2.241,
+            "end": 2.317
+          },
+          {
+            "word": "economic ",
+            "start": 2.328,
+            "end": 2.773
+          },
+          {
+            "word": "success ",
+            "start": 2.784,
+            "end": 3.165
+          },
+          {
+            "word": "story ",
+            "start": 3.176,
+            "end": 3.502
+          },
+          {
+            "word": "of ",
+            "start": 3.513,
+            "end": 3.589
+          },
+          {
+            "word": "the ",
+            "start": 3.6,
+            "end": 3.686
+          },
+          {
+            "word": "era. ",
+            "start": 3.697,
+            "end": 4.067
+          },
+          {
+            "word": "Thailand ",
+            "start": 4.81,
+            "end": 5.191
+          },
+          {
+            "word": "averaged ",
+            "start": 5.202,
+            "end": 5.593
+          },
+          {
+            "word": "nine ",
+            "start": 5.604,
+            "end": 5.81
+          },
+          {
+            "word": "percent ",
+            "start": 5.821,
+            "end": 6.136
+          },
+          {
+            "word": "growth ",
+            "start": 6.147,
+            "end": 6.43
+          },
+          {
+            "word": "from 1985 to 1995. ",
+            "start": 6.441,
+            "end": 8.745
+          },
+          {
+            "word": "Malaysia, ",
+            "start": 9.495,
+            "end": 10.039
+          },
+          {
+            "word": "Indonesia, ",
+            "start": 10.289,
+            "end": 10.832
+          },
+          {
+            "word": "the ",
+            "start": 11.017,
+            "end": 11.093
+          },
+          {
+            "word": "Philippines — ",
+            "start": 11.104,
+            "end": 11.68
+          },
+          {
+            "word": "all ",
+            "start": 11.876,
+            "end": 12.039
+          },
+          {
+            "word": "posting ",
+            "start": 12.05,
+            "end": 12.441
+          },
+          {
+            "word": "similar ",
+            "start": 12.452,
+            "end": 12.778
+          },
+          {
+            "word": "numbers. ",
+            "start": 12.789,
+            "end": 13.256
+          },
+          {
+            "word": "Foreign ",
+            "start": 14.006,
+            "end": 14.365
+          },
+          {
+            "word": "capital ",
+            "start": 14.376,
+            "end": 14.756
+          },
+          {
+            "word": "poured ",
+            "start": 14.767,
+            "end": 15.028
+          },
+          {
+            "word": "in.",
+            "start": 15.039,
+            "end": 15.267
+          }
+        ],
+        "start": 690
       },
       {
         "type": "quote",
         "chunk_id": "ep3_event_3",
         "audio_exists": true,
+        "audioPath": "episodes/ep3/audio/ep3_event_3.wav",
         "text": "Ninety-three billion dollars in private capital flows reached Asia in 1996 alone. The vulnerabilities were hidden beneath the growth figures.",
-        "duration": 282,
-        "bgImage": "bg_toxicology.jpg",
-        "wordTimings": null,
-        "start": 1239
+        "duration": 267,
+        "bgImage": "bg_city_night.jpg",
+        "wordTimings": [
+          {
+            "word": "Ninety-three ",
+            "start": 0.1,
+            "end": 0.719
+          },
+          {
+            "word": "billion ",
+            "start": 0.73,
+            "end": 1.067
+          },
+          {
+            "word": "dollars ",
+            "start": 1.078,
+            "end": 1.371
+          },
+          {
+            "word": "in ",
+            "start": 1.382,
+            "end": 1.491
+          },
+          {
+            "word": "private ",
+            "start": 1.502,
+            "end": 1.849
+          },
+          {
+            "word": "capital ",
+            "start": 1.86,
+            "end": 2.219
+          },
+          {
+            "word": "flows ",
+            "start": 2.23,
+            "end": 2.556
+          },
+          {
+            "word": "reached ",
+            "start": 2.567,
+            "end": 2.85
+          },
+          {
+            "word": "Asia ",
+            "start": 2.86,
+            "end": 3.132
+          },
+          {
+            "word": "in 1996 ",
+            "start": 3.143,
+            "end": 4.219
+          },
+          {
+            "word": "alone. ",
+            "start": 4.23,
+            "end": 4.654
+          },
+          {
+            "word": "The ",
+            "start": 5.397,
+            "end": 5.517
+          },
+          {
+            "word": "vulnerabilities ",
+            "start": 5.528,
+            "end": 6.202
+          },
+          {
+            "word": "were ",
+            "start": 6.213,
+            "end": 6.289
+          },
+          {
+            "word": "hidden ",
+            "start": 6.3,
+            "end": 6.55
+          },
+          {
+            "word": "beneath ",
+            "start": 6.56,
+            "end": 6.897
+          },
+          {
+            "word": "the ",
+            "start": 6.908,
+            "end": 6.995
+          },
+          {
+            "word": "growth ",
+            "start": 7.006,
+            "end": 7.278
+          },
+          {
+            "word": "figures.",
+            "start": 7.289,
+            "end": 7.745
+          }
+        ],
+        "start": 1183
       },
       {
         "type": "quote",
         "chunk_id": "ep3_event_4",
         "audio_exists": true,
+        "audioPath": "episodes/ep3/audio/ep3_event_4.wav",
         "text": "Banks were borrowing short-term in dollars and lending long-term in local currencies — a double mismatch of maturity and denomination. Property markets were overextended. Corporate debt-to-equity ratios were unsustainable.",
-        "duration": 417,
-        "bgImage": "bg_abstract.jpg",
-        "wordTimings": null,
-        "start": 1521
+        "duration": 392,
+        "bgImage": "bg_asia_skyline.jpg",
+        "wordTimings": [
+          {
+            "word": "Banks ",
+            "start": 0.1,
+            "end": 0.415
+          },
+          {
+            "word": "were ",
+            "start": 0.426,
+            "end": 0.513
+          },
+          {
+            "word": "borrowing ",
+            "start": 0.523,
+            "end": 0.958
+          },
+          {
+            "word": "short-term ",
+            "start": 0.969,
+            "end": 1.436
+          },
+          {
+            "word": "in ",
+            "start": 1.447,
+            "end": 1.556
+          },
+          {
+            "word": "dollars ",
+            "start": 1.567,
+            "end": 1.904
+          },
+          {
+            "word": "and ",
+            "start": 1.915,
+            "end": 2.023
+          },
+          {
+            "word": "lending ",
+            "start": 2.034,
+            "end": 2.339
+          },
+          {
+            "word": "long-term ",
+            "start": 2.35,
+            "end": 2.817
+          },
+          {
+            "word": "in ",
+            "start": 2.828,
+            "end": 2.936
+          },
+          {
+            "word": "local ",
+            "start": 2.947,
+            "end": 3.263
+          },
+          {
+            "word": "currencies — ",
+            "start": 3.273,
+            "end": 3.773
+          },
+          {
+            "word": "a ",
+            "start": 3.936,
+            "end": 4.002
+          },
+          {
+            "word": "double ",
+            "start": 4.013,
+            "end": 4.306
+          },
+          {
+            "word": "mismatch ",
+            "start": 4.317,
+            "end": 4.697
+          },
+          {
+            "word": "of ",
+            "start": 4.708,
+            "end": 4.784
+          },
+          {
+            "word": "maturity ",
+            "start": 4.795,
+            "end": 5.284
+          },
+          {
+            "word": "and ",
+            "start": 5.295,
+            "end": 5.404
+          },
+          {
+            "word": "denomination. ",
+            "start": 5.415,
+            "end": 6.121
+          },
+          {
+            "word": "Property ",
+            "start": 6.865,
+            "end": 7.256
+          },
+          {
+            "word": "markets ",
+            "start": 7.267,
+            "end": 7.68
+          },
+          {
+            "word": "were ",
+            "start": 7.691,
+            "end": 7.843
+          },
+          {
+            "word": "overextended. ",
+            "start": 7.854,
+            "end": 8.68
+          },
+          {
+            "word": "Corporate ",
+            "start": 9.43,
+            "end": 9.81
+          },
+          {
+            "word": "debt-to-equity ",
+            "start": 9.821,
+            "end": 10.419
+          },
+          {
+            "word": "ratios ",
+            "start": 10.43,
+            "end": 10.984
+          },
+          {
+            "word": "were ",
+            "start": 10.995,
+            "end": 11.115
+          },
+          {
+            "word": "unsustainable.",
+            "start": 11.126,
+            "end": 11.886
+          }
+        ],
+        "start": 1450
       },
       {
         "type": "quote",
         "chunk_id": "ep3_event_5",
         "audio_exists": true,
+        "audioPath": "episodes/ep3/audio/ep3_event_5.wav",
         "text": "And all of it was held together by currency pegs that, once speculators identified them as unsustainable, could not be defended. The crisis spread with the speed of financial markets. Thailand to the Philippines. The Philippines to Malaysia.",
-        "duration": 418,
-        "bgImage": "bg_lifestyle.jpg",
-        "wordTimings": null,
-        "start": 1938
+        "duration": 439,
+        "bgImage": "bg_currency_trade.jpg",
+        "wordTimings": [
+          {
+            "word": "And ",
+            "start": 0.1,
+            "end": 0.295
+          },
+          {
+            "word": "all ",
+            "start": 0.306,
+            "end": 0.48
+          },
+          {
+            "word": "of ",
+            "start": 0.491,
+            "end": 0.545
+          },
+          {
+            "word": "it ",
+            "start": 0.556,
+            "end": 0.632
+          },
+          {
+            "word": "was ",
+            "start": 0.643,
+            "end": 0.752
+          },
+          {
+            "word": "held ",
+            "start": 0.763,
+            "end": 0.98
+          },
+          {
+            "word": "together ",
+            "start": 0.991,
+            "end": 1.306
+          },
+          {
+            "word": "by ",
+            "start": 1.317,
+            "end": 1.436
+          },
+          {
+            "word": "currency ",
+            "start": 1.447,
+            "end": 1.849
+          },
+          {
+            "word": "pegs ",
+            "start": 1.86,
+            "end": 2.154
+          },
+          {
+            "word": "that, ",
+            "start": 2.165,
+            "end": 2.382
+          },
+          {
+            "word": "once ",
+            "start": 2.578,
+            "end": 2.817
+          },
+          {
+            "word": "speculators ",
+            "start": 2.828,
+            "end": 3.426
+          },
+          {
+            "word": "identified ",
+            "start": 3.436,
+            "end": 4.034
+          },
+          {
+            "word": "them ",
+            "start": 4.045,
+            "end": 4.176
+          },
+          {
+            "word": "as ",
+            "start": 4.186,
+            "end": 4.284
+          },
+          {
+            "word": "unsustainable, ",
+            "start": 4.295,
+            "end": 5.034
+          },
+          {
+            "word": "could ",
+            "start": 5.186,
+            "end": 5.328
+          },
+          {
+            "word": "not ",
+            "start": 5.339,
+            "end": 5.556
+          },
+          {
+            "word": "be ",
+            "start": 5.567,
+            "end": 5.654
+          },
+          {
+            "word": "defended. ",
+            "start": 5.665,
+            "end": 6.197
+          },
+          {
+            "word": "The ",
+            "start": 6.941,
+            "end": 7.071
+          },
+          {
+            "word": "crisis ",
+            "start": 7.082,
+            "end": 7.484
+          },
+          {
+            "word": "spread ",
+            "start": 7.495,
+            "end": 7.789
+          },
+          {
+            "word": "with ",
+            "start": 7.8,
+            "end": 7.886
+          },
+          {
+            "word": "the ",
+            "start": 7.897,
+            "end": 7.963
+          },
+          {
+            "word": "speed ",
+            "start": 7.973,
+            "end": 8.278
+          },
+          {
+            "word": "of ",
+            "start": 8.289,
+            "end": 8.343
+          },
+          {
+            "word": "financial ",
+            "start": 8.354,
+            "end": 8.854
+          },
+          {
+            "word": "markets. ",
+            "start": 8.865,
+            "end": 9.408
+          },
+          {
+            "word": "Thailand ",
+            "start": 10.158,
+            "end": 10.56
+          },
+          {
+            "word": "to ",
+            "start": 10.571,
+            "end": 10.626
+          },
+          {
+            "word": "the ",
+            "start": 10.636,
+            "end": 10.702
+          },
+          {
+            "word": "Philippines. ",
+            "start": 10.713,
+            "end": 11.43
+          },
+          {
+            "word": "The ",
+            "start": 12.18,
+            "end": 12.31
+          },
+          {
+            "word": "Philippines ",
+            "start": 12.321,
+            "end": 12.832
+          },
+          {
+            "word": "to ",
+            "start": 12.843,
+            "end": 12.93
+          },
+          {
+            "word": "Malaysia.",
+            "start": 12.941,
+            "end": 13.463
+          }
+        ],
+        "start": 1842
       },
       {
         "type": "quote",
         "chunk_id": "ep3_event_6",
         "audio_exists": true,
+        "audioPath": "episodes/ep3/audio/ep3_event_6.wav",
         "text": "Malaysia to Indonesia. Indonesia to South Korea. Within six months, economies that had been models of development were negotiating emergency rescue packages.",
-        "duration": 316,
-        "bgImage": "bg_toxicology.jpg",
-        "wordTimings": null,
-        "start": 2356
+        "duration": 311,
+        "bgImage": "bg_global_map.jpg",
+        "wordTimings": [
+          {
+            "word": "Malaysia ",
+            "start": 0.1,
+            "end": 0.589
+          },
+          {
+            "word": "to ",
+            "start": 0.6,
+            "end": 0.697
+          },
+          {
+            "word": "Indonesia. ",
+            "start": 0.708,
+            "end": 1.349
+          },
+          {
+            "word": "Indonesia ",
+            "start": 2.093,
+            "end": 2.691
+          },
+          {
+            "word": "to ",
+            "start": 2.702,
+            "end": 2.799
+          },
+          {
+            "word": "South ",
+            "start": 2.81,
+            "end": 3.082
+          },
+          {
+            "word": "Korea. ",
+            "start": 3.093,
+            "end": 3.549
+          },
+          {
+            "word": "Within ",
+            "start": 4.3,
+            "end": 4.658
+          },
+          {
+            "word": "six ",
+            "start": 4.669,
+            "end": 4.919
+          },
+          {
+            "word": "months, ",
+            "start": 4.93,
+            "end": 5.267
+          },
+          {
+            "word": "economies ",
+            "start": 5.441,
+            "end": 5.865
+          },
+          {
+            "word": "that ",
+            "start": 5.876,
+            "end": 5.984
+          },
+          {
+            "word": "had ",
+            "start": 5.995,
+            "end": 6.093
+          },
+          {
+            "word": "been ",
+            "start": 6.104,
+            "end": 6.234
+          },
+          {
+            "word": "models ",
+            "start": 6.245,
+            "end": 6.539
+          },
+          {
+            "word": "of ",
+            "start": 6.55,
+            "end": 6.615
+          },
+          {
+            "word": "development ",
+            "start": 6.626,
+            "end": 7.06
+          },
+          {
+            "word": "were ",
+            "start": 7.071,
+            "end": 7.158
+          },
+          {
+            "word": "negotiating ",
+            "start": 7.169,
+            "end": 7.799
+          },
+          {
+            "word": "emergency ",
+            "start": 7.81,
+            "end": 8.267
+          },
+          {
+            "word": "rescue ",
+            "start": 8.278,
+            "end": 8.636
+          },
+          {
+            "word": "packages.",
+            "start": 8.647,
+            "end": 9.202
+          }
+        ],
+        "start": 2281
       }
     ]
   },
   {
     "id": "ep3_problems",
-    "title": "Episode 3 · Problems",
-    "globalStart": 4093,
-    "duration": 2828,
+    "title": "Problems",
+    "globalStart": 2796,
+    "duration": 2590,
     "subSlides": [
       {
         "type": "bumper",
         "start": 0,
         "duration": 90,
-        "title": "Episode 3 · Problems"
+        "title": "Problems"
       },
       {
         "type": "quote",
         "chunk_id": "ep3_problems_0",
         "audio_exists": true,
+        "audioPath": "episodes/ep3/audio/ep3_problems_0.wav",
         "text": "The Asian Financial Crisis exposed structural vulnerabilities that capital account liberalisation had concealed rather than resolved. The fundamental problem was a currency mismatch.",
-        "duration": 350,
-        "bgImage": "bg_abstract.jpg",
-        "wordTimings": null,
+        "duration": 308,
+        "bgImage": "bg_currency_trade.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.263
+          },
+          {
+            "word": "Asian ",
+            "start": 0.273,
+            "end": 0.567
+          },
+          {
+            "word": "Financial ",
+            "start": 0.578,
+            "end": 1.078
+          },
+          {
+            "word": "Crisis ",
+            "start": 1.089,
+            "end": 1.469
+          },
+          {
+            "word": "exposed ",
+            "start": 1.48,
+            "end": 1.893
+          },
+          {
+            "word": "structural ",
+            "start": 1.904,
+            "end": 2.415
+          },
+          {
+            "word": "vulnerabilities ",
+            "start": 2.426,
+            "end": 3.11
+          },
+          {
+            "word": "that ",
+            "start": 3.121,
+            "end": 3.252
+          },
+          {
+            "word": "capital ",
+            "start": 3.263,
+            "end": 3.61
+          },
+          {
+            "word": "account ",
+            "start": 3.621,
+            "end": 3.904
+          },
+          {
+            "word": "liberalisation ",
+            "start": 3.915,
+            "end": 4.589
+          },
+          {
+            "word": "had ",
+            "start": 4.6,
+            "end": 4.73
+          },
+          {
+            "word": "concealed ",
+            "start": 4.741,
+            "end": 5.219
+          },
+          {
+            "word": "rather ",
+            "start": 5.23,
+            "end": 5.513
+          },
+          {
+            "word": "than ",
+            "start": 5.523,
+            "end": 5.643
+          },
+          {
+            "word": "resolved. ",
+            "start": 5.654,
+            "end": 6.197
+          },
+          {
+            "word": "The ",
+            "start": 6.941,
+            "end": 7.06
+          },
+          {
+            "word": "fundamental ",
+            "start": 7.071,
+            "end": 7.604
+          },
+          {
+            "word": "problem ",
+            "start": 7.615,
+            "end": 7.952
+          },
+          {
+            "word": "was ",
+            "start": 7.963,
+            "end": 8.071
+          },
+          {
+            "word": "a ",
+            "start": 8.082,
+            "end": 8.126
+          },
+          {
+            "word": "currency ",
+            "start": 8.136,
+            "end": 8.549
+          },
+          {
+            "word": "mismatch.",
+            "start": 8.56,
+            "end": 9.104
+          }
+        ],
         "start": 90
       },
       {
         "type": "quote",
         "chunk_id": "ep3_problems_1",
         "audio_exists": true,
+        "audioPath": "episodes/ep3/audio/ep3_problems_1.wav",
         "text": "Banks and corporations throughout the region had borrowed in dollars at low international interest rates and invested in local-currency assets at higher returns. This was profitable while currency pegs held.",
-        "duration": 375,
-        "bgImage": "bg_abstract.jpg",
-        "wordTimings": null,
-        "start": 440
+        "duration": 331,
+        "bgImage": "bg_bank_run.jpg",
+        "wordTimings": [
+          {
+            "word": "Banks ",
+            "start": 0.1,
+            "end": 0.426
+          },
+          {
+            "word": "and ",
+            "start": 0.436,
+            "end": 0.523
+          },
+          {
+            "word": "corporations ",
+            "start": 0.534,
+            "end": 1.143
+          },
+          {
+            "word": "throughout ",
+            "start": 1.154,
+            "end": 1.447
+          },
+          {
+            "word": "the ",
+            "start": 1.458,
+            "end": 1.534
+          },
+          {
+            "word": "region ",
+            "start": 1.545,
+            "end": 1.871
+          },
+          {
+            "word": "had ",
+            "start": 1.882,
+            "end": 2.034
+          },
+          {
+            "word": "borrowed ",
+            "start": 2.045,
+            "end": 2.36
+          },
+          {
+            "word": "in ",
+            "start": 2.371,
+            "end": 2.48
+          },
+          {
+            "word": "dollars ",
+            "start": 2.491,
+            "end": 2.828
+          },
+          {
+            "word": "at ",
+            "start": 2.839,
+            "end": 2.926
+          },
+          {
+            "word": "low ",
+            "start": 2.936,
+            "end": 3.143
+          },
+          {
+            "word": "international ",
+            "start": 3.154,
+            "end": 3.741
+          },
+          {
+            "word": "interest ",
+            "start": 3.752,
+            "end": 4.099
+          },
+          {
+            "word": "rates ",
+            "start": 4.11,
+            "end": 4.382
+          },
+          {
+            "word": "and ",
+            "start": 4.393,
+            "end": 4.469
+          },
+          {
+            "word": "invested ",
+            "start": 4.48,
+            "end": 4.849
+          },
+          {
+            "word": "in ",
+            "start": 4.86,
+            "end": 4.958
+          },
+          {
+            "word": "local-currency ",
+            "start": 4.969,
+            "end": 5.621
+          },
+          {
+            "word": "assets ",
+            "start": 5.632,
+            "end": 5.98
+          },
+          {
+            "word": "at ",
+            "start": 5.991,
+            "end": 6.078
+          },
+          {
+            "word": "higher ",
+            "start": 6.089,
+            "end": 6.35
+          },
+          {
+            "word": "returns. ",
+            "start": 6.36,
+            "end": 6.936
+          },
+          {
+            "word": "This ",
+            "start": 7.68,
+            "end": 7.908
+          },
+          {
+            "word": "was ",
+            "start": 7.919,
+            "end": 8.039
+          },
+          {
+            "word": "profitable ",
+            "start": 8.05,
+            "end": 8.56
+          },
+          {
+            "word": "while ",
+            "start": 8.571,
+            "end": 8.756
+          },
+          {
+            "word": "currency ",
+            "start": 8.767,
+            "end": 9.158
+          },
+          {
+            "word": "pegs ",
+            "start": 9.169,
+            "end": 9.452
+          },
+          {
+            "word": "held.",
+            "start": 9.463,
+            "end": 9.865
+          }
+        ],
+        "start": 398
       },
       {
         "type": "quote",
         "chunk_id": "ep3_problems_2",
         "audio_exists": true,
+        "audioPath": "episodes/ep3/audio/ep3_problems_2.wav",
         "text": "When the pegs broke, dollar debts denominated in now-depreciated local currencies became immediately unserviceable. A fifty-percent currency depreciation doubled the local-currency cost of dollar debts overnight.",
-        "duration": 404,
-        "bgImage": "bg_abstract.jpg",
-        "wordTimings": null,
-        "start": 815
+        "duration": 346,
+        "bgImage": "bg_global_map.jpg",
+        "wordTimings": [
+          {
+            "word": "When ",
+            "start": 0.1,
+            "end": 0.306
+          },
+          {
+            "word": "the ",
+            "start": 0.317,
+            "end": 0.393
+          },
+          {
+            "word": "pegs ",
+            "start": 0.404,
+            "end": 0.686
+          },
+          {
+            "word": "broke, ",
+            "start": 0.697,
+            "end": 1.002
+          },
+          {
+            "word": "dollar ",
+            "start": 1.165,
+            "end": 1.382
+          },
+          {
+            "word": "debts ",
+            "start": 1.393,
+            "end": 1.621
+          },
+          {
+            "word": "denominated ",
+            "start": 1.632,
+            "end": 2.176
+          },
+          {
+            "word": "in ",
+            "start": 2.186,
+            "end": 2.284
+          },
+          {
+            "word": "now-depreciated ",
+            "start": 2.295,
+            "end": 3.045
+          },
+          {
+            "word": "local ",
+            "start": 3.056,
+            "end": 3.371
+          },
+          {
+            "word": "currencies ",
+            "start": 3.382,
+            "end": 3.828
+          },
+          {
+            "word": "became ",
+            "start": 3.839,
+            "end": 4.154
+          },
+          {
+            "word": "immediately ",
+            "start": 4.165,
+            "end": 4.665
+          },
+          {
+            "word": "unserviceable. ",
+            "start": 4.676,
+            "end": 5.415
+          },
+          {
+            "word": "A ",
+            "start": 6.158,
+            "end": 6.278
+          },
+          {
+            "word": "fifty-percent ",
+            "start": 6.289,
+            "end": 6.843
+          },
+          {
+            "word": "currency ",
+            "start": 6.854,
+            "end": 7.213
+          },
+          {
+            "word": "depreciation ",
+            "start": 7.223,
+            "end": 7.865
+          },
+          {
+            "word": "doubled ",
+            "start": 7.876,
+            "end": 8.169
+          },
+          {
+            "word": "the ",
+            "start": 8.18,
+            "end": 8.245
+          },
+          {
+            "word": "local-currency ",
+            "start": 8.256,
+            "end": 8.941
+          },
+          {
+            "word": "cost ",
+            "start": 8.952,
+            "end": 9.223
+          },
+          {
+            "word": "of ",
+            "start": 9.234,
+            "end": 9.343
+          },
+          {
+            "word": "dollar ",
+            "start": 9.354,
+            "end": 9.593
+          },
+          {
+            "word": "debts ",
+            "start": 9.604,
+            "end": 9.843
+          },
+          {
+            "word": "overnight.",
+            "start": 9.854,
+            "end": 10.354
+          }
+        ],
+        "start": 729
       },
       {
         "type": "quote",
         "chunk_id": "ep3_problems_3",
         "audio_exists": true,
+        "audioPath": "episodes/ep3/audio/ep3_problems_3.wav",
         "text": "The IMF's initial response — fiscal tightening, high interest rates, rapid bank closures — proved to be the wrong prescription for this type of crisis. Raising interest rates to defend currencies worsened the corporate debt burden.",
-        "duration": 408,
-        "bgImage": "bg_lab.jpg",
-        "wordTimings": null,
-        "start": 1219
+        "duration": 387,
+        "bgImage": "bg_asia_skyline.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.263
+          },
+          {
+            "word": "IMF's ",
+            "start": 0.273,
+            "end": 0.752
+          },
+          {
+            "word": "initial ",
+            "start": 0.763,
+            "end": 1.067
+          },
+          {
+            "word": "response — ",
+            "start": 1.078,
+            "end": 1.556
+          },
+          {
+            "word": "fiscal ",
+            "start": 1.719,
+            "end": 2.045
+          },
+          {
+            "word": "tightening, ",
+            "start": 2.056,
+            "end": 2.502
+          },
+          {
+            "word": "high ",
+            "start": 2.73,
+            "end": 2.871
+          },
+          {
+            "word": "interest ",
+            "start": 2.882,
+            "end": 3.317
+          },
+          {
+            "word": "rates, ",
+            "start": 3.328,
+            "end": 3.643
+          },
+          {
+            "word": "rapid ",
+            "start": 3.795,
+            "end": 4.067
+          },
+          {
+            "word": "bank ",
+            "start": 4.078,
+            "end": 4.317
+          },
+          {
+            "word": "closures — ",
+            "start": 4.328,
+            "end": 4.817
+          },
+          {
+            "word": "proved ",
+            "start": 5.002,
+            "end": 5.284
+          },
+          {
+            "word": "to ",
+            "start": 5.295,
+            "end": 5.339
+          },
+          {
+            "word": "be ",
+            "start": 5.35,
+            "end": 5.458
+          },
+          {
+            "word": "the ",
+            "start": 5.469,
+            "end": 5.556
+          },
+          {
+            "word": "wrong ",
+            "start": 5.567,
+            "end": 5.773
+          },
+          {
+            "word": "prescription ",
+            "start": 5.784,
+            "end": 6.273
+          },
+          {
+            "word": "for ",
+            "start": 6.284,
+            "end": 6.371
+          },
+          {
+            "word": "this ",
+            "start": 6.382,
+            "end": 6.589
+          },
+          {
+            "word": "type ",
+            "start": 6.6,
+            "end": 6.839
+          },
+          {
+            "word": "of ",
+            "start": 6.85,
+            "end": 6.926
+          },
+          {
+            "word": "crisis. ",
+            "start": 6.936,
+            "end": 7.523
+          },
+          {
+            "word": "Raising ",
+            "start": 8.267,
+            "end": 8.669
+          },
+          {
+            "word": "interest ",
+            "start": 8.68,
+            "end": 9.028
+          },
+          {
+            "word": "rates ",
+            "start": 9.039,
+            "end": 9.278
+          },
+          {
+            "word": "to ",
+            "start": 9.289,
+            "end": 9.365
+          },
+          {
+            "word": "defend ",
+            "start": 9.376,
+            "end": 9.734
+          },
+          {
+            "word": "currencies ",
+            "start": 9.745,
+            "end": 10.191
+          },
+          {
+            "word": "worsened ",
+            "start": 10.202,
+            "end": 10.582
+          },
+          {
+            "word": "the ",
+            "start": 10.593,
+            "end": 10.658
+          },
+          {
+            "word": "corporate ",
+            "start": 10.669,
+            "end": 11.06
+          },
+          {
+            "word": "debt ",
+            "start": 11.071,
+            "end": 11.256
+          },
+          {
+            "word": "burden.",
+            "start": 11.267,
+            "end": 11.713
+          }
+        ],
+        "start": 1075
       },
       {
         "type": "quote",
         "chunk_id": "ep3_problems_4",
         "audio_exists": true,
+        "audioPath": "episodes/ep3/audio/ep3_problems_4.wav",
         "text": "Closing banks created panic rather than restoring confidence. Cutting government spending in the middle of a demand collapse deepened recessions that the Fund had not predicted. Malaysia took a different path.",
-        "duration": 362,
-        "bgImage": "bg_demographics.jpg",
-        "wordTimings": null,
-        "start": 1627
+        "duration": 349,
+        "bgImage": "bg_currency_trade.jpg",
+        "wordTimings": [
+          {
+            "word": "Closing ",
+            "start": 0.1,
+            "end": 0.545
+          },
+          {
+            "word": "banks ",
+            "start": 0.556,
+            "end": 0.806
+          },
+          {
+            "word": "created ",
+            "start": 0.817,
+            "end": 1.208
+          },
+          {
+            "word": "panic ",
+            "start": 1.219,
+            "end": 1.491
+          },
+          {
+            "word": "rather ",
+            "start": 1.502,
+            "end": 1.784
+          },
+          {
+            "word": "than ",
+            "start": 1.795,
+            "end": 1.926
+          },
+          {
+            "word": "restoring ",
+            "start": 1.936,
+            "end": 2.382
+          },
+          {
+            "word": "confidence. ",
+            "start": 2.393,
+            "end": 2.991
+          },
+          {
+            "word": "Cutting ",
+            "start": 3.734,
+            "end": 4.06
+          },
+          {
+            "word": "government ",
+            "start": 4.071,
+            "end": 4.419
+          },
+          {
+            "word": "spending ",
+            "start": 4.43,
+            "end": 4.799
+          },
+          {
+            "word": "in ",
+            "start": 4.81,
+            "end": 4.876
+          },
+          {
+            "word": "the ",
+            "start": 4.886,
+            "end": 4.941
+          },
+          {
+            "word": "middle ",
+            "start": 4.952,
+            "end": 5.202
+          },
+          {
+            "word": "of ",
+            "start": 5.213,
+            "end": 5.267
+          },
+          {
+            "word": "a ",
+            "start": 5.278,
+            "end": 5.332
+          },
+          {
+            "word": "demand ",
+            "start": 5.343,
+            "end": 5.702
+          },
+          {
+            "word": "collapse ",
+            "start": 5.713,
+            "end": 6.082
+          },
+          {
+            "word": "deepened ",
+            "start": 6.093,
+            "end": 6.408
+          },
+          {
+            "word": "recessions ",
+            "start": 6.419,
+            "end": 6.886
+          },
+          {
+            "word": "that ",
+            "start": 6.897,
+            "end": 7.006
+          },
+          {
+            "word": "the ",
+            "start": 7.017,
+            "end": 7.082
+          },
+          {
+            "word": "Fund ",
+            "start": 7.093,
+            "end": 7.365
+          },
+          {
+            "word": "had ",
+            "start": 7.376,
+            "end": 7.495
+          },
+          {
+            "word": "not ",
+            "start": 7.506,
+            "end": 7.723
+          },
+          {
+            "word": "predicted. ",
+            "start": 7.734,
+            "end": 8.234
+          },
+          {
+            "word": "Malaysia ",
+            "start": 8.984,
+            "end": 9.43
+          },
+          {
+            "word": "took ",
+            "start": 9.441,
+            "end": 9.593
+          },
+          {
+            "word": "a ",
+            "start": 9.604,
+            "end": 9.669
+          },
+          {
+            "word": "different ",
+            "start": 9.68,
+            "end": 10.017
+          },
+          {
+            "word": "path.",
+            "start": 10.028,
+            "end": 10.463
+          }
+        ],
+        "start": 1462
       },
       {
         "type": "quote",
         "chunk_id": "ep3_problems_5",
         "audio_exists": true,
+        "audioPath": "episodes/ep3/audio/ep3_problems_5.wav",
         "text": "Prime Minister Mahathir imposed capital controls in September 1998 — restricting the convertibility of the ringgit and preventing foreigners from repatriating capital for twelve months. The IMF condemned the decision.",
-        "duration": 410,
-        "bgImage": "bg_lifestyle.jpg",
-        "wordTimings": null,
-        "start": 1989
+        "duration": 367,
+        "bgImage": "bg_bank_run.jpg",
+        "wordTimings": [
+          {
+            "word": "Prime ",
+            "start": 0.1,
+            "end": 0.371
+          },
+          {
+            "word": "Minister ",
+            "start": 0.382,
+            "end": 0.686
+          },
+          {
+            "word": "Mahathir ",
+            "start": 0.697,
+            "end": 1.067
+          },
+          {
+            "word": "imposed ",
+            "start": 1.078,
+            "end": 1.48
+          },
+          {
+            "word": "capital ",
+            "start": 1.491,
+            "end": 1.839
+          },
+          {
+            "word": "controls ",
+            "start": 1.85,
+            "end": 2.317
+          },
+          {
+            "word": "in ",
+            "start": 2.328,
+            "end": 2.436
+          },
+          {
+            "word": "September 1998 — ",
+            "start": 2.447,
+            "end": 3.784
+          },
+          {
+            "word": "restricting ",
+            "start": 3.926,
+            "end": 4.382
+          },
+          {
+            "word": "the ",
+            "start": 4.393,
+            "end": 4.469
+          },
+          {
+            "word": "convertibility ",
+            "start": 4.48,
+            "end": 5.208
+          },
+          {
+            "word": "of ",
+            "start": 5.219,
+            "end": 5.306
+          },
+          {
+            "word": "the ",
+            "start": 5.317,
+            "end": 5.393
+          },
+          {
+            "word": "ringgit ",
+            "start": 5.404,
+            "end": 5.752
+          },
+          {
+            "word": "and ",
+            "start": 5.763,
+            "end": 5.839
+          },
+          {
+            "word": "preventing ",
+            "start": 5.85,
+            "end": 6.252
+          },
+          {
+            "word": "foreigners ",
+            "start": 6.263,
+            "end": 6.654
+          },
+          {
+            "word": "from ",
+            "start": 6.665,
+            "end": 6.806
+          },
+          {
+            "word": "repatriating ",
+            "start": 6.817,
+            "end": 7.458
+          },
+          {
+            "word": "capital ",
+            "start": 7.469,
+            "end": 7.849
+          },
+          {
+            "word": "for ",
+            "start": 7.86,
+            "end": 7.969
+          },
+          {
+            "word": "twelve ",
+            "start": 7.98,
+            "end": 8.317
+          },
+          {
+            "word": "months. ",
+            "start": 8.328,
+            "end": 8.741
+          },
+          {
+            "word": "The ",
+            "start": 9.484,
+            "end": 9.669
+          },
+          {
+            "word": "IMF ",
+            "start": 9.68,
+            "end": 10.104
+          },
+          {
+            "word": "condemned ",
+            "start": 10.115,
+            "end": 10.495
+          },
+          {
+            "word": "the ",
+            "start": 10.506,
+            "end": 10.571
+          },
+          {
+            "word": "decision.",
+            "start": 10.582,
+            "end": 11.05
+          }
+        ],
+        "start": 1811
       },
       {
         "type": "quote",
         "chunk_id": "ep3_problems_6",
         "audio_exists": true,
+        "audioPath": "episodes/ep3/audio/ep3_problems_6.wav",
         "text": "The markets punished Malaysia initially. But Malaysia avoided the deepest phase of recession that hit Thailand, Indonesia, and South Korea under IMF programs. The evidence was ambiguous, but the alternative had been demonstrated.",
-        "duration": 429,
-        "bgImage": "bg_lab.jpg",
-        "wordTimings": null,
-        "start": 2399
+        "duration": 412,
+        "bgImage": "bg_global_map.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "markets ",
+            "start": 0.241,
+            "end": 0.632
+          },
+          {
+            "word": "punished ",
+            "start": 0.643,
+            "end": 0.947
+          },
+          {
+            "word": "Malaysia ",
+            "start": 0.958,
+            "end": 1.371
+          },
+          {
+            "word": "initially. ",
+            "start": 1.382,
+            "end": 1.828
+          },
+          {
+            "word": "But ",
+            "start": 2.571,
+            "end": 2.734
+          },
+          {
+            "word": "Malaysia ",
+            "start": 2.745,
+            "end": 3.158
+          },
+          {
+            "word": "avoided ",
+            "start": 3.169,
+            "end": 3.528
+          },
+          {
+            "word": "the ",
+            "start": 3.539,
+            "end": 3.626
+          },
+          {
+            "word": "deepest ",
+            "start": 3.636,
+            "end": 3.995
+          },
+          {
+            "word": "phase ",
+            "start": 4.006,
+            "end": 4.256
+          },
+          {
+            "word": "of ",
+            "start": 4.267,
+            "end": 4.343
+          },
+          {
+            "word": "recession ",
+            "start": 4.354,
+            "end": 4.767
+          },
+          {
+            "word": "that ",
+            "start": 4.778,
+            "end": 4.897
+          },
+          {
+            "word": "hit ",
+            "start": 4.908,
+            "end": 5.082
+          },
+          {
+            "word": "Thailand, ",
+            "start": 5.093,
+            "end": 5.495
+          },
+          {
+            "word": "Indonesia, ",
+            "start": 5.669,
+            "end": 6.234
+          },
+          {
+            "word": "and ",
+            "start": 6.376,
+            "end": 6.495
+          },
+          {
+            "word": "South ",
+            "start": 6.506,
+            "end": 6.778
+          },
+          {
+            "word": "Korea ",
+            "start": 6.789,
+            "end": 7.191
+          },
+          {
+            "word": "under ",
+            "start": 7.202,
+            "end": 7.441
+          },
+          {
+            "word": "IMF ",
+            "start": 7.452,
+            "end": 7.941
+          },
+          {
+            "word": "programs. ",
+            "start": 7.952,
+            "end": 8.615
+          },
+          {
+            "word": "The ",
+            "start": 9.365,
+            "end": 9.528
+          },
+          {
+            "word": "evidence ",
+            "start": 9.539,
+            "end": 9.876
+          },
+          {
+            "word": "was ",
+            "start": 9.886,
+            "end": 10.028
+          },
+          {
+            "word": "ambiguous, ",
+            "start": 10.039,
+            "end": 10.626
+          },
+          {
+            "word": "but ",
+            "start": 10.778,
+            "end": 10.876
+          },
+          {
+            "word": "the ",
+            "start": 10.886,
+            "end": 10.973
+          },
+          {
+            "word": "alternative ",
+            "start": 10.984,
+            "end": 11.506
+          },
+          {
+            "word": "had ",
+            "start": 11.517,
+            "end": 11.647
+          },
+          {
+            "word": "been ",
+            "start": 11.658,
+            "end": 11.799
+          },
+          {
+            "word": "demonstrated.",
+            "start": 11.81,
+            "end": 12.56
+          }
+        ],
+        "start": 2178
       }
     ]
   },
   {
     "id": "ep3_solutions",
-    "title": "Episode 3 · Solutions",
-    "globalStart": 6921,
-    "duration": 2693,
+    "title": "Solutions",
+    "globalStart": 5386,
+    "duration": 2505,
     "subSlides": [
       {
         "type": "bumper",
         "start": 0,
         "duration": 90,
-        "title": "Episode 3 · Solutions"
+        "title": "Solutions"
       },
       {
         "type": "quote",
         "chunk_id": "ep3_solutions_0",
         "audio_exists": true,
+        "audioPath": "episodes/ep3/audio/ep3_solutions_0.wav",
         "text": "On December 3, 1997, South Korea signed its letter of intent with the IMF. Usable foreign reserves stood at seven-point-three billion dollars against sixty billion in short-term foreign debt coming due within weeks.",
-        "duration": 421,
-        "bgImage": "bg_abstract.jpg",
-        "wordTimings": null,
+        "duration": 385,
+        "bgImage": "bg_imf_meeting.jpg",
+        "wordTimings": [
+          {
+            "word": "On ",
+            "start": 0.1,
+            "end": 0.263
+          },
+          {
+            "word": "December 3, 1997, ",
+            "start": 0.273,
+            "end": 2.154
+          },
+          {
+            "word": "South ",
+            "start": 2.284,
+            "end": 2.513
+          },
+          {
+            "word": "Korea ",
+            "start": 2.523,
+            "end": 2.86
+          },
+          {
+            "word": "signed ",
+            "start": 2.871,
+            "end": 3.132
+          },
+          {
+            "word": "its ",
+            "start": 3.143,
+            "end": 3.252
+          },
+          {
+            "word": "letter ",
+            "start": 3.263,
+            "end": 3.523
+          },
+          {
+            "word": "of ",
+            "start": 3.534,
+            "end": 3.654
+          },
+          {
+            "word": "intent ",
+            "start": 3.665,
+            "end": 4.013
+          },
+          {
+            "word": "with ",
+            "start": 4.023,
+            "end": 4.121
+          },
+          {
+            "word": "the ",
+            "start": 4.132,
+            "end": 4.241
+          },
+          {
+            "word": "IMF. ",
+            "start": 4.252,
+            "end": 4.871
+          },
+          {
+            "word": "Usable ",
+            "start": 5.615,
+            "end": 6.06
+          },
+          {
+            "word": "foreign ",
+            "start": 6.071,
+            "end": 6.365
+          },
+          {
+            "word": "reserves ",
+            "start": 6.376,
+            "end": 6.756
+          },
+          {
+            "word": "stood ",
+            "start": 6.767,
+            "end": 6.941
+          },
+          {
+            "word": "at ",
+            "start": 6.952,
+            "end": 7.028
+          },
+          {
+            "word": "seven-point-three ",
+            "start": 7.039,
+            "end": 7.789
+          },
+          {
+            "word": "billion ",
+            "start": 7.8,
+            "end": 8.147
+          },
+          {
+            "word": "dollars ",
+            "start": 8.158,
+            "end": 8.452
+          },
+          {
+            "word": "against ",
+            "start": 8.463,
+            "end": 8.713
+          },
+          {
+            "word": "sixty ",
+            "start": 8.723,
+            "end": 9.017
+          },
+          {
+            "word": "billion ",
+            "start": 9.028,
+            "end": 9.354
+          },
+          {
+            "word": "in ",
+            "start": 9.365,
+            "end": 9.473
+          },
+          {
+            "word": "short-term ",
+            "start": 9.484,
+            "end": 10.006
+          },
+          {
+            "word": "foreign ",
+            "start": 10.017,
+            "end": 10.31
+          },
+          {
+            "word": "debt ",
+            "start": 10.321,
+            "end": 10.495
+          },
+          {
+            "word": "coming ",
+            "start": 10.506,
+            "end": 10.756
+          },
+          {
+            "word": "due ",
+            "start": 10.767,
+            "end": 10.93
+          },
+          {
+            "word": "within ",
+            "start": 10.941,
+            "end": 11.223
+          },
+          {
+            "word": "weeks.",
+            "start": 11.234,
+            "end": 11.669
+          }
+        ],
         "start": 90
       },
       {
         "type": "quote",
         "chunk_id": "ep3_solutions_1",
         "audio_exists": true,
+        "audioPath": "episodes/ep3/audio/ep3_solutions_1.wav",
         "text": "Without the fifty-seven billion dollar rescue package — the largest in IMF history to that point — the country faced sovereign default. The rescue bought time. What South Korea did with that time was exceptional.",
-        "duration": 386,
-        "bgImage": "bg_demographics.jpg",
-        "wordTimings": null,
-        "start": 511
+        "duration": 374,
+        "bgImage": "bg_fed_building.jpg",
+        "wordTimings": [
+          {
+            "word": "Without ",
+            "start": 0.1,
+            "end": 0.447
+          },
+          {
+            "word": "the ",
+            "start": 0.458,
+            "end": 0.523
+          },
+          {
+            "word": "fifty-seven ",
+            "start": 0.534,
+            "end": 1.143
+          },
+          {
+            "word": "billion ",
+            "start": 1.154,
+            "end": 1.48
+          },
+          {
+            "word": "dollar ",
+            "start": 1.491,
+            "end": 1.697
+          },
+          {
+            "word": "rescue ",
+            "start": 1.708,
+            "end": 2.045
+          },
+          {
+            "word": "package — ",
+            "start": 2.056,
+            "end": 2.48
+          },
+          {
+            "word": "the ",
+            "start": 2.665,
+            "end": 2.741
+          },
+          {
+            "word": "largest ",
+            "start": 2.752,
+            "end": 3.176
+          },
+          {
+            "word": "in ",
+            "start": 3.186,
+            "end": 3.284
+          },
+          {
+            "word": "IMF ",
+            "start": 3.295,
+            "end": 3.763
+          },
+          {
+            "word": "history ",
+            "start": 3.773,
+            "end": 4.078
+          },
+          {
+            "word": "to ",
+            "start": 4.089,
+            "end": 4.186
+          },
+          {
+            "word": "that ",
+            "start": 4.197,
+            "end": 4.415
+          },
+          {
+            "word": "point — ",
+            "start": 4.426,
+            "end": 4.708
+          },
+          {
+            "word": "the ",
+            "start": 4.86,
+            "end": 4.926
+          },
+          {
+            "word": "country ",
+            "start": 4.936,
+            "end": 5.241
+          },
+          {
+            "word": "faced ",
+            "start": 5.252,
+            "end": 5.523
+          },
+          {
+            "word": "sovereign ",
+            "start": 5.534,
+            "end": 5.839
+          },
+          {
+            "word": "default. ",
+            "start": 5.85,
+            "end": 6.36
+          },
+          {
+            "word": "The ",
+            "start": 7.104,
+            "end": 7.256
+          },
+          {
+            "word": "rescue ",
+            "start": 7.267,
+            "end": 7.615
+          },
+          {
+            "word": "bought ",
+            "start": 7.626,
+            "end": 7.876
+          },
+          {
+            "word": "time. ",
+            "start": 7.886,
+            "end": 8.299
+          },
+          {
+            "word": "What ",
+            "start": 9.05,
+            "end": 9.267
+          },
+          {
+            "word": "South ",
+            "start": 9.278,
+            "end": 9.517
+          },
+          {
+            "word": "Korea ",
+            "start": 9.528,
+            "end": 9.886
+          },
+          {
+            "word": "did ",
+            "start": 9.897,
+            "end": 10.06
+          },
+          {
+            "word": "with ",
+            "start": 10.071,
+            "end": 10.169
+          },
+          {
+            "word": "that ",
+            "start": 10.18,
+            "end": 10.332
+          },
+          {
+            "word": "time ",
+            "start": 10.343,
+            "end": 10.582
+          },
+          {
+            "word": "was ",
+            "start": 10.593,
+            "end": 10.702
+          },
+          {
+            "word": "exceptional.",
+            "start": 10.713,
+            "end": 11.299
+          }
+        ],
+        "start": 475
       },
       {
         "type": "quote",
         "chunk_id": "ep3_solutions_2",
         "audio_exists": true,
+        "audioPath": "episodes/ep3/audio/ep3_solutions_2.wav",
         "text": "The government negotiated a maturity extension with foreign creditors — converting short-term debt to longer-term obligations. It recapitalised the banking system at a public cost of approximately thirty percent of GDP.",
-        "duration": 408,
-        "bgImage": "bg_lifestyle.jpg",
-        "wordTimings": null,
-        "start": 897
+        "duration": 369,
+        "bgImage": "bg_global_map.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "government ",
+            "start": 0.241,
+            "end": 0.578
+          },
+          {
+            "word": "negotiated ",
+            "start": 0.589,
+            "end": 1.197
+          },
+          {
+            "word": "a ",
+            "start": 1.208,
+            "end": 1.241
+          },
+          {
+            "word": "maturity ",
+            "start": 1.252,
+            "end": 1.719
+          },
+          {
+            "word": "extension ",
+            "start": 1.73,
+            "end": 2.165
+          },
+          {
+            "word": "with ",
+            "start": 2.176,
+            "end": 2.306
+          },
+          {
+            "word": "foreign ",
+            "start": 2.317,
+            "end": 2.621
+          },
+          {
+            "word": "creditors — ",
+            "start": 2.632,
+            "end": 3.089
+          },
+          {
+            "word": "converting ",
+            "start": 3.263,
+            "end": 3.795
+          },
+          {
+            "word": "short-term ",
+            "start": 3.806,
+            "end": 4.306
+          },
+          {
+            "word": "debt ",
+            "start": 4.317,
+            "end": 4.48
+          },
+          {
+            "word": "to ",
+            "start": 4.491,
+            "end": 4.578
+          },
+          {
+            "word": "longer-term ",
+            "start": 4.589,
+            "end": 5.1
+          },
+          {
+            "word": "obligations. ",
+            "start": 5.11,
+            "end": 5.839
+          },
+          {
+            "word": "It ",
+            "start": 6.582,
+            "end": 6.756
+          },
+          {
+            "word": "recapitalised ",
+            "start": 6.767,
+            "end": 7.376
+          },
+          {
+            "word": "the ",
+            "start": 7.386,
+            "end": 7.452
+          },
+          {
+            "word": "banking ",
+            "start": 7.463,
+            "end": 7.81
+          },
+          {
+            "word": "system ",
+            "start": 7.821,
+            "end": 8.18
+          },
+          {
+            "word": "at ",
+            "start": 8.191,
+            "end": 8.289
+          },
+          {
+            "word": "a ",
+            "start": 8.3,
+            "end": 8.354
+          },
+          {
+            "word": "public ",
+            "start": 8.365,
+            "end": 8.68
+          },
+          {
+            "word": "cost ",
+            "start": 8.691,
+            "end": 8.963
+          },
+          {
+            "word": "of ",
+            "start": 8.973,
+            "end": 9.049
+          },
+          {
+            "word": "approximately ",
+            "start": 9.06,
+            "end": 9.626
+          },
+          {
+            "word": "thirty ",
+            "start": 9.636,
+            "end": 9.984
+          },
+          {
+            "word": "percent ",
+            "start": 9.995,
+            "end": 10.332
+          },
+          {
+            "word": "of ",
+            "start": 10.343,
+            "end": 10.441
+          },
+          {
+            "word": "GDP.",
+            "start": 10.452,
+            "end": 11.115
+          }
+        ],
+        "start": 849
       },
       {
         "type": "quote",
         "chunk_id": "ep3_solutions_3",
         "audio_exists": true,
+        "audioPath": "episodes/ep3/audio/ep3_solutions_3.wav",
         "text": "It forced through structural reform of the chaebol conglomerates — the giant family-owned industrial groups whose debt-to-equity ratios had reached five hundred percent. The Daewoo Corporation, one of the largest, was liquidated.",
-        "duration": 413,
-        "bgImage": "bg_abstract.jpg",
-        "wordTimings": null,
-        "start": 1305
+        "duration": 370,
+        "bgImage": "bg_interest_chart.jpg",
+        "wordTimings": [
+          {
+            "word": "It ",
+            "start": 0.1,
+            "end": 0.273
+          },
+          {
+            "word": "forced ",
+            "start": 0.284,
+            "end": 0.556
+          },
+          {
+            "word": "through ",
+            "start": 0.567,
+            "end": 0.752
+          },
+          {
+            "word": "structural ",
+            "start": 0.763,
+            "end": 1.252
+          },
+          {
+            "word": "reform ",
+            "start": 1.263,
+            "end": 1.578
+          },
+          {
+            "word": "of ",
+            "start": 1.589,
+            "end": 1.643
+          },
+          {
+            "word": "the ",
+            "start": 1.654,
+            "end": 1.719
+          },
+          {
+            "word": "chaebol ",
+            "start": 1.73,
+            "end": 2.067
+          },
+          {
+            "word": "conglomerates — ",
+            "start": 2.078,
+            "end": 2.676
+          },
+          {
+            "word": "the ",
+            "start": 2.828,
+            "end": 2.926
+          },
+          {
+            "word": "giant ",
+            "start": 2.936,
+            "end": 3.284
+          },
+          {
+            "word": "family-owned ",
+            "start": 3.295,
+            "end": 3.763
+          },
+          {
+            "word": "industrial ",
+            "start": 3.773,
+            "end": 4.295
+          },
+          {
+            "word": "groups ",
+            "start": 4.306,
+            "end": 4.61
+          },
+          {
+            "word": "whose ",
+            "start": 4.621,
+            "end": 4.784
+          },
+          {
+            "word": "debt-to-equity ",
+            "start": 4.795,
+            "end": 5.404
+          },
+          {
+            "word": "ratios ",
+            "start": 5.415,
+            "end": 5.882
+          },
+          {
+            "word": "had ",
+            "start": 5.893,
+            "end": 6.013
+          },
+          {
+            "word": "reached ",
+            "start": 6.023,
+            "end": 6.306
+          },
+          {
+            "word": "five ",
+            "start": 6.317,
+            "end": 6.61
+          },
+          {
+            "word": "hundred ",
+            "start": 6.621,
+            "end": 6.871
+          },
+          {
+            "word": "percent. ",
+            "start": 6.882,
+            "end": 7.306
+          },
+          {
+            "word": "The ",
+            "start": 8.05,
+            "end": 8.202
+          },
+          {
+            "word": "Daewoo ",
+            "start": 8.213,
+            "end": 8.582
+          },
+          {
+            "word": "Corporation, ",
+            "start": 8.593,
+            "end": 9.202
+          },
+          {
+            "word": "one ",
+            "start": 9.408,
+            "end": 9.549
+          },
+          {
+            "word": "of ",
+            "start": 9.56,
+            "end": 9.615
+          },
+          {
+            "word": "the ",
+            "start": 9.626,
+            "end": 9.691
+          },
+          {
+            "word": "largest, ",
+            "start": 9.702,
+            "end": 10.223
+          },
+          {
+            "word": "was ",
+            "start": 10.343,
+            "end": 10.484
+          },
+          {
+            "word": "liquidated.",
+            "start": 10.495,
+            "end": 11.169
+          }
+        ],
+        "start": 1218
       },
       {
         "type": "quote",
         "chunk_id": "ep3_solutions_4",
         "audio_exists": true,
+        "audioPath": "episodes/ep3/audio/ep3_solutions_4.wav",
         "text": "Sixty-five billion dollars in debts written off. The turnaround was faster than anyone had predicted. South Korea returned to growth in 1999. Its current account deficit, which had been eight percent of GDP at the crisis peak, swung to a surplus.",
-        "duration": 453,
-        "bgImage": "bg_lab.jpg",
-        "wordTimings": null,
-        "start": 1718
+        "duration": 468,
+        "bgImage": "bg_imf_meeting.jpg",
+        "wordTimings": [
+          {
+            "word": "Sixty-five ",
+            "start": 0.1,
+            "end": 0.741
+          },
+          {
+            "word": "billion ",
+            "start": 0.752,
+            "end": 1.045
+          },
+          {
+            "word": "dollars ",
+            "start": 1.056,
+            "end": 1.371
+          },
+          {
+            "word": "in ",
+            "start": 1.382,
+            "end": 1.502
+          },
+          {
+            "word": "debts ",
+            "start": 1.513,
+            "end": 1.763
+          },
+          {
+            "word": "written ",
+            "start": 1.773,
+            "end": 2.067
+          },
+          {
+            "word": "off. ",
+            "start": 2.078,
+            "end": 2.393
+          },
+          {
+            "word": "The ",
+            "start": 3.136,
+            "end": 3.278
+          },
+          {
+            "word": "turnaround ",
+            "start": 3.289,
+            "end": 3.8
+          },
+          {
+            "word": "was ",
+            "start": 3.81,
+            "end": 3.941
+          },
+          {
+            "word": "faster ",
+            "start": 3.952,
+            "end": 4.299
+          },
+          {
+            "word": "than ",
+            "start": 4.31,
+            "end": 4.43
+          },
+          {
+            "word": "anyone ",
+            "start": 4.441,
+            "end": 4.734
+          },
+          {
+            "word": "had ",
+            "start": 4.745,
+            "end": 4.865
+          },
+          {
+            "word": "predicted. ",
+            "start": 4.876,
+            "end": 5.376
+          },
+          {
+            "word": "South ",
+            "start": 6.126,
+            "end": 6.441
+          },
+          {
+            "word": "Korea ",
+            "start": 6.452,
+            "end": 6.778
+          },
+          {
+            "word": "returned ",
+            "start": 6.789,
+            "end": 7.115
+          },
+          {
+            "word": "to ",
+            "start": 7.126,
+            "end": 7.18
+          },
+          {
+            "word": "growth ",
+            "start": 7.191,
+            "end": 7.495
+          },
+          {
+            "word": "in 1999. ",
+            "start": 7.506,
+            "end": 8.713
+          },
+          {
+            "word": "Its ",
+            "start": 9.463,
+            "end": 9.68
+          },
+          {
+            "word": "current ",
+            "start": 9.691,
+            "end": 9.984
+          },
+          {
+            "word": "account ",
+            "start": 9.995,
+            "end": 10.278
+          },
+          {
+            "word": "deficit, ",
+            "start": 10.289,
+            "end": 10.702
+          },
+          {
+            "word": "which ",
+            "start": 10.81,
+            "end": 10.941
+          },
+          {
+            "word": "had ",
+            "start": 10.952,
+            "end": 11.049
+          },
+          {
+            "word": "been ",
+            "start": 11.06,
+            "end": 11.191
+          },
+          {
+            "word": "eight ",
+            "start": 11.202,
+            "end": 11.343
+          },
+          {
+            "word": "percent ",
+            "start": 11.354,
+            "end": 11.68
+          },
+          {
+            "word": "of ",
+            "start": 11.691,
+            "end": 11.778
+          },
+          {
+            "word": "GDP ",
+            "start": 11.789,
+            "end": 12.343
+          },
+          {
+            "word": "at ",
+            "start": 12.354,
+            "end": 12.441
+          },
+          {
+            "word": "the ",
+            "start": 12.452,
+            "end": 12.517
+          },
+          {
+            "word": "crisis ",
+            "start": 12.528,
+            "end": 12.952
+          },
+          {
+            "word": "peak, ",
+            "start": 12.963,
+            "end": 13.234
+          },
+          {
+            "word": "swung ",
+            "start": 13.419,
+            "end": 13.658
+          },
+          {
+            "word": "to ",
+            "start": 13.669,
+            "end": 13.789
+          },
+          {
+            "word": "a ",
+            "start": 13.8,
+            "end": 13.843
+          },
+          {
+            "word": "surplus.",
+            "start": 13.854,
+            "end": 14.441
+          }
+        ],
+        "start": 1588
       },
       {
         "type": "quote",
         "chunk_id": "ep3_solutions_5",
         "audio_exists": true,
+        "audioPath": "episodes/ep3/audio/ep3_solutions_5.wav",
         "text": "The foreign reserves that had nearly run to zero reached three hundred billion dollars by 2010.",
-        "duration": 189,
-        "bgImage": "bg_demographics.jpg",
-        "wordTimings": null,
-        "start": 2171
+        "duration": 164,
+        "bgImage": "bg_fed_building.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.219
+          },
+          {
+            "word": "foreign ",
+            "start": 0.23,
+            "end": 0.502
+          },
+          {
+            "word": "reserves ",
+            "start": 0.513,
+            "end": 0.882
+          },
+          {
+            "word": "that ",
+            "start": 0.893,
+            "end": 1.002
+          },
+          {
+            "word": "had ",
+            "start": 1.013,
+            "end": 1.121
+          },
+          {
+            "word": "nearly ",
+            "start": 1.132,
+            "end": 1.36
+          },
+          {
+            "word": "run ",
+            "start": 1.371,
+            "end": 1.589
+          },
+          {
+            "word": "to ",
+            "start": 1.6,
+            "end": 1.686
+          },
+          {
+            "word": "zero ",
+            "start": 1.697,
+            "end": 2.034
+          },
+          {
+            "word": "reached ",
+            "start": 2.045,
+            "end": 2.328
+          },
+          {
+            "word": "three ",
+            "start": 2.339,
+            "end": 2.556
+          },
+          {
+            "word": "hundred ",
+            "start": 2.567,
+            "end": 2.839
+          },
+          {
+            "word": "billion ",
+            "start": 2.85,
+            "end": 3.132
+          },
+          {
+            "word": "dollars ",
+            "start": 3.143,
+            "end": 3.458
+          },
+          {
+            "word": "by 2010.",
+            "start": 3.469,
+            "end": 4.317
+          }
+        ],
+        "start": 2056
       },
       {
         "type": "quote",
         "chunk_id": "ep3_solutions_6",
         "audio_exists": true,
+        "audioPath": "episodes/ep3/audio/ep3_solutions_6.wav",
         "text": "The lesson was absorbed regionally, if not globally: self-insurance through reserve accumulation was the only reliable protection against the volatility of open capital markets.",
-        "duration": 333,
-        "bgImage": "bg_abstract.jpg",
-        "wordTimings": null,
-        "start": 2360
+        "duration": 285,
+        "bgImage": "bg_global_map.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.219
+          },
+          {
+            "word": "lesson ",
+            "start": 0.23,
+            "end": 0.545
+          },
+          {
+            "word": "was ",
+            "start": 0.556,
+            "end": 0.686
+          },
+          {
+            "word": "absorbed ",
+            "start": 0.697,
+            "end": 1.067
+          },
+          {
+            "word": "regionally, ",
+            "start": 1.078,
+            "end": 1.567
+          },
+          {
+            "word": "if ",
+            "start": 1.741,
+            "end": 1.839
+          },
+          {
+            "word": "not ",
+            "start": 1.85,
+            "end": 2.013
+          },
+          {
+            "word": "globally: ",
+            "start": 2.023,
+            "end": 2.458
+          },
+          {
+            "word": "self-insurance ",
+            "start": 2.632,
+            "end": 3.295
+          },
+          {
+            "word": "through ",
+            "start": 3.306,
+            "end": 3.513
+          },
+          {
+            "word": "reserve ",
+            "start": 3.523,
+            "end": 3.86
+          },
+          {
+            "word": "accumulation ",
+            "start": 3.871,
+            "end": 4.523
+          },
+          {
+            "word": "was ",
+            "start": 4.534,
+            "end": 4.665
+          },
+          {
+            "word": "the ",
+            "start": 4.676,
+            "end": 4.795
+          },
+          {
+            "word": "only ",
+            "start": 4.806,
+            "end": 5.002
+          },
+          {
+            "word": "reliable ",
+            "start": 5.013,
+            "end": 5.545
+          },
+          {
+            "word": "protection ",
+            "start": 5.556,
+            "end": 6.002
+          },
+          {
+            "word": "against ",
+            "start": 6.013,
+            "end": 6.306
+          },
+          {
+            "word": "the ",
+            "start": 6.317,
+            "end": 6.382
+          },
+          {
+            "word": "volatility ",
+            "start": 6.393,
+            "end": 6.991
+          },
+          {
+            "word": "of ",
+            "start": 7.002,
+            "end": 7.11
+          },
+          {
+            "word": "open ",
+            "start": 7.121,
+            "end": 7.382
+          },
+          {
+            "word": "capital ",
+            "start": 7.393,
+            "end": 7.773
+          },
+          {
+            "word": "markets.",
+            "start": 7.784,
+            "end": 8.317
+          }
+        ],
+        "start": 2220
       }
     ]
   },
   {
     "id": "ep3_results",
-    "title": "Episode 3 · Results",
-    "globalStart": 9614,
-    "duration": 2980,
+    "title": "Results",
+    "globalStart": 7891,
+    "duration": 3202,
     "subSlides": [
       {
         "type": "bumper",
         "start": 0,
         "duration": 90,
-        "title": "Episode 3 · Results"
+        "title": "Results"
       },
       {
         "type": "quote",
         "chunk_id": "ep3_results_0",
         "audio_exists": true,
+        "audioPath": "episodes/ep3/audio/ep3_results_0.wav",
         "text": "The Asian Financial Crisis produced consequences that were simultaneously more damaging than most observers acknowledged and more instructive than most policymakers admitted. The damage was severe.",
-        "duration": 368,
-        "bgImage": "bg_demographics.jpg",
-        "wordTimings": null,
+        "duration": 315,
+        "bgImage": "bg_asia_skyline.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.263
+          },
+          {
+            "word": "Asian ",
+            "start": 0.273,
+            "end": 0.545
+          },
+          {
+            "word": "Financial ",
+            "start": 0.556,
+            "end": 1.045
+          },
+          {
+            "word": "Crisis ",
+            "start": 1.056,
+            "end": 1.436
+          },
+          {
+            "word": "produced ",
+            "start": 1.447,
+            "end": 1.806
+          },
+          {
+            "word": "consequences ",
+            "start": 1.817,
+            "end": 2.382
+          },
+          {
+            "word": "that ",
+            "start": 2.393,
+            "end": 2.502
+          },
+          {
+            "word": "were ",
+            "start": 2.513,
+            "end": 2.589
+          },
+          {
+            "word": "simultaneously ",
+            "start": 2.6,
+            "end": 3.35
+          },
+          {
+            "word": "more ",
+            "start": 3.36,
+            "end": 3.534
+          },
+          {
+            "word": "damaging ",
+            "start": 3.545,
+            "end": 3.936
+          },
+          {
+            "word": "than ",
+            "start": 3.947,
+            "end": 4.067
+          },
+          {
+            "word": "most ",
+            "start": 4.078,
+            "end": 4.317
+          },
+          {
+            "word": "observers ",
+            "start": 4.328,
+            "end": 4.741
+          },
+          {
+            "word": "acknowledged ",
+            "start": 4.752,
+            "end": 5.208
+          },
+          {
+            "word": "and ",
+            "start": 5.219,
+            "end": 5.36
+          },
+          {
+            "word": "more ",
+            "start": 5.371,
+            "end": 5.567
+          },
+          {
+            "word": "instructive ",
+            "start": 5.578,
+            "end": 6.034
+          },
+          {
+            "word": "than ",
+            "start": 6.045,
+            "end": 6.176
+          },
+          {
+            "word": "most ",
+            "start": 6.186,
+            "end": 6.404
+          },
+          {
+            "word": "policymakers ",
+            "start": 6.415,
+            "end": 7.023
+          },
+          {
+            "word": "admitted. ",
+            "start": 7.034,
+            "end": 7.469
+          },
+          {
+            "word": "The ",
+            "start": 8.213,
+            "end": 8.365
+          },
+          {
+            "word": "damage ",
+            "start": 8.376,
+            "end": 8.669
+          },
+          {
+            "word": "was ",
+            "start": 8.68,
+            "end": 8.843
+          },
+          {
+            "word": "severe.",
+            "start": 8.854,
+            "end": 9.321
+          }
+        ],
         "start": 90
       },
       {
         "type": "quote",
         "chunk_id": "ep3_results_1",
         "audio_exists": true,
+        "audioPath": "episodes/ep3/audio/ep3_results_1.wav",
         "text": "Indonesia's economy contracted thirteen-point-six percent in 1998. Twenty-four million Indonesians were pushed into poverty. The suicide rate in South Korea rose forty-five percent during the crisis years.",
-        "duration": 403,
-        "bgImage": "bg_lab.jpg",
-        "wordTimings": null,
-        "start": 458
+        "duration": 397,
+        "bgImage": "bg_recovery.jpg",
+        "wordTimings": [
+          {
+            "word": "Indonesia's ",
+            "start": 0.1,
+            "end": 0.643
+          },
+          {
+            "word": "economy ",
+            "start": 0.654,
+            "end": 1.002
+          },
+          {
+            "word": "contracted ",
+            "start": 1.013,
+            "end": 1.48
+          },
+          {
+            "word": "thirteen-point-six ",
+            "start": 1.491,
+            "end": 2.393
+          },
+          {
+            "word": "percent ",
+            "start": 2.404,
+            "end": 2.784
+          },
+          {
+            "word": "in 1998. ",
+            "start": 2.795,
+            "end": 3.904
+          },
+          {
+            "word": "Twenty-four ",
+            "start": 4.647,
+            "end": 5.147
+          },
+          {
+            "word": "million ",
+            "start": 5.158,
+            "end": 5.495
+          },
+          {
+            "word": "Indonesians ",
+            "start": 5.506,
+            "end": 6.158
+          },
+          {
+            "word": "were ",
+            "start": 6.169,
+            "end": 6.289
+          },
+          {
+            "word": "pushed ",
+            "start": 6.3,
+            "end": 6.593
+          },
+          {
+            "word": "into ",
+            "start": 6.604,
+            "end": 6.854
+          },
+          {
+            "word": "poverty. ",
+            "start": 6.865,
+            "end": 7.31
+          },
+          {
+            "word": "The ",
+            "start": 8.06,
+            "end": 8.202
+          },
+          {
+            "word": "suicide ",
+            "start": 8.213,
+            "end": 8.669
+          },
+          {
+            "word": "rate ",
+            "start": 8.68,
+            "end": 8.897
+          },
+          {
+            "word": "in ",
+            "start": 8.908,
+            "end": 9.017
+          },
+          {
+            "word": "South ",
+            "start": 9.028,
+            "end": 9.3
+          },
+          {
+            "word": "Korea ",
+            "start": 9.31,
+            "end": 9.669
+          },
+          {
+            "word": "rose ",
+            "start": 9.68,
+            "end": 9.952
+          },
+          {
+            "word": "forty-five ",
+            "start": 9.963,
+            "end": 10.506
+          },
+          {
+            "word": "percent ",
+            "start": 10.517,
+            "end": 10.876
+          },
+          {
+            "word": "during ",
+            "start": 10.886,
+            "end": 11.136
+          },
+          {
+            "word": "the ",
+            "start": 11.147,
+            "end": 11.213
+          },
+          {
+            "word": "crisis ",
+            "start": 11.223,
+            "end": 11.626
+          },
+          {
+            "word": "years.",
+            "start": 11.636,
+            "end": 12.06
+          }
+        ],
+        "start": 405
       },
       {
         "type": "quote",
         "chunk_id": "ep3_results_2",
         "audio_exists": true,
+        "audioPath": "episodes/ep3/audio/ep3_results_2.wav",
         "text": "Decades of poverty reduction were reversed in months. The political consequences were equally severe. Indonesia's President Suharto resigned in May 1998 after thirty-two years in power — the crisis delegitimised governments across the region.",
-        "duration": 462,
-        "bgImage": "bg_lab.jpg",
-        "wordTimings": null,
-        "start": 861
+        "duration": 436,
+        "bgImage": "bg_global_map.jpg",
+        "wordTimings": [
+          {
+            "word": "Decades ",
+            "start": 0.1,
+            "end": 0.48
+          },
+          {
+            "word": "of ",
+            "start": 0.491,
+            "end": 0.578
+          },
+          {
+            "word": "poverty ",
+            "start": 0.589,
+            "end": 0.904
+          },
+          {
+            "word": "reduction ",
+            "start": 0.915,
+            "end": 1.371
+          },
+          {
+            "word": "were ",
+            "start": 1.382,
+            "end": 1.491
+          },
+          {
+            "word": "reversed ",
+            "start": 1.502,
+            "end": 1.926
+          },
+          {
+            "word": "in ",
+            "start": 1.936,
+            "end": 2.034
+          },
+          {
+            "word": "months. ",
+            "start": 2.045,
+            "end": 2.502
+          },
+          {
+            "word": "The ",
+            "start": 3.245,
+            "end": 3.376
+          },
+          {
+            "word": "political ",
+            "start": 3.386,
+            "end": 3.821
+          },
+          {
+            "word": "consequences ",
+            "start": 3.832,
+            "end": 4.463
+          },
+          {
+            "word": "were ",
+            "start": 4.473,
+            "end": 4.593
+          },
+          {
+            "word": "equally ",
+            "start": 4.604,
+            "end": 5.006
+          },
+          {
+            "word": "severe. ",
+            "start": 5.017,
+            "end": 5.517
+          },
+          {
+            "word": "Indonesia's ",
+            "start": 6.267,
+            "end": 6.832
+          },
+          {
+            "word": "President ",
+            "start": 6.843,
+            "end": 7.202
+          },
+          {
+            "word": "Suharto ",
+            "start": 7.213,
+            "end": 7.658
+          },
+          {
+            "word": "resigned ",
+            "start": 7.669,
+            "end": 8.104
+          },
+          {
+            "word": "in ",
+            "start": 8.115,
+            "end": 8.223
+          },
+          {
+            "word": "May 1998 ",
+            "start": 8.234,
+            "end": 9.299
+          },
+          {
+            "word": "after ",
+            "start": 9.31,
+            "end": 9.55
+          },
+          {
+            "word": "thirty-two ",
+            "start": 9.56,
+            "end": 10.071
+          },
+          {
+            "word": "years ",
+            "start": 10.082,
+            "end": 10.376
+          },
+          {
+            "word": "in ",
+            "start": 10.386,
+            "end": 10.473
+          },
+          {
+            "word": "power — ",
+            "start": 10.484,
+            "end": 10.854
+          },
+          {
+            "word": "the ",
+            "start": 11.006,
+            "end": 11.082
+          },
+          {
+            "word": "crisis ",
+            "start": 11.093,
+            "end": 11.473
+          },
+          {
+            "word": "delegitimised ",
+            "start": 11.484,
+            "end": 12.136
+          },
+          {
+            "word": "governments ",
+            "start": 12.147,
+            "end": 12.539
+          },
+          {
+            "word": "across ",
+            "start": 12.55,
+            "end": 12.843
+          },
+          {
+            "word": "the ",
+            "start": 12.854,
+            "end": 12.941
+          },
+          {
+            "word": "region.",
+            "start": 12.952,
+            "end": 13.365
+          }
+        ],
+        "start": 802
       },
       {
         "type": "quote",
         "chunk_id": "ep3_results_3",
         "audio_exists": true,
+        "audioPath": "episodes/ep3/audio/ep3_results_3.wav",
         "text": "The democratic transitions that followed were genuine, but they came at enormous social cost. The institutional lessons, however, were learned.",
         "duration": 260,
-        "bgImage": "bg_abstract.jpg",
-        "wordTimings": null,
-        "start": 1323
+        "bgImage": "bg_interest_chart.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.241
+          },
+          {
+            "word": "democratic ",
+            "start": 0.252,
+            "end": 0.773
+          },
+          {
+            "word": "transitions ",
+            "start": 0.784,
+            "end": 1.328
+          },
+          {
+            "word": "that ",
+            "start": 1.339,
+            "end": 1.469
+          },
+          {
+            "word": "followed ",
+            "start": 1.48,
+            "end": 1.784
+          },
+          {
+            "word": "were ",
+            "start": 1.795,
+            "end": 1.871
+          },
+          {
+            "word": "genuine, ",
+            "start": 1.882,
+            "end": 2.317
+          },
+          {
+            "word": "but ",
+            "start": 2.436,
+            "end": 2.534
+          },
+          {
+            "word": "they ",
+            "start": 2.545,
+            "end": 2.632
+          },
+          {
+            "word": "came ",
+            "start": 2.643,
+            "end": 2.882
+          },
+          {
+            "word": "at ",
+            "start": 2.893,
+            "end": 2.991
+          },
+          {
+            "word": "enormous ",
+            "start": 3.002,
+            "end": 3.36
+          },
+          {
+            "word": "social ",
+            "start": 3.371,
+            "end": 3.686
+          },
+          {
+            "word": "cost. ",
+            "start": 3.697,
+            "end": 4.186
+          },
+          {
+            "word": "The ",
+            "start": 4.93,
+            "end": 5.071
+          },
+          {
+            "word": "institutional ",
+            "start": 5.082,
+            "end": 5.778
+          },
+          {
+            "word": "lessons, ",
+            "start": 5.789,
+            "end": 6.245
+          },
+          {
+            "word": "however, ",
+            "start": 6.43,
+            "end": 6.789
+          },
+          {
+            "word": "were ",
+            "start": 6.941,
+            "end": 7.049
+          },
+          {
+            "word": "learned.",
+            "start": 7.06,
+            "end": 7.506
+          }
+        ],
+        "start": 1238
       },
       {
         "type": "quote",
         "chunk_id": "ep3_results_4",
         "audio_exists": true,
+        "audioPath": "episodes/ep3/audio/ep3_results_4.wav",
         "text": "Asian central banks collectively accumulated seven trillion dollars in foreign reserves by 2010 — self-insurance against ever needing an IMF programme again. The Chiang Mai Initiative created a two-hundred-forty-billion-dollar regional swap network.",
-        "duration": 469,
-        "bgImage": "bg_demographics.jpg",
-        "wordTimings": null,
-        "start": 1583
+        "duration": 411,
+        "bgImage": "bg_asia_skyline.jpg",
+        "wordTimings": [
+          {
+            "word": "Asian ",
+            "start": 0.1,
+            "end": 0.436
+          },
+          {
+            "word": "central ",
+            "start": 0.447,
+            "end": 0.784
+          },
+          {
+            "word": "banks ",
+            "start": 0.795,
+            "end": 1.045
+          },
+          {
+            "word": "collectively ",
+            "start": 1.056,
+            "end": 1.567
+          },
+          {
+            "word": "accumulated ",
+            "start": 1.578,
+            "end": 2.154
+          },
+          {
+            "word": "seven ",
+            "start": 2.165,
+            "end": 2.447
+          },
+          {
+            "word": "trillion ",
+            "start": 2.458,
+            "end": 2.806
+          },
+          {
+            "word": "dollars ",
+            "start": 2.817,
+            "end": 3.121
+          },
+          {
+            "word": "in ",
+            "start": 3.132,
+            "end": 3.252
+          },
+          {
+            "word": "foreign ",
+            "start": 3.263,
+            "end": 3.556
+          },
+          {
+            "word": "reserves ",
+            "start": 3.567,
+            "end": 3.991
+          },
+          {
+            "word": "by 2010 — ",
+            "start": 4.002,
+            "end": 4.795
+          },
+          {
+            "word": "self-insurance ",
+            "start": 5.002,
+            "end": 5.621
+          },
+          {
+            "word": "against ",
+            "start": 5.632,
+            "end": 5.958
+          },
+          {
+            "word": "ever ",
+            "start": 5.969,
+            "end": 6.143
+          },
+          {
+            "word": "needing ",
+            "start": 6.154,
+            "end": 6.458
+          },
+          {
+            "word": "an ",
+            "start": 6.469,
+            "end": 6.556
+          },
+          {
+            "word": "IMF ",
+            "start": 6.567,
+            "end": 7.002
+          },
+          {
+            "word": "programme ",
+            "start": 7.013,
+            "end": 7.415
+          },
+          {
+            "word": "again. ",
+            "start": 7.426,
+            "end": 7.806
+          },
+          {
+            "word": "The ",
+            "start": 8.55,
+            "end": 8.68
+          },
+          {
+            "word": "Chiang ",
+            "start": 8.691,
+            "end": 8.963
+          },
+          {
+            "word": "Mai ",
+            "start": 8.973,
+            "end": 9.126
+          },
+          {
+            "word": "Initiative ",
+            "start": 9.136,
+            "end": 9.528
+          },
+          {
+            "word": "created ",
+            "start": 9.539,
+            "end": 9.93
+          },
+          {
+            "word": "a ",
+            "start": 9.941,
+            "end": 9.995
+          },
+          {
+            "word": "two-hundred-forty-billion-dollar ",
+            "start": 10.006,
+            "end": 11.31
+          },
+          {
+            "word": "regional ",
+            "start": 11.321,
+            "end": 11.713
+          },
+          {
+            "word": "swap ",
+            "start": 11.723,
+            "end": 11.995
+          },
+          {
+            "word": "network.",
+            "start": 12.006,
+            "end": 12.528
+          }
+        ],
+        "start": 1498
       },
       {
         "type": "quote",
         "chunk_id": "ep3_results_5",
         "audio_exists": true,
+        "audioPath": "episodes/ep3/audio/ep3_results_5.wav",
         "text": "And in 2012, the IMF formally revised its institutional view on capital controls, acknowledging that selective restrictions could be a legitimate policy tool under specific conditions.",
-        "duration": 352,
-        "bgImage": "bg_abstract.jpg",
-        "wordTimings": null,
-        "start": 2052
+        "duration": 311,
+        "bgImage": "bg_recovery.jpg",
+        "wordTimings": [
+          {
+            "word": "And ",
+            "start": 0.1,
+            "end": 0.263
+          },
+          {
+            "word": "in 2012, ",
+            "start": 0.273,
+            "end": 1.078
+          },
+          {
+            "word": "the ",
+            "start": 1.219,
+            "end": 1.349
+          },
+          {
+            "word": "IMF ",
+            "start": 1.36,
+            "end": 1.795
+          },
+          {
+            "word": "formally ",
+            "start": 1.806,
+            "end": 2.11
+          },
+          {
+            "word": "revised ",
+            "start": 2.121,
+            "end": 2.556
+          },
+          {
+            "word": "its ",
+            "start": 2.567,
+            "end": 2.676
+          },
+          {
+            "word": "institutional ",
+            "start": 2.686,
+            "end": 3.349
+          },
+          {
+            "word": "view ",
+            "start": 3.36,
+            "end": 3.621
+          },
+          {
+            "word": "on ",
+            "start": 3.632,
+            "end": 3.763
+          },
+          {
+            "word": "capital ",
+            "start": 3.773,
+            "end": 4.132
+          },
+          {
+            "word": "controls, ",
+            "start": 4.143,
+            "end": 4.697
+          },
+          {
+            "word": "acknowledging ",
+            "start": 4.882,
+            "end": 5.382
+          },
+          {
+            "word": "that ",
+            "start": 5.393,
+            "end": 5.523
+          },
+          {
+            "word": "selective ",
+            "start": 5.534,
+            "end": 5.926
+          },
+          {
+            "word": "restrictions ",
+            "start": 5.936,
+            "end": 6.469
+          },
+          {
+            "word": "could ",
+            "start": 6.48,
+            "end": 6.621
+          },
+          {
+            "word": "be ",
+            "start": 6.632,
+            "end": 6.73
+          },
+          {
+            "word": "a ",
+            "start": 6.741,
+            "end": 6.795
+          },
+          {
+            "word": "legitimate ",
+            "start": 6.806,
+            "end": 7.273
+          },
+          {
+            "word": "policy ",
+            "start": 7.284,
+            "end": 7.632
+          },
+          {
+            "word": "tool ",
+            "start": 7.643,
+            "end": 7.947
+          },
+          {
+            "word": "under ",
+            "start": 7.958,
+            "end": 8.132
+          },
+          {
+            "word": "specific ",
+            "start": 8.143,
+            "end": 8.589
+          },
+          {
+            "word": "conditions.",
+            "start": 8.6,
+            "end": 9.219
+          }
+        ],
+        "start": 1909
       },
       {
         "type": "quote",
         "chunk_id": "ep3_results_6",
         "audio_exists": true,
+        "audioPath": "episodes/ep3/audio/ep3_results_6.wav",
         "text": "The lesson that required twenty years to be officially acknowledged: capital flow liberalisation is not uniformly beneficial. Speed of liberalisation matters. Financial sector regulation must precede capital account opening.",
-        "duration": 417,
-        "bgImage": "bg_toxicology.jpg",
-        "wordTimings": null,
-        "start": 2404
+        "duration": 400,
+        "bgImage": "bg_global_map.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.219
+          },
+          {
+            "word": "lesson ",
+            "start": 0.23,
+            "end": 0.534
+          },
+          {
+            "word": "that ",
+            "start": 0.545,
+            "end": 0.676
+          },
+          {
+            "word": "required ",
+            "start": 0.686,
+            "end": 1.067
+          },
+          {
+            "word": "twenty ",
+            "start": 1.078,
+            "end": 1.328
+          },
+          {
+            "word": "years ",
+            "start": 1.339,
+            "end": 1.6
+          },
+          {
+            "word": "to ",
+            "start": 1.61,
+            "end": 1.676
+          },
+          {
+            "word": "be ",
+            "start": 1.686,
+            "end": 1.795
+          },
+          {
+            "word": "officially ",
+            "start": 1.806,
+            "end": 2.208
+          },
+          {
+            "word": "acknowledged: ",
+            "start": 2.219,
+            "end": 2.719
+          },
+          {
+            "word": "capital ",
+            "start": 2.893,
+            "end": 3.273
+          },
+          {
+            "word": "flow ",
+            "start": 3.284,
+            "end": 3.502
+          },
+          {
+            "word": "liberalisation ",
+            "start": 3.513,
+            "end": 4.295
+          },
+          {
+            "word": "is ",
+            "start": 4.306,
+            "end": 4.436
+          },
+          {
+            "word": "not ",
+            "start": 4.447,
+            "end": 4.665
+          },
+          {
+            "word": "uniformly ",
+            "start": 4.676,
+            "end": 5.219
+          },
+          {
+            "word": "beneficial. ",
+            "start": 5.23,
+            "end": 5.817
+          },
+          {
+            "word": "Speed ",
+            "start": 6.56,
+            "end": 6.908
+          },
+          {
+            "word": "of ",
+            "start": 6.919,
+            "end": 6.984
+          },
+          {
+            "word": "liberalisation ",
+            "start": 6.995,
+            "end": 7.734
+          },
+          {
+            "word": "matters. ",
+            "start": 7.745,
+            "end": 8.213
+          },
+          {
+            "word": "Financial ",
+            "start": 8.963,
+            "end": 9.506
+          },
+          {
+            "word": "sector ",
+            "start": 9.517,
+            "end": 9.832
+          },
+          {
+            "word": "regulation ",
+            "start": 9.843,
+            "end": 10.419
+          },
+          {
+            "word": "must ",
+            "start": 10.43,
+            "end": 10.647
+          },
+          {
+            "word": "precede ",
+            "start": 10.658,
+            "end": 11.006
+          },
+          {
+            "word": "capital ",
+            "start": 11.017,
+            "end": 11.365
+          },
+          {
+            "word": "account ",
+            "start": 11.376,
+            "end": 11.723
+          },
+          {
+            "word": "opening.",
+            "start": 11.734,
+            "end": 12.158
+          }
+        ],
+        "start": 2220
       },
       {
         "type": "quote",
         "chunk_id": "ep3_results_7",
         "audio_exists": true,
+        "audioPath": "episodes/ep3/audio/ep3_results_7.wav",
         "text": "The Washington Consensus prescription had been applied without its preconditions.",
-        "duration": 159,
-        "bgImage": "bg_lifestyle.jpg",
-        "wordTimings": null,
-        "start": 2821
+        "duration": 141,
+        "bgImage": "bg_interest_chart.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.23
+          },
+          {
+            "word": "Washington ",
+            "start": 0.241,
+            "end": 0.665
+          },
+          {
+            "word": "Consensus ",
+            "start": 0.676,
+            "end": 1.176
+          },
+          {
+            "word": "prescription ",
+            "start": 1.186,
+            "end": 1.697
+          },
+          {
+            "word": "had ",
+            "start": 1.708,
+            "end": 1.828
+          },
+          {
+            "word": "been ",
+            "start": 1.839,
+            "end": 1.936
+          },
+          {
+            "word": "applied ",
+            "start": 1.947,
+            "end": 2.273
+          },
+          {
+            "word": "without ",
+            "start": 2.284,
+            "end": 2.589
+          },
+          {
+            "word": "its ",
+            "start": 2.6,
+            "end": 2.708
+          },
+          {
+            "word": "preconditions.",
+            "start": 2.719,
+            "end": 3.523
+          }
+        ],
+        "start": 2620
+      },
+      {
+        "type": "quote",
+        "chunk_id": "ep3_results_8",
+        "audio_exists": true,
+        "audioPath": "episodes/ep3/audio/ep3_results_8.wav",
+        "text": "The Asian crisis played out on a faster timescale than the Japanese Lost Decade (Episode 9), but its resolution required the same brutal adjustment — with the costs concentrated in countries that had less institutional capacity to absorb them. Speed was not the same as severity.",
+        "duration": 441,
+        "bgImage": "bg_asia_skyline.jpg",
+        "wordTimings": [
+          {
+            "word": "The ",
+            "start": 0.1,
+            "end": 0.263
+          },
+          {
+            "word": "Asian ",
+            "start": 0.273,
+            "end": 0.556
+          },
+          {
+            "word": "crisis ",
+            "start": 0.567,
+            "end": 0.947
+          },
+          {
+            "word": "played ",
+            "start": 0.958,
+            "end": 1.176
+          },
+          {
+            "word": "out ",
+            "start": 1.186,
+            "end": 1.382
+          },
+          {
+            "word": "on ",
+            "start": 1.393,
+            "end": 1.469
+          },
+          {
+            "word": "a ",
+            "start": 1.48,
+            "end": 1.513
+          },
+          {
+            "word": "faster ",
+            "start": 1.523,
+            "end": 1.882
+          },
+          {
+            "word": "timescale ",
+            "start": 1.893,
+            "end": 2.393
+          },
+          {
+            "word": "than ",
+            "start": 2.404,
+            "end": 2.513
+          },
+          {
+            "word": "the ",
+            "start": 2.523,
+            "end": 2.599
+          },
+          {
+            "word": "Japanese ",
+            "start": 2.61,
+            "end": 3.078
+          },
+          {
+            "word": "Lost ",
+            "start": 3.089,
+            "end": 3.339
+          },
+          {
+            "word": "Decade (",
+            "start": 3.35,
+            "end": 3.686
+          },
+          {
+            "word": "Episode ",
+            "start": 3.871,
+            "end": 4.208
+          },
+          {
+            "word": "9), ",
+            "start": 4.219,
+            "end": 4.556
+          },
+          {
+            "word": "but ",
+            "start": 4.676,
+            "end": 4.773
+          },
+          {
+            "word": "its ",
+            "start": 4.784,
+            "end": 4.893
+          },
+          {
+            "word": "resolution ",
+            "start": 4.904,
+            "end": 5.436
+          },
+          {
+            "word": "required ",
+            "start": 5.447,
+            "end": 5.828
+          },
+          {
+            "word": "the ",
+            "start": 5.839,
+            "end": 5.904
+          },
+          {
+            "word": "same ",
+            "start": 5.915,
+            "end": 6.176
+          },
+          {
+            "word": "brutal ",
+            "start": 6.186,
+            "end": 6.491
+          },
+          {
+            "word": "adjustment — ",
+            "start": 6.502,
+            "end": 6.98
+          },
+          {
+            "word": "with ",
+            "start": 7.165,
+            "end": 7.263
+          },
+          {
+            "word": "the ",
+            "start": 7.273,
+            "end": 7.339
+          },
+          {
+            "word": "costs ",
+            "start": 7.35,
+            "end": 7.697
+          },
+          {
+            "word": "concentrated ",
+            "start": 7.708,
+            "end": 8.306
+          },
+          {
+            "word": "in ",
+            "start": 8.317,
+            "end": 8.404
+          },
+          {
+            "word": "countries ",
+            "start": 8.415,
+            "end": 8.817
+          },
+          {
+            "word": "that ",
+            "start": 8.828,
+            "end": 8.926
+          },
+          {
+            "word": "had ",
+            "start": 8.936,
+            "end": 9.067
+          },
+          {
+            "word": "less ",
+            "start": 9.078,
+            "end": 9.306
+          },
+          {
+            "word": "institutional ",
+            "start": 9.317,
+            "end": 9.947
+          },
+          {
+            "word": "capacity ",
+            "start": 9.958,
+            "end": 10.436
+          },
+          {
+            "word": "to ",
+            "start": 10.447,
+            "end": 10.556
+          },
+          {
+            "word": "absorb ",
+            "start": 10.567,
+            "end": 10.893
+          },
+          {
+            "word": "them. ",
+            "start": 10.904,
+            "end": 11.143
+          },
+          {
+            "word": "Speed ",
+            "start": 11.886,
+            "end": 12.245
+          },
+          {
+            "word": "was ",
+            "start": 12.256,
+            "end": 12.397
+          },
+          {
+            "word": "not ",
+            "start": 12.408,
+            "end": 12.582
+          },
+          {
+            "word": "the ",
+            "start": 12.593,
+            "end": 12.658
+          },
+          {
+            "word": "same ",
+            "start": 12.669,
+            "end": 12.93
+          },
+          {
+            "word": "as ",
+            "start": 12.941,
+            "end": 13.017
+          },
+          {
+            "word": "severity.",
+            "start": 13.028,
+            "end": 13.528
+          }
+        ],
+        "start": 2761
       }
     ]
   },
   {
     "id": "credits",
     "title": "Credits",
-    "globalStart": 12594,
-    "duration": 1375,
+    "globalStart": 11093,
+    "duration": 440,
     "subSlides": [
       {
         "type": "credits",
         "start": 0,
-        "duration": 1375,
+        "duration": 440,
         "audioSrc": "audio/outro_narration.wav"
       }
     ]
